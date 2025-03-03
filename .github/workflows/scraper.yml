@@ -1,32 +1,38 @@
-name: Scrape Daily Readings
+name: Daily Catholic Readings Scraper
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual runs
+    - cron: "0 3 * * *" # Runs every day at 03:00 UTC (adjust as needed)
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  scrape:
+  scrape_readings:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v3
+      - name: Set Up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.9"
+          python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Run scraper
-        run: python scraper.py
-
-      - name: Commit and push changes
+      - name: Install Dependencies
         run: |
-          git config --global user.name "kimanthigregory"
-          git config --global user.email "gregorykimanthi100@gmail.com"
+          pip install selenium beautifulsoup4
+          sudo apt-get install -y chromium-chromedriver
+          echo 'CHROMEDRIVER_PATH="/usr/bin/chromedriver"' >> $GITHUB_ENV
+          echo 'GOOGLE_CHROME_BIN="/usr/bin/google-chrome"' >> $GITHUB_ENV
+
+      - name: Run Scraper
+        run: python scrape.py # Ensure your scraper script is named `scrape.py`
+
+      - name: Commit and Push Updated Readings
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add readings.json
-          git commit -m "Update daily readings" || echo "No changes to commit"
+          git commit -m "Updated daily readings"
           git push
+        continue-on-error: true # Prevent failures if no changes were made
