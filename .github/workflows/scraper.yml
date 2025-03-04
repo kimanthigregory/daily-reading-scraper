@@ -2,7 +2,7 @@ name: Daily Catholic Readings Scraper
 
 on:
   schedule:
-    - cron: "30 21 * * *" # Runs every day at 12:30 AM EAT (9:30 PM UTC)
+    - cron: "02 22 * * *" # Runs every day at 12:30 AM EAT (9:30 PM UTC)
   workflow_dispatch: # Allows manual triggering
 
 jobs:
