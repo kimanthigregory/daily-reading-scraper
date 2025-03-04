@@ -2,7 +2,7 @@ name: Daily Catholic Readings Scraper
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Runs every day at 03:00 UTC (adjust as needed)
+    - cron: "5 21 * * *" # Runs every day at 03:00 UTC
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -19,20 +19,16 @@ jobs:
           python-version: "3.12"
 
       - name: Install Dependencies
-        run: |
-          pip install selenium beautifulsoup4
-          sudo apt-get install -y chromium-chromedriver
-          echo 'CHROMEDRIVER_PATH="/usr/bin/chromedriver"' >> $GITHUB_ENV
-          echo 'GOOGLE_CHROME_BIN="/usr/bin/google-chrome"' >> $GITHUB_ENV
+        run: pip install selenium beautifulsoup4
 
-      - name: Run Scrapper
-        run: python scrapper.py # Ensure your scraper script is named `scrape.py`
+      - name: Run Scraper
+        run: python scrapper.py
 
       - name: Commit and Push Updated Readings
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add readings.json
-          git commit -m "Updated daily readings"
-          git push
-        continue-on-error: true # Prevent failures if no changes were made
+          git diff --cached --quiet || (git commit -m "Updated daily readings" && git push)
