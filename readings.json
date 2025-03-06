@@ -26,5 +26,37 @@
             "title": "Holy Gospel of Jesus Christ according to Saint Mark10,28-31.",
             "reading": "Peter began to say to Jesus, \"We have given up everything and followed you.\"\nJesus said, \"Amen, I say to you, there is no one who has given up house or brothers or sisters or mother or father or children or lands for my sake and for the sake of the gospel\nwho will not receive a hundred times more now in this present age: houses and brothers and sisters and mothers and children and lands, with persecutions, and eternal life in the age to come.\"\nBut many that are first will be last, and (the) last will be first.\""
         }
+    },
+    "2025-03-05": {
+        "First_Reading": {
+            "title": "Book of Joel2,12-18.",
+            "reading": "Even now, says the LORD, return to me with your whole heart, with fasting, and weeping, and mourning;\nRend your hearts, not your garments, and return to the LORD, your God. For gracious and merciful is he, slow to anger, rich in kindness, and relenting in punishment.\nPerhaps he will again relent and leave behind him a blessing, Offerings and libations for the LORD, your God.\nBlow the trumpet in Zion! proclaim a fast, call an assembly;\nGather the people, notify the congregation; Assemble the elders, gather the children and the infants at the breast; Let the bridegroom quit his room, and the bride her chamber.\nBetween the porch and the altar let the priests, the ministers of the LORD, weep, And say, \"Spare, O LORD, your people, and make not your heritage a reproach, with the nations ruling over them! Why should they say among the peoples, 'Where is their God?'\"\nThen the LORD was stirred to concern for his land and took pity on his people."
+        },
+        "Psalm": {
+            "title": "Psalms51(50),3-4.5-6ab.12-13.14.17.",
+            "reading": "Have mercy on me, O God, in your goodness;in the greatness of your compassion wipe out my offense.\nThoroughly wash me from my guiltand of my sin cleanse me.\nFor I acknowledge my offense,and my sin is before me always:\n\"Against you only have I sinned,\nand done what is evil in your sight.\"\nA clean heart create for me, O God,and a steadfast spirit renew within me.\nCast me not out from your presence,and your Holy Spirit take not from me.\nGive me back the joy of your salvation,and a willing spirit sustain in me.\nO Lord, open my lips,and my mouth shall proclaim your praise."
+        },
+        "Second_Reading": {
+            "title": "Second Letter to the Corinthians5,20-21.6,1-2.",
+            "reading": "Brothers and sisters: We are ambassadors for Christ, as if God were appealing through us. We implore you on behalf of Christ, be reconciled to God.\nFor our sake he made him to be sin who did not know sin, so that we might become the righteousness of God in him.\nWorking together, then, we appeal to you not to receive the grace of God in vain.\nFor he says: \"In an acceptable time I heard you, and on the day of salvation I helped you.\" Behold, now is a very acceptable time; behold, now is the day of salvation."
+        },
+        "Gospel": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Matthew6,1-6.16-18.",
+            "reading": "Jesus said to his disciples: \"Take care not to perform righteous deeds in order that people may see them; otherwise, you will have no recompense from your heavenly Father.\nWhen you give alms, do not blow a trumpet before you, as the hypocrites do in the synagogues and in the streets to win the praise of others. Amen, I say to you, they have received their reward.\nBut when you give alms, do not let your left hand know what your right is doing,\nso that your almsgiving may be secret. And your Father who sees in secret will repay you.\nWhen you pray, do not be like the hypocrites, who love to stand and pray in the synagogues and on street corners so that others may see them. Amen, I say to you, they have received their reward.\nBut when you pray, go to your inner room, close the door, and pray to your Father in secret. And your Father who sees in secret will repay you.\nWhen you fast, do not look gloomy like the hypocrites. They neglect their appearance, so that they may appear to others to be fasting. Amen, I say to you, they have received their reward.\nBut when you fast, anoint your head and wash your face,\nso that you may not appear to be fasting, except to your Father who is hidden. And your Father who sees what is hidden will repay you.\""
+        }
+    },
+    "2025-03-06": {
+        "First_Reading": {
+            "title": "Book of Deuteronomy30,15-20.",
+            "reading": "Moses said to the people: \"Today I have set before you life and prosperity, death and doom.\nIf you obey the commandments of the LORD, your God, which I enjoin on you today, loving him, and walking in his ways, and keeping his commandments, statutes and decrees, you will live and grow numerous, and the LORD, your God, will bless you in the land you are entering to occupy.\nIf, however, you turn away your hearts and will not listen, but are led astray and adore and serve other gods,\nI tell you now that you will certainly perish; you will not have a long life on the land which you are crossing the Jordan to enter and occupy.\nI call heaven and earth today to witness against you: I have set before you life and death, the blessing and the curse. Choose life, then, that you and your descendants may live,\nby loving the LORD, your God, heeding his voice, and holding fast to him. For that will mean life for you, a long life for you to live on the land which the LORD swore he would give to your fathers Abraham, Isaac and Jacob.\""
+        },
+        "Psalm": {
+            "title": "Psalms1,1-2.3.4.6.",
+            "reading": "Blessed the man who follows notthe counsel of the wickedNor walks in the way of sinners,nor sits in the company of the insolent,\nBut delights in the law of the LORDand meditates on his law day and night.\nHe is like a treeplanted near running water,that yields its fruit in due season,and whose leaves never fade.Whatever he does, prospers.\nNot so, the wicked, not so;they are like chaff which the wind drives away.\nFor the LORD watches over the way of the just,but the way of the wicked vanishes."
+        },
+        "Second_Reading": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Luke9,22-25.",
+            "reading": "Jesus said to his disciples: \"The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\"\nThen he said to all, \"If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me.\nFor whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it.\nWhat profit is there for one to gain the whole world yet lose or forfeit himself?\""
+        }
     }
 }
