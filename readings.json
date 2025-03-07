@@ -58,5 +58,19 @@
             "title": "Holy Gospel of Jesus Christ according to Saint Luke9,22-25.",
             "reading": "Jesus said to his disciples: \"The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\"\nThen he said to all, \"If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me.\nFor whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it.\nWhat profit is there for one to gain the whole world yet lose or forfeit himself?\""
         }
+    },
+    "2025-03-07": {
+        "First_Reading": {
+            "title": "Book of Isaiah58,1-9a.",
+            "reading": "Thus says the Lord GOD: Cry out full-throated and unsparingly, lift up your voice like a trumpet blast;  Tell my people their wickedness, and the house of Jacob their sins.\nThey seek me day after day, and desire to know my ways, Like a nation that has done what is just and not abandoned the law of their God; They ask me to declare what is due them, pleased to gain access to God.\n\"Why do we fast, and you do not see it? afflict ourselves, and you take no note of it?\" Lo, on your fast day you carry out your own pursuits, and drive all your laborers.\nYes, your fast ends in quarreling and fighting, striking with wicked claw. Would that today you might fast so as to make your voice heard on high!\nIs this the manner of fasting I wish, of keeping a day of penance: That a man bow his head like a reed, and lie in sackcloth and ashes? Do you call this a fast, a day acceptable to the LORD?\nThis, rather, is the fasting that I wish: releasing those bound unjustly, untying the thongs of the yoke; Setting free the oppressed, breaking every yoke;\nSharing your bread with the hungry, sheltering the oppressed and the homeless; Clothing the naked when you see them, and not turning your back on your own.\nThen your light shall break forth like the dawn, and your wound shall quickly be healed; Your vindication shall go before you, and the glory of the LORD shall be your rear guard.\nThen you shall call, and the LORD will answer, you shall cry for help, and he will say: Here I am!"
+        },
+        "Psalm": {
+            "title": "Psalms51(50),3-4.5-6ab.18-19.",
+            "reading": "Have mercy on me, O God, in your goodness;in the greatness of your compassion wipe out my offense.\nThoroughly wash me from my guiltand of my sin cleanse me.\nFor I acknowledge my offense,and my sin is before me always:\n\"Against you only have I sinned,\nand done what is evil in your sight.\"\nFor you are not pleased with sacrifices;should I offer a burnt offering, you would not accept it.\nMy sacrifice, O God, is a contrite spirit;a heart contrite and humbled, O God, you will not spurn."
+        },
+        "Second_Reading": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Matthew9,14-15.",
+            "reading": "The disciples of John approached Jesus and said, \"Why do we and the Pharisees fast much, but your disciples do not fast?\"\nJesus answered them, \"Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast.\""
+        }
     }
 }
