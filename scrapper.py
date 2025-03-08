@@ -11,10 +11,9 @@ from bs4 import BeautifulSoup
 JSON_FILE = "readings.json"
 
 # Email settings
-EMAIL_SENDER = "gregteckie@gmail.com"  # Change to your email
-EMAIL_PASSWORD = "yvrq kalu lmdd uade"  # Use an App Password if using Gmail
-EMAIL_RECEIVER = "jcomputercollege@gmail.com"  # Change to where you want alerts sent
-
+EMAIL_SENDER = "gregteckie@gmail.com"  
+EMAIL_PASSWORD = "yvrq kalu lmdd uade" 
+EMAIL_RECEIVER = "jcomputercollege@gmail.com"  
 # Function to send an email alert
 def send_email(subject, message):
     try:
