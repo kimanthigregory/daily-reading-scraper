@@ -58,5 +58,33 @@
             "title": "Holy Gospel of Jesus Christ according to Saint Luke9,22-25.",
             "reading": "Jesus said to his disciples: \"The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\"\nThen he said to all, \"If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me.\nFor whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it.\nWhat profit is there for one to gain the whole world yet lose or forfeit himself?\""
         }
+    },
+    "2025-03-07": {
+        "First_Reading": {
+            "title": "Book of Isaiah58,1-9a.",
+            "reading": "Thus says the Lord GOD: Cry out full-throated and unsparingly, lift up your voice like a trumpet blast;  Tell my people their wickedness, and the house of Jacob their sins.\nThey seek me day after day, and desire to know my ways, Like a nation that has done what is just and not abandoned the law of their God; They ask me to declare what is due them, pleased to gain access to God.\n\"Why do we fast, and you do not see it? afflict ourselves, and you take no note of it?\" Lo, on your fast day you carry out your own pursuits, and drive all your laborers.\nYes, your fast ends in quarreling and fighting, striking with wicked claw. Would that today you might fast so as to make your voice heard on high!\nIs this the manner of fasting I wish, of keeping a day of penance: That a man bow his head like a reed, and lie in sackcloth and ashes? Do you call this a fast, a day acceptable to the LORD?\nThis, rather, is the fasting that I wish: releasing those bound unjustly, untying the thongs of the yoke; Setting free the oppressed, breaking every yoke;\nSharing your bread with the hungry, sheltering the oppressed and the homeless; Clothing the naked when you see them, and not turning your back on your own.\nThen your light shall break forth like the dawn, and your wound shall quickly be healed; Your vindication shall go before you, and the glory of the LORD shall be your rear guard.\nThen you shall call, and the LORD will answer, you shall cry for help, and he will say: Here I am!"
+        },
+        "Psalm": {
+            "title": "Psalms51(50),3-4.5-6ab.18-19.",
+            "reading": "Have mercy on me, O God, in your goodness;in the greatness of your compassion wipe out my offense.\nThoroughly wash me from my guiltand of my sin cleanse me.\nFor I acknowledge my offense,and my sin is before me always:\n\"Against you only have I sinned,\nand done what is evil in your sight.\"\nFor you are not pleased with sacrifices;should I offer a burnt offering, you would not accept it.\nMy sacrifice, O God, is a contrite spirit;a heart contrite and humbled, O God, you will not spurn."
+        },
+        "Second_Reading": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Matthew9,14-15.",
+            "reading": "The disciples of John approached Jesus and said, \"Why do we and the Pharisees fast much, but your disciples do not fast?\"\nJesus answered them, \"Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast.\""
+        }
+    },
+    "2025-03-08": {
+        "First_Reading": {
+            "title": "Book of Isaiah58,9b-14.",
+            "reading": "Thus says the LORD: If you remove from your midst oppression, false accusation and malicious speech;\nIf you bestow your bread on the hungry and satisfy the afflicted; Then light shall rise for you in the darkness, and the gloom shall become for you like midday.\nThen the LORD will guide you always and give you plenty even on the parched land. He will renew your strength, and you shall be like a watered garden, like a spring whose water never fails.\nThe ancient ruins shall be rebuilt for your sake, and the foundations from ages past you shall raise up; \"Repairer of the breach,\" they shall call you, \"Restorer of ruined homesteads.\"\nIf you hold back your foot on the sabbath from following your own pursuits on my holy day; If you call the sabbath a delight, and the LORD'S holy day honorable; If you honor it by not following your ways, seeking your own interests, or speaking with malice--\nThen you shall delight in the LORD, and I will make you ride on the heights of the earth; I will nourish you with the heritage of Jacob, your father, for the mouth of the LORD has spoken."
+        },
+        "Psalm": {
+            "title": "Psalms86(85),1-2.3-4.5-6.",
+            "reading": "Incline your ear, O LORD; answer me,for I am afflicted and poor.\nKeep my life, for I am devoted to you;save your servant who trusts in you.\nYou are my God.Have mercy on me, O Lord,for to you I call all the day.\nGladden the soul of your servant,for to you, O Lord, I lift up my soul.\nFor you, O Lord, are good and forgiving,abounding in kindness to all who call upon you.\nHearken, O LORD, to my prayerand attend to the sound of my pleading."
+        },
+        "Second_Reading": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Luke5,27-32.",
+            "reading": "Jesus saw a tax collector named Levi sitting at the customs post. He said to him, \"Follow me.\"\nAnd leaving everything behind, he got up and followed him.\nThen Levi gave a great banquet for him in his house, and a large crowd of tax collectors and others were at table with them.\nThe Pharisees and their scribes complained to his disciples, saying, \"Why do you eat and drink with tax collectors and sinners?\"\nJesus said to them in reply, \"Those who are healthy do not need a physician, but the sick do.\nI have not come to call the righteous to repentance but sinners.\""
+        }
     }
 }
