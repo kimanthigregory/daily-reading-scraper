@@ -72,5 +72,19 @@
             "title": "Holy Gospel of Jesus Christ according to Saint Matthew9,14-15.",
             "reading": "The disciples of John approached Jesus and said, \"Why do we and the Pharisees fast much, but your disciples do not fast?\"\nJesus answered them, \"Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast.\""
         }
+    },
+    "2025-03-08": {
+        "First_Reading": {
+            "title": "Book of Isaiah58,9b-14.",
+            "reading": "Thus says the LORD: If you remove from your midst oppression, false accusation and malicious speech;\nIf you bestow your bread on the hungry and satisfy the afflicted; Then light shall rise for you in the darkness, and the gloom shall become for you like midday.\nThen the LORD will guide you always and give you plenty even on the parched land. He will renew your strength, and you shall be like a watered garden, like a spring whose water never fails.\nThe ancient ruins shall be rebuilt for your sake, and the foundations from ages past you shall raise up; \"Repairer of the breach,\" they shall call you, \"Restorer of ruined homesteads.\"\nIf you hold back your foot on the sabbath from following your own pursuits on my holy day; If you call the sabbath a delight, and the LORD'S holy day honorable; If you honor it by not following your ways, seeking your own interests, or speaking with malice--\nThen you shall delight in the LORD, and I will make you ride on the heights of the earth; I will nourish you with the heritage of Jacob, your father, for the mouth of the LORD has spoken."
+        },
+        "Psalm": {
+            "title": "Psalms86(85),1-2.3-4.5-6.",
+            "reading": "Incline your ear, O LORD; answer me,for I am afflicted and poor.\nKeep my life, for I am devoted to you;save your servant who trusts in you.\nYou are my God.Have mercy on me, O Lord,for to you I call all the day.\nGladden the soul of your servant,for to you, O Lord, I lift up my soul.\nFor you, O Lord, are good and forgiving,abounding in kindness to all who call upon you.\nHearken, O LORD, to my prayerand attend to the sound of my pleading."
+        },
+        "Second_Reading": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Luke5,27-32.",
+            "reading": "Jesus saw a tax collector named Levi sitting at the customs post. He said to him, \"Follow me.\"\nAnd leaving everything behind, he got up and followed him.\nThen Levi gave a great banquet for him in his house, and a large crowd of tax collectors and others were at table with them.\nThe Pharisees and their scribes complained to his disciples, saying, \"Why do you eat and drink with tax collectors and sinners?\"\nJesus said to them in reply, \"Those who are healthy do not need a physician, but the sick do.\nI have not come to call the righteous to repentance but sinners.\""
+        }
     }
 }
