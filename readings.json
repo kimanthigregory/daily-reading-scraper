@@ -132,5 +132,19 @@
             "title": "Holy Gospel of Jesus Christ according to Saint Matthew6,7-15.",
             "reading": "Jesus said to his disciples:\"In praying, do not babble like the pagans, who think that they will be heard because of their many words.\nDo not be like them. Your Father knows what you need before you ask him.\nThis is how you are to pray: Our Father in heaven, hallowed be your name,\nyour kingdom come, your will be done, on earth as in heaven.\nGive us today our daily bread;\nand forgive us our debts, as we forgive our debtors;\nand do not subject us to the final test, but deliver us from the evil one.\nIf you forgive others their transgressions, your heavenly Father will forgive you.\nBut if you do not forgive others, neither will your Father forgive your transgressions.\""
         }
+    },
+    "2025-03-12": {
+        "First_Reading": {
+            "title": "Book of Jonah3,1-10.",
+            "reading": "The word of the LORD came to Jonah a second time:\n\"Set out for the great city of Nineveh, and announce to it the message that I will tell you.\"\nSo Jonah made ready and went to Nineveh, according to the LORD'S bidding. Now Nineveh was an enormously large city; it took three days to go through it.\nJonah began his journey through the city, and had gone but a single day's walk announcing, \"Forty days more and Nineveh shall be destroyed,\"\nwhen the people of Nineveh believed God; they proclaimed a fast and all of them, great and small, put on sackcloth.\nWhen the news reached the king of Nineveh, he rose from his throne, laid aside his robe, covered himself with sackcloth, and sat in the ashes.\nThen he had this proclaimed throughout Nineveh, by decree of the king and his nobles: \"Neither man nor beast, neither cattle nor sheep, shall taste anything; they shall not eat, nor shall they drink water.\nMan and beast shall be covered with sackcloth and call loudly to God; every man shall turn from his evil way and from the violence he has in hand.\nWho knows, God may relent and forgive, and withhold his blazing wrath, so that we shall not perish.\"\nWhen God saw by their actions how they turned from their evil way, he repented of the evil that he had threatened to do to them; he did not carry it out."
+        },
+        "Psalm": {
+            "title": "Psalms51(50),3-4.12-13.18-19.",
+            "reading": "Have mercy on me, O God, in your goodness;in the greatness of your compassion wipe out my offense.\nThoroughly wash me from my guiltand of my sin cleanse me.\nA clean heart create for me, O God,and a steadfast spirit renew within me.\nCast me not out from your presence,and your Holy Spirit take not from me.\nFor you are not pleased with sacrifices;should I offer a burnt offering, you would not accept it.\nMy sacrifice, O God, is a contrite spirit;a heart contrite and humbled, O God, you will not spurn."
+        },
+        "Second_Reading": {
+            "title": "Holy Gospel of Jesus Christ according to Saint Luke11,29-32.",
+            "reading": "While still more people gathered in the crowd, Jesus said to them, \"This generation is an evil generation; it seeks a sign, but no sign will be given it, except the sign of Jonah.\nJust as Jonah became a sign to the Ninevites, so will the Son of Man be to this generation.\nAt the judgment the queen of the south will rise with the men of this generation and she will condemn them, because she came from the ends of the earth to hear the wisdom of Solomon, and there is something greater than Solomon here.\nAt the judgment the men of Nineveh will arise with this generation and condemn it, because at the preaching of Jonah they repented, and there is something greater than Jonah here.\""
+        }
     }
 }
