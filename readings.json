@@ -154,5 +154,27 @@
             "title": "Priest (1872-1940)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b92e0414-ede2-4403-875d-7cb72c81cf7e"
         }
+    },
+    "2025-03-13": {
+        "liturgical_week": "Thursday of the First week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Esther4,17n.17pqr.17aa.17bb.17gg.17hh.",
+                "reading": "Queen Esther, seized with mortal anguish,had recourse to the LORD.\nShe lay prostrate upon the ground, together with her handmaids,from morning until evening, and said:\n\"God of Abraham, God of Isaac, and God of Jacob, blessed are you.Help me, who am alone and have no help but you,\nfor I am taking my life in my hand.\nAs a child I used to hear from the books of my forefathersthat you, O LORD, always free those who are pleasing to you.\nNow help me, who am alone and have no one but you,O LORD, my God.\n\"And now, come to help me, an orphan.Put in my mouth persuasive words in the presence of the lionand turn his heart to hatred for our enemy,so that he and those who are in league with him may perish.\nSave us from the hand of our enemies;turn our mourning into gladnessand our sorrows into wholeness.\""
+            },
+            "Psalm": {
+                "title": "Psalms138(137),1-2ab.2cde-3.7c-8.",
+                "reading": "I will give thanks to you, O LORD, with all my heart,for you have heard the words of my mouth;in the presence of the angels I will sing your praise;\nI will worship at your holy temple.\nI will give thanks to your name,\nbecause of your kindness and your truth.\nfor you have made great above all things\nyour name and your promise.\nWhen I called, you answered me;you built up strength within me.\nYour right hand saves me.\nThe LORD will complete what he has done for me;your kindness, O LORD, endures forever;forsake not the work of your hands."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew7,7-12.",
+                "reading": "Jesus said to his disciples: \"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.\nFor everyone who asks, receives; and the one who seeks, finds; and to the one who knocks, the door will be opened.\nWhich one of you would hand his son a stone when he asks for a loaf of bread,\nor a snake when he asks for a fish?\nIf you then, who are wicked, know how to give good gifts to your children, how much more will your heavenly Father give good things to those who ask him.\nDo to others whatever you would have them do to you. This is the law and the prophets.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Euphrasia",
+            "title": "Virgin and Martyr (+ 303)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/964fee0e-a36e-4d30-b771-108d02f7a457"
+        }
     }
 }
