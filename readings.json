@@ -176,5 +176,27 @@
             "title": "Virgin and Martyr (+ 303)",
             "profile_link": "https://dailygospel.org/AM/display-saint/964fee0e-a36e-4d30-b771-108d02f7a457"
         }
+    },
+    "2025-03-14": {
+        "liturgical_week": "Friday of the First week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezekiel18,21-28.",
+                "reading": "Thus says the Lord GOD: If the wicked man turns away from all the sins he committed,  if he keeps all my statutes and does what is right and just, he shall surely live, he shall not die.\nNone of the crimes he committed shall be remembered against him; he shall live because of the virtue he has practiced.\nDo I indeed derive any pleasure from the death of the wicked? says the Lord GOD. Do I not rather rejoice when he turns from his evil way that he may live?\nAnd if the virtuous man turns from the path of virtue to do evil, the same kind of abominable things that the wicked man does, can he do this and still live? None of his virtuous deeds shall be remembered, because he has broken faith and committed sin; because of this, he shall die.\nYou say, \"The LORD'S way is not fair!\" Hear now, house of Israel: Is it my way that is unfair, or rather, are not your ways unfair?\nWhen a virtuous man turns away from virtue to commit iniquity, and dies, it is because of the iniquity he committed that he must die.\nBut if a wicked man, turning from the wickedness he has committed, does what is right and just, he shall preserve his life;\nsince he has turned away from all the sins which he committed, he shall surely live, he shall not die."
+            },
+            "Psalm": {
+                "title": "Psalms130(129),1-2.3-4.5-7a.7bc-8.",
+                "reading": "Out of the depths I cry to you, O LORD\nLORD, hear my voice!Let your ears be attentiveto my voice in supplication.\nIf you, O LORD, mark iniquities,LORD, who can stand?\nBut with you is forgiveness,that you may be revered.\nI trust in the LORD;my soul trusts in his word.\nMy soul waits for the Lordmore than sentinels for dawn.\nLet Israel wait for the LORD.\nFor with the LORD is kindness\nand with him is plenteous redemption;\nand he will redeem Israelfrom all their iniquities."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,20-26.",
+                "reading": "Jesus said to his disciples:  \"I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will not enter into the Kingdom of heaven.\nYou have heard that it was said to your ancestors, 'You shall not kill; and whoever kills will be liable to judgment.'\nBut I say to you, whoever is angry with his brother will be liable to judgment, and whoever says to his brother, 'Raqa,' will be answerable to the Sanhedrin, and whoever says, 'You fool,' will be liable to fiery Gehenna.\nTherefore, if you bring your gift to the altar, and there recall that your brother has anything against you,\nleave your gift there at the altar, go first and be reconciled with your brother, and then come and offer your gift.\nSettle with your opponent quickly while on the way to court with him. Otherwise your opponent will hand you over to the judge, and the judge will hand you over to the guard, and you will be thrown into prison.\nAmen, I say to you, you will not be released until you have paid the last penny.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Matilde",
+            "title": "Queen (c. 875-968)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d9ad0fb5-8bb7-4c4a-8d81-5f3e49f98e6e"
+        }
     }
 }
