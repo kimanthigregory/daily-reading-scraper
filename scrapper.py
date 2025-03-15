@@ -30,7 +30,7 @@ def send_email(subject, message):
             server.login(EMAIL_SENDER, EMAIL_PASSWORD)
             server.sendmail(EMAIL_SENDER, EMAIL_RECEIVER, msg.as_string())
 
-        print("📧 Alert sent successfully!")
+        print("📧 email Alert sent successfully!")
     except Exception as e:
         print(f"❌ Failed to send email alert: {e}")
 
