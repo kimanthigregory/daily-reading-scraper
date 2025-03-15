@@ -198,5 +198,27 @@
             "title": "Queen (c. 875-968)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d9ad0fb5-8bb7-4c4a-8d81-5f3e49f98e6e"
         }
+    },
+    "2025-03-15": {
+        "liturgical_week": "Saturday of the First week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Deuteronomy26,16-19.",
+                "reading": "Moses spoke to the people, saying: \"This day the LORD, your God, commands you to observe these statutes and decrees. Be careful, then, to observe them with all your heart and with all your soul.\nToday you are making this agreement with the LORD: he is to be your God and you are to walk in his ways and observe his statutes, commandments and decrees, and to hearken to his voice.\nAnd today the LORD is making this agreement with you: you are to be a people peculiarly his own, as he promised you; and provided you keep all his commandments,\nhe will then raise you high in praise and renown and glory above all other nations he has made, and you will be a people sacred to the LORD, your God, as he promised.\""
+            },
+            "Psalm": {
+                "title": "Psalms119(118),1-2.4-5.7-8.",
+                "reading": "Blessed are they whose way is blameless,who walk in the law of the LORD.\nBlessed are they who observe his decrees,Who seek him with all their heart.\nYou have commanded that your preceptsbe diligently kept.\nOh, that I might be firm in the waysof keeping your statutes!\nI will give you thanks with an upright heart,when I have learned your just ordinances.\nI will keep your statutes;do not utterly forsake me."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,43-48.",
+                "reading": "Jesus said to his disciples: \"You have heard that it was said, You shall love your neighbor and hate your enemy.\nBut I say to you, love your enemies, and pray for those who persecute you,\nthat you may be children of your heavenly Father, for he makes his sun rise on the bad and the good, and causes rain to fall on the just and the unjust.\nFor if you love those who love you, what recompense will you have? Do not the tax collectors do the same?\nAnd if you greet your brothers only, what is unusual about that? Do not the pagans do the same?\nSo be perfect, just as your heavenly Father is perfect.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Zachary",
+            "title": "Pope (+ 752)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2e95e4f1-e4b2-4944-a517-43990a8fb9e1"
+        }
     }
 }
