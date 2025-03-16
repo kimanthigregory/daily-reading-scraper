@@ -10,7 +10,6 @@ import smtplib
 from email.mime.text import MIMEText
 from datetime import datetime
 
-# File path for storing readings
 JSON_FILE = "readings.json"
 
 # Email settings
