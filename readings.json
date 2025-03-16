@@ -220,5 +220,31 @@
             "title": "Pope (+ 752)",
             "profile_link": "https://dailygospel.org/AM/display-saint/2e95e4f1-e4b2-4944-a517-43990a8fb9e1"
         }
+    },
+    "2025-03-16": {
+        "liturgical_week": "Second Sunday of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Genesis15,5-12.17-18.",
+                "reading": "The Lord God took Abraham outside and said: \"Look up at the sky and count the stars, if you can. Just so,\" he added, \"shall your descendants be.\"\nAbram put his faith in the LORD, who credited it to him as an act of righteousness.\nHe then said to him, \"I am the LORD who brought you from Ur of the Chaldeans to give you this land as a possession.\"\n\"O Lord GOD,\" he asked, \"How am I to know that I shall possess it?\"\nHe answered him, \"Bring me a three-year-old heifer, a three-year-old she-goat, a three-year-old ram, a turtle-dove, and a young pigeon.\"\nHe brought him all these, split them in two, and placed each half opposite the other; but the birds he did not cut up.\nBirds of prey swooped down on the carcasses, but Abram stayed with them.\nAs the sun was about to set, a trance fell upon Abram, and a deep, terrifying darkness enveloped him.\nWhen the sun had set and it was dark, there appeared a smoking brazier and a flaming torch, which passed between those pieces.\nIt was on that occasion that the LORD made a covenant with Abram, saying: \"To your descendants I give this land, from the Wadi of Egypt to the Great River (the Euphrates).\""
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.7-8.9abc.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nHear, O LORD, the sound of my call;have pity on me, and answer me.\nOf you my heart speaks; you my glance seeks.\nHide not your face from me;\ndo not in anger repel your servant.\nYou are my helper: cast me not off.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Philippians3,17-21.4,1.",
+                "reading": "Join with others in being imitators of me, brothers and sisters, and observe those who thus conduct themselves according to the model you have in us.\nFor many, as I have often told you and now tell you even in tears, conduct themselves as enemies of the cross of Christ.\nTheir end is destruction. Their God is their stomach; their glory is in their \"shame.\" Their minds are occupied with earthly things.\nBut our citizenship is in heaven, and from it we also await a savior, the Lord Jesus Christ.\nHe will change our lowly body to conform with his glorified body by the power that enables him also to bring all things into subjection to himself.\nTherefore, my brothers, whom I love and long for, my joy and crown, in this way stand firm in the Lord, beloved."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,28b-36.",
+                "reading": "Jesus took Peter, John, and James and went up the mountain to pray.\nWhile he was praying his face changed in appearance and his clothing became dazzling white.\nAnd behold, two men were conversing with him, Moses and Elijah,\nwho appeared in glory and spoke of his exodus that he was going to accomplish in Jerusalem.\nPeter and his companions had been overcome by sleep, but becoming fully awake, they saw his glory and the two men standing with him.\nAs they were about to part from him, Peter said to Jesus, \"Master, it is good that we are here; let us make three tents, one for you, one for Moses, and one for Elijah.\" But he did not know what he was saying.\nWhile he was still speaking, a cloud came and cast a shadow over them, and they became frightened when they entered the cloud.\nThen from the cloud came a voice that said, \"This is my chosen Son; listen to him.\"\nAfter the voice had spoken, Jesus was found alone. They fell silent and did not at that time tell anyone what they had seen."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Heribert",
+            "title": "Archbishop (c. 970-1021)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ed7b2a9b-d6ac-4414-89c3-a6965933f913"
+        }
     }
 }
