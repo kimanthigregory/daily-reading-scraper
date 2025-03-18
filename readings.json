@@ -268,5 +268,27 @@
             "title": "Bishop (c. 385-461)",
             "profile_link": "https://dailygospel.org/AM/display-saint/86143e19-98bc-4676-b460-f338c76761d3"
         }
+    },
+    "2025-03-18": {
+        "liturgical_week": "Tuesday of the Second week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah1,10.16-20.",
+                "reading": "Hear the word of the LORD, princes of Sodom! Listen to the instruction of our God, people of Gomorrah!\nWash yourselves clean! Put away your misdeeds from before my eyes; cease doing evil;\nlearn to do good. Make justice your aim: redress the wronged, hear the orphan's plea, defend the widow.\nCome now, let us set things right, says the LORD: Though your sins be like scarlet, they may become white as snow; Though they be crimson red, they may become white as wool.\nIf you are willing, and obey, you shall eat the good things of the land;\nBut if you refuse and resist, the sword shall consume you: for the mouth of the LORD has spoken!"
+            },
+            "Psalm": {
+                "title": "Psalms50(49),8-9.16bc-17.21.23.",
+                "reading": "\"Not for your sacrifices do I rebuke you,for your burnt offerings are before me always.\nI take from your house no bullock,no goats out of your fold.\"\n\"Why do you recite my statutes,\nand profess my covenant with your mouth,\nThough you hate disciplineand cast my words behind you?\"\n\"When you do these things, shall I be deaf to it?Or do you think that I am like yourself?I will correct you by drawing them up before your eyes.\nHe that offers praise as a sacrifice glorifies me;and to him that goes the right way I will show the salvation of God.”"
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew23,1-12.",
+                "reading": "Jesus spoke to the crowds and to his disciples,\nsaying, \"The scribes and the Pharisees have taken their seat on the chair of Moses.\nTherefore, do and observe all things whatsoever they tell you, but do not follow their example. For they preach but they do not practice.\nThey tie up heavy burdens (hard to carry) and lay them on people's shoulders, but they will not lift a finger to move them.\nAll their works are performed to be seen. They widen their phylacteries and lengthen their tassels.\nThey love places of honor at banquets, seats of honor in synagogues,\ngreetings in marketplaces, and the salutation 'Rabbi.'\nAs for you, do not be called 'Rabbi.' You have but one teacher, and you are all brothers.\nCall no one on earth your father; you have but one Father in heaven.\nDo not be called 'Master'; you have but one master, the Messiah.\nThe greatest among you must be your servant.\nWhoever exalts himself will be humbled; but whoever humbles himself will be exalted.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Cyril of Jerusalem",
+            "title": "Doctor of the Church (+386)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6d53b9fb-50ea-407d-beee-6c61e7fa1c33"
+        }
     }
 }
