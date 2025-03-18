@@ -99,7 +99,7 @@ if saint_link_element:
             "profile_link": saint_profile_link
         }
 
-# Close Selenium
+
 driver.quit()
 
 # Get today's date
