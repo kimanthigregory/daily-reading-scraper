@@ -316,5 +316,27 @@
             "title": "(1921-1945)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ff855914-672d-44a8-8bb5-4c2510059a03"
         }
+    },
+    "2025-03-20": {
+        "liturgical_week": "Thursday of the Second week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah17,5-10.",
+                "reading": "Thus says the LORD: Cursed is the man who trusts in human beings, who seeks his strength in flesh, whose heart turns away from the LORD.\nHe is like a barren bush in the desert that enjoys no change of season, But stands in a lava waste, a salt and empty earth.\nBlessed is the man who trusts in the LORD, whose hope is the LORD.\nHe is like a tree planted beside the waters that stretches out its roots to the stream: It fears not the heat when it comes, its leaves stay green; In the year of drought it shows no distress, but still bears fruit.\nMore tortuous than all else is the human heart, beyond remedy; who can understand it?\nI, the LORD, alone probe the mind and test the heart, To reward everyone according to his ways, according to the merit of his deeds."
+            },
+            "Psalm": {
+                "title": "Psalms1,1-2.3.4.6.",
+                "reading": "Blessed the man who follows notthe counsel of the wickedNor walks in the way of sinners,nor sits in the company of the insolent,\nBut delights in the law of the LORDand meditates on his law day and night.\nHe is like a treeplanted near running water,that yields its fruit in due season,and whose leaves never fade.Whatever he does, prospers.\nNot so, the wicked, not so;they are like chaff which the wind drives away.\nFor the LORD watches over the way of the just,but the way of the wicked vanishes."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke16,19-31.",
+                "reading": "Jesus said to the Pharisees: \"There was a rich man who dressed in purple garments and fine linen and dined sumptuously each day.\nAnd lying at his door was a poor man named Lazarus, covered with sores,\nwho would gladly have eaten his fill of the scraps that fell from the rich man's table. Dogs even used to come and lick his sores.\nWhen the poor man died, he was carried away by angels to the bosom of Abraham. The rich man also died and was buried,\nand from the netherworld, where he was in torment, he raised his eyes and saw Abraham far off and Lazarus at his side.\nAnd he cried out, 'Father Abraham, have pity on me. Send Lazarus to dip the tip of his finger in water and cool my tongue, for I am suffering torment in these flames.'\nAbraham replied, 'My child, remember that you received what was good during your lifetime while Lazarus likewise received what was bad; but now he is comforted here, whereas you are tormented.\nMoreover, between us and you a great chasm is established to prevent anyone from crossing who might wish to go from our side to yours or from your side to ours.'\nHe said, 'Then I beg you, father, send him to my father's house,\nfor I have five brothers, so that he may warn them, lest they too come to this place of torment.'\nBut Abraham replied, 'They have Moses and the prophets. Let them listen to them.'\nHe said, 'Oh no, father Abraham, but if someone from the dead goes to them, they will repent.'\nThen Abraham said, 'If they will not listen to Moses and the prophets, neither will they be persuaded if someone should rise from the dead.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Joseph Bilczewski",
+            "title": "Bishop (1860-1923)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/150536ba-3ba6-434e-bc88-d418088c0e34"
+        }
     }
 }
