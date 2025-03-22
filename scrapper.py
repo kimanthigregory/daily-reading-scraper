@@ -102,7 +102,6 @@ if saint_link_element:
 
 driver.quit()
 
-# Get today's date
 today = datetime.today().strftime("%Y-%m-%d")
 
 # Load existing data if available
