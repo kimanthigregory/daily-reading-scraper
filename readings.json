@@ -382,5 +382,31 @@
             "title": "Bishop (1933-1946)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8ee4d94f-0cc1-417a-ba89-4a8747dea2f3"
         }
+    },
+    "2025-03-23": {
+        "liturgical_week": "Third Sunday of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus3,1-8a.13-15.",
+                "reading": "Moses was tending the flock of his father-in-law Jethro, the priest of Midian. Leading the flock across the desert, he came to Horeb, the mountain of God.\nThere an angel of the LORD appeared to him in fire flaming out of a bush. As he looked on, he was surprised to see that the bush, though on fire, was not consumed.\nSo Moses decided, \"I must go over to look at this remarkable sight, and see why the bush is not burned.\"\nWhen the LORD saw him coming over to look at it more closely, God called out to him from the bush, \"Moses! Moses!\" He answered, \"Here I am.\"\nGod said, \"Come no nearer! Remove the sandals from your feet, for the place where you stand is holy ground.\nI am the God of your father,\" he continued, \"the God of Abraham, the God of Isaac, the God of Jacob.\" Moses hid his face, for he was afraid to look at God.\nBut the LORD said, \"I have witnessed the affliction of my people in Egypt and have heard their cry of complaint against their slave drivers, so I know well what they are suffering.\nTherefore I have come down to rescue them from the hands of the Egyptians and lead them out of that land into a good and spacious land, a land flowing with milk and honey, the country of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites.\n\"But,\" said Moses to God, \"when I go to the Israelites and say to them, 'The God of your fathers has sent me to you,' if they ask me, 'What is his name?' what am I to tell them?\"\nGod replied, \"I am who am.\" Then he added, \"This is what you shall tell the Israelites: I AM sent me to you.\"\nGod spoke further to Moses, \"Thus shall you say to the Israelites: The LORD, the God of your fathers, the God of Abraham, the God of Isaac, the God of Jacob, has sent me to you. \"This is my name forever; this is my title for all generations."
+            },
+            "Psalm": {
+                "title": "Psalms103(102),1-2.3-4.6-7.8.11.",
+                "reading": "Bless the LORD, O my soul;and all my being, bless his holy name.\nBless the LORD, O my soul,and forget not all his benefits.\nHe pardons all your iniquities,he heals all your ills.\nHe redeems your life from destruction,he crowns you with kindness and compassion.\nThe LORD secures justiceand the rights of all the oppressed.\nHe has made known his ways to Moses,and his deeds to the children of Israel.\nMerciful and gracious is the LORD,slow to anger and abounding in kindness.\nFor as the heavens are high above the earth,so surpassing is his kindness toward those who fear him."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians10,1-6.10-12.",
+                "reading": "I do not want you to be unaware, brothers and sisters, that our ancestors were all under the cloud and all passed through the sea,\nand all of them were baptized into Moses in the cloud and in the sea.\nAll ate the same spiritual food,\nand all drank the same spiritual drink, for they drank from a spiritual rock that followed them, and the rock was the Christ.\nYet God was not pleased with most of them, for they were struck down in the desert.\nThese things happened as examples for us, so that we might not desire evil things, as they did.\nDo not grumble as some of them did, and suffered death by the destroyer.\nThese things happened to them as an example, and they have been written down as a warning to us, upon whom the end of the ages has come.\nTherefore, whoever thinks he is standing secure should take care not to fall."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke13,1-9.",
+                "reading": "Some people told Jesus about the Galileans whose blood Pilate had mingled with the blood of their sacrifices.\nHe said to them in reply, \"Do you think that because these Galileans suffered in this way they were greater sinners than all other Galileans?\nBy no means! But I tell you, if you do not repent, you will all perish as they did!\nOr those eighteen people who were killed when the tower at Siloam fell on them --do you think they were more guilty than everyone else who lived in Jerusalem?\nBy no means! But I tell you, if you do not repent, you will all perish as they did!\"\nAnd he told them this parable: \"There once was a person who had a fig tree planted in his orchard, and when he came in search of fruit on it but found none,\nhe said to the gardener, 'For three years now I have come in search of fruit on this fig tree but have found none. (So) cut it down. Why should it exhaust the soil?'\nHe said to him in reply, 'Sir, leave it for this year also, and I shall cultivate the ground around it and fertilize it;\nit may bear fruit in the future. If not you can cut it down.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Turibius of Mongrovejo",
+            "title": "Bishop (1538-1606)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d0f970e9-cfa6-4260-b24b-a4c40db05d8a"
+        }
     }
 }
