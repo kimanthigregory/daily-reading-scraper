@@ -132,7 +132,7 @@ else:
         message = "❌ Scraper failed and no past data is available!"
         send_email("❌ Scraper Failed - No Readings", f"The scraper failed today ({today}) and no past readings are available. Please check!")
 
-# Save updated JSON
+
 with open(JSON_FILE, "w", encoding="utf-8") as file:
     json.dump(existing_data, file, indent=4, ensure_ascii=False)
 
