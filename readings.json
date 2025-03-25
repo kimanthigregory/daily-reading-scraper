@@ -430,5 +430,31 @@
             "title": "Abbess (1330 + 1381)",
             "profile_link": "https://dailygospel.org/AM/display-saint/74ccfe3a-9144-460b-94a7-8dc69dc5dba3"
         }
+    },
+    "2025-03-25": {
+        "liturgical_week": "Annunciation of the Lord - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah7,10-14.8,10b.",
+                "reading": "The LORD spoke to Ahaz, saying:\nAsk for a sign from the LORD, your God; let it be deep as the nether world, or high as the sky!\nBut Ahaz answered, \"I will not ask! I will not tempt the LORD!\"\nThen he said: Listen, O house of David! Is it not enough for you to weary men, must you also weary my God?\nTherefore the Lord himself will give you this sign: the virgin shall be with child, and bear a son, and shall name him Emmanuel.\nwhich means “God is with us!”"
+            },
+            "Psalm": {
+                "title": "Psalms40(39),7-8a.8b-9.10.11.",
+                "reading": "Sacrifice or oblation you wished not,but ears open to obedience you gave me.Burnt offerings or sin-offerings you sought not;\nthen said I, “Behold I come.”\n“In the written scroll it is prescribed for me,\nTo do your will, O my God, is my delight,and your law is within my heart!”\nI announced your justice in the vast assembly;I did not restrain my lips, as you, O LORD, know.\nYour justice I kept not hid within my heart;your faithfulness and your salvation I have spoken of;I have made no secret of your kindness and your truthin the vast assembly."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Hebrews10,4-10.",
+                "reading": "Brothers and sisters: it is impossible that the blood of bulls and goats take away sins.\nFor this reason, when he came into the world, he said: \"Sacrifice and offering you did not desire, but a body you prepared for me;\nholocausts and sin offerings you took no delight in.\nThen I said, 'As is written of me in the scroll, Behold, I come to do your will, O God.'\"\nFirst he says, \"Sacrifices and offerings, holocausts and sin offerings, you neither desired nor delighted in.\" These are offered according to the law.\nThen he says, \"Behold, I come to do your will.\" He takes away the first to establish the second.\nBy this \"will,\" we have been consecrated through the offering of the body of Jesus Christ once for all."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke1,26-38.",
+                "reading": "In the sixth month, the angel Gabriel was sent from God to a town of Galilee called Nazareth,\nto a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary.\nAnd coming to her, he said, \"Hail, full of grace! The Lord is with you.\"\nBut she was greatly troubled at what was said and pondered what sort of greeting this might be.\nThen the angel said to her, \"Do not be afraid, Mary, for you have found favor with God.\nBehold, you will conceive in your womb and bear a son, and you shall name him Jesus.\nHe will be great and will be called Son of the Most High, and the Lord God will give him the throne of David his father,\nand he will rule over the house of Jacob forever, and of his kingdom there will be no end.\"\nBut Mary said to the angel, \"How can this be, since I have no relations with a man?\"\nAnd the angel said to her in reply, \"The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore the child to be born will be called holy, the Son of God.\nAnd behold, Elizabeth, your relative, has also conceived a son in her old age, and this is the sixth month for her who was called barren;\nfor nothing will be impossible for God.\"\nMary said, \"Behold, I am the handmaid of the Lord. May it be done to me according to your word.\" Then the angel departed from her."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Omeljan Kovč",
+            "title": "(1884-1944)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/048afafc-a2c3-496e-9606-592c9fbedcc0"
+        }
     }
 }
