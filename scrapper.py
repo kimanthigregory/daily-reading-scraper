@@ -72,7 +72,7 @@ for section in reading_sections:
     }
     category_index += 1
 
-# Get Saint of the Day link
+# Get Saint
 saint_data = {}
 saint_link_element = soup.select_one("a.MoreGospelSaint-link")
 
