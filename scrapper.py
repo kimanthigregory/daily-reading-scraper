@@ -33,7 +33,7 @@ def send_email(subject, message):
     except Exception as e:
         print(f"❌ Failed to send email alert: {e}")
 
-# Set up Selenium WebDriver
+
 options = Options()
 options.add_argument("--headless")  
 driver = webdriver.Chrome(options=options)
