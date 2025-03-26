@@ -456,5 +456,27 @@
             "title": "(1884-1944)",
             "profile_link": "https://dailygospel.org/AM/display-saint/048afafc-a2c3-496e-9606-592c9fbedcc0"
         }
+    },
+    "2025-03-26": {
+        "liturgical_week": "Wednesday of the Third week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Deuteronomy4,1.5-9.",
+                "reading": "Moses spoke to the people and said: \"Now, Israel, hear the statutes and decrees which I am teaching you to observe, that you may live, and may enter in and take possession of the land which the LORD, the God of your fathers, is giving you.\nTherefore, I teach you the statutes and decrees as the LORD, my God, has commanded me, that you may observe them in the land you are entering to occupy.\nObserve them carefully, for thus will you give evidence of your wisdom and intelligence to the nations, who will hear of all these statutes and say, 'This great nation is truly a wise and intelligent people.'\nFor what great nation is there that has gods so close to it as the LORD, our God, is to us whenever we call upon him?\nOr what great nation has statutes and decrees that are as just as this whole law which I am setting before you today?\"\n\"However, take care and be earnestly on your guard not to forget the things which your own eyes have seen, nor let them slip from your memory as long as you live, but teach them to your children and to your children's children.\""
+            },
+            "Psalm": {
+                "title": "Psalms147,12-13.15-16.19-20.",
+                "reading": "Glorify the LORD, O Jerusalem;praise your God, O Zion.\nFor he has strengthened the bars of your gates;he has blessed your children within you.\nHe sends forth his command to the earth;swiftly runs his word!\nHe spreads snow like wool;frost he strews like ashes.\nHe has proclaimed his word to Jacob,his statutes and his ordinances to Israel.\nHe has not done thus for any other nation;his ordinances he has not made known to them. Alleluia"
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,17-19.",
+                "reading": "Jesus said to his disciples: \"Do not think that I have come to abolish the law or the prophets. I have come not to abolish but to fulfill.\nAmen, I say to you, until heaven and earth pass away, not the smallest letter or the smallest part of a letter will pass from the law, until all things have taken place.\nTherefore, whoever breaks one of the least of these commandments and teaches others to do so will be called least in the kingdom of heaven. But whoever obeys and teaches these commandments will be called greatest in the kingdom of heaven.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Ludger",
+            "title": "Bishop (c. 743-809)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1e9cc023-ff9a-46f7-b082-0c381f849ef6"
+        }
     }
 }
