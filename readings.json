@@ -500,5 +500,27 @@
             "title": "(+ 394)",
             "profile_link": "https://dailygospel.org/AM/display-saint/7a1a307b-27d7-45ce-820e-ea7373de37d8"
         }
+    },
+    "2025-03-28": {
+        "liturgical_week": "Friday of the Third week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Hosea14,2-10.",
+                "reading": "Thus says the LORD: Return, O Israel, to the LORD, your God; you have collapsed through your guilt.\nTake with you words, and return to the LORD; Say to him, \"Forgive all iniquity, and receive what is good, that we may render as offerings the bullocks from our stalls.\nAssyria will not save us, nor shall we have horses to mount; We shall say no more, 'Our god,' to the work of our hands; for in you the orphan finds compassion.\"\nI will heal their defection, I will love them freely; for my wrath is turned away from them.\nI will be like the dew for Israel: he shall blossom like the lily; He shall strike root like the Lebanon cedar,\nand put forth his shoots. His splendor shall be like the olive tree and his fragrance like the Lebanon cedar.\nAgain they shall dwell in his shade and raise grain; They shall blossom like the vine, and his fame shall be like the wine of Lebanon.\nEphraim! What more has he to do with idols? I have humbled him, but I will prosper him. \"I am like a verdant cypress tree\"-- Because of me you bear fruit!\nLet him who is wise understand these things; let him who is prudent know them. Straight are the paths of the LORD, in them the just walk, but sinners stumble in them."
+            },
+            "Psalm": {
+                "title": "Psalms81(80),6c-8a.8bc-9.10-11ab.14.17.",
+                "reading": "An unfamiliar speech I hear:\n“I relieved his shoulder of the burden;his hands were freed from the basket.\nIn distress you called, and I rescued you.”\n“Unseen, I answered you in thunder;\nI tested you at the waters of Meribah.\nHear, my people, and I will admonish you;O Israel, will you not hear me?”\n“There shall be no strange god among younor shall you worship any alien god.\nI, the LORD, am your God\nwho led you forth from the land of Egypt.\"\n\"If only my people would hear me,and Israel walk in my ways,\nWhile Israel I would feed with the best of wheat,and with honey from the rock I would fill them.”"
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark12,28b-34.",
+                "reading": "One of the scribes came to Jesus and asked him, \"Which is the first of all the commandments?\"\nJesus replied, \"The first is this: 'Hear, O Israel! The Lord our God is Lord alone!\nYou shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.'\nThe second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these.\"\nThe scribe said to him, \"Well said, teacher. You are right in saying, 'He is One and there is no other than he.'\nAnd 'to love him with all your heart, with all your understanding, with all your strength, and to love your neighbor as yourself' is worth more than all burnt offerings and sacrifices.\"\nAnd when Jesus saw that (he) answered with understanding, he said to him, \"You are not far from the kingdom of God.\" And no one dared to ask him any more questions."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Gontran",
+            "title": "King (545-592)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d68d57b4-657d-4314-ac86-47a5ae66a78e"
+        }
     }
 }
