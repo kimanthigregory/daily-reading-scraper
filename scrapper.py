@@ -79,7 +79,6 @@ saint_link_element = soup.select_one("a.MoreGospelSaint-link")
 if saint_link_element:
     saint_page_url = "https://dailygospel.org" + saint_link_element["href"]
 
-    # Visit the Saint of the Day page
     driver.get(saint_page_url)
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.CLASS_NAME, "Saint-link"))
