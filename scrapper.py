@@ -113,7 +113,7 @@ if os.path.exists(JSON_FILE):
 else:
     existing_data = {}
 
-# use previos day reading if craping fails
+# use previos day reading 
 if readings or saint_data:
     existing_data[today] = {
         "liturgical_week": liturgical_week,
