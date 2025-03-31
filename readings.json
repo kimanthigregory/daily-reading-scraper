@@ -570,5 +570,27 @@
             "title": "Anchorite (6th-7th centuries)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d9e46b75-d1ce-45b8-9532-c006c13309bd"
         }
+    },
+    "2025-03-31": {
+        "liturgical_week": "Monday of the Fourth week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah65,17-21.",
+                "reading": "Thus says the LORD: Lo, I am about to create new heavens and a new earth; The things of the past shall not be remembered or come to mind.\nInstead, there shall always be rejoicing and happiness in what I create; For I create Jerusalem to be a joy and its people to be a delight;\nI will rejoice in Jerusalem and exult in my people. No longer shall the sound of weeping be heard there, or the sound of crying;\nNo longer shall there be in it an infant who lives but a few days, or an old man who does not round out his full lifetime; He dies a mere youth who reaches but a hundred years, and he who fails of a hundred shall be thought accursed.\nThey shall live in the houses they build, and eat the fruit of the vineyards they plant."
+            },
+            "Psalm": {
+                "title": "Psalms30(29),2.4.5-6.11-12a.13b.",
+                "reading": "I will extol you, O LORD, for you drew me clearand did not let my enemies rejoice over me.\nO LORD, you brought me up from the nether world;you preserved me from among those going down into the pit.\nSing praise to the LORD, you his faithful ones,and give thanks to his holy name.\nFor his anger lasts but a moment;a lifetime, his good will.\nAt nightfall, weeping enters in,but with the dawn, rejoicing.\nHear, O LORD, and have pity on me;O LORD, be my helper.”\nYou changed my mourning into dancing;O LORD, my God, forever will I give you thanks."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John4,43-54.",
+                "reading": "At that time Jesus left [Samaria] for Galilee.\nFor Jesus himself testified that a prophet has no honor in his native place.\nWhen he came into Galilee, the Galileans welcomed him, since they had seen all he had done in Jerusalem at the feast; for they themselves had gone to the feast.\nThen he returned to Cana in Galilee, where he had made the water wine. Now there was a royal official whose son was ill in Capernaum.\nWhen he heard that Jesus had arrived in Galilee from Judea, he went to him and asked him to come down and heal his son, who was near death.\nJesus said to him, \"Unless you people see signs and wonders, you will not believe.\"\nThe royal official said to him, \"Sir, come down before my child dies.\"\nJesus said to him, \"You may go; your son will live.\" The man believed what Jesus said to him and left.\nWhile he was on his way back, his slaves met him and told him that his boy would live.\nHe asked them when he began to recover. They told him, \"The fever left him yesterday, about one in the afternoon.\"\nThe father realized that just at that time Jesus had said to him, \"Your son will live,\" and he and his whole household came to believe.\n(Now) this was the second sign Jesus did when he came to Galilee from Judea."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Benjamin",
+            "title": "Deacon and Martyr (c. 424)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8836b80d-87f0-4134-beeb-a6b2b80daa14"
+        }
     }
 }
