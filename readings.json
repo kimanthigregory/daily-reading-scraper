@@ -592,5 +592,27 @@
             "title": "Deacon and Martyr (c. 424)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8836b80d-87f0-4134-beeb-a6b2b80daa14"
         }
+    },
+    "2025-04-01": {
+        "liturgical_week": "Tuesday of the Fourth week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezekiel47,1-9.12.",
+                "reading": "The angel brought me, Ezekiel, back to the entrance of the temple of the LORD, and I saw water flowing out from beneath the threshold of the temple toward the east, for the façade of the temple was toward the east; the water flowed down from the right side of the temple, south of the altar.\nHe led me outside by the north gate, and around to the outer gate facing the east, where I saw water trickling from the southern side.\nThen when he had walked off to the east with a measuring cord in his hand, he measured off a thousand cubits and had me wade through the water, which was ankle-deep.\nHe measured off another thousand and once more had me wade through the water, which was now knee-deep. Again he measured off a thousand and had me wade; the water was up to my waist.\nOnce more he measured off a thousand, but there was now a river through which I could not wade; for the water had risen so high it had become a river that could not be crossed except by swimming.\nHe asked me, \"Have you seen this, son of man?\" Then he brought me to the bank of the river, where he had me sit.\nAlong the bank of the river I saw very many trees on both sides.\nHe said to me, \"This water flows into the eastern district down upon the Arabah, and empties into the sea, the salt waters, which it makes fresh.\nWherever the river flows, every sort of living creature that can multiply shall live, and there shall be abundant fish, for wherever this water comes the sea shall be made fresh.\nAlong both banks of the river, fruit trees of every kind shall grow; their leaves shall not fade, nor their fruit fail. Every month they shall bear fresh fruit, for they shall be watered by the flow from the sanctuary. Their fruit shall serve for food, and their leaves for medicine.\""
+            },
+            "Psalm": {
+                "title": "Psalms46(45),2-3.5-6.8-9.",
+                "reading": "God is our refuge and our strength,an ever-present help in distress.\nTherefore, we fear not, though the earth be shakenand mountains plunge into the depths of the sea.\nThere is a stream whose runlets gladden the city of God,the holy dwelling of the Most High.\nGod is in its midst; it shall not be disturbed;God will help it at the break of dawn.\nThe LORD of hosts is with us;our stronghold is the God of Jacob.\nCome! behold the deeds of the LORD,the astounding things he has wrought on earth."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John5,1-16.",
+                "reading": "There was a feast of the Jews, and Jesus went up to Jerusalem.\nNow there is in Jerusalem at the Sheep (Gate) a pool called in Hebrew Bethesda, with five porticoes.\nIn these lay a large number of ill, blind, lame, and crippled.\n\nOne man was there who had been ill for thirty-eight years.\nWhen Jesus saw him lying there and knew that he had been ill for a long time, he said to him, \"Do you want to be well?\"\nThe sick man answered him, \"Sir, I have no one to put me into the pool when the water is stirred up; while I am on my way, someone else gets down there before me.\"\nJesus said to him, \"Rise, take up your mat, and walk.\"\nImmediately the man became well, took up his mat, and walked. Now that day was a sabbath.\nSo the Jews said to the man who was cured, \"It is the sabbath, and it is not lawful for you to carry your mat.\"\nHe answered them, \"The man who made me well told me, 'Take up your mat and walk.'\"\nThey asked him, \"Who is the man who told you, 'Take it up and walk'?\"\nThe man who was healed did not know who it was, for Jesus had slipped away, since there was a crowd there.\nAfter this Jesus found him in the temple area and said to him, \"Look, you are well; do not sin any more, so that nothing worse may happen to you.\"\nThe man went and told the Jews that Jesus was the one who had made him well.\nTherefore, the Jews began to persecute Jesus because he did this on a sabbath."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Hugh",
+            "title": "Bishop (1053-1132)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1951f1ad-2300-4133-b2fe-c7460dfd8049"
+        }
     }
 }
