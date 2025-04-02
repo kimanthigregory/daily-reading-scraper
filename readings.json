@@ -614,5 +614,27 @@
             "title": "Bishop (1053-1132)",
             "profile_link": "https://dailygospel.org/AM/display-saint/1951f1ad-2300-4133-b2fe-c7460dfd8049"
         }
+    },
+    "2025-04-02": {
+        "liturgical_week": "Wednesday of the Fourth week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah49,8-15.",
+                "reading": "Thus says the LORD: In a time of favor I answer you, on the day of salvation I help you; and I have kept you and given you as a covenant to the people, To restore the land and allot the desolate heritages,\nSaying to the prisoners: Come out! To those in darkness: Show yourselves! Along the ways they shall find pasture, on every bare height shall their pastures be.\nThey shall not hunger or thirst, nor shall the scorching wind or the sun strike them; For he who pities them leads them and guides them beside springs of water.\nI will cut a road through all my mountains, and make my highways level.\nSee, some shall come from afar, others from the north and the west, and some from the land of Syene.\nSing out, O heavens, and rejoice, O earth, break forth into song, you mountains. For the LORD comforts his people and shows mercy to his afflicted.\nBut Zion said, \"The LORD has forsaken me; my Lord has forgotten me.\"\nCan a mother forget her infant, be without tenderness for the child of her womb? Even should she forget, I will never forget you."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),8-9.13cd-14.17-18.",
+                "reading": "The LORD is gracious and merciful,slow to anger and of great kindness.\nThe LORD is good to alland compassionate toward all his works.\nThe LORD is faithful in all his words\nand holy in all his works.\nThe LORD lifts up all who are fallingand raises up all who are bowed down.\nThe LORD is just in all his waysand holy in all his works.\nThe LORD is near to all who call upon him,to all who call upon him in truth."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John5,17-30.",
+                "reading": "Jesus answered the Jews: \"My Father is at work until now, so I am at work.\"\nFor this reason the Jews tried all the more to kill him, because he not only broke the sabbath but he also called God his own father, making himself equal to God.\nJesus answered and said to them, \"Amen, amen, I say to you, a son cannot do anything on his own, but only what he sees his father doing; for what he does, his son will do also.\nFor the Father loves his Son and shows him everything that he himself does, and he will show him greater works than these, so that you may be amazed.\nFor just as the Father raises the dead and gives life, so also does the Son give life to whomever he wishes.\nNor does the Father judge anyone, but he has given all judgment to his Son,\nso that all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.\nAmen, amen, I say to you, whoever hears my word and believes in the one who sent me has eternal life and will not come to condemnation, but has passed from death to life.\nAmen, amen, I say to you, the hour is coming and is now here when the dead will hear the voice of the Son of God, and those who hear will live.\nFor just as the Father has life in himself, so also he gave to his Son the possession of life in himself.\nAnd he gave him power to exercise judgment, because he is the Son of Man.\nDo not be amazed at this, because the hour is coming in which all who are in the tombs will hear his voice\nand will come out, those who have done good deeds to the resurrection of life, but those who have done wicked deeds to the resurrection of condemnation.\nI cannot do anything on my own; I judge as I hear, and my judgment is just, because I do not seek my own will but the will of the one who sent me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Francis of Paula",
+            "title": "Hermit (1416-1508)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/718011f0-15ec-4d63-ac2e-18bca2c7a1ea"
+        }
     }
 }
