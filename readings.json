@@ -658,5 +658,27 @@
             "title": "Bishop (1197-1253)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8425a66a-0b7c-4c4e-8309-c3a603835777"
         }
+    },
+    "2025-04-04": {
+        "liturgical_week": "Friday of the Fourth week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Wisdom2,1a.12-22.",
+                "reading": "The wicked said among themselves,  thinking not aright:\n\"Let us beset the just one, because he is obnoxious to us; he sets himself against our doings, Reproaches us for transgressions of the law and charges us with violations of our training.\nHe professes to have knowledge of God and styles himself a child of the LORD.\nTo us he is the censure of our thoughts; merely to see him is a hardship for us,\nBecause his life is not like other men's, and different are his ways.\nHe judges us debased; he holds aloof from our paths as from things impure. He calls blest the destiny of the just and boasts that God is his Father.\nLet us see whether his words be true; let us find out what will happen to him.\nFor if the just one be the son of God, he will defend him and deliver him from the hand of his foes.\nWith revilement and torture let us put him to the test that we may have proof of his gentleness and try his patience.\nLet us condemn him to a shameful death; for according to his own words, God will take care of him.\"\nThese were their thoughts, but they erred; for their wickedness blinded them,\nAnd they knew not the hidden counsels of God; neither did they count on a recompense of holiness nor discern the innocent souls' reward."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),17-18.19-20.21.23.",
+                "reading": "The LORD confronts the evildoers,to destroy remembrance of them from the earth.\nWhen the just cry out, the LORD hears them,and from all their distress he rescues them.\nThe LORD is close to the brokenhearted;and those who are crushed in spirit he saves.\nMany are the troubles of the just man,but out of them all the LORD delivers him.\nHe watches over all his bones;not one of them shall be broken.\nThe LORD redeems the lives of his servants;no one incurs guilt who takes refuge in him."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John7,1-2.10.25-30.",
+                "reading": "Jesus moved about within Galilee; but he did not wish to travel in Judea, because the Jews were trying to kill him.\nBut the Jewish feast of Tabernacles was near.\nBut when his brothers had gone up to the feast, he himself also went up, not openly but (as it were) in secret.\nSo some of the inhabitants of Jerusalem said, \"Is he not the one they are trying to kill?\nAnd look, he is speaking openly and they say nothing to him. Could the authorities have realized that he is the Messiah?\nBut we know where he is from. When the Messiah comes, no one will know where he is from.\"\nSo Jesus cried out in the temple area as he was teaching and said, \"You know me and also know where I am from. Yet I did not come on my own, but the one who sent me, whom you do not know, is true.\nI know him, because I am from him, and he sent me.\"\nSo they tried to arrest him, but no one laid a hand upon him, because his hour had not yet come."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Isidore of Seville",
+            "title": "Archbishop († 636)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/76dc3b1c-2a0e-4300-8708-d8460e85bd81"
+        }
     }
 }
