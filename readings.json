@@ -680,5 +680,27 @@
             "title": "Archbishop († 636)",
             "profile_link": "https://dailygospel.org/AM/display-saint/76dc3b1c-2a0e-4300-8708-d8460e85bd81"
         }
+    },
+    "2025-04-05": {
+        "liturgical_week": "Saturday of the Fourth week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah11,18-20.",
+                "reading": "I knew their plot because the LORD informed me; at that time you, O LORD, showed me their doings.\nYet I, like a trusting lamb led to slaughter, had not realized that they were hatching plots against me: \"Let us destroy the tree in its vigor; let us cut him off from the land of the living, so that his name will be spoken no more.\"\nBut, you, O Lord of hosts, O just Judge, searcher of mind and heart, Let me witness the vengeance you take on them, for to you I have entrusted my cause!"
+            },
+            "Psalm": {
+                "title": "Psalms7,2-3.9bc-10.11-12.",
+                "reading": "O LORD, my God, in you I take refuge;save me from all my pursuers and rescue me,\nLest I become like the lion's prey,to be torn to pieces, with no one to rescue me.\nDo me justice, O LORD, because I am just,\nand because of the innocence that is mine.\nLet the malice of the wicked come to an end,but sustain the just,O searcher of heart and soul, O just God.\nA shield before me is God,who saves the upright of heart;\nA just judge is God,a God who punishes day by day."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John7,40-53.",
+                "reading": "Some in the crowd who heard these words of Jesus said, \"This is truly the Prophet.\"\nOthers said, \"This is the Messiah.\" But others said, \"The Messiah will not come from Galilee, will he?\nDoes not scripture say that the Messiah will be of David's family and come from Bethlehem, the village where David lived?\"\nSo a division occurred in the crowd because of him.\nSome of them even wanted to arrest him, but no one laid hands on him.\nSo the guards went to the chief priests and Pharisees, who asked them, \"Why did you not bring him?\"\nThe guards answered, \"Never before has anyone spoken like this one.\"\nSo the Pharisees answered them, \"Have you also been deceived?\nHave any of the authorities or the Pharisees believed in him?\nBut this crowd, which does not know the law, is accursed.\"\nNicodemus, one of their members who had come to him earlier, said to them,\nDoes our law condemn a person before it first hears him and finds out what he is doing?\nThey answered and said to him, \"You are not from Galilee also, are you? Look and see that no prophet arises from Galilee.\"\nThen each went to his own house,"
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Vincent Ferrer",
+            "title": "Priest (1350-1419)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b5255bd7-c65e-47f7-9be3-5b873b84f572"
+        }
     }
 }
