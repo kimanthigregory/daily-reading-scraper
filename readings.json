@@ -794,5 +794,27 @@
             "title": "(1953-1993)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ec8721d9-04c4-4b90-96f8-4fc5f1ad67ee"
         }
+    },
+    "2025-04-10": {
+        "liturgical_week": "Thursday of the Fifth week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Genesis17,3-9.",
+                "reading": "When Abram prostrated himself, God spoke to him:\n\"My covenant with you is this: you are to become the father of a host of nations.\nNo longer shall you be called Abram; your name shall be Abraham, for I am making you the father of a host of nations.\nI will render you exceedingly fertile; I will make nations of you; kings shall stem from you.\nI will maintain my covenant with you and your descendants after you throughout the ages as an everlasting pact, to be your God and the God of your descendants after you.\nI will give to you and to your descendants after you the land in which you are now staying, the whole land of Canaan, as a permanent possession; and I will be their God.\"\nGod also said to Abraham: \"On your part, you and your descendants after you must keep my covenant throughout the ages."
+            },
+            "Psalm": {
+                "title": "Psalms105(104),4-5.6-7.8-9.",
+                "reading": "Look to the LORD in his strength;seek to serve him constantly.\nRecall the wondrous deeds that he has wrought,his portents, and the judgments he has uttered.\nYou descendants of Abraham, his servants,sons of Jacob, his chosen ones!\nHe, the LORD, is our God;throughout the earth his judgments prevail.\nHe remembers forever his covenantwhich he made binding for a thousand generations.\nWhich he entered into with Abrahamand by his oath to Isaac."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John8,51-59.",
+                "reading": "Jesus said to the Jews: \"Amen, amen, I say to you, whoever keeps my word will never see death.\"\n(So) the Jews said to him, \"Now we are sure that you are possessed. Abraham died, as did the prophets, yet you say, 'Whoever keeps my word will never taste death.'\nAre you greater than our father Abraham, who died? Or the prophets, who died? Who do you make yourself out to be?\"\nJesus answered, \"If I glorify myself, my glory is worth nothing; but it is my Father who glorifies me, of whom you say, 'He is our God.'\nYou do not know him, but I know him. And if I should say that I do not know him, I would be like you a liar. But I do know him and I keep his word.\nAbraham your father rejoiced to see my day; he saw it and was glad.\nSo the Jews said to him, \"You are not yet fifty years old and you have seen Abraham?\"\nJesus said to them, \"Amen, amen, I say to you, before Abraham came to be, I AM.\"\nSo they picked up stones to throw at him; but Jesus hid and went out of the temple area."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Magdalena of Canossa",
+            "title": "Virgin and Foundress (1774-1835)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6d0b9013-a848-4691-bb13-6b060861169c"
+        }
     }
 }
