@@ -17,7 +17,7 @@ EMAIL_SENDER = "gregteckie@gmail.com"
 EMAIL_PASSWORD = "yvrq kalu lmdd uade"  
 EMAIL_RECEIVER = "jcomputercollege@gmail.com"  
 
-# Function to send an email alert
+
 def send_email(subject, message):
     try:
         msg = MIMEText(message)
