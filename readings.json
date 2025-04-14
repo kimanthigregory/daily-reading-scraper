@@ -886,5 +886,27 @@
             "title": "Martyr († 586)",
             "profile_link": "https://dailygospel.org/AM/display-saint/92c08169-6e51-433c-aa9c-f9fa46d2511d"
         }
+    },
+    "2025-04-14": {
+        "liturgical_week": "Monday of Holy Week",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah42,1-7.",
+                "reading": "Here is my servant whom I uphold, my chosen one with whom I am pleased, Upon whom I have put my Spirit; he shall bring forth justice to the nations,\nNot crying out, not shouting, not making his voice heard in the street.\nA bruised reed he shall not break, and a smoldering wick he shall not quench,\nUntil he establishes justice on the earth; the coastlands will wait for his teaching.\nThus says God, the LORD, who created the heavens and stretched them out, who spreads out the earth with its crops, Who gives breath to its people and spirit to those who walk on it:\nI, the LORD, have called you for the victory of justice, I have grasped you by the hand; I formed you, and set you as a covenant of the people, a light for the nations,\nTo open the eyes of the blind, to bring out prisoners from confinement, and from the dungeon, those who live in darkness."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.2.3.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nWhen evildoers come at meto devour my flesh,My foes and my enemiesthemselves stumble and fall.\nThough an army encamp against me,my heart will not fear;Though war be waged upon me,even then will I trust.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John12,1-11.",
+                "reading": "Six days before Passover Jesus came to Bethany, where Lazarus was, whom Jesus had raised from the dead.\nThey gave a dinner for him there, and Martha served, while Lazarus was one of those reclining at table with him.\nMary took a liter of costly perfumed oil made from genuine aromatic nard and anointed the feet of Jesus and dried them with her hair; the house was filled with the fragrance of the oil.\nThen Judas the Iscariot, one (of) his disciples, and the one who would betray him, said,\nWhy was this oil not sold for three hundred days' wages and given to the poor?\nHe said this not because he cared about the poor but because he was a thief and held the money bag and used to steal the contributions.\nSo Jesus said, \"Leave her alone. Let her keep this for the day of my burial.\nYou always have the poor with you, but you do not always have me.\"\n(The) large crowd of the Jews found out that he was there and came, not only because of Jesus, but also to see Lazarus, whom he had raised from the dead.\nAnd the chief priests plotted to kill Lazarus too,\nbecause many of the Jews were turning away and believing in Jesus because of him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Peter Gonzales",
+            "title": "Dominican Priest (1190-1246)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/874a79ac-d0b6-4ec9-a2d6-031ad26fa46d"
+        }
     }
 }
