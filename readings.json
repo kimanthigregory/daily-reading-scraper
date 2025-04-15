@@ -908,5 +908,27 @@
             "title": "Dominican Priest (1190-1246)",
             "profile_link": "https://dailygospel.org/AM/display-saint/874a79ac-d0b6-4ec9-a2d6-031ad26fa46d"
         }
+    },
+    "2025-04-15": {
+        "liturgical_week": "Tuesday of Holy Week",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah49,1-6.",
+                "reading": "Hear me, O islands, listen, O distant peoples. The Lord called me from birth, from my mother's womb he gave me my name.\nHe made of me a sharp-edged sword and concealed me in the shadow of his arm. He made me a polished arrow, in his quiver he hid me.\nYou are my servant, he said to me, Israel, through whom I show my glory.\nThough I thought I had toiled in vain, and for nothing, uselessly, spent my strength, Yet my reward is with the LORD, my recompense is with my God.\nFor now the LORD has spoken who formed me as his servant from the womb, That Jacob may be brought back to him and Israel gathered to him; And I am made glorious in the sight of the LORD, and my God is now my strength!\nIt is too little, he says, for you to be my servant, to raise up the tribes of Jacob, and restore the survivors of Israel; I will make you a light to the nations, that my salvation may reach to the ends of the earth."
+            },
+            "Psalm": {
+                "title": "Psalms71(70),1-2.3-4a.5-6ab.15.17.",
+                "reading": "In you, LORD, I take refuge;let me never be put to shame.\nIn your justice rescue and deliver me;incline your ear to me, and save me.\nBe my rock of refuge,a stronghold to give me safety,for you are my rock and my fortress.\nO my God, rescue me from the hand of the wicked.\nFor you are my hope, O Lord;my trust, O God, from my youth.\nOn you I depend from birth;\nfrom my mother's womb you are my strength.\nMy mouth shall declare your justice,day by day your salvation.\nO God, you have taught me from my youth,and till the present I proclaim your wondrous deeds."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John13,21-33.36-38.",
+                "reading": "Reclining at table with his disciples, Jesus was deeply troubled and testified, «Amen, amen, I say to you, one of you will betray me.»\nThe disciples looked at one another, at a loss as to whom he meant.\nOne of his disciples, the one whom Jesus loved, was reclining at Jesus' side.\nSo Simon Peter nodded to him to find out whom he meant.\nHe leaned back against Jesus' chest and said to him, \"Master, who is it?\"\nJesus answered, \"It is the one to whom I hand the morsel after I have dipped it.\" So he dipped the morsel and (took it and) handed it to Judas, son of Simon the Iscariot.\nAfter he took the morsel, Satan entered him. So Jesus said to him, \"What you are going to do, do quickly.\"\n(Now) none of those reclining at table realized why he said this to him.\nSome thought that since Judas kept the money bag, Jesus had told him, \"Buy what we need for the feast,\" or to give something to the poor.\nSo he took the morsel and left at once. And it was night.\nWhen Judas had left them, Jesus said, \"Now is the Son of Man glorified, and God is glorified in him.\n(If God is glorified in him,) God will also glorify him in himself, and he will glorify him at once.\nMy children, I will be with you only a little while longer. You will look for me, and as I told the Jews, 'Where I go you cannot come,' so now I say it to you.\nSimon Peter said to him, \"Master, where are you going?\" Jesus answered (him), \"Where I am going, you cannot follow me now, though you will follow later.\"\nPeter said to him, \"Master, why can't I follow you now? I will lay down my life for you.\"\nJesus answered, \"Will you lay down your life for me? Amen, amen, I say to you, the cock will not crow before you deny me three times.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Paternus",
+            "title": "Bishop (5th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ef10d4b5-ae57-410f-bd17-7ff55ae52e7f"
+        }
     }
 }
