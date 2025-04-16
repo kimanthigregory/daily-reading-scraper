@@ -930,5 +930,27 @@
             "title": "Bishop (5th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ef10d4b5-ae57-410f-bd17-7ff55ae52e7f"
         }
+    },
+    "2025-04-16": {
+        "liturgical_week": "Wednesday of Holy Week",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah50,4-9a.",
+                "reading": "The Lord GOD has given me a well-trained tongue, That I might know how to speak to the weary a word that will rouse them. Morning after morning he opens my ear that I may hear;\nAnd I have not rebelled, have not turned back.\nI gave my back to those who beat me, my cheeks to those who plucked my beard; My face I did not shield from buffets and spitting.\nThe Lord GOD is my help, therefore I am not disgraced; I have set my face like flint, knowing that I shall not be put to shame.\nHe is near who upholds my right; if anyone wishes to oppose me, let us appear together. Who disputes my right? Let him confront me.\nSee, the Lord GOD is my help; who will prove me wrong?"
+            },
+            "Psalm": {
+                "title": "Psalms69(68),8-10.21bcd-22.31.33-34.",
+                "reading": "For your sake I bear insult,and shame covers my face.\nI have become an outcast to my brothers,a stranger to my mother's sons,\nbecause zeal for your house consumes me,and the insults of those who blaspheme you fall upon me.\nInsult has broken my heart, and I am weak,\nI looked for sympathy, but there was none;\nfor consolers, not one could I find.\nRather they put gall in my food,and in my thirst they gave me vinegar to drink.\nI will praise the name of God in song,and I will glorify him with thanksgiving.\n“See, you lowly ones, and be glad;you who seek God, may your hearts revive!\nFor the LORD hears the poor,and his own who are in bonds he spurns not.”"
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew26,14-25.",
+                "reading": "One of the Twelve, who was called Judas Iscariot, went to the chief priests\nand said, \"What are you willing to give me if I hand him over to you?\" They paid him thirty pieces of silver,\nand from that time on he looked for an opportunity to hand him over.\nOn the first day of the Feast of Unleavened Bread, the disciples approached Jesus and said, \"Where do you want us to prepare for you to eat the Passover?\"\nHe said, \"Go into the city to a certain man and tell him, 'The teacher says, \"My appointed time draws near; in your house I shall celebrate the Passover with my disciples.\"'\"\nThe disciples then did as Jesus had ordered, and prepared the Passover.\nWhen it was evening, he reclined at table with the Twelve.\nAnd while they were eating, he said, \"Amen, I say to you, one of you will betray me.\"\nDeeply distressed at this, they began to say to him one after another, \"Surely it is not I, Lord?\"\nHe said in reply, \"He who has dipped his hand into the dish with me is the one who will betray me.\nThe Son of Man indeed goes, as it is written of him, but woe to that man by whom the Son of Man is betrayed. It would be better for that man if he had never been born.\"\nThen Judas, his betrayer, said in reply, \"Surely it is not I, Rabbi?\" He answered, \"You have said so.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Engratia and Saragossa's Martyrs",
+            "title": "(+ 304)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/301bbd7b-45ef-4426-ad5c-cd2f66cb32e4"
+        }
     }
 }
