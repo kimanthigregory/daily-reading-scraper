@@ -1078,5 +1078,27 @@
             "title": "(1033-1109)",
             "profile_link": "https://dailygospel.org/AM/display-saint/58029eca-7022-40cd-9888-9d4fe8434e4c"
         }
+    },
+    "2025-04-22": {
+        "liturgical_week": "Tuesday of Easter week",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles2,36-41.",
+                "reading": "On the day of Pentecost, Peter said to the Jewish people, \"Let the whole house of Israel know for certain  that God has made him both Lord and Christ, this Jesus whom you crucified.\"\nNow when they heard this, they were cut to the heart, and they asked Peter and the other apostles, \"What are we to do, my brothers?\"\nPeter (said) to them, \"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins; and you will receive the gift of the holy Spirit.\nFor the promise is made to you and to your children and to all those far off, whomever the Lord our God will call.\"\nHe testified with many other arguments, and was exhorting them, \"Save yourselves from this corrupt generation.\"\nThose who accepted his message were baptized, and about three thousand persons were added that day."
+            },
+            "Psalm": {
+                "title": "Psalms33(32),4-5.18-19.20.22.",
+                "reading": "Upright is the word of the LORD,and all his works are trustworthy.\nHe loves justice and right;of the kindness of the LORD the earth is full.\nSee, the eyes of the LORD are upon those who fear him,upon those who hope for his kindness,\nTo deliver them from deathand preserve them in spite of famine.\nOur soul waits for the LORD,who is our help and our shield,\nMay your kindness, O LORD, be upon uswho have put our hope in you."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John20,11-18.",
+                "reading": "Mary Magdalene stayed outside the tomb weeping.  And as she wept, she bent over into the tomb\nand saw two angels in white sitting there, one at the head and one at the feet where the body of Jesus had been.\nAnd they said to her, \"Woman, why are you weeping?\" She said to them, \"They have taken my Lord, and I don't know where they laid him.\"\nWhen she had said this, she turned around and saw Jesus there, but did not know it was Jesus.\nJesus said to her, \"Woman, why are you weeping? Whom are you looking for?\" She thought it was the gardener and said to him, \"Sir, if you carried him away, tell me where you laid him, and I will take him.\"\nJesus said to her, \"Mary!\" She turned and said to him in Hebrew, \"Rabbouni,\" which means Teacher.\nJesus said to her, \"Stop holding on to me, for I have not yet ascended to the Father. But go to my brothers and tell them, 'I am going to my Father and your Father, to my God and your God.'\"\nMary of Magdala went and announced to the disciples, \"I have seen the Lord,\" and what he told her."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Soter",
+            "title": "Pope and martyr († 175)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6024d1e3-e34c-41dd-9380-30b1872277a5"
+        }
     }
 }
