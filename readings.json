@@ -1100,5 +1100,27 @@
             "title": "Pope and martyr († 175)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6024d1e3-e34c-41dd-9380-30b1872277a5"
         }
+    },
+    "2025-04-23": {
+        "liturgical_week": "Wednesday of Easter week",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles3,1-10.",
+                "reading": "Peter and John were going up to the temple area  for the three o'clock hour of prayer.\nAnd a man crippled from birth was carried and placed at the gate of the temple called \"the Beautiful Gate\" every day to beg for alms from the people who entered the temple.\nWhen he saw Peter and John about to go into the temple, he asked for alms.\nBut Peter looked intently at him, as did John, and said, \"Look at us.\"\nHe paid attention to them, expecting to receive something from them.\nPeter said, \"I have neither silver nor gold, but what I do have I give you: in the name of Jesus Christ the Nazorean, (rise and) walk.\"\nThen Peter took him by the right hand and raised him up, and immediately his feet and ankles grew strong.\nHe leaped up, stood, and walked around, and went into the temple with them, walking and jumping and praising God.\nWhen all the people saw him walking and praising God,\nthey recognized him as the one who used to sit begging at the Beautiful Gate of the temple, and they were filled with amazement and astonishment at what had happened to him."
+            },
+            "Psalm": {
+                "title": "Psalms105(104),1-2.3-4.6-7.8-9.",
+                "reading": "Give thanks to the LORD, invoke his name;make known among the nations his deeds.\nSing to him, sing his praise,proclaim all his wondrous deeds.\nGlory in his holy name;rejoice, O hearts that seek the LORD!\nLook to the LORD in his strength;seek to serve him constantly.\nYou descendants of Abraham, his servants,sons of Jacob, his chosen ones!\nHe, the LORD, is our God;throughout the earth his judgments prevail.\nHe remembers forever his covenantwhich he made binding for a thousand generations.\nWhich he entered into with Abrahamand by his oath to Isaac."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke24,13-35.",
+                "reading": "That very day, the first day of the week,  two of Jesus' disciples were going  to a village seven miles from Jerusalem called Emmaus,\nand they were conversing about all the things that had occurred.\nAnd it happened that while they were conversing and debating, Jesus himself drew near and walked with them,\nbut their eyes were prevented from recognizing him.\nHe asked them, \"What are you discussing as you walk along?\" They stopped, looking downcast.\nOne of them, named Cleopas, said to him in reply, \"Are you the only visitor to Jerusalem who does not know of the things that have taken place there in these days?\"\nAnd he replied to them, \"What sort of things?\" They said to him, \"The things that happened to Jesus the Nazarene, who was a prophet mighty in deed and word before God and all the people,\nhow our chief priests and rulers both handed him over to a sentence of death and crucified him.\nBut we were hoping that he would be the one to redeem Israel; and besides all this, it is now the third day since this took place.\nSome women from our group, however, have astounded us: they were at the tomb early in the morning\nand did not find his body; they came back and reported that they had indeed seen a vision of angels who announced that he was alive.\nThen some of those with us went to the tomb and found things just as the women had described, but him they did not see.\"\nAnd he said to them, \"Oh, how foolish you are! How slow of heart to believe all that the prophets spoke!\nWas it not necessary that the Messiah should suffer these things and enter into his glory?\"\nThen beginning with Moses and all the prophets, he interpreted to them what referred to him in all the scriptures.\nAs they approached the village to which they were going, he gave the impression that he was going on farther.\nBut they urged him, \"Stay with us, for it is nearly evening and the day is almost over.\" So he went in to stay with them.\nAnd it happened that, while he was with them at table, he took bread, said the blessing, broke it, and gave it to them.\nWith that their eyes were opened and they recognized him, but he vanished from their sight.\nThen they said to each other, \"Were not our hearts burning (within us) while he spoke to us on the way and opened the scriptures to us?\"\nSo they set out at once and returned to Jerusalem where they found gathered together the eleven and those with them\nwho were saying, \"The Lord has truly been raised and has appeared to Simon!\"\nThen the two recounted what had taken place on the way and how he was made known to them in the breaking of the bread."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. George",
+            "title": "Martyr (280-303)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/891b6f19-8131-40e5-b006-5ebb84e0d6d3"
+        }
     }
 }
