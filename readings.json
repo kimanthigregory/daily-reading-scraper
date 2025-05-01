@@ -1280,5 +1280,27 @@
             "title": "Pope (1504-1572)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8b154f74-d79a-486d-befc-deb5523273b5"
         }
+    },
+    "2025-05-01": {
+        "liturgical_week": "Thursday of the Second week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles5,27-33.",
+                "reading": "When the court officers had brought the Apostles in  and made them stand before the Sanhedrin,  the high priest questioned them,\n\"We gave you strict orders (did we not?) to stop teaching in that name. Yet you have filled Jerusalem with your teaching and want to bring this man's blood upon us.\"\nBut Peter and the apostles said in reply, \"We must obey God rather than men.\nThe God of our ancestors raised Jesus, though you had him killed by hanging him on a tree.\nGod exalted him at his right hand as leader and savior to grant Israel repentance and forgiveness of sins.\nWe are witnesses of these things, as is the holy Spirit that God has given to those who obey him.\"\nWhen they heard this, they became infuriated and wanted to put them to death."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2.9.17-18.19-20.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nTaste and see how good the LORD is;blessed the man who takes refuge in him.\nThe LORD confronts the evildoers,to destroy remembrance of them from the earth.\nWhen the just cry out, the LORD hears them,and from all their distress he rescues them.\nThe LORD is close to the brokenhearted;and those who are crushed in spirit he saves.\nMany are the troubles of the just man,but out of them all the LORD delivers him."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John3,31-36.",
+                "reading": "The one who comes from above is above all.  The one who is of the earth is earthly and speaks of earthly things.  But the one who comes from heaven is above all.\nHe testifies to what he has seen and heard, but no one accepts his testimony.\nWhoever does accept his testimony certifies that God is trustworthy.\nFor the one whom God sent speaks the words of God. He does not ration his gift of the Spirit.\nThe Father loves the Son and has given everything over to him.\nWhoever believes in the Son has eternal life, but whoever disobeys the Son will not see life, but the wrath of God remains upon him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Joseph the Worker",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/af2ee6b1-2df8-4ac6-b440-334171aafc7a"
+        }
     }
 }
