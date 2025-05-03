@@ -1324,5 +1324,27 @@
             "title": "Priest (1864-1929)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6ba53ee6-9f9d-42aa-a5d7-2fb7ee775d26"
         }
+    },
+    "2025-05-03": {
+        "liturgical_week": "Saints Philip and James, apostles - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians15,1-8.",
+                "reading": "I am reminding you, brothers and sisters, of the Gospel I preached to you, which you indeed received and in which you also stand.\nThrough it you are also being saved, if you hold fast to the word I preached to you, unless you believed in vain.\nFor I handed on to you as of first importance what I also received: that Christ died for our sins in accordance with the scriptures;\nthat he was buried; that he was raised on the third day in accordance with the scriptures;\nthat he appeared to Kephas, then to the Twelve.\nAfter that, he appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.\nAfter that he appeared to James, then to all the apostles.\nLast of all, as to one born abnormally, he appeared to me."
+            },
+            "Psalm": {
+                "title": "Psalms19(18),2-3.4-5.",
+                "reading": "The heavens declare the glory of God;and the firmament proclaims his handiwork.\nDay pours out the word to day,and night to night imparts knowledge.\nNot a word nor a discoursewhose voice is not heard;\nThrough all the earth their voice resounds,and to the ends of the world, their message."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John14,6-14.",
+                "reading": "Jesus said to him, \"I am the way and the truth and the life. No one comes to the Father except through me.\"\nIf you know me, then you will also know my Father. From now on you do know him and have seen him.\"\nPhilip said to him, \"Master, show us the Father, and that will be enough for us.\"\nJesus said to him, \"Have I been with you for so long a time and you still do not know me, Philip? Whoever has seen me has seen the Father. How can you say, 'Show us the Father'?\nDo you not believe that I am in the Father and the Father is in me? The words that I speak to you I do not speak on my own. The Father who dwells in me is doing his works.\nBelieve me that I am in the Father and the Father is in me, or else, believe because of the works themselves.\nAmen, amen, I say to you, whoever believes in me will do the works that I do, and will do greater ones than these, because I am going to the Father.\nAnd whatever you ask in my name, I will do, so that the Father may be glorified in the Son.\nIf you ask anything of me in my name, I will do it."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Tommaso Acerbis",
+            "title": "(† 1631)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b3ba8b0e-3cc9-4f58-85aa-8f6f8104c9dc"
+        }
     }
 }
