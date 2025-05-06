@@ -1394,5 +1394,27 @@
             "title": "Bishop (1389-1459)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ee657903-74d9-4712-972e-11dfb2f0b42c"
         }
+    },
+    "2025-05-06": {
+        "liturgical_week": "Tuesday of the Third week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles7,51-60.8,1a.",
+                "reading": "Stephen said to the people, the elders, and the scribes:  \"You stiff-necked people, uncircumcised in heart and ears,  you always oppose the Holy Spirit;  you are just like your ancestors.\nWhich of the prophets did your ancestors not persecute? They put to death those who foretold the coming of the righteous one, whose betrayers and murderers you have now become.\nYou received the law as transmitted by angels, but you did not observe it.\"\nWhen they heard this, they were infuriated, and they ground their teeth at him.\nBut he, filled with the holy Spirit, looked up intently to heaven and saw the glory of God and Jesus standing at the right hand of God,\nand he said, \"Behold, I see the heavens opened and the Son of Man standing at the right hand of God.\"\nBut they cried out in a loud voice, covered their ears, and rushed upon him together.\nThey threw him out of the city, and began to stone him. The witnesses laid down their cloaks at the feet of a young man named Saul.\nAs they were stoning Stephen, he called out, \"Lord Jesus, receive my spirit.\"\nThen he fell to his knees and cried out in a loud voice, \"Lord, do not hold this sin against them\"; and when he said this, he fell asleep.\nNow Saul was consenting to his execution."
+            },
+            "Psalm": {
+                "title": "Psalms31(30),3cd-4.6ab.7b.8a.17.21ab.",
+                "reading": "Be my rock of refuge,\na stronghold to give me safety.\nYou are my rock and my fortress;for your name's sake you will lead and guide me.\nInto your hands I commend my spirit;\nyou will redeem me, O LORD, O faithful God.\nMy trust is in the LORD;\nI will rejoice and be glad because of your mercy.\nLet your face shine upon your servant;save me in your kindness.\nYou hide them in the shelter of your presence\nfrom the plottings of men."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John6,30-35.",
+                "reading": "The crowd said to Jesus:  \"What sign can you do, that we may see and believe in you?  What can you do?\nOur ancestors ate manna in the desert, as it is written: 'He gave them bread from heaven to eat.'\"\nSo Jesus said to them, \"Amen, amen, I say to you, it was not Moses who gave the bread from heaven; my Father gives you the true bread from heaven.\nFor the bread of God is that which comes down from heaven and gives life to the world.\"\nSo they said to him, \"Sir, give us this bread always.\"\nJesus said to them, \"I am the bread of life; whoever comes to me will never hunger, and whoever believes in me will never thirst.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Anna Rosa Gattorno",
+            "title": "Foundress (1831-1900)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b2e7d793-beee-4c93-8f4c-c3a359e8f9b2"
+        }
     }
 }
