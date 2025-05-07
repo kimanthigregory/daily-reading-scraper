@@ -1416,5 +1416,27 @@
             "title": "Foundress (1831-1900)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b2e7d793-beee-4c93-8f4c-c3a359e8f9b2"
         }
+    },
+    "2025-05-07": {
+        "liturgical_week": "Wednesday of the Third week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles8,1b-8.",
+                "reading": "There broke out a severe persecution of the Church in Jerusalem, and all were scattered throughout the countryside of Judea and Samaria, except the Apostles.\nDevout men buried Stephen and made a loud lament over him.\nSaul, meanwhile, was trying to destroy the church; entering house after house and dragging out men and women, he handed them over for imprisonment.\nNow those who had been scattered went about preaching the word.\nThus Philip went down to (the) city of Samaria and proclaimed the Messiah to them.\nWith one accord, the crowds paid attention to what was said by Philip when they heard it and saw the signs he was doing.\nFor unclean spirits, crying out in a loud voice, came out of many possessed people, and many paralyzed and crippled people were cured.\nThere was great joy in that city."
+            },
+            "Psalm": {
+                "title": "Psalms66(65),1-3a.4-5.6-7a.",
+                "reading": "Shout joyfully to God, all the earth,\nsing praise to the glory of his name;proclaim his glorious praise.\nSay to God, “How tremendous are your deeds!”\n“Let all on earth worship and sing praise to you,sing praise to your name!”\nCome and see the works of God,his tremendous deeds among the children of Adam.\nHe has changed the sea into dry land;through the river they passed on foot;therefore let us rejoice in him.\nHe rules by his might forever."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John6,35-40.",
+                "reading": "Jesus said to the crowds,  \"I am the bread of life;  whoever comes to me will never hunger,  and whoever believes in me will never thirst.\nBut I told you that although you have seen (me), you do not believe.\nEverything that the Father gives me will come to me, and I will not reject anyone who comes to me,\nbecause I came down from heaven not to do my own will but the will of the one who sent me.\nAnd this is the will of the one who sent me, that I should not lose anything of what he gave me, but that I should raise it on the last day.\nFor this is the will of my Father, that everyone who sees the Son and believes in him may have eternal life, and I shall raise him on the last day.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Rosa Venerini",
+            "title": "(1656-1728)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/c6d1e66e-15fe-4431-a385-be639f21a648"
+        }
     }
 }
