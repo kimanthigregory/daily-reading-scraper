@@ -1504,5 +1504,31 @@
             "title": "Priest (1840-1889)",
             "profile_link": "https://dailygospel.org/AM/display-saint/61084d1c-fa05-439a-a4d3-1c6e4a62af76"
         }
+    },
+    "2025-05-11": {
+        "liturgical_week": "Fourth Sunday of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles13,14.43-52.",
+                "reading": "Paul and Barnabas continued on from Perga  and reached Antioch in Pisidia.  On the sabbath they entered the synagogue and took their seats.\nAfter the congregation had dispersed, many Jews and worshipers who were converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to remain faithful to the grace of God.\nOn the following sabbath almost the whole city gathered to hear the word of the Lord.\nWhen the Jews saw the crowds, they were filled with jealousy and with violent abuse contradicted what Paul said.\nBoth Paul and Barnabas spoke out boldly and said, \"It was necessary that the word of God be spoken to you first, but since you reject it and condemn yourselves as unworthy of eternal life, we now turn to the Gentiles.\nFor so the Lord has commanded us, 'I have made you a light to the Gentiles, that you may be an instrument of salvation to the ends of the earth.'\"\nThe Gentiles were delighted when they heard this and glorified the word of the Lord. All who were destined for eternal life came to believe,\nand the word of the Lord continued to spread through the whole region.\nThe Jews, however, incited the women of prominence who were worshipers and the leading men of the city, stirred up a persecution against Paul and Barnabas, and expelled them from their territory.\nSo they shook the dust from their feet in protest against them and went to Iconium.\nThe disciples were filled with joy and the holy Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms100(99),2.3.5.",
+                "reading": "Sing joyfully to the Lord all you lands,serve the LORD with gladness;come before him with joyful song.\nKnow that the LORD is God;he made us, his we are;his people, the flock he tends.\nThe LORD is good:his kindness endures forever,and his faithfulness, to all generations."
+            },
+            "Second_Reading": {
+                "title": "Book of Revelation7,9.14b-17.",
+                "reading": "I, John, had a vision of a great multitude,  which no one could count,  from every nation, race, people, and tongue.  They stood before the throne and before the Lamb,  wearing white robes and holding palm branches in their hands.\nI said to him, \"My lord, you are the one who knows.\" He said to me, \"These are the ones who have survived the time of great distress; they have washed their robes and made them white in the blood of the Lamb.\"\n\"For this reason they stand before God's throne and worship him day and night in his temple. The one who sits on the throne will shelter them.\nThey will not hunger or thirst anymore, nor will the sun or any heat strike them.\nFor the Lamb who is in the center of the throne will shepherd them and lead them to springs of life-giving water, and God will wipe away every tear from their eyes.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John10,27-30.",
+                "reading": "Jesus said:  «My sheep hear my voice;  I know them, and they follow me.\nI give them eternal life, and they shall never perish. No one can take them out of my hand.\nMy Father, who has given them to me, is greater than all, and no one can take them out of the Father's hand.\nThe Father and I are one.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Mammertus",
+            "title": "Archbischop († c. 477)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8a242c94-27d0-410d-92d1-74f04eaa1625"
+        }
     }
 }
