@@ -1574,5 +1574,23 @@
             "title": "Religious (1342-1420)",
             "profile_link": "https://dailygospel.org/AM/display-saint/c2774510-a01b-4b75-a05e-42d98eaf538e"
         }
+    },
+    "2025-05-14": {
+        "liturgical_week": "Saint Matthias, apostle - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles1,15-17.20-26.",
+                "reading": "Peter stood up in the midst of the brothers (there was a group of about one hundred and twenty persons in the one place). He said,\n\"My brothers, the scripture had to be fulfilled which the holy Spirit spoke beforehand through the mouth of David, concerning Judas, who was the guide for those who arrested Jesus.\nHe was numbered among us and was allotted a share in this ministry.\nFor it is written in the Book of Psalms: 'Let his encampment become desolate, and may no one dwell in it.' And: 'May another take his office.'\nTherefore, it is necessary that one of the men who accompanied us the whole time the Lord Jesus came and went among us,\nbeginning from the baptism of John until the day on which he was taken up from us, become with us a witness to his resurrection.\"\nSo they proposed two, Joseph called Barsabbas, who was also known as Justus, and Matthias.\nThen they prayed, \"You, Lord, who know the hearts of all, show which one of these two you have chosen\nto take the place in this apostolic ministry from which Judas turned away to go to his own place.\"\nThen they gave lots to them, and the lot fell upon Matthias, and he was counted with the eleven apostles."
+            },
+            "Psalm": {
+                "title": "Psalms113(112),1-2.3-4.5-6.7-8.",
+                "reading": "Praise, you servants of the LORD,praise the name of the LORD.\nBlessed be the name of the LORDboth now and forever.\nFrom the rising to the setting of the sunis the name of the LORD to be praised.\nHigh above all nations is the LORD;above the heavens is his glory.\nWho is like the LORD, our God, who is enthroned on high\nwho looks upon the heavens and the earth below?\nHe raises up the lowly from the dust;from the dunghill he lifts up the poor.\nTo seat them with princes,with the princes of his own people."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John15,9-17.",
+                "reading": "Jesus said to his disciples: \"As the Father loves me, so I also love you. Remain in my love.\nIf you keep my commandments, you will remain in my love, just as I have kept my Father's commandments and remain in his love.\nI have told you this so that my joy may be in you and your joy may be complete.\"\nThis is my commandment: love one another as I love you.\nNo one has greater love than this, to lay down one's life for one's friends.\nYou are my friends if you do what I command you.\nI no longer call you slaves, because a slave does not know what his master is doing. I have called you friends, because I have told you everything I have heard from my Father.\nIt was not you who chose me, but I who chose you and appointed you to go and bear fruit that will remain, so that whatever you ask the Father in my name he may give you.\nThis I command you: love one another.\""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
