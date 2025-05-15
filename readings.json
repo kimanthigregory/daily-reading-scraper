@@ -1592,5 +1592,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2025-05-15": {
+        "liturgical_week": "Thursday of the Fourth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles13,13-25.",
+                "reading": "From Paphos, Paul and his companions  set sail and arrived at Perga in Pamphylia.  But John left them and returned to Jerusalem.\nThey continued on from Perga and reached Antioch in Pisidia. On the sabbath they entered (into) the synagogue and took their seats.\nAfter the reading of the law and the prophets, the synagogue officials sent word to them, \"My brothers, if one of you has a word of exhortation for the people, please speak.\"\nSo Paul got up, motioned with his hand, and said, \"Fellow Israelites and you others who are God-fearing, listen.\nThe God of this people Israel chose our ancestors and exalted the people during their sojourn in the land of Egypt. With uplifted arm he led them out of it\nand for about forty years he put up with them in the desert.\nWhen he had destroyed seven nations in the land of Canaan, he gave them their land as an inheritance\nat the end of about four hundred and fifty years. After these things he provided judges up to Samuel (the) prophet.\nThen they asked for a king. God gave them Saul, son of Kish, a man from the tribe of Benjamin, for forty years.\nThen he removed him and raised up David as their king; of him he testified, 'I have found David, son of Jesse, a man after my own heart; he will carry out my every wish.'\nFrom this man's descendants God, according to his promise, has brought to Israel a savior, Jesus.\nJohn heralded his coming by proclaiming a baptism of repentance to all the people of Israel;\nand as John was completing his course, he would say, 'What do you suppose that I am? I am not he. Behold, one is coming after me; I am not worthy to unfasten the sandals of his feet.'\""
+            },
+            "Psalm": {
+                "title": "Psalms89(88),2-3.21-22.25.27.",
+                "reading": "The favors of the LORD I will sing forever;through all generations my mouth shall proclaim your faithfulness.\nFor you have said, “My kindness is established forever”;in heaven you have confirmed your faithfulness.\nI have chosen David, my servant;with my holy oil I have anointed him.\nThat my hand will be with him;and that my arm will make him strong.\nMy loyalty and love will be with him;through my name his horn will be exalted.\n“He shall say of me, 'You are my father,my God, the Rock, my savior.'"
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John13,16-20.",
+                "reading": "When Jesus had washed the disciples' feet, he said to them:  \"Amen, amen, I say to you, no slave is greater than his master  nor any messenger greater than the one who sent him.\nIf you understand this, blessed are you if you do it.\nI am not speaking of all of you. I know those whom I have chosen. But so that the scripture might be fulfilled, 'The one who ate my food has raised his heel against me.'\nFrom now on I am telling you before it happens, so that when it happens you may believe that I AM.\nAmen, amen, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Isidor the Farmer",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d25b1236-5c58-46c6-bc27-5def7878dcf5"
+        }
     }
 }
