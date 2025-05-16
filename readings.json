@@ -1614,5 +1614,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/d25b1236-5c58-46c6-bc27-5def7878dcf5"
         }
+    },
+    "2025-05-16": {
+        "liturgical_week": "Friday of the Fourth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles13,26-33.",
+                "reading": "When Paul came to Antioch in Pisidia, he said in the synagogue:   \"My brothers, children of the family of Abraham,  and those others among you who are God-fearing,  to us this word of salvation has been sent.\nThe inhabitants of Jerusalem and their leaders failed to recognize him, and by condemning him they fulfilled the oracles of the prophets that are read sabbath after sabbath.\nFor even though they found no grounds for a death sentence, they asked Pilate to have him put to death,\nand when they had accomplished all that was written about him, they took him down from the tree and placed him in a tomb.\nBut God raised him from the dead,\nand for many days he appeared to those who had come up with him from Galilee to Jerusalem. These are (now) his witnesses before the people.\nWe ourselves are proclaiming this good news to you that what God promised our ancestors\nhe has brought to fulfillment for us, (their) children, by raising up Jesus, as it is written in the second psalm, 'You are my son; this day I have begotten you.'\""
+            },
+            "Psalm": {
+                "title": "Psalms2,6-7.8-9.10-11.",
+                "reading": "\"I myself have set up my kingon Zion, my holy mountain.\"\nI will proclaim the decree of the LORD:The LORD said to me, \"You are my Son;this day I have begotten you.\"\n\"Ask of me and I will give you the nations for an inheritanceand the ends of the earth for your possession.\nYou shall rule them with an iron rod;you shall shatter them like an earthen dish.\"\nAnd now, O kings, give heed;take warning, you rulers of the earth.\nServe the LORD with fear, and rejoice before him;with trembling rejoice."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John14,1-6.",
+                "reading": "Jesus said to his disciples:  \"Do not let your hearts be troubled.  You have faith in God; have faith also in me.\nIn my Father's house there are many dwelling places. If there were not, would I have told you that I am going to prepare a place for you?\nAnd if I go and prepare a place for you, I will come back again and take you to myself, so that where I am you also may be.\nWhere (I) am going you know the way.\"\nThomas said to him, \"Master, we do not know where you are going; how can we know the way?\"\nJesus said to him, \"I am the way and the truth and the life. No one comes to the Father except through me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Vladimir Ghika",
+            "title": "Priest and Martyr († 1954)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/60d85fa6-ce22-4f21-af60-1d7aca21180a"
+        }
     }
 }
