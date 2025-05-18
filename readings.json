@@ -1658,5 +1658,31 @@
             "title": "Foundress (1783-1854)",
             "profile_link": "https://dailygospel.org/AM/display-saint/91fe8cae-96d1-4fbb-b5d2-d65c55def002"
         }
+    },
+    "2025-05-18": {
+        "liturgical_week": "Fifth Sunday of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles14,21b-27.",
+                "reading": "After Paul and Barnabas had proclaimed the good news to that city and made a considerable number of disciples, they returned to Lystra and to Iconium and to Antioch.\nThey strengthened the spirits of the disciples and exhorted them to persevere in the faith, saying, \"It is necessary for us to undergo many hardships to enter the kingdom of God.\"\nThey appointed presbyters for them in each church and, with prayer and fasting, commended them to the Lord in whom they had put their faith.\nThen they traveled through Pisidia and reached Pamphylia.\nAfter proclaiming the word at Perga they went down to Attalia.\nFrom there they sailed to Antioch, where they had been commended to the grace of God for the work they had now accomplished.\nAnd when they arrived, they called the church together and reported what God had done with them and how he had opened the door of faith to the Gentiles."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),8-9.10-11.12-13ab.",
+                "reading": "The LORD is gracious and merciful,slow to anger and of great kindness.\nThe LORD is good to alland compassionate toward all his works.\nLet all your works give you thanks, O LORD,and let your faithful ones bless you.\nLet them discourse of the glory of your Kingdomand speak of your might.\nMaking known to men your mightand the glorious splendor of your Kingdom.\nYour Kingdom is a Kingdom for all ages,\nand your dominion endures through all generations."
+            },
+            "Second_Reading": {
+                "title": "Book of Revelation21,1-5a.",
+                "reading": "Then I, John, saw a new heaven and a new earth. The former heaven and the former earth had passed away, and the sea was no more.\nI also saw the holy city, a new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.\nI heard a loud voice from the throne saying, \"Behold, God's dwelling is with the human race. He will dwell with them and they will be his people and God himself will always be with them (as their God).\nHe will wipe every tear from their eyes, and there shall be no more death or mourning, wailing or pain, (for) the old order has passed away.\"\nThe one who sat on the throne said, \"Behold, I make all things new.\" Then he said, \"Write these words down, for they are trustworthy and true.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John13,31-33a.34-35.",
+                "reading": "When Judas had left them, Jesus said, “Now is the Son of Man glorified, and God is glorified in him.\n(If God is glorified in him,) God will also glorify him in himself, and he will glorify him at once.\nMy children, I will be with you only a little while longer. You will look for me, and as I told the Jews, 'Where I go you cannot come,' so now I say it to you.\nI give you a new commandment: love one another. As I have loved you, so you also should love one another.\nThis is how all will know that you are my disciples, if you have love for one another.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Venantius",
+            "title": "Martyr († 250)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/299480cd-ee10-47b1-b26d-3a239d747db7"
+        }
     }
 }
