@@ -1706,5 +1706,27 @@
             "title": "Pope (1221-1296)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3df403ea-0bc4-4258-9ede-743661fa8dd1"
         }
+    },
+    "2025-05-20": {
+        "liturgical_week": "Tuesday of the Fifth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles14,19-28.",
+                "reading": "In those days, some Jews from Antioch and Iconium arrived and won over the crowds.  They stoned Paul and dragged him out of the city, supposing that he was dead.\nBut when the disciples gathered around him, he got up and entered the city. On the following day he left with Barnabas for Derbe.\nAfter they had proclaimed the good news to that city and made a considerable number of disciples, they returned to Lystra and to Iconium and to Antioch.\nThey strengthened the spirits of the disciples and exhorted them to persevere in the faith, saying, \"It is necessary for us to undergo many hardships to enter the kingdom of God.\"\nThey appointed presbyters for them in each church and, with prayer and fasting, commended them to the Lord in whom they had put their faith.\nThen they traveled through Pisidia and reached Pamphylia.\nAfter proclaiming the word at Perga they went down to Attalia.\nFrom there they sailed to Antioch, where they had been commended to the grace of God for the work they had now accomplished.\nAnd when they arrived, they called the church together and reported what God had done with them and how he had opened the door of faith to the Gentiles.\nThen they spent no little time with the disciples."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),10-11.12-13ab.21.",
+                "reading": "Let all your works give you thanks, O LORD,and let your faithful ones bless you.\nLet them discourse of the glory of your Kingdomand speak of your might.\nMaking known to men your mightand the glorious splendor of your Kingdom.\nYour Kingdom is a Kingdom for all ages,\nand your dominion endures through all generations.\nMay my mouth speak the praise of the LORD,and may all flesh bless his holy name forever and ever."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John14,27-31a.",
+                "reading": "Jesus said to his disciples: “Peace I leave with you; my peace I give to you. Not as the world gives do I give it to you. Do not let your hearts be troubled or afraid.\nYou heard me tell you, 'I am going away and I will come back to you.' If you loved me, you would rejoice that I am going to the Father; for the Father is greater than I.\nAnd now I have told you this before it happens, so that when it happens you may believe.\nI will no longer speak much with you, for the ruler of the world is coming. He has no power over me,\nbut the world must know that I love the Father and that I do just as the Father has commanded me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bernardine of Siena",
+            "title": "Priest (1380-1444)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e9edd53b-8fa5-49ef-a4a2-de46d29236b6"
+        }
     }
 }
