@@ -1728,5 +1728,27 @@
             "title": "Priest (1380-1444)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e9edd53b-8fa5-49ef-a4a2-de46d29236b6"
         }
+    },
+    "2025-05-21": {
+        "liturgical_week": "Wednesday of the Fifth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles15,1-6.",
+                "reading": "Some who had come down from Judea were instructing the brothers, \"Unless you are circumcised according to the Mosaic practice, you cannot be saved.\"\nBecause there arose no little dissension and debate by Paul and Barnabas with them, it was decided that Paul, Barnabas, and some of the others should go up to Jerusalem to the apostles and presbyters about this question.\nThey were sent on their journey by the church, and passed through Phoenicia and Samaria telling of the conversion of the Gentiles, and brought great joy to all the brothers.\nWhen they arrived in Jerusalem, they were welcomed by the church, as well as by the apostles and the presbyters, and they reported what God had done with them.\nBut some from the party of the Pharisees who had become believers stood up and said, \"It is necessary to circumcise them and direct them to observe the Mosaic law.\"\nThe apostles and the presbyters met together to see about this matter."
+            },
+            "Psalm": {
+                "title": "Psalms122(121),1-2.3-4a.4b-5.",
+                "reading": "I rejoiced because they said to me,\"We will go up to the house of the LORD.\"\nAnd now we have set footwithin your gates, O Jerusalem.\nJerusalem, built as a citywith compact unity.\nTo it the tribes go up,\nTo it the tribes go up,the tribes of the LORD.\nIn it are set up judgment seats,seats for the house of David."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John15,1-8.",
+                "reading": "Jesus said to his disciples: \"I am the true vine, and my Father is the vine grower.\nHe takes away every branch in me that does not bear fruit, and everyone that does he prunes so that it bears more fruit.\nYou are already pruned because of the word that I spoke to you.\nRemain in me, as I remain in you. Just as a branch cannot bear fruit on its own unless it remains on the vine, so neither can you unless you remain in me.\nI am the vine, you are the branches. Whoever remains in me and I in him will bear much fruit, because without me you can do nothing.\nAnyone who does not remain in me will be thrown out like a branch and wither; people will gather them and throw them into a fire and they will be burned.\nIf you remain in me and my words remain in you, ask for whatever you want and it will be done for you.\nBy this is my Father glorified, that you bear much fruit and become my disciples.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Cristobal Magallanes Jara",
+            "title": "Martyr & Priest (1869-1927)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8adc7390-04cc-4c3d-baaa-bbff5b22ba16"
+        }
     }
 }
