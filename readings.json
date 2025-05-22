@@ -1750,5 +1750,27 @@
             "title": "Martyr & Priest (1869-1927)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8adc7390-04cc-4c3d-baaa-bbff5b22ba16"
         }
+    },
+    "2025-05-22": {
+        "liturgical_week": "Thursday of the Fifth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles15,7-21.",
+                "reading": "After much debate had taken place, Peter got up and said to them, \"My brothers, you are well aware that from early days God made his choice among you that through my mouth the Gentiles would hear the word of the gospel and believe.\nAnd God, who knows the heart, bore witness by granting them the holy Spirit just as he did us.\nHe made no distinction between us and them, for by faith he purified their hearts.\nWhy, then, are you now putting God to the test by placing on the shoulders of the disciples a yoke that neither our ancestors nor we have been able to bear?\nOn the contrary, we believe that we are saved through the grace of the Lord Jesus, in the same way as they.\"\nThe whole assembly fell silent, and they listened while Paul and Barnabas described the signs and wonders God had worked among the Gentiles through them.\nAfter they had fallen silent, James responded, \"My brothers, listen to me.\nSymeon has described how God first concerned himself with acquiring from among the Gentiles a people for his name.\nThe words of the prophets agree with this, as is written:\n'After this I shall return and rebuild the fallen hut of David; from its ruins I shall rebuild it and raise it up again,\nso that the rest of humanity may seek out the Lord, even all the Gentiles on whom my name is invoked. Thus says the Lord who accomplishes these things,\nknown from of old.'\nIt is my judgment, therefore, that we ought to stop troubling the Gentiles who turn to God,\nbut tell them by letter to avoid pollution from idols, unlawful marriage, the meat of strangled animals, and blood.\nFor Moses, for generations now, has had those who proclaim him in every town, as he has been read in the synagogues every sabbath.\""
+            },
+            "Psalm": {
+                "title": "Psalms96(95),1-2a.2b-3.10.",
+                "reading": "Sing to the LORD a new song;sing to the LORD, all you lands.\nSing to the LORD; bless his name.\nAnnounce his salvation, day after day.\nTell his glory among the nations;among all peoples, his wondrous deeds.\nSay among the nations: The LORD is king.He has made the world firm, not to be moved;he governs the peoples with equity."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John15,9-11.",
+                "reading": "Jesus said to his disciples: \"As the Father loves me, so I also love you. Remain in my love.\nIf you keep my commandments, you will remain in my love, just as I have kept my Father's commandments and remain in his love.\nI have told you this so that my joy may be in you and your joy may be complete.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Rita of Cascia",
+            "title": "Widow & Religious (c. 1386-1456)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/50cdbbe5-7044-4dac-8a79-09c38c0d84fa"
+        }
     }
 }
