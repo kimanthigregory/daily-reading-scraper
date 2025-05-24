@@ -1794,5 +1794,27 @@
             "title": "Bishop & Martyr (+ 608)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d931ae1d-819a-4b23-a4e4-28069c5d0f87"
         }
+    },
+    "2025-05-24": {
+        "liturgical_week": "Saturday of the Fifth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles16,1-10.",
+                "reading": "Paul reached (also) Derbe and Lystra where there was a disciple named Timothy, the son of a Jewish woman who was a believer, but his father was a Greek.\nThe brothers in Lystra and Iconium spoke highly of him,\nand Paul wanted him to come along with him. On account of the Jews of that region, Paul had him circumcised, for they all knew that his father was a Greek.\nAs they traveled from city to city, they handed on to the people for observance the decisions reached by the apostles and presbyters in Jerusalem.\nDay after day the churches grew stronger in faith and increased in number.\nThey traveled through the Phrygian and Galatian territory because they had been prevented by the holy Spirit from preaching the message in the province of Asia.\nWhen they came to Mysia, they tried to go on into Bithynia, but the Spirit of Jesus did not allow them,\nso they crossed through Mysia and came down to Troas.\nDuring (the) night Paul had a vision. A Macedonian stood before him and implored him with these words, \"Come over to Macedonia and help us.\"\nWhen he had seen the vision, we sought passage to Macedonia at once, concluding that God had called us to proclaim the good news to them."
+            },
+            "Psalm": {
+                "title": "Psalms100(99),1-2.3.5.",
+                "reading": "Sing joyfully to the LORD, all you lands;\nserve the LORD with gladness;come before him with joyful song.\nKnow that the LORD is God;he made us, his we are;his people, the flock he tends.\nThe LORD is good:his kindness endures forever,and his faithfulness, to all generations."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John15,18-21.",
+                "reading": "Jesus said to his disciples: \"If the world hates you, realize that it hated me first.\nIf you belonged to the world, the world would love its own; but because you do not belong to the world, and I have chosen you out of the world, the world hates you.\nRemember the word I spoke to you, 'No slave is greater than his master.' If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.\nAnd they will do all these things to you on account of my name, because they do not know the one who sent me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Donatian & Rogatian",
+            "title": "Martyrs (c. 287)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b17d0635-8252-4517-b8f7-6dc93c80c594"
+        }
     }
 }
