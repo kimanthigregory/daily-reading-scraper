@@ -1864,5 +1864,27 @@
             "title": "Priest (1515-1595) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/7115bf36-030e-4c55-931a-82e10a61f777"
         }
+    },
+    "2025-05-27": {
+        "liturgical_week": "Tuesday of the Sixth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles16,22-34.",
+                "reading": "The crowd in Philippi joined in the attack on Paul and Silas, and the magistrates had them stripped and ordered them to be beaten with rods.\nAfter inflicting many blows on them, they threw them into prison and instructed the jailer to guard them securely.\nWhen he received these instructions, he put them in the innermost cell and secured their feet to a stake.\nAbout midnight, while Paul and Silas were praying and singing hymns to God as the prisoners listened,\nthere was suddenly such a severe earthquake that the foundations of the jail shook; all the doors flew open, and the chains of all were pulled loose.\nWhen the jailer woke up and saw the prison doors wide open, he drew (his) sword and was about to kill himself, thinking that the prisoners had escaped.\nBut Paul shouted out in a loud voice, \"Do no harm to yourself; we are all here.\"\nHe asked for a light and rushed in and, trembling with fear, he fell down before Paul and Silas.\nThen he brought them out and said, \"Sirs, what must I do to be saved?\"\nAnd they said, \"Believe in the Lord Jesus and you and your household will be saved.\"\nSo they spoke the word of the Lord to him and to everyone in his house.\nHe took them in at that hour of the night and bathed their wounds; then he and all his family were baptized at once.\nHe brought them up into his house and provided a meal and with his household rejoiced at having come to faith in God."
+            },
+            "Psalm": {
+                "title": "Psalms138(137),1-2ab.2cde-3.7c.8.",
+                "reading": "I will give thanks to you, O LORD, with all my heart,for you have heard the words of my mouth;in the presence of the angels I will sing your praise;\nI will worship at your holy temple.\nI will give thanks to your name,\nbecause of your kindness and your truth.\nfor you have made great above all things\nyour name and your promise.\nWhen I called, you answered me;you built up strength within me.\nYour right hand saves me.\nThe LORD will complete what he has done for me;your kindness, O LORD, endures forever;forsake not the work of your hands."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John16,5-11.",
+                "reading": "Jesus said to his disciples: \"Now I am going to the one who sent me, and not one of you asks me, 'Where are you going?'\nBut because I told you this, grief has filled your hearts.\nBut I tell you the truth, it is better for you that I go. For if I do not go, the Advocate will not come to you. But if I go, I will send him to you.\nAnd when he comes he will convict the world in regard to sin and righteousness and condemnation:\nsin, because they do not believe in me;\nrighteousness, because I am going to the Father and you will no longer see me;\ncondemnation, because the ruler of this world has been condemned.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Augustine of Canterbury",
+            "title": "Bishop († 605)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2ee18ca9-1a62-4c89-9cbe-2a61d8e55d22"
+        }
     }
 }
