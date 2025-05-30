@@ -1934,5 +1934,27 @@
             "title": "Religious (1865 - 1939)",
             "profile_link": "https://dailygospel.org/AM/display-saint/533d2a8f-7726-417d-a7a7-0945d9f70624"
         }
+    },
+    "2025-05-30": {
+        "liturgical_week": "Friday of the Sixth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles18,9-18.",
+                "reading": "One night while Paul was in Corinth, the Lord said to him in a vision , \"Do not be afraid. Go on speaking, and do not be silent,\nfor I am with you. No one will attack and harm you, for I have many people in this city.\"\nHe settled there for a year and a half and taught the word of God among them.\nBut when Gallio was proconsul of Achaia, the Jews rose up together against Paul and brought him to the tribunal,\nsaying, \"This man is inducing people to worship God contrary to the law.\"\nWhen Paul was about to reply, Gallio spoke to the Jews, \"If it were a matter of some crime or malicious fraud, I should with reason hear the complaint of you Jews;\nbut since it is a question of arguments over doctrine and titles and your own law, see to it yourselves. I do not wish to be a judge of such matters.\"\nAnd he drove them away from the tribunal.\nThey all seized Sosthenes, the synagogue official, and beat him in full view of the tribunal. But none of this was of concern to Gallio.\nPaul remained for quite some time, and after saying farewell to the brothers he sailed for Syria, together with Priscilla and Aquila. At Cenchreae he had his hair cut because he had taken a vow."
+            },
+            "Psalm": {
+                "title": "Psalms47(46),2-3.4-5.6-7.",
+                "reading": "All you peoples, clap your hands;shout to God with cries of gladness.\nFor the LORD, the Most High, the awesome,is the great king over all the earth.\nHe brings people under us;nations under our feet.\nHe chooses for us our inheritance,the glory of Jacob, whom he loves.\nGod mounts his throne amid shouts of joy;the LORD, amid trumpet blasts.\nSing praise to God, sing praise;sing praise to our king, sing praise."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John16,20-23a.",
+                "reading": "Jesus said to his disciples: \"Amen, amen, I say to you, you will weep and mourn, while the world rejoices; you will grieve, but your grief will become joy.\nWhen a woman is in labor, she is in anguish because her hour has arrived; but when she has given birth to a child, she no longer remembers the pain because of her joy that a child has been born into the world.\nSo you also are now in anguish. But I will see you again, and your hearts will rejoice, and no one will take your joy away from you.\nOn that day you will not question me about anything. Amen, amen, I say to you, whatever you ask the Father in my name he will give you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Felix I",
+            "title": "Pope & Martyr († 274)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e2bec9f5-834d-4ec0-a461-41f40a0ecacb"
+        }
     }
 }
