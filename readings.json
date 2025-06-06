@@ -2092,5 +2092,27 @@
             "title": "Bishop and Martyr († 754) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/3949876d-56f1-439e-927f-8207f388258e"
         }
+    },
+    "2025-06-06": {
+        "liturgical_week": "Friday of the Seventh week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles25,13b-21.",
+                "reading": "King Agrippa and Bernice arrived in Caesarea on a visit to Festus.\nSince they spent several days there, Festus referred Paul's case to the king, saying, \"There is a man here left in custody by Felix.\nWhen I was in Jerusalem the chief priests and the elders of the Jews brought charges against him and demanded his condemnation.\nI answered them that it was not Roman practice to hand over an accused person before he has faced his accusers and had the opportunity to defend himself against their charge.\nSo when (they) came together here, I made no delay; the next day I took my seat on the tribunal and ordered the man to be brought in.\nHis accusers stood around him, but did not charge him with any of the crimes I suspected.\nInstead they had some issues with him about their own religion and about a certain Jesus who had died but who Paul claimed was alive.\nSince I was at a loss how to investigate this controversy, I asked if he were willing to go to Jerusalem and there stand trial on these charges.\nAnd when Paul appealed that he be held in custody for the Emperor's decision, I ordered him held until I could send him to Caesar.\""
+            },
+            "Psalm": {
+                "title": "Psalms103(102),1-2.11-12.19-20ab.",
+                "reading": "Bless the LORD, O my soul;and all my being, bless his holy name.\nBless the LORD, O my soul,and forget not all his benefits.\nFor as the heavens are high above the earth,so surpassing is his kindness toward those who fear him.\nAs far as the east is from the west,so far has he put our transgressions from us.\nThe LORD has established his throne in heaven,and his kingdom rules over all.\nBless the LORD, all you his angels,\nyou mighty in strength, who do his bidding."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John21,15-19.",
+                "reading": "After Jesus had revealed himself to his disciples and eaten breakfast with them, he said to Simon Peter, \"Simon, son of John, do you love me more than these?\" He said to him, \"Yes, Lord, you know that I love you.\" He said to him, \"Feed my lambs.\"\nHe then said to him a second time, \"Simon, son of John, do you love me?\" He said to him, \"Yes, Lord, you know that I love you.\" He said to him, \"Tend my sheep.\"\nHe said to him the third time, \"Simon, son of John, do you love me?\" Peter was distressed that he had said to him a third time, \"Do you love me?\" and he said to him, \"Lord, you know everything; you know that I love you.\" (Jesus) said to him, \"Feed my sheep.\nAmen, amen, I say to you, when you were younger, you used to dress yourself and go where you wanted; but when you grow old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.\"\nHe said this signifying by what kind of death he would glorify God. And when he had said this, he said to him, \"Follow me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Norbert",
+            "title": "Bishop (c.1080-1134)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/20fb879b-66c9-459d-8313-c450c56a50c0"
+        }
     }
 }
