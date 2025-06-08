@@ -2136,5 +2136,31 @@
             "title": "Abbot (12th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/1febb60a-4b8f-49e7-a749-871e3e9bc965"
         }
+    },
+    "2025-06-08": {
+        "liturgical_week": "Pentecost Sunday - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles2,1-11.",
+                "reading": "When the time for Pentecost was fulfilled, they were all in one place together.\nAnd suddenly there came from the sky a noise like a strong driving wind, and it filled the entire house in which they were.\nThen there appeared to them tongues as of fire, which parted and came to rest on each one of them.\nAnd they were all filled with the holy Spirit and began to speak in different tongues, as the Spirit enabled them to proclaim.\nNow there were devout Jews from every nation under heaven staying in Jerusalem.\nAt this sound, they gathered in a large crowd, but they were confused because each one heard them speaking in his own language.\nThey were astounded, and in amazement they asked, \"Are not all these people who are speaking Galileans?\nThen how does each of us hear them in his own native language?\nWe are Parthians, Medes, and Elamites, inhabitants of Mesopotamia, Judea and Cappadocia, Pontus and Asia,\nPhrygia and Pamphylia, Egypt and the districts of Libya near Cyrene, as well as travelers from Rome,\nboth Jews and converts to Judaism, Cretans and Arabs, yet we hear them speaking in our own tongues of the mighty acts of God.\""
+            },
+            "Psalm": {
+                "title": "Psalms104(103),1ab.24ac.29bc-30.31.34.",
+                "reading": "Bless the LORD, my soul!\nO LORD, my God, you are great indeed!\nHow manifold are your works, O LORD!\nthe earth is full of your creatures;\nIf you take away their breath, they perish\nand return to their dust.\nWhen you send forth your spirit, they are created,and you renew the face of the earth.\nIf you May the glory of the LORD endure forever;may the LORD be glad in his works!\nPleasing to him be my theme;I will be glad in the LORD."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans8,8-17.",
+                "reading": "Brothers and sisters: those who are in the flesh cannot please God.\nBut you are not in the flesh; on the contrary, you are in the spirit, if only the Spirit of God dwells in you. Whoever does not have the Spirit of Christ does not belong to him.\nBut if Christ is in you, although the body is dead because of sin, the spirit is alive because of righteousness.\nIf the Spirit of the one who raised Jesus from the dead dwells in you, the one who raised Christ from the dead will give life to your mortal bodies also, through his Spirit that dwells in you.\nConsequently, brothers, we are not debtors to the flesh, to live according to the flesh.\nFor if you live according to the flesh, you will die, but if by the spirit you put to death the deeds of the body, you will live.\nFor those who are led by the Spirit of God are children of God.\nFor you did not receive a spirit of slavery to fall back into fear, but you received a spirit of adoption, through which we cry, \"Abba, Father!\"\nThe Spirit itself bears witness with our spirit that we are children of God,\nand if children, then heirs, heirs of God and joint heirs with Christ, if only we suffer with him so that we may also be glorified with him."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John14,15-16.23b-26.",
+                "reading": "Jesus said to his disciples: If you love me, you will keep my commandments.\nAnd I will ask the Father, and he will give you another Advocate to be with you always,\nJesus answered and said to him, \"Whoever loves me will keep my word, and my Father will love him, and we will come to him and make our dwelling with him.\nWhoever does not love me does not keep my words; yet the word you hear is not mine but that of the Father who sent me.\nI have told you this while I am with you.\nThe Advocate, the holy Spirit that the Father will send in my name--he will teach you everything and remind you of all that (I) told you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Medard",
+            "title": "Bishop (c.457-545)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ea0cb836-87a7-4bc3-9402-5c71f8bdb358"
+        }
     }
 }
