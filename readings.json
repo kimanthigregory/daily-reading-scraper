@@ -2184,5 +2184,27 @@
             "title": "Doctor of the Church (c. 306-373)",
             "profile_link": "https://dailygospel.org/AM/display-saint/747c923f-70d5-460a-9c3a-aa958a84bb21"
         }
+    },
+    "2025-06-10": {
+        "liturgical_week": "Tuesday of the Tenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians1,18-22.",
+                "reading": "Brothers and sisters: As God is faithful, our word to you is not \"yes\" and \"no.\"\nFor the Son of God, Jesus Christ, who was proclaimed to you by us, Silvanus and Timothy and me, was not \"yes\" and \"no,\" but \"yes\" has been in him.\nFor however many are the promises of God, their Yes is in him; therefore, the Amen from us also goes through him to God for glory.\nBut the one who gives us security with you in Christ and who anointed us is God;\nhe has also put his seal upon us and given the Spirit in our hearts as a first installment."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),129.130.131.132.133.135.",
+                "reading": "Wonderful are your decrees;therefore I observe them.\nThe revelation of your words sheds light,giving understanding to the simple.\nI gasp with open mouth,in my yearning for your commands.\nTurn to me in pityas you turn to those who love your name.\nSteady my feet in accord with your promise;do not let iniquity lead me.\nLet your countenance shine upon your servant,and teach me your statutes."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,13-16.",
+                "reading": "Jesus said to his disciples: \"You are the salt of the earth. But if salt loses its taste, with what can it be seasoned? It is no longer good for anything but to be thrown out and trampled underfoot.\nYou are the light of the world. A city set on a mountain cannot be hidden.\nNor do they light a lamp and then put it under a bushel basket; it is set on a lampstand, where it gives light to all in the house.\nJust so, your light must shine before others, that they may see your good deeds and glorify your heavenly Father.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Margaret of Scotland",
+            "title": "Queen († 1093)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cdcad056-7e18-4534-bc48-d5e6f4774c6f"
+        }
     }
 }
