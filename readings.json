@@ -2250,5 +2250,27 @@
             "title": "Priest († 1479)",
             "profile_link": "https://dailygospel.org/AM/display-saint/7510c996-a766-4bb8-bac0-24b45ac04ef5"
         }
+    },
+    "2025-06-13": {
+        "liturgical_week": "Friday of the Tenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians4,7-15.",
+                "reading": "Brothers and sisters: We hold this treasure in earthen vessels, that the surpassing power may be of God and not from us.\nWe are afflicted in every way, but not constrained; perplexed, but not driven to despair;\npersecuted, but not abandoned; struck down, but not destroyed;\nalways carrying about in the body the dying of Jesus, so that the life of Jesus may also be manifested in our body.\nFor we who live are constantly being given up to death for the sake of Jesus, so that the life of Jesus may be manifested in our mortal flesh.\nSo death is at work in us, but life in you.\nSince, then, we have the same spirit of faith, according to what is written, \"I believed, therefore I spoke,\" we too believe and therefore speak,\nknowing that the one who raised the Lord Jesus will raise us also with Jesus and place us with you in his presence.\nEverything indeed is for you, so that the grace bestowed in abundance on more and more people may cause the thanksgiving to overflow for the glory of God."
+            },
+            "Psalm": {
+                "title": "Psalms116(115),10-11.15-16.17-18.",
+                "reading": "I believed, even when I said,“I am greatly afflicted”;\nI said in my alarm,“No man is dependable.”\nPrecious in the eyes of the LORDis the death of his faithful ones.\nI am your servant; the son of your handmaid;you have loosed my bonds.\nTo you will I offer sacrifice of thanksgiving,and I will call upon the name of the LORD.\nMy vows to the LORD I will payin the presence of all his people."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,27-32.",
+                "reading": "Jesus said to his disciples: \"You have heard that it was said, 'You shall not commit adultery.'\nBut I say to you, everyone who looks at a woman with lust has already committed adultery with her in his heart.\nIf your right eye causes you to sin, tear it out and throw it away. It is better for you to lose one of your members than to have your whole body thrown into Gehenna.\nAnd if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one of your members than to have your whole body go into Gehenna.\nIt was also said, 'Whoever divorces his wife must give her a bill of divorce.'\nBut I say to you, whoever divorces his wife (unless the marriage is unlawful) causes her to commit adultery, and whoever marries a divorced woman commits adultery.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Anthony of Padua",
+            "title": "Priest and Doctor of the Church (1195-1231)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3afcd9df-3703-4464-8592-ff1edf6c3b62"
+        }
     }
 }
