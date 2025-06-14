@@ -2272,5 +2272,27 @@
             "title": "Priest and Doctor of the Church (1195-1231)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3afcd9df-3703-4464-8592-ff1edf6c3b62"
         }
+    },
+    "2025-06-14": {
+        "liturgical_week": "Saturday of the Tenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians5,14-21.",
+                "reading": "Brothers and sisters: The love of Christ impels us, once we have come to the conviction that one died for all; therefore, all have died.\nHe indeed died for all, so that those who live might no longer live for themselves but for him who for their sake died and was raised.\nConsequently, from now on we regard no one according to the flesh; even if we once knew Christ according to the flesh, yet now we know him so no longer.\nSo whoever is in Christ is a new creation: the old things have passed away; behold, new things have come.\nAnd all this is from God, who has reconciled us to himself through Christ and given us the ministry of reconciliation,\nnamely, God was reconciling the world to himself in Christ, not counting their trespasses against them and entrusting to us the message of reconciliation.\nSo we are ambassadors for Christ, as if God were appealing through us. We implore you on behalf of Christ, be reconciled to God.\nFor our sake he made him to be sin who did not know sin, so that we might become the righteousness of God in him."
+            },
+            "Psalm": {
+                "title": "Psalms103(102),1-2.3-4.9-10.11-12.",
+                "reading": "Bless the LORD, O my soul;and all my being, bless his holy name.\nBless the LORD, O my soul,and forget not all his benefits.\nHe pardons all your iniquities,he heals all your ills.\nHe redeems your life from destruction,he crowns you with kindness and compassion.\nHe will not always chide,nor does he keep his wrath forever.\nNot according to our sins does he deal with us,nor does he requite us according to our crimes.\nFor as the heavens are high above the earth,so surpassing is his kindness toward those who fear him.\nAs far as the east is from the west,so far has he put our transgressions from us."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,33-37.",
+                "reading": "Jesus said to his disciples: \"You have heard that it was said to your ancestors, 'Do not take a false oath, but make good to the Lord all that you vow.'\nBut I say to you, do not swear at all; not by heaven, for it is God's throne;\nnor by the earth, for it is his footstool; nor by Jerusalem, for it is the city of the great King.\nDo not swear by your head, for you cannot make a single hair white or black.\nLet your 'Yes' mean 'Yes,' and your 'No' mean 'No.' Anything more is from the evil one.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Elisha",
+            "title": "Prophet (9th century BC)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e237189f-f536-4ec7-8a1b-1f760b95db61"
+        }
     }
 }
