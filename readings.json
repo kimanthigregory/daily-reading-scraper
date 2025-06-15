@@ -2294,5 +2294,31 @@
             "title": "Prophet (9th century BC)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e237189f-f536-4ec7-8a1b-1f760b95db61"
         }
+    },
+    "2025-06-15": {
+        "liturgical_week": "The Most Holy Trinity - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Proverbs8,22-31.",
+                "reading": "\"The LORD begot me, the first-born of his ways, the forerunner of his prodigies of long ago;\nFrom of old I was poured forth, at the first, before the earth.\nWhen there were no depths I was brought forth, when there were no fountains or springs of water;\nBefore the mountains were settled into place, before the hills, I was brought forth;\nWhile as yet the earth and the fields were not made, nor the first clods of the world.\n\"When he established the heavens I was there, when he marked out the vault over the face of the deep;\nWhen he made firm the skies above, when he fixed fast the foundations of the earth;\nWhen he set for the sea its limit, so that the waters should not transgress his command;\nThen was I beside him as his craftsman, and I was his delight day by day, Playing before him all the while,\nplaying on the surface of his earth; and I found delight in the sons of men."
+            },
+            "Psalm": {
+                "title": "Psalms8,4-5.6-7.8-9.",
+                "reading": "When I behold your heavens, the work of your fingers,the moon and the stars which you set in place—\nWhat is man that you should be mindful of him,or the son of man that you should care for him?\nYou have made him little less than the angels,and crowned him with glory and honor.\nYou have given him rule over the works of your hands,putting all things under his feet.\nAll sheep and oxen,yes, and the beasts of the field,\nThe birds of the air, the fishes of the sea,and whatever swims the paths of the seas."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans5,1-5.",
+                "reading": "Brothers and sisters: Since we have been justified by faith,  we have peace with God through our Lord Jesus Christ,\nthrough whom we have gained access (by faith) to this grace in which we stand, and we boast in hope of the glory of God.\nNot only that, but we even boast of our afflictions, knowing that affliction produces endurance,\nand endurance, proven character, and proven character, hope,\nand hope does not disappoint, because the love of God has been poured out into our hearts through the holy Spirit that has been given to us."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John16,12-15.",
+                "reading": "Jesus said to his disciples: \"I have much more to tell you, but you cannot bear it now.\nBut when he comes, the Spirit of truth, he will guide you to all truth. He will not speak on his own, but he will speak what he hears, and will declare to you the things that are coming.\nHe will glorify me, because he will take from what is mine and declare it to you.\nEverything that the Father has is mine; for this reason I told you that he will take from what is mine and declare it to you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Aurelian",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6588ac4d-3044-447b-84da-b42256a46586"
+        }
     }
 }
