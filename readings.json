@@ -2342,5 +2342,27 @@
             "title": "Priest (1597-1640)",
             "profile_link": "https://dailygospel.org/AM/display-saint/04551985-ecdf-47bf-bb72-5755f923ea9c"
         }
+    },
+    "2025-06-17": {
+        "liturgical_week": "Tuesday of the Eleventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians8,1-9.",
+                "reading": "We want you to know, brothers and sisters, of the grace of God that has been given to the churches of Macedonia,\nfor in a severe test of affliction, the abundance of their joy and their profound poverty overflowed in a wealth of generosity on their part.\nFor according to their means, I can testify, and beyond their means, spontaneously,\nthey begged us insistently for the favor of taking part in the service to the holy ones,\nand this, not as we expected, but they gave themselves first to the Lord and to us through the will of God,\nso that we urged Titus that, as he had already begun, he should also complete for you this gracious act also.\nNow as you excel in every respect, in faith, discourse, knowledge, all earnestness, and in the love we have for you, may you excel in this gracious act also.\nI say this not by way of command, but to test the genuineness of your love by your concern for others.\nFor you know the gracious act of our Lord Jesus Christ, that for your sake he became poor although he was rich, so that by his poverty you might become rich."
+            },
+            "Psalm": {
+                "title": "Psalms146(145),2.5-6.7.8-9a.",
+                "reading": "Praise the LORD, my soul!I will praise the LORD all my life;I will sing praise to my God while I live.\nBlessed he whose help is the God of Jacob,whose hope is in the LORD, his God,\nWho made heaven and earth,the sea and all that is in them.Who keeps faith forever,\nsecures justice for the oppressed,gives food to the hungry.The LORD sets captives free.\nThe LORD gives sight to the blind.The LORD raises up those who were bowed down;the LORD loves the just.\nThe LORD protects strangers."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,43-48.",
+                "reading": "Jesus said to his disciples: \"You have heard that it was said, You shall love your neighbor and hate your enemy.\nBut I say to you, love your enemies, and pray for those who persecute you,\nthat you may be children of your heavenly Father, for he makes his sun rise on the bad and the good, and causes rain to fall on the just and the unjust.\nFor if you love those who love you, what recompense will you have? Do not the tax collectors do the same?\nAnd if you greet your brothers only, what is unusual about that? Do not the pagans do the same?\nSo be perfect, just as your heavenly Father is perfect.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Herve",
+            "title": "Abbot (6th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/5a50639b-372c-42d3-af73-1c2cff14f690"
+        }
     }
 }
