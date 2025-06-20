@@ -2408,5 +2408,27 @@
             "title": "(1270-1340)",
             "profile_link": "https://dailygospel.org/AM/display-saint/843df954-3245-4a42-b1b9-3df25566d3b0"
         }
+    },
+    "2025-06-20": {
+        "liturgical_week": "Friday of the Eleventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians11,18.21b-30.",
+                "reading": "Brothers and sisters: since many boast according to the flesh, I too will boast.\nTo my shame I say that we were too weak! But what anyone dares to boast of (I am speaking in foolishness) I also dare.\nAre they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I.\nAre they ministers of Christ? (I am talking like an insane person.) I am still more, with far greater labors, far more imprisonments, far worse beatings, and numerous brushes with death.\nFive times at the hands of the Jews I received forty lashes minus one.\nThree times I was beaten with rods, once I was stoned, three times I was shipwrecked, I passed a night and a day on the deep;\non frequent journeys, in dangers from rivers, dangers from robbers, dangers from my own race, dangers from Gentiles, dangers in the city, dangers in the wilderness, dangers at sea, dangers among false brothers;\nin toil and hardship, through many sleepless nights, through hunger and thirst, through frequent fastings, through cold and exposure.\nAnd apart from these things, there is the daily pressure upon me of my anxiety for all the churches.\nWho is weak, and I am not weak? Who is led to sin, and I am not indignant?\nIf I must boast, I will boast of the things that show my weakness."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2-3.4-5.6-7.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nLet my soul glory in the LORD;the lowly will hear me and be glad.\nGlorify the LORD with me,let us together extol his name.\nI sought the LORD, and he answered meand delivered me from all my fears.\nLook to him that you may be radiant with joy,and your faces may not blush with shame.\nWhen the poor one called out, the LORD heard,and from all his distress he saved him."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew6,19-23.",
+                "reading": "Jesus said to his disciples: \"Do not store up for yourselves treasures on earth, where moth and decay destroy, and thieves break in and steal.\nBut store up treasures in heaven, where neither moth nor decay destroys, nor thieves break in and steal.\nFor where your treasure is, there also will your heart be.\nThe lamp of the body is the eye. If your eye is sound, your whole body will be filled with light;\nbut if your eye is bad, your whole body will be in darkness. And if the light in you is darkness, how great will the darkness be.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Silverius",
+            "title": "Pope and Martyr († 538)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b1967762-dfca-4bea-9951-9ecf6326bd38"
+        }
     }
 }
