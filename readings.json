@@ -2452,5 +2452,31 @@
             "title": "(1568-1591)",
             "profile_link": "https://dailygospel.org/AM/display-saint/cd3506c2-154e-4129-9853-ab580f95879b"
         }
+    },
+    "2025-06-22": {
+        "liturgical_week": "The Most Holy Body and Blood of Christ - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Genesis14,18-20.",
+                "reading": "In those days, Melchizedek, king of Salem, brought out bread and wine, and being a priest of God Most High, he blessed Abram with these words:\nBlessed be Abram by God Most High, the creator of heaven and earth;\nAnd blessed be God Most High, who delivered your foes into your hand.\" Then Abram gave him a tenth of everything."
+            },
+            "Psalm": {
+                "title": "Psalms110(109),1.2.3.4.",
+                "reading": "The LORD said to my Lord: “Sit at my right handtill I make your enemies your footstool.”\nThe scepter of your power the LORD will stretch forth from Zion:“Rule in the midst of your enemies.”\n“Yours is princely power in the day of your birth, in holy splendor;before the daystar, like the dew, I have begotten you.”\nThe LORD has sworn, and he will not repent:“You are a priest forever, according to the order of Melchizedek.”"
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians11,23-26.",
+                "reading": "Brothers and sisters:  I received from the Lord what I also handed on to you,  that the Lord Jesus, on the night he was handed over,  took bread,\nand, after he had given thanks, broke it and said, \"This is my body that is for you. Do this in remembrance of me.\"\nIn the same way also the cup, after supper, saying, \"This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.\"\nFor as often as you eat this bread and drink the cup, you proclaim the death of the Lord until he comes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,11b-17.",
+                "reading": "Jesus spoke to the crowds about the kingdom of God, and he healed those who needed to be cured.\nAs the day was drawing to a close, the Twelve approached him and said, \"Dismiss the crowd so that they can go to the surrounding villages and farms and find lodging and provisions; for we are in a deserted place here.\"\nHe said to them, \"Give them some food yourselves.\" They replied, \"Five loaves and two fish are all we have, unless we ourselves go and buy food for all these people.\"\nNow the men there numbered about five thousand. Then he said to his disciples, \"Have them sit down in groups of (about) fifty.\"\nThey did so and made them all sit down.\nThen taking the five loaves and the two fish, and looking up to heaven, he said the blessing over them, broke them, and gave them to the disciples to set before the crowd.\nThey all ate and were satisfied. And when the leftover fragments were picked up, they filled twelve wicker baskets."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Thomas More",
+            "title": "Martyr (1478-1535)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2dd08d57-4ea8-44f4-8d05-9f778d90c3b7"
+        }
     }
 }
