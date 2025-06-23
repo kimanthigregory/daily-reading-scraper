@@ -2478,5 +2478,27 @@
             "title": "Martyr (1478-1535)",
             "profile_link": "https://dailygospel.org/AM/display-saint/2dd08d57-4ea8-44f4-8d05-9f778d90c3b7"
         }
+    },
+    "2025-06-23": {
+        "liturgical_week": "Monday of the Twelfth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Genesis12,1-9.",
+                "reading": "The LORD said to Abram: \"Go forth from the land of your kinsfolk and from your father's house to a land that I will show you.\nI will make of you a great nation, and I will bless you; I will make your name great, so that you will be a blessing.\nI will bless those who bless you and curse those who curse you. All the communities of the earth shall find blessing in you.\"\nAbram went as the LORD directed him, and Lot went with him. Abram was seventy-five years old when he left Haran.\nAbram took his wife Sarai, his brother's son Lot, all the possessions that they had accumulated, and the persons they had acquired in Haran, and they set out for the land of Canaan. When they came to the land of Canaan,\nAbram passed through the land as far as the sacred place at Shechem, by the terebinth of Moreh. (The Canaanites were then in the land.)\nThe LORD appeared to Abram and said, \"To your descendants I will give this land.\" So Abram built an altar there to the LORD who had appeared to him.\nFrom there he moved on to the hill country east of Bethel, pitching his tent with Bethel to the west and Ai to the east. He built an altar there to the LORD and invoked the LORD by name.\nThen Abram journeyed on by stages to the Negeb."
+            },
+            "Psalm": {
+                "title": "Psalms33(32),12-13.18-19.20.22.",
+                "reading": "Blessed the nation whose God is the LORD,the people he has chosen for his own inheritance.\nFrom heaven the LORD looks down;He sees all mankind.\nSee, the eyes of the LORD are upon those who fear him,upon those who hope for his kindness,\nTo deliver them from deathand preserve them in spite of famine.\nOur soul waits for the LORD,who is our help and our shield,\nMay your kindness, O LORD, be upon uswho have put our hope in you."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew7,1-5.",
+                "reading": "Jesus said to his disciples: \"Stop judging, that you may not be judged.\nFor as you judge, so will you be judged, and the measure with which you measure will be measured out to you.\nWhy do you notice the splinter in your brother's eye, but do not perceive the wooden beam in your own eye?\nHow can you say to your brother, 'Let me remove that splinter from your eye,' while the wooden beam is in your eye?\nYou hypocrite, remove the wooden beam from your eye first; then you will see clearly to remove the splinter from your brother's eye.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Etheldreda",
+            "title": "Abbess (7th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/82377761-1191-4c4c-8ece-35e0ee69acb0"
+        }
     }
 }
