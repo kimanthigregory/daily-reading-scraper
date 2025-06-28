@@ -2592,5 +2592,31 @@
             "title": "Bishop and Doctor of the Church († 444)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e014508c-cc01-4b60-b5b9-98ab73403427"
         }
+    },
+    "2025-06-28": {
+        "liturgical_week": "Sacred Heart of Jesus - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezekiel34,11-16.",
+                "reading": "Thus says the Lord GOD: I myself will look after and tend my sheep.\nAs a shepherd tends his flock when he finds himself among his scattered sheep, so will I tend my sheep. I will rescue them from every place where they were scattered when it was cloudy and dark.\nI will lead them out from among the peoples and gather them from the foreign lands; I will bring them back to their own country and pasture them upon the mountains of Israel (in the land's ravines and all its inhabited places).\nIn good pastures will I pasture them, and on the mountain heights of Israel shall be their grazing ground. There they shall lie down on good grazing ground, and in rich pastures shall they be pastured on the mountains of Israel.\nI myself will pasture my sheep; I myself will give them rest, says the Lord GOD.\nThe lost I will seek out, the strayed I will bring back, the injured I will bind up, the sick I will heal but the sleek and the strong I will destroy, shepherding them rightly."
+            },
+            "Psalm": {
+                "title": "Psalms23(22),1-3a.3b-4.5.6.",
+                "reading": "The LORD is my shepherd; I shall not want.\nIn verdant pastures he gives me repose;beside restful waters he leads me;\nhe refreshes my soul.\nHe guides me in right pathsfor His names's sake.\nEven though I walk in the dark valleyI fear no evil; for you are at my sidewith your rod and your staffthat give me courage.\nYou spread the table before mein the sight of my foes;You anoint my head with oil;my cup overflows.\nOnly goodness and kindness follow meall the days of my life;and I shall dwell in the house of the LORDfor years to come."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans5,5b-11.",
+                "reading": "Brothers and sisters, the love of God has been poured out into our hearts through the holy Spirit that has been given to us.\nFor Christ, while we were still helpless, yet died at the appointed time for the ungodly.\nIndeed, only with difficulty does one die for a just person, though perhaps for a good person one might even find courage to die.\nBut God proves his love for us in that while we were still sinners Christ died for us.\nHow much more then, since we are now justified by his blood, will we be saved through him from the wrath.\nIndeed, if, while we were enemies, we were reconciled to God through the death of his Son, how much more, once reconciled, will we be saved by his life.\nNot only that, but we also boast of God through our Lord Jesus Christ, through whom we have now received reconciliation."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke15,3-7.",
+                "reading": "Jesus addressed this parable to the Pharisees and scribes:\n\"What man among you having a hundred sheep and losing one of them would not leave the ninety-nine in the desert and go after the lost one until he finds it?\nAnd when he does find it, he sets it on his shoulders with great joy\nand, upon his arrival home, he calls together his friends and neighbors and says to them, 'Rejoice with me because I have found my lost sheep.'\nI tell you, in just the same way there will be more joy in heaven over one sinner who repents than over ninety-nine righteous people who have no need of repentance.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Cyril of Alexandria",
+            "title": "Bishop and Doctor of the Church († 444)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e014508c-cc01-4b60-b5b9-98ab73403427"
+        }
     }
 }
