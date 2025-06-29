@@ -2618,5 +2618,31 @@
             "title": "Bishop and Doctor of the Church († 444)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e014508c-cc01-4b60-b5b9-98ab73403427"
         }
+    },
+    "2025-06-29": {
+        "liturgical_week": "Saints Peter and Paul, apostles - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles12,1-11.",
+                "reading": "In those days, King Herod laid hands upon some members of the Church to harm them.\nHe had James, the brother of John, killed by the sword,\nand when he saw that this was pleasing to the Jews he proceeded to arrest Peter also. (It was (the) feast of Unleavened Bread.)\nHe had him taken into custody and put in prison under the guard of four squads of four soldiers each. He intended to bring him before the people after Passover.\nPeter thus was being kept in prison, but prayer by the church was fervently being made to God on his behalf.\nOn the very night before Herod was to bring him to trial, Peter, secured by double chains, was sleeping between two soldiers, while outside the door guards kept watch on the prison.\nSuddenly the angel of the Lord stood by him and a light shone in the cell. He tapped Peter on the side and awakened him, saying, \"Get up quickly.\" The chains fell from his wrists.\nThe angel said to him, \"Put on your belt and your sandals.\" He did so. Then he said to him, \"Put on your cloak and follow me.\"\nSo he followed him out, not realizing that what was happening through the angel was real; he thought he was seeing a vision.\nThey passed the first guard, then the second, and came to the iron gate leading out to the city, which opened for them by itself. They emerged and made their way down an alley, and suddenly the angel left him.\nThen Peter recovered his senses and said, \"Now I know for certain that (the) Lord sent his angel and rescued me from the hand of Herod and from all that the Jewish people had been expecting.\""
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2-3.4-5.6-7.8-9.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nLet my soul glory in the LORD;the lowly will hear me and be glad.\nGlorify the LORD with me,let us together extol his name.\nI sought the LORD, and he answered meand delivered me from all my fears.\nLook to him that you may be radiant with joy,and your faces may not blush with shame.\nWhen the poor one called out, the LORD heard,and from all his distress he saved him.\nThe angel of the LORD encampsaround those who fear him, and delivers them.\nTaste and see how good the LORD is;blessed the man who takes refuge in him."
+            },
+            "Second_Reading": {
+                "title": "Second Letter to Timothy4,6-8.17-18.",
+                "reading": "Beloved: I am already being poured out like a libation, and the time of my departure is at hand.\nI have competed well; I have finished the race; I have kept the faith.\nFrom now on the crown of righteousness awaits me, which the Lord, the just judge, will award to me on that day, and not only to me, but to all who have longed for his appearance.\nBut the Lord stood by me and gave me strength, so that through me the proclamation might be completed and all the Gentiles might hear it. And I was rescued from the lion's mouth.\nThe Lord will rescue me from every evil threat and will bring me safe to his heavenly kingdom. To him be glory forever and ever. Amen."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew16,13-19.",
+                "reading": "Jesus went into the region of Caesarea Philippi and he asked his disciples, “Who do people say that the Son of Man is?”\nThey replied, \"Some say John the Baptist, others Elijah, still others Jeremiah or one of the prophets.\"\nHe said to them, \"But who do you say that I am?\"\nSimon Peter said in reply, \"You are the Messiah, the Son of the living God.\"\nJesus said to him in reply, \"Blessed are you, Simon son of Jonah. For flesh and blood has not revealed this to you, but my heavenly Father.\nAnd so I say to you, you are Peter, and upon this rock I will build my church, and the gates of the netherworld shall not prevail against it.\nI will give you the keys to the kingdom of heaven. Whatever you bind on earth shall be bound in heaven; and whatever you loose on earth shall be loosed in heaven.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Judith",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/73073926-7c85-4aed-9bdb-dd9201e563e2"
+        }
     }
 }
