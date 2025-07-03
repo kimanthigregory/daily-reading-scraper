@@ -2710,5 +2710,27 @@
             "title": "Priest (1530-1616)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b1edc877-62b2-452b-a2ce-f408655a649f"
         }
+    },
+    "2025-07-03": {
+        "liturgical_week": "Saint Thomas, apostle - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians2,19-22.",
+                "reading": "Brothers and sisters: You are no longer strangers and sojourners, but you are fellow citizens with the holy ones and members of the household of God,\nbuilt upon the foundation of the apostles and prophets, with Christ Jesus himself as the capstone.\nThrough him the whole structure is held together and grows into a temple sacred in the Lord;\nin him you also are being built together into a dwelling place of God in the Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms117(116),1.2.",
+                "reading": "Praise the LORD, all you nations;glorify him, all you peoples!\nFor steadfast is his kindness for us,and the fidelity of the LORD endures forever."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John20,24-29.",
+                "reading": "Thomas, called Didymus, one of the Twelve, was not with them when Jesus came.\nSo the other disciples said to him, \"We have seen the Lord.\" But he said to them, \"Unless I see the mark of the nails in his hands and put my finger into the nailmarks and put my hand into his side, I will not believe.\"\nNow a week later his disciples were again inside and Thomas was with them. Jesus came, although the doors were locked, and stood in their midst and said, \"Peace be with you.\"\nThen he said to Thomas, \"Put your finger here and see my hands, and bring your hand and put it into my side, and do not be unbelieving, but believe.\"\nThomas answered and said to him, \"My Lord and my God!\"\nJesus said to him, \"Have you come to believe because you have seen me? Blessed are those who have not seen and have believed.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Thomas",
+            "title": "Apostle - Feast",
+            "profile_link": "https://dailygospel.org/AM/display-saint/031c20d6-8ac4-4b06-bdde-95b5433fc946"
+        }
     }
 }
