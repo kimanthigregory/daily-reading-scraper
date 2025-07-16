@@ -2982,5 +2982,23 @@
             "title": "Bishop and Doctor of the Church (1218-1274)",
             "profile_link": "https://dailygospel.org/AM/display-saint/afad77f9-ef13-4eda-b345-7b8ce1eef3ec"
         }
+    },
+    "2025-07-16": {
+        "liturgical_week": "Wednesday of the Fifteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus3,1-6.9-12.",
+                "reading": "Moses was tending the flock of his father-in-law Jethro, the priest of Midian. Leading the flock across the desert, he came to Horeb, the mountain of God.\nThere an angel of the LORD appeared to him in fire flaming out of a bush. As he looked on, he was surprised to see that the bush, though on fire, was not consumed.\nSo Moses decided, \"I must go over to look at this remarkable sight, and see why the bush is not burned.\"\nWhen the LORD saw him coming over to look at it more closely, God called out to him from the bush, \"Moses! Moses!\" He answered, \"Here I am.\"\nGod said, \"Come no nearer! Remove the sandals from your feet, for the place where you stand is holy ground.\nI am the God of your father,\" he continued, \"the God of Abraham, the God of Isaac, the God of Jacob.\" Moses hid his face, for he was afraid to look at God.\nSo indeed the cry of the Israelites has reached me, and I have truly noted that the Egyptians are oppressing them.\nCome, now! I will send you to Pharaoh to lead my people, the Israelites, out of Egypt.\"\nBut Moses said to God, \"Who am I that I should go to Pharaoh and lead the Israelites out of Egypt?\"\nHe answered, \"I will be with you; and this shall be your proof that it is I who have sent you: when you bring my people out of Egypt, you will worship God on this very mountain.\""
+            },
+            "Psalm": {
+                "title": "Psalms103(102),1-2.3-4.6-7.",
+                "reading": "Bless the LORD, O my soul;and all my being, bless his holy name.\nBless the LORD, O my soul,and forget not all his benefits.\nHe pardons all your iniquities,he heals all your ills.\nHe redeems your life from destruction,he crowns you with kindness and compassion.\nThe LORD secures justiceand the rights of all the oppressed.\nHe has made known his ways to Moses,and his deeds to the children of Israel."
+            },
+            "Second_Reading": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew11,25-27.",
+                "reading": "At that time Jesus exclaimed, \"I give praise to you, Father, Lord of heaven and earth, for although you have hidden these things from the wise and the learned you have revealed them to the childlike.\nYes, Father, such has been your gracious will.\nAll things have been handed over to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son wishes to reveal him.\""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
