@@ -3000,5 +3000,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2025-07-17": {
+        "liturgical_week": "Thursday of the Fifteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus3,13-20.",
+                "reading": "Moses, hearing the voice of the LORD from the burning bush, said to him, “When I go to the children of Israel and say to them, ‘The God of your fathers has sent me to you,’ if they ask me, ‘What is his name?’ what am I to tell them?”\nGod replied, \"I am who am.\" Then he added, \"This is what you shall tell the Israelites: I AM sent me to you.\"\nGod spoke further to Moses, \"Thus shall you say to the Israelites: The LORD, the God of your fathers, the God of Abraham, the God of Isaac, the God of Jacob, has sent me to you. \"This is my name forever; this is my title for all generations.\n\"Go and assemble the elders of the Israelites, and tell them: The LORD, the God of your fathers, the God of Abraham, Isaac and Jacob, has appeared to me and said: I am concerned about you and about the way you are being treated in Egypt;\nso I have decided to lead you up out of the misery of Egypt into the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites, a land flowing with milk and honey.\n\"Thus they will heed your message. Then you and the elders of Israel shall go to the king of Egypt and say to him: The LORD, the God of the Hebrews, has sent us word. Permit us, then, to go a three days' journey in the desert, that we may offer sacrifice to the LORD, our God.\n\"Yet I know that the king of Egypt will not allow you to go unless he is forced.\nI will stretch out my hand, therefore, and smite Egypt by doing all kinds of wondrous deeds there. After that he will send you away.\""
+            },
+            "Psalm": {
+                "title": "Psalms105(104),1.5.8-9.24-25.26-27.",
+                "reading": "Give thanks to the LORD, invoke his name;make known among the nations his deeds.\nRecall the wondrous deeds that he has wrought,his portents, and the judgments he has uttered.\nHe remembers forever his covenantwhich he made binding for a thousand generations.\nWhich he entered into with Abrahamand by his oath to Isaac.\nHe greatly increased his peopleand made them stronger than their foes,\nWhose hearts he changed, so that they hated his people,and dealt deceitfully with his servants.\nHe sent Moses his servant;Aaron, whom he had chosen.\nThey wrought his signs among them,and wonders in the land of Ham."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew11,28-30.",
+                "reading": "Jesus said to the crowds: “Come to me, all you who labor and are burdened, and I will give you rest.\nTake my yoke upon you and learn from me, for I am meek and humble of heart; and you will find rest for yourselves.\nFor my yoke is easy, and my burden light.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Alexius",
+            "title": "Mendicant († 404)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/21774044-a91d-4844-8a35-009306c935c5"
+        }
     }
 }
