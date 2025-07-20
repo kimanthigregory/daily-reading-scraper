@@ -3066,5 +3066,31 @@
             "title": "Martyrs (c. 1781)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ed57d276-103f-427a-9d2c-72c39fb9bf56"
         }
+    },
+    "2025-07-20": {
+        "liturgical_week": "Sixteenth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Genesis18,1-10.",
+                "reading": "The LORD appeared to Abraham by the terebinth of Mamre, as he sat in the entrance of his tent, while the day was growing hot.\nLooking up, he saw three men standing nearby. When he saw them, he ran from the entrance of the tent to greet them; and bowing to the ground,\nhe said: \"Sir, if I may ask you this favor, please do not go on past your servant.\nLet some water be brought, that you may bathe your feet, and then rest yourselves under the tree.\nNow that you have come this close to your servant, let me bring you a little food, that you may refresh yourselves; and afterward you may go on your way.\" \"Very well,\" they replied, \"do as you have said.\"\nAbraham hastened into the tent and told Sarah, \"Quick, three seahs of fine flour! Knead it and make rolls.\"\nHe ran to the herd, picked out a tender, choice steer, and gave it to a servant, who quickly prepared it.\nThen he got some curds and milk, as well as the steer that had been prepared, and set these before them; and he waited on them under the tree while they ate.\n\"Where is your wife Sarah?\" they asked him. \"There in the tent,\" he replied.\nOne of them said, \"I will surely return to you about this time next year, and Sarah will then have a son.\""
+            },
+            "Psalm": {
+                "title": "Psalms15(14),2-3.4.5.",
+                "reading": "He who walks blamelessly and does justice;who thinks the truth in his heart\nand slanders not with his tongue.Who harms not his fellow man,nor takes up a reproach against his neighbor;\nby whom the reprobate is despised,while he honors those who fear the LORD.\nWho lends not his money at usuryand accepts no bribe against the innocent.One who does these thingsshall never be disturbed."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Colossians1,24-28.",
+                "reading": "Brothers and sisters: I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in the afflictions of Christ on behalf of his body, which is the church,\nof which I am a minister in accordance with God's stewardship given to me to bring to completion for you the word of God,\nthe mystery hidden from ages and from generations past. But now it has been manifested to his holy ones,\nto whom God chose to make known the riches of the glory of this mystery among the Gentiles; it is Christ in you, the hope for glory.\nIt is he whom we proclaim, admonishing everyone and teaching everyone with all wisdom, that we may present everyone perfect in Christ."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke10,38-42.",
+                "reading": "Jesus entered a village where a woman whose name was Martha welcomed him.\nShe had a sister named Mary who sat beside the Lord at his feet listening to him speak.\nMartha, burdened with much serving, came to him and said, \"Lord, do you not care that my sister has left me by myself to do the serving? Tell her to help me.\"\nThe Lord said to her in reply, \"Martha, Martha, you are anxious and worried about many things.\nThere is need of only one thing. Mary has chosen the better part and it will not be taken from her.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Apollinaris",
+            "title": "Bishop and Martyr (1st century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/223716e7-2d8e-4894-9e1e-ab91ed6e6fa0"
+        }
     }
 }
