@@ -3114,5 +3114,27 @@
             "title": "Priest and Doctor of the Church (1559-1619)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ffc58dff-776c-49d6-884e-c2ca3ab26423"
         }
+    },
+    "2025-07-22": {
+        "liturgical_week": "Saint Mary Magdalene - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Song of Songs3,1-4a.",
+                "reading": "The bride says: On my bed at night I sought him whom my heart loves - I sought him but I did not find him.\nI will rise then and go about the city; in the streets and crossings I will seek Him whom my heart loves. I sought him but I did not find him.\nThe watchmen came upon me as they made their rounds of the city: Have you seen him whom my heart loves?\nI had hardly left them when I found him whom my heart loves."
+            },
+            "Psalm": {
+                "title": "Psalms63(62),2.3-4.5-6.8-9.",
+                "reading": "O God, you are my God whom I seek;for you my flesh pines and my soul thirstslike the earth, parched, lifeless and without water.\nThus have I gazed toward you in the sanctuaryto see your power and your glory,\nfor your kindness is a greater good than life;my lips shall glorify you.\nThus will I bless you while I live;lifting up my hands, I will call upon your name.\nAs with the riches of a banquet shall my soul be satisfied,and with exultant lips my mouth shall praise you.\nYou indeed are my help,and in the shadow of your wings I shout for joy.\nMy soul clings fast to you;your right hand upholds me."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John20,1-2.11-18.",
+                "reading": "On the first day of the week, Mary of Magdala came to the tomb early in the morning, while it was still dark, and saw the stone removed from the tomb.\nSo she ran and went to Simon Peter and to the other disciple whom Jesus loved, and told them, \"They have taken the Lord from the tomb, and we don't know where they put him.\"\nBut Mary stayed outside the tomb weeping. And as she wept, she bent over into the tomb\nand saw two angels in white sitting there, one at the head and one at the feet where the body of Jesus had been.\nAnd they said to her, \"Woman, why are you weeping?\" She said to them, \"They have taken my Lord, and I don't know where they laid him.\"\nWhen she had said this, she turned around and saw Jesus there, but did not know it was Jesus.\nJesus said to her, \"Woman, why are you weeping? Whom are you looking for?\" She thought it was the gardener and said to him, \"Sir, if you carried him away, tell me where you laid him, and I will take him.\"\nJesus said to her, \"Mary!\" She turned and said to him in Hebrew, \"Rabbouni,\" which means Teacher.\nJesus said to her, \"Stop holding on to me, for I have not yet ascended to the Father. But go to my brothers and tell them, 'I am going to my Father and your Father, to my God and your God.'\"\nMary of Magdala went and announced to the disciples, \"I have seen the Lord,\" and what he told her."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Mary Magdalene - Feast",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ac387575-7226-4919-8884-83bc29591d2c"
+        }
     }
 }
