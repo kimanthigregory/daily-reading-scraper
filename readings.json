@@ -3202,5 +3202,27 @@
             "title": "Priest (1828-1898)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6b13ad26-5440-402b-9bec-a703876a572e"
         }
+    },
+    "2025-07-26": {
+        "liturgical_week": "Saturday of the Sixteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus24,3-8.",
+                "reading": "When Moses came to the people and related all the words and ordinances of the LORD, they all answered with one voice, \"We will do everything that the LORD has told us.\"\nMoses then wrote down all the words of the LORD and, rising early the next day, he erected at the foot of the mountain an altar and twelve pillars for the twelve tribes of Israel.\nThen, having sent certain young men of the Israelites to offer holocausts and sacrifice young bulls as peace offerings to the LORD,\nMoses took half of the blood and put it in large bowls; the other half he splashed on the altar.\nTaking the book of the covenant, he read it aloud to the people, who answered, \"All that the LORD has said, we will heed and do.\"\nThen he took the blood and sprinkled it on the people, saying, \"This is the blood of the covenant which the LORD has made with you in accordance with all these words of his.\""
+            },
+            "Psalm": {
+                "title": "Psalms50(49),1-2.5-6.14-15.",
+                "reading": "God the LORD has spoken and summoned the earth,from the rising of the sun to its setting.\nFrom Zion, perfect in beauty,God shines forth.\n“Gather my faithful ones before me,those who have made a covenant with me by sacrifice.”\nAnd the heavens proclaim his justice;for God himself is the judge.\n“Offer to God praise as your sacrificeand fulfill your vows to the Most High.\nThen call upon me in time of distress;I will rescue you, and you shall glorify me.”"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew13,24-30.",
+                "reading": "Jesus proposed a parable to the crowds. \"The kingdom of heaven may be likened to a man who sowed good seed in his field.\nWhile everyone was asleep his enemy came and sowed weeds all through the wheat, and then went off.\nWhen the crop grew and bore fruit, the weeds appeared as well.\nThe slaves of the householder came to him and said, 'Master, did you not sow good seed in your field? Where have the weeds come from?'\nHe answered, 'An enemy has done this.' His slaves said to him, 'Do you want us to go and pull them up?'\nHe replied, 'No, if you pull up the weeds you might uproot the wheat along with them.\nLet them grow together until harvest; then at harvest time I will say to the harvesters, \"First collect the weeds and tie them in bundles for burning; but gather the wheat into my barn.\"'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Joachim & Anne",
+            "title": "Parents of the Blessed Virgin Mary",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6bd030de-b689-4982-aab4-65a0f90478ff"
+        }
     }
 }
