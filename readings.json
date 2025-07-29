@@ -3272,5 +3272,27 @@
             "title": "Priest and Martyr (1874-1936)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4545a6ec-2a99-4976-ae61-0bcc3881d907"
         }
+    },
+    "2025-07-29": {
+        "liturgical_week": "Saint Martha - Memorial",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John4,7-16.",
+                "reading": "Beloved, let us love one another, because love is of God; everyone who loves is begotten by God and knows God.\nWhoever is without love does not know God, for God is love.\nIn this way the love of God was revealed to us: God sent his only Son into the world so that we might have life through him.\nIn this is love: not that we have loved God, but that he loved us and sent his Son as expiation for our sins.\nBeloved, if God so loved us, we also must love one another.\nNo one has ever seen God. Yet, if we love one another, God remains in us, and his love is brought to perfection in us.\nThis is how we know that we remain in him and he in us, that he has given us of his Spirit.\nMoreover, we have seen and testify that the Father sent his Son as savior of the world.\nWhoever acknowledges that Jesus is the Son of God, God remains in him and he in God.\nWe have come to know and to believe in the love God has for us. God is love, and whoever remains in love remains in God and God in him."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2-3.4-5.6-7.8-9.10-11.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nLet my soul glory in the LORD;the lowly will hear me and be glad.\nGlorify the LORD with me,let us together extol his name.\nI sought the LORD, and he answered meand delivered me from all my fears.\nLook to him that you may be radiant with joy,and your faces may not blush with shame.\nWhen the poor one called out, the LORD heard,and from all his distress he saved him.\nThe angel of the LORD encampsaround those who fear him, and delivers them.\nTaste and see how good the LORD is;blessed the man who takes refuge in him.\nFear the LORD, you his holy ones,for nought is lacking to those who fear him.\nThe great grow poor and hungry;but those who seek the LORD want for no good thing."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John11,19-27.",
+                "reading": "Many of the Jews had come to Martha and Mary to comfort them about their brother [Lazarus, who had died].\nWhen Martha heard that Jesus was coming, she went to meet him; but Mary sat at home.\nMartha said to Jesus, \"Lord, if you had been here, my brother would not have died.\nBut even now I know that whatever you ask of God, God will give you.\"\nJesus said to her, \"Your brother will rise.\"\nMartha said to him, \"I know he will rise, in the resurrection on the last day.\"\nJesus told her, \"I am the resurrection and the life; whoever believes in me, even if he dies, will live,\nand everyone who lives and believes in me will never die. Do you believe this?\"\nShe said to him, \"Yes, Lord. I have come to believe that you are the Messiah, the Son of God, the one who is coming into the world.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Martha - Memorial",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6c198b20-b8af-45f0-ba4e-e2edb35b5013"
+        }
     }
 }
