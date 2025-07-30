@@ -3294,5 +3294,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/6c198b20-b8af-45f0-ba4e-e2edb35b5013"
         }
+    },
+    "2025-07-30": {
+        "liturgical_week": "Wednesday of the Seventeenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus34,29-35.",
+                "reading": "As Moses came down from Mount Sinai with the two tablets of the commandments in his hands, he did not know that the skin of his face had become radiant while he conversed with the LORD.\nWhen Aaron, then, and the other Israelites saw Moses and noticed how radiant the skin of his face had become, they were afraid to come near him.\nOnly after Moses called to them did Aaron and all the rulers of the community come back to him. Moses then spoke to them.\nLater on, all the Israelites came up to him, and he enjoined on them all that the LORD had told him on Mount Sinai.\nWhen he finished speaking with them, he put a veil over his face.\nWhenever Moses entered the presence of the LORD to converse with him, he removed the veil until he came out again. On coming out, he would tell the Israelites all that had been commanded.\nThen the Israelites would see that the skin of Moses' face was radiant; so he would again put the veil over his face until he went in to converse with the LORD."
+            },
+            "Psalm": {
+                "title": "Psalms99(98),5.6.7.9.",
+                "reading": "Extol the LORD, our God,and worship at his footstool;holy is he!\nMoses and Aaron were among his priests,and Samuel, among those who called upon his name;they called upon the LORD, and he answered them.\nFrom the pillar of cloud he spoke to them;they heard his decrees and the law he gave them.\nExtol the LORD, our God,and worship at his holy mountain;for holy is the LORD, our God."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew13,44-46.",
+                "reading": "Jesus said to his disciples: “The Kingdom of heaven is like a treasure buried in a field, which a person finds and hides again, and out of joy goes and sells all that he has and buys that field.\nAgain, the kingdom of heaven is like a merchant searching for fine pearls.\nWhen he finds a pearl of great price, he goes and sells all that he has and buys it\"."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Peter Chrysologus",
+            "title": "Bishop and Doctor of the Church (406-450)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/607bc478-d62e-4018-9a30-39498e5b056e"
+        }
     }
 }
