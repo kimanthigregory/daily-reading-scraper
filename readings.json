@@ -3338,5 +3338,27 @@
             "title": "Priest (1491-1556)",
             "profile_link": "https://dailygospel.org/AM/display-saint/201dd9a3-c840-4e1e-8d3f-ca35f3020624"
         }
+    },
+    "2025-08-01": {
+        "liturgical_week": "Friday of the Seventeenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Leviticus23,1.4-11.15-16.27.34b-37.",
+                "reading": "The LORD said to Moses,\n\"These, then, are the festivals of the LORD which you shall celebrate at their proper time with a sacred assembly.\nThe Passover of the LORD falls on the fourteenth day of the first month, at the evening twilight.\nThe fifteenth day of this month is the LORD'S feast of Unleavened Bread. For seven days you shall eat unleavened bread.\nOn the first of these days you shall hold a sacred assembly and do no sort of work.\nOn each of the seven days you shall offer an oblation to the LORD. Then on the seventh day you shall again hold a sacred assembly and do no sort of work.\"\nThe LORD said to Moses,\n\"Speak to the Israelites and tell them: When you come into the land which I am giving you, and reap your harvest, you shall bring a sheaf of the first fruits of your harvest to the priest,\nwho shall wave the sheaf before the LORD that it may be acceptable for you. On the day after the sabbath the priest shall do this.\n\"Beginning with the day after the sabbath, the day on which you bring the wave-offering sheaf, you shall count seven full weeks,\nand then on the day after the seventh week, the fiftieth day, you shall present the new cereal offering to the LORD.\n\"The tenth of this seventh month is the Day of Atonement, when you shall hold a sacred assembly and mortify yourselves and offer an oblation to the LORD.\n\"Tell the Israelites: The fifteenth day of this seventh month is the LORD'S feast of Booths, which shall continue for seven days.\nOn the first day there shall be a sacred assembly, and you shall do no sort of work.\nFor seven days you shall offer an oblation to the LORD, and on the eighth day you shall again hold a sacred assembly and offer an oblation to the LORD. On that solemn closing you shall do no sort of work.\n\"These, therefore, are the festivals of the LORD on which you shall proclaim a sacred assembly, and offer as an oblation to the LORD holocausts and cereal offerings, sacrifices and libations, as prescribed for each day.\""
+            },
+            "Psalm": {
+                "title": "Psalms81(80),3-4.5-6ab.10-11ab.",
+                "reading": "Take up a melody, and sound the timbrel,the pleasant harp and the lyre.\nBlow the trumpet at the new moon,at the full moon, on our solemn feast.\nFor it is a statute in Israel,an ordinance of the God of Jacob,\nWho made it a decree for Joseph\nwhen he came forth from the land of Egypt.\n“There shall be no strange god among younor shall you worship any alien god.\nI, the LORD, am your God\nwho led you forth from the land of Egypt.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew13,54-58.",
+                "reading": "Jesus came to his native place and taught the people in their synagogue. They were astonished and said, \"Where did this man get such wisdom and mighty deeds?\nIs he not the carpenter's son? Is not his mother named Mary and his brothers James, Joseph, Simon, and Judas?\nAre not his sisters all with us? Where did this man get all this?\"\nAnd they took offense at him. But Jesus said to them, \"A prophet is not without honor except in his native place and in his own house.\"\nAnd he did not work many mighty deeds there because of their lack of faith."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Alphonsus Liguori",
+            "title": "Bishop and Doctor of the Church (1696-1787)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/033d4303-2d38-4813-a86f-cc76e0f2329f"
+        }
     }
 }
