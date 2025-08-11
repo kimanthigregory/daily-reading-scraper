@@ -3566,5 +3566,27 @@
             "title": "Deacon and Martyr († 258)",
             "profile_link": "https://dailygospel.org/AM/display-saint/135eaa4e-1cbc-4583-a0bd-4649e75bf0b2"
         }
+    },
+    "2025-08-11": {
+        "liturgical_week": "Monday of the Nineteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Deuteronomy10,12-22.",
+                "reading": "Moses said to the people: \"And now, Israel, what does the LORD, your God, ask of you but to fear the LORD, your God, and follow his ways exactly, to love and serve the LORD, your God, with all your heart and all your soul,\nto keep the commandments and statutes of the LORD which I enjoin on you today for your own good?\nThink! The heavens, even the highest heavens, belong to the LORD, your God, as well as the earth and everything on it.\nYet in his love for your fathers the LORD was so attached to them as to choose you, their descendants, in preference to all other peoples, as indeed he has now done.\nCircumcise your hearts, therefore, and be no longer stiff-necked.\nFor the LORD, your God, is the God of gods, the LORD of lords, the great God, mighty and awesome, who has no favorites, accepts no bribes;\nwho executes justice for the orphan and the widow, and befriends the alien, feeding and clothing him.\nSo you too must befriend the alien, for you were once aliens yourselves in the land of Egypt.\nThe LORD, your God, shall you fear, and him shall you serve; hold fast to him and swear by his name.\nHe is your glory, he, your God, who has done for you those great and terrible things which your own eyes have seen.\nYour ancestors went down to Egypt seventy strong, and now the LORD, your God, has made you as numerous as the stars of the sky."
+            },
+            "Psalm": {
+                "title": "Psalms147,12-13.14-15.19-20.",
+                "reading": "Glorify the LORD, O Jerusalem;praise your God, O Zion.\nFor he has strengthened the bars of your gates;he has blessed your children within you.\nHe has granted peace in your borders;with the best of wheat he fills you.\nHe sends forth his command to the earth;swiftly runs his word!\nHe has proclaimed his word to Jacob,his statutes and his ordinances to Israel.\nHe has not done thus for any other nation;his ordinances he has not made known to them. Alleluia"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew17,22-27.",
+                "reading": "As Jesus and his disciples were gathering in Galilee, Jesus said to them, \"The Son of Man is to be handed over to men,\nand they will kill him, and he will be raised on the third day.\" And they were overwhelmed with grief.\nWhen they came to Capernaum, the collectors of the temple tax approached Peter and said, \"Doesn't your teacher pay the temple tax?\"\nYes, he said. When he came into the house, before he had time to speak, Jesus asked him, \"What is your opinion, Simon? From whom do the kings of the earth take tolls or census tax? From their subjects or from foreigners?\"\nWhen he said, \"From foreigners,\" Jesus said to him, \"Then the subjects are exempt.\nBut that we may not offend them, go to the sea, drop in a hook, and take the first fish that comes up. Open its mouth and you will find a coin worth twice the temple tax. Give that to them for me and for you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Clare",
+            "title": "Foundress (1194-1253)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/caa78e6f-5345-4b55-a0cc-3a8db467005c"
+        }
     }
 }
