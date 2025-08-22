@@ -3816,5 +3816,23 @@
             "title": "Pope (1835-1914)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d0742a3d-2af9-439f-811a-bf52a0732218"
         }
+    },
+    "2025-08-22": {
+        "liturgical_week": "Friday of the Twentieth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ruth1,1.3-6.14b-16.22.",
+                "reading": "Once in the time of the judges there was a famine in the land; so a man from Bethlehem of Judah departed with his wife and two sons to reside on the plateau of Moab.\nElimelech, the husband of Naomi, died, and she was left with her two sons,\nwho married Moabite women, one named Orpah, the other Ruth. When they had lived there about ten years,\nboth Mahlon and Chilion died also, and the woman was left with neither her two sons nor her husband.\nShe then made ready to go back from the plateau of Moab because word reached her there that the LORD had visited his people and given them food.\nAgain they sobbed aloud and wept; and Orpah kissed her mother-in-law good-bye, but Ruth stayed with her.\n\"See now!\" she said, \"your sister-in-law has gone back to her people and her god. Go back after your sister-in-law!\"\nBut Ruth said, \"Do not ask me to abandon or forsake you! for wherever you go I will go, wherever you lodge I will lodge, your people shall be my people, and your God my God.\nThus it was that Naomi returned with the Moabite daughter-in-law, Ruth, who accompanied her back from the plateau of Moab. They arrived in Bethlehem at the beginning of the barley harvest."
+            },
+            "Psalm": {
+                "title": "Psalms146(145),5-6.7.8-9a.9bc-10.",
+                "reading": "Blessed he whose help is the God of Jacob,whose hope is in the LORD, his God,\nWho made heaven and earth,the sea and all that is in them.Who keeps faith forever,\nsecures justice for the oppressed,gives food to the hungry.The LORD sets captives free.\nThe LORD gives sight to the blind.The LORD raises up those who were bowed down;the LORD loves the just.\nThe LORD protects strangers.\nThe fatherless and the widow the LORD sustains,\nbut the way of the wicked he thwarts.\nThe LORD shall reign forever;your God, O Zion, through all generations. Alleluia."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew22,34-40.",
+                "reading": "When the Pharisees heard that Jesus had silenced the Sadducees, they gathered together,\nand one of them, a scholar of the law, tested him by asking,\n“Teacher, which commandment in the law is the greatest?”\nHe said to him, \"You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind.\nThis is the greatest and the first commandment.\nThe second is like it: You shall love your neighbor as yourself.\nThe whole law and the prophets depend on these two commandments.\""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
