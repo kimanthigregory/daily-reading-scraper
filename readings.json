@@ -3834,5 +3834,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2025-08-23": {
+        "liturgical_week": "Saturday of the Twentieth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ruth2,1-3.8-11.4,13-17.",
+                "reading": "Naomi had a prominent kinsman named Boaz, of the clan of her husband Elimelech.\nRuth the Moabite said to Naomi, \"Let me go and glean ears of grain in the field of anyone who will allow me that favor.\" Naomi said to her, \"Go, my daughter,\"\nand she went. The field she entered to glean after the harvesters happened to be the section belonging to Boaz of the clan of Elimelech.\nBoaz said to Ruth, \"Listen, my daughter! Do not go to glean in anyone else's field; you are not to leave here. Stay here with my women servants.\nWatch to see which field is to be harvested, and follow them; I have commanded the young men to do you no harm. When you are thirsty, you may go and drink from the vessels the young men have filled.\"\nCasting herself prostrate upon the ground, she said to him, \"Why should I, a foreigner, be favored with your notice?\"\nBoaz answered her: \"I have had a complete account of what you have done for your mother-in-law after your husband's death; you have left your father and your mother and the land of your birth, and have come to a people whom you did not know previously.\nBoaz took Ruth. When they came together as man and wife, the LORD enabled her to conceive and she bore a son.\nThen the women said to Naomi, \"Blessed is the LORD who has not failed to provide you today with an heir! May he become famous in Israel!\nHe will be your comfort and the support of your old age, for his mother is the daughter-in-law who loves you. She is worth more to you than seven sons!\"\nNaomi took the child, placed him on her lap, and became his nurse.\nAnd the neighbor women gave him his name, at the news that a grandson had been born to Naomi. They called him Obed. He was the father of Jesse, the father of David."
+            },
+            "Psalm": {
+                "title": "Psalms128(127),1-2.3.4.5.",
+                "reading": "Blessed are you who fear the LORD,who walk in his ways!\nFor you shall eat the fruit of your handiwork;blessed shall you be, and favored.\nYour wife shall be like a fruitful vinein the recesses of your home;Your children like olive plantsaround your table.\nBehold, thus is the man blessedwho fears the LORD.\nThe LORD bless you from Zion:may you see the prosperity of Jerusalemall the days of your life."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew23,1-12.",
+                "reading": "Jesus spoke to the crowds and to his disciples,\nsaying, \"The scribes and the Pharisees have taken their seat on the chair of Moses.\nTherefore, do and observe all things whatsoever they tell you, but do not follow their example. For they preach but they do not practice.\nThey tie up heavy burdens (hard to carry) and lay them on people's shoulders, but they will not lift a finger to move them.\nAll their works are performed to be seen. They widen their phylacteries and lengthen their tassels.\nThey love places of honor at banquets, seats of honor in synagogues,\ngreetings in marketplaces, and the salutation 'Rabbi.'\nAs for you, do not be called 'Rabbi.' You have but one teacher, and you are all brothers.\nCall no one on earth your father; you have but one Father in heaven.\nDo not be called 'Master'; you have but one master, the Messiah.\nThe greatest among you must be your servant.\nWhoever exalts himself will be humbled; but whoever humbles himself will be exalted.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Rose of Lima",
+            "title": "Religious (1586-1617)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e0ecbd6f-eaa0-487c-9c42-913a2b68c4c7"
+        }
     }
 }
