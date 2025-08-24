@@ -3856,5 +3856,31 @@
             "title": "Religious (1586-1617)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e0ecbd6f-eaa0-487c-9c42-913a2b68c4c7"
         }
+    },
+    "2025-08-24": {
+        "liturgical_week": "Twenty-first Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah66,18-21.",
+                "reading": "Thus says the LORD: I know their works and their thoughts, and I come to gather nations of every language; they shall come and see my glory.\nI will set a sign among them; from them I will send fugitives to the nations: to Tarshish, Put and Lud, Mosoch, Tubal and Javan, to the distant coastlands that have never heard of my fame, or seen my glory; and they shall proclaim my glory among the nations.\nThey shall bring all your brethren from all the nations as an offering to the LORD, on horses and in chariots, in carts, upon mules and dromedaries, to Jerusalem, my holy mountain, says the LORD, just as the Israelites bring their offering to the house of the LORD in clean vessels.\nSome of these I will take as priests and Levites, says the LORD."
+            },
+            "Psalm": {
+                "title": "Psalms117(116),1.2.",
+                "reading": "Praise the LORD, all you nations;glorify him, all you peoples!\nFor steadfast is his kindness for us,and the fidelity of the LORD endures forever."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Hebrews12,5-7.11-13.",
+                "reading": "Brothers and sisters, You have forgotten the exhortation addressed to you as children: \"My son, do not disdain the discipline of the Lord or lose heart when reproved by him;\nfor whom the Lord loves, he disciplines; he scourges every son he acknowledges.\"\nEndure your trials as \"discipline\"; God treats you as sons. For what \"son\" is there whom his father does not discipline?\nAt the time, all discipline seems a cause not for joy but for pain, yet later it brings the peaceful fruit of righteousness to those who are trained by it.\nSo strengthen your drooping hands and your weak knees.\nMake straight paths for your feet, that what is lame may not be dislocated but healed."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke13,22-30.",
+                "reading": "Jesus passed through towns and villages, teaching as he went and making his way to Jerusalem.\nSomeone asked him, \"Lord, will only a few people be saved?\" He answered them,\nStrive to enter through the narrow gate, for many, I tell you, will attempt to enter but will not be strong enough.\nAfter the master of the house has arisen and locked the door, then will you stand outside knocking and saying, 'Lord, open the door for us.' He will say to you in reply, 'I do not know where you are from.'\nAnd you will say, 'We ate and drank in your company and you taught in our streets.'\nThen he will say to you, 'I do not know where (you) are from. Depart from me, all you evildoers!'\nAnd there will be wailing and grinding of teeth when you see Abraham, Isaac, and Jacob and all the prophets in the kingdom of God and you yourselves cast out.\nAnd people will come from the east and the west and from the north and the south and will recline at table in the kingdom of God.\nFor behold, some are last who will be first, and some are first who will be last.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bartholomew",
+            "title": "Apostle - Feast",
+            "profile_link": "https://dailygospel.org/AM/display-saint/746e5b76-85cb-41ed-9df3-ef67dacbc4bf"
+        }
     }
 }
