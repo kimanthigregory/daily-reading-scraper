@@ -3882,5 +3882,27 @@
             "title": "Apostle - Feast",
             "profile_link": "https://dailygospel.org/AM/display-saint/746e5b76-85cb-41ed-9df3-ef67dacbc4bf"
         }
+    },
+    "2025-08-25": {
+        "liturgical_week": "Monday of the Twenty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Thessalonians1,1-5.8b-10.",
+                "reading": "Paul, Silvanus, and Timothy to the church of the Thessalonians in God the Father and the Lord Jesus Christ: grace to you and peace.\nWe give thanks to God always for all of you, remembering you in our prayers, unceasingly\ncalling to mind your work of faith and labor of love and endurance in hope of our Lord Jesus Christ, before our God and Father,\nknowing, brothers loved by God, how you were chosen.\nFor our gospel did not come to you in word alone, but also in power and in the holy Spirit and with much conviction. You know what sort of people we were among you for your sake.\nIn every place your faith in God has gone forth, so that we have no need to say anything.\nFor they themselves openly declare about us what sort of reception we had among you, and how you turned to God from idols to serve the living and true God\nand to await his Son from heaven, whom he raised from (the) dead, Jesus, who delivers us from the coming wrath."
+            },
+            "Psalm": {
+                "title": "Psalms149(148),1b-2.3-4.5-6a.9b.",
+                "reading": "Sing to the LORD a new songof praise in the assembly of the faithful.\nLet Israel be glad in their maker,let the children of Zion rejoice in their king.\nLet them praise his name in the festive dance,let them sing praise to him with timbrel and harp.\nFor the LORD loves his people,and he adorns the lowly with victory.\nLet the faithful exult in glory;let them sing for joy upon their couches;\nLet the high praises of God be in their throats.\nThis is the glory of all his faithful. Alleluia!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew23,13-22.",
+                "reading": "Jesus said to the crowds and to his disciples: \"Woe to you, scribes and Pharisees, you hypocrites. You lock the kingdom of heaven before human beings. You do not enter yourselves, nor do you allow entrance to those trying to enter.\n(...)\nWoe to you, scribes and Pharisees, you hypocrites. You traverse sea and land to make one convert, and when that happens you make him a child of Gehenna twice as much as yourselves.\nWoe to you, blind guides, who say, 'If one swears by the temple, it means nothing, but if one swears by the gold of the temple, one is obligated.'\nBlind fools, which is greater, the gold, or the temple that made the gold sacred?\nAnd you say, 'If one swears by the altar, it means nothing, but if one swears by the gift on the altar, one is obligated.'\nYou blind ones, which is greater, the gift, or the altar that makes the gift sacred?\nOne who swears by the altar swears by it and all that is upon it;\none who swears by the temple swears by it and by him who dwells in it;\none who swears by heaven swears by the throne of God and by him who is seated on it.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Louis",
+            "title": "King of France (1215-1270)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/931f4eab-d945-40d0-acf7-0370eded4455"
+        }
     }
 }
