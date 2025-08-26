@@ -3904,5 +3904,27 @@
             "title": "King of France (1215-1270)",
             "profile_link": "https://dailygospel.org/AM/display-saint/931f4eab-d945-40d0-acf7-0370eded4455"
         }
+    },
+    "2025-08-26": {
+        "liturgical_week": "Tuesday of the Twenty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Thessalonians2,1-8.",
+                "reading": "You yourselves know, brothers and sisters, that our reception among you was not without effect.\nRather, after we had suffered and been insolently treated, as you know, in Philippi, we drew courage through our God to speak to you the gospel of God with much struggle.\nOur exhortation was not from delusion or impure motives, nor did it work through deception.\nBut as we were judged worthy by God to be entrusted with the gospel, that is how we speak, not as trying to please human beings,but rather God, who judges our hearts.\nNor, indeed, did we ever appear with flattering speech, as you know, or with a pretext for greed--God is witness--\nnor did we seek praise from human beings, either from you or from others,\nalthough we were able to impose our weight as apostles of Christ. Rather, we were gentle among you, as a nursing mother cares for her children.\nWith such affection for you, we were determined to share with you not only the gospel of God, but our very selves as well, so dearly beloved had you become to us."
+            },
+            "Psalm": {
+                "title": "Psalms139(138),1-3.4-6.",
+                "reading": "O LORD, you have probed me and you know me;\nyou know when I sit and when I stand;you understand my thoughts from afar.\nMy journeys and my rest you scrutinize,with all my ways you are familiar.\nEven before a word is on my tongue,behold, O LORD, you know the whole of it.\nBehind me and before, you hem me inand rest your hand upon me.\nSuch knowledge is too wonderful for me;too lofty for me to attain."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew23,23-26.",
+                "reading": "Jesus said: \"Woe to you, scribes and Pharisees, you hypocrites. You pay tithes of mint and dill and cummin, and have neglected the weightier things of the law: judgment and mercy and fidelity. (But) these you should have done, without neglecting the others.\nBlind guides, who strain out the gnat and swallow the camel!\nWoe to you, scribes and Pharisees, you hypocrites. You cleanse the outside of cup and dish, but inside they are full of plunder and self-indulgence.\nBlind Pharisee, cleanse first the inside of the cup, so that the outside also may be clean.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Zephyrinus",
+            "title": "Pope and Martyr († 217)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/fec79af3-ca92-4624-aeb2-58ea1817672f"
+        }
     }
 }
