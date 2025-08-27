@@ -3926,5 +3926,27 @@
             "title": "Pope and Martyr († 217)",
             "profile_link": "https://dailygospel.org/AM/display-saint/fec79af3-ca92-4624-aeb2-58ea1817672f"
         }
+    },
+    "2025-08-27": {
+        "liturgical_week": "Wednesday of the Twenty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Thessalonians2,9-13.",
+                "reading": "You recall, brothers and sisters, our toil and drudgery. Working night and day in order not to burden any of you, we proclaimed to you the gospel of God.\nYou are witnesses, and so is God, how devoutly and justly and blamelessly we behaved toward you believers.\nAs you know, we treated each one of you as a father treats his children,\nexhorting and encouraging you and insisting that you conduct yourselves as worthy of the God who calls you into his kingdom and glory.\nAnd for this reason we too give thanks to God unceasingly, that,in receiving the word of God from hearing us, you received not as a human word but, as it truly is, the word of God, which is now at work in you who believe."
+            },
+            "Psalm": {
+                "title": "Psalms139(138),7-8.9-10.11-12ab.",
+                "reading": "Where can I go from your spirit?from your presence where can I flee?\nIf I go up to the heavens, you are there;if I sink to the nether world, you are present there.\nIf I take the wings of the dawn,if I settle at the farthest limits of the sea,\neven there your hand shall guide me,and your right hand hold me fast.\nIf I say, “Surely the darkness shall hide me,and night shall be my light”–\nFor you darkness itself is not dark,\nand night shines as the day."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew23,27-32.",
+                "reading": "Jesus said, “Woe to you, scribes and Pharisees, you hypocrites. You are like whitewashed tombs, which appear beautiful on the outside, but inside are full of dead men's bones and every kind of filth.\nEven so, on the outside you appear righteous, but inside you are filled with hypocrisy and evildoing.\nWoe to you, scribes and Pharisees, you hypocrites. You build the tombs of the prophets and adorn the memorials of the righteous,\nand you say, 'If we had lived in the days of our ancestors, we would not have joined them in shedding the prophets' blood.'\nThus you bear witness against yourselves that you are the children of those who murdered the prophets;\nnow fill up what your ancestors measured out!\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Monica",
+            "title": "Layperson (332-387)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6ccd265d-9133-4ef5-b4bc-b33e9fe1aea4"
+        }
     }
 }
