@@ -3948,5 +3948,27 @@
             "title": "Layperson (332-387)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6ccd265d-9133-4ef5-b4bc-b33e9fe1aea4"
         }
+    },
+    "2025-08-28": {
+        "liturgical_week": "Thursday of the Twenty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Thessalonians3,7-13.",
+                "reading": "We have been reassured about you, brothers and sisters, in our every distress and affliction, through your faith.\nFor we now live, if you stand firm in the Lord.\nWhat thanksgiving, then, can we render to God for you, for all the joy we feel on your account before our God?\nNight and day we pray beyond measure to see you in person and to remedy the deficiencies of your faith.\nNow may God himself, our Father, and our Lord Jesus direct our way to you,\nand may the Lord make you increase and abound in love for one another and for all, just as we have for you,\nso as to strengthen your hearts, to be blameless in holiness before our God and Father at the coming of our Lord Jesus with all his holy ones. Amen."
+            },
+            "Psalm": {
+                "title": "Psalms90(89),3-4.12-13.14.17.",
+                "reading": "You turn man back to dust,saying, \"Return, O children of men.\"\nFor a thousand years in your sightare as yesterday, now that it is past,or as a watch of the night.\nTeach us to number our days aright,that we may gain wisdom of heart.\nReturn, O LORD! How long?Have pity on your servants!\nFill us at daybreak with your kindness,that we may shout for joy and gladness all our days.\nAnd may the gracious care of the LORD our God be ours;Prosper the work of our hands for us!Prosper the work of our hands!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew24,42-51.",
+                "reading": "Jesus said to his disciples: \"Stay awake! For you do not know on which day your Lord will come.\nBe sure of this: if the master of the house had known the hour of night when the thief was coming, he would have stayed awake and not let his house be broken into.\nSo too, you also must be prepared, for at an hour you do not expect, the Son of Man will come.\nWho, then, is the faithful and prudent servant, whom the master has put in charge of his household to distribute to them their food at the proper time?\nBlessed is that servant whom his master on his arrival finds doing so.\nAmen, I say to you, he will put him in charge of all his property.\nBut if that wicked servant says to himself, 'My master is long delayed,'\nand begins to beat his fellow servants, and eat and drink with drunkards,\nthe servant's master will come on an unexpected day and at an unknown hour\nand will punish him severely and assign him a place with the hypocrites, where there will be wailing and grinding of teeth.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Augustine",
+            "title": "Bishop and Doctor of the Church",
+            "profile_link": "https://dailygospel.org/AM/display-saint/dbeb5127-6c2d-4374-a0d0-d158641c6320"
+        }
     }
 }
