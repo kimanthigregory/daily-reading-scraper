@@ -4062,5 +4062,27 @@
             "title": "Abbot (640-720)",
             "profile_link": "https://dailygospel.org/AM/display-saint/591454f2-134e-497f-b245-98765a97a450"
         }
+    },
+    "2025-09-02": {
+        "liturgical_week": "Tuesday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Thessalonians5,1-6.9-11.",
+                "reading": "Concerning times and seasons, brothers and sisters, you have no need for anything to be written to you.\nFor you yourselves know very well that the day of the Lord will come like a thief at night.\nWhen people are saying, \"Peace and security,\" then sudden disaster comes upon them, like labor pains upon a pregnant woman,and they will not escape.\nBut you, brothers, are not in darkness, for that day to overtake you like a thief.\nFor all of you are children of the light and children of the day. We are not of the night or of darkness.\nTherefore, let us not sleep as the rest do, but let us stay alert and sober.\nFor God did not destine us for wrath, but to gain salvation through our Lord Jesus Christ,\nwho died for us, so that whether we are awake or asleep we may live together with him.\nTherefore, encourage one another and build one another up, as indeed you do."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.4.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nOne thing I ask of the LORDthis I seek:to dwell in the house of the LORDall the days of my life,that I may gaze on the loveliness of the LORDand contemplate his temple.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke4,31-37.",
+                "reading": "Jesus then went down to Capernaum, a town of Galilee. He taught them on the sabbath,\nand they were astonished at his teaching because he spoke with authority.\nIn the synagogue there was a man with the spirit of an unclean demon, and he cried out in a loud voice,\nHa! What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are--the Holy One of God!\nJesus rebuked him and said, \"Be quiet! Come out of him!\" Then the demon threw the man down in front of them and came out of him without doing him any harm.\nThey were all amazed and said to one another, \"What is there about his word? For with authority and power he commands the unclean spirits, and they come out.\"\nAnd news of him spread everywhere in the surrounding region."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Ingrid of Sweden",
+            "title": "(† 1282)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/05050f4f-3778-4fb8-94b0-86bd811fd112"
+        }
     }
 }
