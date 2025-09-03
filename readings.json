@@ -4084,5 +4084,27 @@
             "title": "(† 1282)",
             "profile_link": "https://dailygospel.org/AM/display-saint/05050f4f-3778-4fb8-94b0-86bd811fd112"
         }
+    },
+    "2025-09-03": {
+        "liturgical_week": "Wednesday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Colossians1,1-8.",
+                "reading": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,\nto the holy ones and faithful brothers in Christ in Colossae: grace to you and peace from God our Father.\nWe always give thanks to God, the Father of our Lord Jesus Christ, when we pray for you,\nfor we have heard of your faith in Christ Jesus and the love that you have for all the holy ones\nbecause of the hope reserved for you in heaven. Of this you have already heard through the word of truth, the gospel,\nthat has come to you. Just as in the whole world it is bearing fruit and growing, so also among you, from the day you heard it and came to know the grace of God in truth,\nas you learned it from Epaphras our beloved fellow slave, who is a trustworthy minister of Christ on your behalf\nand who also told us of your love in the Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms52(51),10.11.",
+                "reading": "I, like a green olive treein the house of God,Trust in the mercy of Godforever and ever.\nI will thank you always for what you have done,and proclaim the goodness of your namebefore your faithful ones."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke4,38-44.",
+                "reading": "After Jesus left the synagogue, he entered the house of Simon. Simon's mother-in-law was afflicted with a severe fever, and they interceded with him about her.\nHe stood over her, rebuked the fever, and it left her. She got up immediately and waited on them.\nAt sunset, all who had people sick with various diseases brought them to him. He laid his hands on each of them and cured them.\nAnd demons also came out from many, shouting, \"You are the Son of God.\" But he rebuked them and did not allow them to speak because they knew that he was the Messiah.\nAt daybreak, Jesus left and went to a deserted place. The crowds went looking for him, and when they came to him, they tried to prevent him from leaving them.\nBut he said to them, \"To the other towns also I must proclaim the good news of the kingdom of God, because for this purpose I have been sent.\"\nAnd he was preaching in the synagogues of Judea."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Gregory the Great",
+            "title": "Pope and Doctor of the Church (c.540-604) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e709349f-89e8-43c0-9f5e-3105d3b86c2b"
+        }
     }
 }
