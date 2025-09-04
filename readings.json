@@ -4106,5 +4106,27 @@
             "title": "Pope and Doctor of the Church (c.540-604) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/e709349f-89e8-43c0-9f5e-3105d3b86c2b"
         }
+    },
+    "2025-09-04": {
+        "liturgical_week": "Thursday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Colossians1,9-14.",
+                "reading": "Brothers and sisters: from the day we heard about you, we do not cease praying for you and asking that you may be filled with the knowledge of his will through all spiritual wisdom and understanding\nto live in a manner worthy of the Lord, so as to be fully pleasing, in every good work bearing fruit and growing in the knowledge of God,\nstrengthened with every power, in accord with his glorious might, for all endurance and patience, with joy\ngiving thanks to the Father, who has made you fit to share in the inheritance of the holy ones in light.\nHe delivered us from the power of darkness and transferred us to the kingdom of his beloved Son,\nin whom we have redemption, the forgiveness of sins."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),2-3ab.3cd-4.5-6.",
+                "reading": "The LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise.\nSing praise to the LORD with the harp,with the harp and melodious song.\nWith trumpets and the sound of the hornsing joyfully before the King, the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke5,1-11.",
+                "reading": "While the crowd was pressing in on Jesus and listening to the word of God, he was standing by the Lake of Gennesaret.\nHe saw two boats there alongside the lake; the fishermen had disembarked and were washing their nets.\nGetting into one of the boats, the one belonging to Simon, he asked him to put out a short distance from the shore. Then he sat down and taught the crowds from the boat.\nAfter he had finished speaking, he said to Simon, \"Put out into deep water and lower your nets for a catch.\"\nSimon said in reply, \"Master, we have worked hard all night and have caught nothing, but at your command I will lower the nets.\"\nWhen they had done this, they caught a great number of fish and their nets were tearing.\nThey signaled to their partners in the other boat to come to help them. They came and filled both boats so that they were in danger of sinking.\nWhen Simon Peter saw this, he fell at the knees of Jesus and said, \"Depart from me, Lord, for I am a sinful man.\"\nFor astonishment at the catch of fish they had made seized him and all those with him,\nand likewise James and John, the sons of Zebedee, who were partners of Simon. Jesus said to Simon, \"Do not be afraid; from now on you will be catching men.\"\nWhen they brought their boats to the shore, they left everything and followed him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Rosalia",
+            "title": "Layperson († 1160)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/22816fbc-44f6-453c-b23b-f0db337ce7bf"
+        }
     }
 }
