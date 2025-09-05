@@ -4128,5 +4128,27 @@
             "title": "Layperson († 1160)",
             "profile_link": "https://dailygospel.org/AM/display-saint/22816fbc-44f6-453c-b23b-f0db337ce7bf"
         }
+    },
+    "2025-09-05": {
+        "liturgical_week": "Friday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Colossians1,15-20.",
+                "reading": "Christ Jesus is the image of the invisible God, the firstborn of all creation.\nFor in him were created all things in heaven and on earth, the visible and the invisible, whether thrones or dominions or principalities or powers; all things were created through him and for him.\nHe is before all things, and in him all things hold together.\nHe is the head of the body, the church. He is the beginning, the firstborn from the dead, that in all things he himself might be preeminent.\nFor in him all the fullness was pleased to dwell,\nand through him to reconcile all things for him, making peace by the blood of his cross (through him), whether those on earth or those in heaven."
+            },
+            "Psalm": {
+                "title": "Psalms100(99),2.3.4.5.",
+                "reading": "Sing joyfully to the Lord all you lands,serve the LORD with gladness;come before him with joyful song.\nKnow that the LORD is God;he made us, his we are;his people, the flock he tends.\nEnter his gates with thanksgiving,his courts with praise;give thanks to him; bless his name.\nThe LORD is good:his kindness endures forever,and his faithfulness, to all generations."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke5,33-39.",
+                "reading": "The scribes and Pharisees said to Jesus, \"The disciples of John the Baptist fast often and offer prayers, and the disciples of the Pharisees do the same ; but yours eat and drink.\"\nJesus answered them, \"Can you make the wedding guests fast while the bridegroom is with them?\nBut the days will come, and when the bridegroom is taken away from them, then they will fast in those days.\"\nAnd he also told them a parable. \"No one tears a piece from a new cloak to patch an old one. Otherwise, he will tear the new and the piece from it will not match the old cloak.\nLikewise, no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins, and it will be spilled, and the skins will be ruined.\nRather, new wine must be poured into fresh wineskins.\n(And) no one who has been drinking old wine desires new, for he says, 'The old is good.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Lawrence Justinian",
+            "title": "Bishop († 1455)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f22b2da8-7768-4eb0-833f-cae062c29ea7"
+        }
     }
 }
