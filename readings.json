@@ -4150,5 +4150,27 @@
             "title": "Bishop († 1455)",
             "profile_link": "https://dailygospel.org/AM/display-saint/f22b2da8-7768-4eb0-833f-cae062c29ea7"
         }
+    },
+    "2025-09-06": {
+        "liturgical_week": "Saturday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Colossians1,21-23.",
+                "reading": "Brothers and sisters: you once were alienated and hostile in mind because of evil deeds;\nhe has now reconciled in his fleshly body through his death, to present you holy, without blemish, and irreproachable before him,\nprovided that you persevere in the faith, firmly grounded, stable, and not shifting from the hope of the gospel that you heard, which has been preached to every creature under heaven, of which I, Paul, am a minister."
+            },
+            "Psalm": {
+                "title": "Psalms54(53),3-4.6.8.",
+                "reading": "O God, by your name save me,And by your might defend my cause.\nO God, hear my prayer;Hearken to the words of my mouth.\nBehold, God is my helper;The Lord sustains my life.\nFreely will I offer you sacrifice;I will praise your name, O LORD, for its goodness."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,1-5.",
+                "reading": "While Jesus was going through a field of grain on a sabbath, his disciples were picking the heads of grain, rubbing them in their hands, and eating them.\nSome Pharisees said, \"Why are you doing what is unlawful on the sabbath?\"\nJesus said to them in reply, \"Have you not read what David did when he and those (who were) with him were hungry?\n(How) he went into the house of God, took the bread of offering, which only the priests could lawfully eat, ate of it, and shared it with his companions.\"\nThen he said to them, \"The Son of Man is lord of the sabbath.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Eleutherius",
+            "title": "Abbot († c. 585)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1334fa04-3106-402a-9f2d-30f7190b22f6"
+        }
     }
 }
