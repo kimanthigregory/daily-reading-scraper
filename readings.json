@@ -4172,5 +4172,31 @@
             "title": "Abbot († c. 585)",
             "profile_link": "https://dailygospel.org/AM/display-saint/1334fa04-3106-402a-9f2d-30f7190b22f6"
         }
+    },
+    "2025-09-07": {
+        "liturgical_week": "Twenty-third Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Wisdom9,13-18.",
+                "reading": "Who can know God's counsel, or who can conceive what the LORD intends?\nFor the deliberations of mortals are timid, and unsure are our plans.\nFor the corruptible body burdens the soul and the earthen shelter weighs down the mind that has many concerns.\nAnd scarce do we guess the things on earth, and what is within our grasp we find with difficulty; but when things are in heaven, who can search them out?\nOr who ever knew your counsel, except you had given Wisdom and sent your holy spirit from on high?\nAnd thus were the paths of those on earth made straight."
+            },
+            "Psalm": {
+                "title": "Psalms90(89),3-4.5-6.12-13.14.17.",
+                "reading": "You turn man back to dust,saying, \"Return, O children of men.\"\nFor a thousand years in your sightare as yesterday, now that it is past,or as a watch of the night.\nYou make an end of them in their sleep;the next morning they are like the changing grass,\nWhich at dawn springs up anew,but by evening wilts and fades.\nTeach us to number our days aright,that we may gain wisdom of heart.\nReturn, O LORD! How long?Have pity on your servants!\nFill us at daybreak with your kindness,that we may shout for joy and gladness all our days.\nAnd may the gracious care of the LORD our God be ours;Prosper the work of our hands for us!Prosper the work of our hands!"
+            },
+            "Second_Reading": {
+                "title": "Letter to Philemon1,9-10.12-17.",
+                "reading": "I, Paul, an old man, and now also a prisoner for Christ Jesus,\nI urge you on behalf of my child Onesimus, whose father I have become in my imprisonment,\nI am sending him, that is, my own heart, back to you.\nI should have liked to retain him for myself, so that he might serve me on your behalf in my imprisonment for the gospel,\nbut I did not want to do anything without your consent, so that the good you do might not be forced but voluntary.\nPerhaps this is why he was away from you for a while, that you might have him back forever,\nno longer as a slave but more than a slave, a brother, beloved especially to me, but even more so to you, as a man and in the Lord.\nSo if you regard me as a partner, welcome him as you would me."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke14,25-33.",
+                "reading": "Great crowds were traveling with Jesus, and he turned and addressed them,\n\"If any one comes to me without hating his father and mother, wife and children, brothers and sisters, and even his own life, he cannot be my disciple.\nWhoever does not carry his own cross and come after me cannot be my disciple.\nWhich of you wishing to construct a tower does not first sit down and calculate the cost to see if there is enough for its completion?\nOtherwise, after laying the foundation and finding himself unable to finish the work the onlookers should laugh at him\nand say, 'This one began to build but did not have the resources to finish.'\nOr what king marching into battle would not first sit down and decide whether with ten thousand troops he can successfully oppose another king advancing upon him with twenty thousand troops?\nBut if not, while he is still far away, he will send a delegation to ask for peace terms.\nIn the same way, anyone of you who does not renounce all his possessions cannot be my disciple.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Cloud",
+            "title": "Priest (522-c.560)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cfeee776-1c85-4c4a-8deb-df5fc1bf3a1f"
+        }
     }
 }
