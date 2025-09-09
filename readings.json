@@ -4220,5 +4220,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/13e34341-5125-4780-ab13-c459c53757ca"
         }
+    },
+    "2025-09-09": {
+        "liturgical_week": "Tuesday of the Twenty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Colossians2,6-15.",
+                "reading": "Brothers and sisters: as you received Christ Jesus the Lord, walk in him,\nrooted in him and built upon him and established in the faith as you were taught, abounding in thanksgiving.\nSee to it that no one captivate you with an empty, seductive philosophy according to human tradition, according to the elemental powers of the world and not according to Christ.\nFor in him dwells the whole fullness of the deity bodily,\nand you share in this fullness in him, who is the head of every principality and power.\nIn him you were also circumcised with a circumcision not administered by hand, by stripping off the carnal body, with the circumcision of Christ.\nYou were buried with him in baptism, in which you were also raised with him through faith in the power of God, who raised him from the dead.\nAnd even when you were dead in transgressions and the uncircumcision of your flesh, he brought you to life along with him, having forgiven us all our transgressions;\nobliterating the bond against us, with its legal claims, which was opposed to us, he also removed it from our midst, nailing it to the cross.\ndespoiling the principalities and the powers, he made a public spectacle of them, leading them away in triumph by it."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),1-2.8-9.10-11.",
+                "reading": "I will extol you, O my God and King,and I will bless your name forever and ever.\nEvery day will I bless you,and I will praise your name forever and ever.\nThe LORD is gracious and merciful,slow to anger and of great kindness.\nThe LORD is good to alland compassionate toward all his works.\nLet all your works give you thanks, O LORD,and let your faithful ones bless you.\nLet them discourse of the glory of your Kingdomand speak of your might."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,12-19.",
+                "reading": "Jesus departed to the mountain to pray, and he spent the night in prayer to God.\nWhen day came, he called his disciples to himself, and from them he chose Twelve, whom he also named apostles:\nSimon, whom he named Peter, and his brother Andrew, James, John, Philip, Bartholomew,\nMatthew, Thomas, James the son of Alphaeus, Simon who was called a Zealot,\nand Judas the son of James, and Judas Iscariot, who became a traitor.\nAnd he came down with them and stood on a stretch of level ground. A great crowd of his disciples and a large number of the people from all Judea and Jerusalem and the coastal region of Tyre and Sidon\ncame to hear him and to be healed of their diseases; and even those who were tormented by unclean spirits were cured.\nEveryone in the crowd sought to touch him because power came forth from him and healed them all."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Peter Claver",
+            "title": "Priest (1580-1654) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cfc484b6-d934-48c9-9373-d52160f47a07"
+        }
     }
 }
