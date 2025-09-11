@@ -4264,5 +4264,27 @@
             "title": "Priest (1245-1305)",
             "profile_link": "https://dailygospel.org/AM/display-saint/c6a9a7ac-6aa4-45f8-990c-1bc572cccddb"
         }
+    },
+    "2025-09-11": {
+        "liturgical_week": "Thursday of the Twenty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Colossians3,12-17.",
+                "reading": "Brothers and sisters: Put on, as God’s chosen ones, holy and beloved, heartfelt compassion, kindness, humility, gentleness, and patience,\nbearing with one another and forgiving one another, if one has a grievance against another; as the Lord has forgiven you, so must you also do.\nAnd over all these put on love, that is, the bond of perfection.\nAnd let the peace of Christ control your hearts, the peace into which you were also called in one body. And be thankful.\nLet the word of Christ dwell in you richly, as in all wisdom you teach and admonish one another, singing psalms, hymns, and spiritual songs with gratitude in your hearts to God.\nAnd whatever you do, in word or in deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him."
+            },
+            "Psalm": {
+                "title": "Psalms150(149),1-2.3-4.5-6.",
+                "reading": "Praise the LORD in his sanctuary,Praise him in the firmament of his strength.\nPraise him for his mighty deeds,Praise him for his sovereign majesty.\nPraise him with the blast of the trumpet,Praise him with lyre and harp,\nPraise him with timbrel and dance,Praise him with strings and pipe.\nPraise him with sounding cymbals,Praise him with clanging cymbals.\nLet everything that has breathPraise the LORD! Alleluia."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,27-38.",
+                "reading": "Jesus said to his disciples : \"To you who hear I say, love your enemies, do good to those who hate you,\nbless those who curse you, pray for those who mistreat you.\nTo the person who strikes you on one cheek, offer the other one as well, and from the person who takes your cloak, do not withhold even your tunic.\nGive to everyone who asks of you, and from the one who takes what is yours do not demand it back.\nDo to others as you would have them do to you.\nFor if you love those who love you, what credit is that to you? Even sinners love those who love them.\nAnd if you do good to those who do good to you, what credit is that to you? Even sinners do the same.\nIf you lend money to those from whom you expect repayment, what credit (is) that to you? Even sinners lend to sinners, and get back the same amount.\nBut rather, love your enemies and do good to them, and lend expecting nothing back; then your reward will be great and you will be children of the Most High, for he himself is kind to the ungrateful and the wicked.\nBe merciful, just as (also) your Father is merciful.\nStop judging and you will not be judged. Stop condemning and you will not be condemned. Forgive and you will be forgiven.\nGive and gifts will be given to you; a good measure, packed together, shaken down, and overflowing, will be poured into your lap. For the measure with which you measure will in return be measured out to you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Paphnutius",
+            "title": "Bishop (4th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4c462c29-597e-46f7-b7a6-388510c38698"
+        }
     }
 }
