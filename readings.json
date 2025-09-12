@@ -4286,5 +4286,27 @@
             "title": "Bishop (4th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4c462c29-597e-46f7-b7a6-388510c38698"
         }
+    },
+    "2025-09-12": {
+        "liturgical_week": "Friday of the Twenty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to Timothy1,1-2.12-14.",
+                "reading": "Paul, an apostle of Christ Jesus by command of God our savior and of Christ Jesus our hope,\nto Timothy, my true child in faith: grace, mercy, and peace from God the Father and Christ Jesus our Lord.\nI am grateful to him who has strengthened me, Christ Jesus our Lord, because he considered me trustworthy in appointing me to the ministry.\nI was once a blasphemer and a persecutor and an arrogant man, but I have been mercifully treated because I acted out of ignorance in my unbelief.\nIndeed, the grace of our Lord has been abundant, along with the faith and love that are in Christ Jesus."
+            },
+            "Psalm": {
+                "title": "Psalms16(15),1-2a.5.7-8.11.",
+                "reading": "Keep me, O God, for in you I take refuge;\nI say to the LORD, \"My Lord are you.\"\nO LORD, my allotted portion and my cup,you it is who hold fast my lot.\nI bless the LORD who counsels me;even in the night my heart exhorts me.\nI set the LORD ever before me;with him at my right hand I shall not be disturbed.\nYou will show me the path to life,fullness of joys in your presence,the delights at your right hand forever."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,39-42.",
+                "reading": "Jesus told his disciples a parable : \"Can a blind person guide a blind person? Will not both fall into a pit?\nNo disciple is superior to the teacher; but when fully trained, every disciple will be like his teacher.\nWhy do you notice the splinter in your brother's eye, but do not perceive the wooden beam in your own?\nHow can you say to your brother, 'Brother, let me remove that splinter in your eye,' when you do not even notice the wooden beam in your own eye? You hypocrite! Remove the wooden beam from your eye first; then you will see clearly to remove the splinter in your brother's eye.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Guy of Anderlecht",
+            "title": "(† c.1012)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4a622eb9-1f33-4a55-9bde-ae7f0d27a4d8"
+        }
     }
 }
