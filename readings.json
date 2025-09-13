@@ -4308,5 +4308,27 @@
             "title": "(† c.1012)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4a622eb9-1f33-4a55-9bde-ae7f0d27a4d8"
         }
+    },
+    "2025-09-13": {
+        "liturgical_week": "Saturday of the Twenty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to Timothy1,15-17.",
+                "reading": "Beloved: This saying is trustworthy and deserves full acceptance: Christ Jesus came into the world to save sinners. Of these I am the foremost.\nBut for that reason I was mercifully treated, so that in me, as the foremost, Christ Jesus might display all his patience as an example for those who would come to believe in him for everlasting life.\nTo the king of ages, incorruptible, invisible, the only God, honor and glory forever and ever. Amen."
+            },
+            "Psalm": {
+                "title": "Psalms113(112),1-2.3-4.5a.6-7.",
+                "reading": "Praise, you servants of the LORD,praise the name of the LORD.\nBlessed be the name of the LORDboth now and forever.\nFrom the rising to the setting of the sunis the name of the LORD to be praised.\nHigh above all nations is the LORD;above the heavens is his glory.\nWho is like the LORD, our God,\nwho looks upon the heavens and the earth below?\nHe raises up the lowly from the dust;from the dunghill he lifts up the poor."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,43-49.",
+                "reading": "Jesus said to his disciples : \"A good tree does not bear rotten fruit, nor does a rotten tree bear good fruit.\nFor every tree is known by its own fruit. For people do not pick figs from thornbushes, nor do they gather grapes from brambles.\nA good person out of the store of goodness in his heart produces good, but an evil person out of a store of evil produces evil; for from the fullness of the heart the mouth speaks.\nWhy do you call me, 'Lord, Lord,' but not do what I command?\nI will show you what someone is like who comes to me, listens to my words, and acts on them.\nThat one is like a person building a house, who dug deeply and laid the foundation on rock; when the flood came, the river burst against that house but could not shake it because it had been well built.\nBut the one who listens and does not act is like a person who built a house on the ground without a foundation. When the river burst against it, it collapsed at once and was completely destroyed.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John Chrysostom",
+            "title": "Bishop and Doctor of the Church - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/90dda38b-95c8-4400-8741-ddca0cc53beb"
+        }
     }
 }
