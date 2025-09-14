@@ -4330,5 +4330,27 @@
             "title": "Bishop and Doctor of the Church - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/90dda38b-95c8-4400-8741-ddca0cc53beb"
         }
+    },
+    "2025-09-14": {
+        "liturgical_week": "The Exaltation of the Holy Cross - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Numbers21,4b-9.",
+                "reading": "With their patience worn out by the journey,\nthe people complained against God and Moses, \"Why have you brought us up from Egypt to die in this desert, where there is no food or water? We are disgusted with this wretched food!\"\nIn punishment the LORD sent among the people saraph serpents, which bit the people so that many of them died.\nThen the people came to Moses and said, \"We have sinned in complaining against the LORD and you. Pray the LORD to take the serpents from us.\" So Moses prayed for the people,\nand the LORD said to Moses, \"Make a saraph and mount it on a pole, and if anyone who has been bitten looks at it, he will recover.\"\nMoses accordingly made a bronze serpent and mounted it on a pole, and whenever anyone who had been bitten by a serpent looked at the bronze serpent, he lived."
+            },
+            "Psalm": {
+                "title": "Psalms78(77),1-2.34-35.36-37.38.",
+                "reading": "Hearken, my people, to my teaching;incline your ears to the words of my mouth.\nI will open my mouth in a parable,I will utter mysteries from of old.\nWhile he slew them they sought himand inquired after God again,\nRemembering that God was their rockand the Most High God, their redeemer.\nBut they flattered him with their mouthsand lied to him with their tongues,\nThough their hearts were not steadfast toward him,nor were they faithful to his covenant.\nBut he, being merciful, forgave their sinand destroyed them not;often he turned back his angerand let none of his wrath be roused."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John3,13-17.",
+                "reading": "Jesus said to Nicodemus : \"No one has gone up to heaven except the one who has come down from heaven, the Son of Man.\nAnd just as Moses lifted up the serpent in the desert, so must the Son of Man be lifted up,\nso that everyone who believes in him may have eternal life.\"\nFor God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life.\nFor God did not send his Son into the world to condemn the world, but that the world might be saved through him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Maternus",
+            "title": "Bishop († c. 325)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d7d647a9-eb68-4770-8879-4171e5f64520"
+        }
     }
 }
