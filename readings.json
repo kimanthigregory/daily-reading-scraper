@@ -4352,5 +4352,27 @@
             "title": "Bishop († c. 325)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d7d647a9-eb68-4770-8879-4171e5f64520"
         }
+    },
+    "2025-09-15": {
+        "liturgical_week": "Our Lady of Sorrows - Memorial",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Hebrews5,7-9.",
+                "reading": "In the days when Christ Jesus was in the flesh, he offered prayers and supplications with loud cries and tears to the one who was able to save him from death, and he was heard because of his reverence.\nSon though he was, he learned obedience from what he suffered;\nand when he was made perfect, he became the source of eternal salvation for all who obey him."
+            },
+            "Psalm": {
+                "title": "Psalms31(30),2-3a.3bc-4.5-6.15-16.20.",
+                "reading": "In you, O LORD, I take refuge;let me never be put to shame.In your justice rescue me,\nMake haste to deliver me!\nBe my rock of refuge,\na stronghold to give me safety.\nYou are my rock and my fortress;for your name's sake you will lead and guide me.\nYou will free me from the snare they set for me,for you are my refuge.\nInto your hands I commend my spirit;You will redeem me, O LORD, O faithful God.\nBut my trust is in you, O LORD;I say, \"You are my God.\nIn your hands is my destiny; rescue mefrom the clutches of my enemies and my persecutors.\"\nHow great is the goodness, O LORD,which you have in store for those who fear you,and which, toward those who take refuge in you,You show in the sight of the children of men."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John19,25-27.",
+                "reading": "Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary Magdalene.\nWhen Jesus saw his mother and the disciple there whom he loved, he said to his mother, \"Woman, behold, your son.\"\nThen he said to the disciple, \"Behold, your mother.\" And from that hour the disciple took her into his home."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Catherine of Genoa",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8b6838ea-fe83-4cd5-92f9-2704a01114a9"
+        }
     }
 }
