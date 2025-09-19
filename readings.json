@@ -4440,5 +4440,27 @@
             "title": "Bishop (1488-1555)",
             "profile_link": "https://dailygospel.org/AM/display-saint/a67bc48d-7104-47c1-9872-f6fafba5fae7"
         }
+    },
+    "2025-09-19": {
+        "liturgical_week": "Friday of the Twenty-fourth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to Timothy6,2c-12.",
+                "reading": "Beloved: Teach and urge these things.\nWhoever teaches something different and does not agree with the sound words of our Lord Jesus Christ and the religious teaching\nis conceited, understanding nothing, and has a morbid disposition for arguments and verbal disputes. From these come envy, rivalry, insults, evil suspicions,\nand mutual friction among people with corrupted minds, who are deprived of the truth, supposing religion to be a means of gain.\nIndeed, religion with contentment is a great gain.\nFor we brought nothing into the world, just as we shall not be able to take anything out of it.\nIf we have food and clothing, we shall be content with that.\nThose who want to be rich are falling into temptation and into a trap and into many foolish and harmful desires, which plunge them into ruin and destruction.\nFor the love of money is the root of all evils, and some people in their desire for it have strayed from the faith and have pierced themselves with many pains.\nBut you, man of God, avoid all this. Instead, pursue righteousness, devotion, faith, love, patience, and gentleness.\nCompete well for the faith. Lay hold of eternal life, to which you were called when you made the noble confession in the presence of many witnesses."
+            },
+            "Psalm": {
+                "title": "Psalms49(48),6-7.8-10.17-18.19-20.",
+                "reading": "Why should I fear in evil dayswhen my wicked ensnarers ring me round?\nThey trust in their wealth;the abundance of their riches is their boast.\nYet in no way can a man redeem himself,or pay his own ransom to God;\nToo high is the price to redeem one’s life; he would never have enough\nto remain alive always and not see destruction.\nFear not when a man grows rich,when the wealth of his house becomes great,\nFor when he dies, he shall take none of it;his wealth shall not follow him down.\nThough in his lifetime he counted himself blessed,“They will praise you for doing well for yourself,”\nHe shall join the circle of his forebearswho shall never more see light."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke8,1-3.",
+                "reading": "Jesus journeyed from one town and village to another, preaching and proclaiming the good news of the Kingdom of God. Accompanying him were the Twelve\nand some women who had been cured of evil spirits and infirmities, Mary, called Magdalene, from whom seven demons had gone out,\nJoanna, the wife of Herod's steward Chuza, Susanna, and many others who provided for them out of their resources."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Januarius",
+            "title": "Bishop and Martyr († 305)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/af478fca-430b-4d52-b0c9-165cd840898f"
+        }
     }
 }
