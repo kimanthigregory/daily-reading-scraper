@@ -4510,5 +4510,27 @@
             "title": "Apostle - Feast",
             "profile_link": "https://dailygospel.org/AM/display-saint/063657c2-5e72-4f76-941c-0d18d9cda816"
         }
+    },
+    "2025-09-22": {
+        "liturgical_week": "Monday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezra1,1-6.",
+                "reading": "In the first year of Cyrus, king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD inspired King Cyrus of Persia to issue this proclamation throughout his kingdom, both by word of mouth and in writing:\n\"Thus says Cyrus, king of Persia: 'All the kingdoms of the earth the LORD, the God of heaven, has given to me, and he has also charged me to build him a house in Jerusalem, which is in Judah.\nWhoever, therefore, among you belongs to any part of his people, let him go up, and may his God be with him!\nLet everyone who has survived, in whatever place he may have dwelt, be assisted by the people of that place with silver, gold, goods, and cattle, together with free-will offerings for the house of God in Jerusalem.'\"\nThen the family heads of Judah and Benjamin and the priests and Levites –everyone, that is, whom God had inspired to do so– prepared to go up to build the house of the LORD in Jerusalem.\nAll their neighbors gave them help in every way, with silver, gold, goods, and cattle, and with many precious gifts besides all their free-will offerings."
+            },
+            "Psalm": {
+                "title": "Psalms126(125),1bc-2ab.2cd-3.4-5.6.",
+                "reading": "When the LORD brought back the captives of Zion,\nWe were like men dreaming.\nThen our mouth was filled with laughter,\nand our tongue with rejoicing.\nThen they said among the nations,\n\"the LORD has done great things for them.\"\nThe LORD has done great things for us;we are glad indeed.\nRestore our fortunes, O LORD,like the torrents in the southern desert.\nThose that sow in tearsshall reap rejoicing.\nAlthough they go forth weeping,carrying the seed to be sown,they shall come back rejoicing,carrying their sheaves."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke8,16-18.",
+                "reading": "Jesus said to the crowd : \"No one who lights a lamp conceals it with a vessel or sets it under a bed ; rather, he places it on a lampstand so that those who enter may see the light.\nFor there is nothing hidden that will not become visible, and nothing secret that will not be known and come to light.\nTake care, then, how you hear. To anyone who has, more will be given, and from the one who has not, even what he seems to have will be taken away.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "The Theban Legion",
+            "title": "Martyrs (c.287)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/36be1113-47e0-4b5b-b625-8ee157906fad"
+        }
     }
 }
