@@ -4576,5 +4576,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/077ffc11-3f1f-434b-994b-e1241280dd81"
         }
+    },
+    "2025-09-25": {
+        "liturgical_week": "Thursday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Haggai1,1-8.",
+                "reading": "On the first day of the sixth month in the second year of King Darius, The word of the LORD came through the prophet Haggai to the governor of Judah, Zerubbabel, son of Shealtiel, and to the high priest Joshua, son of Jehozadak:\nThus says the LORD of hosts: This people says: \"Not now has the time come to rebuild the house of the LORD.\"\n(Then this word of the LORD came through Haggai, the prophet:)\nIs it time for you to dwell in your own paneled houses, while this house lies in ruins?\nNow thus says the LORD of hosts: Consider your ways!\nYou have sown much, but have brought in little; you have eaten, but have not been satisfied; You have drunk, but have not been exhilarated; have clothed yourselves, but not been warmed; and he who earned wages earned them for a bag with holes in it.\nThus says the LORD of hosts: Consider your ways!\nGo up into the hill country; bring timber, and build the house That I may take pleasure in it and receive my glory, says the LORD."
+            },
+            "Psalm": {
+                "title": "Psalms149(148),1-2.3-4.5-6a.9b.",
+                "reading": "Sing to the LORD a new songof praise in the assembly of the faithful.\nLet Israel be glad in their maker,let the children of Zion rejoice in their king.\nLet them praise his name in the festive dance,let them sing praise to him with timbrel and harp.\nFor the LORD loves his people,and he adorns the lowly with victory.\nLet the faithful exult in glory;let them sing for joy upon their couches;\nLet the high praises of God be in their throats.\nThis is the glory of all his faithful. Alleluia!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,7-9.",
+                "reading": "Herod the tetrarch heard about all that was happening, and he was greatly perplexed because some were saying, \"John has been raised from the dead\" ;\nothers were saying, \"Elijah has appeared\"; still others, \"One of the ancient prophets has arisen.\"\nBut Herod said, \"John I beheaded. Who then is this about whom I hear such things?\" And he kept trying to see him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Finbarr",
+            "title": "Bishop (6th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e6a7ddc0-bd22-4007-bbc9-f2dcdadd93a3"
+        }
     }
 }
