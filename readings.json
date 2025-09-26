@@ -4598,5 +4598,27 @@
             "title": "Bishop (6th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e6a7ddc0-bd22-4007-bbc9-f2dcdadd93a3"
         }
+    },
+    "2025-09-26": {
+        "liturgical_week": "Friday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Haggai1,15b.2,1-9.",
+                "reading": "In the second year of King Darius,\non the twenty-first day of the seventh month, the word of the LORD came through the prophet Haggai:\nTell this to the governor of Judah, Zerubbabel, son of Shealtiel, and to the high priest Joshua, son of Jehozadak, and to the remnant of the people:\nWho is left among you that saw this house in its former glory? And how do you see it now? Does it not seem like nothing in your eyes?\nBut now take courage, Zerubbabel, says the LORD, and take courage, Joshua, high priest, son of Jehozadak, and take courage, all you people of the land, says the LORD, and work! For I am with you, says the LORD of hosts.\nThis is the pact that I made with you when you came out of Egypt, and my spirit continues in your midst; do not fear!\nFor thus says the LORD of hosts: One moment yet, a little while, and I will shake the heavens and the earth, the sea and the dry land.\nI will shake all the nations, and the treasures of all the nations will come in, and I will fill this house with glory, says the LORD of hosts.\nMine is the silver and mine the gold, says the LORD of hosts.\nGreater will be the future glory of this house than the former, says the LORD of hosts; and in this place I will give you peace, says the LORD of hosts."
+            },
+            "Psalm": {
+                "title": "Psalms43(42),1.2.3.4.",
+                "reading": "Do me justice, O God, and fight my fightagainst a faithless people;from the deceitful and impious man rescue me.\nFor you, O God, are my strength.Why do you keep me so far away?Why must I go about in mourning,with the enemy oppressing me?\nSend forth your light and your fidelity;they shall lead me onAnd bring me to your holy mountain,to your dwelling place.\nThen will I go in to the altar of God,the God of my gladness and joy;Then will I give you thanks upon the harp,O God, my God!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,18-22.",
+                "reading": "Once when Jesus was praying in solitude, and the disciples were with him, he asked them, \"Who do the crowds say that I am?\"\nThey said in reply, \"John the Baptist; others, Elijah; still others, 'One of the ancient prophets has arisen.'\"\nThen he said to them, \"But who do you say that I am?\" Peter said in reply, \"The Messiah of God.\"\nHe rebuked them and directed them not to tell this to anyone.\nHe said, \"The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Cosmas & Damian",
+            "title": "Martyrs († c. 283)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/347aa27f-f2bc-4225-9373-ee0df08befa8"
+        }
     }
 }
