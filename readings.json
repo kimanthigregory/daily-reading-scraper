@@ -4620,5 +4620,27 @@
             "title": "Martyrs († c. 283)",
             "profile_link": "https://dailygospel.org/AM/display-saint/347aa27f-f2bc-4225-9373-ee0df08befa8"
         }
+    },
+    "2025-09-27": {
+        "liturgical_week": "Saturday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Zechariah2,5-9.14-15a.",
+                "reading": "I, Zechariah, raised my eyes and looked: there was a man with a measuring line in his hand.\n\"Where are you going?\" I asked. \"To measure Jerusalem,\" he answered; \"to see how great is its width and how great its length.\"\nThen the angel who spoke with me advanced, and another angel came out to meet him,\nand said to him, \"Run, tell this to that young man: People will live in Jerusalem as though in open country, because of the multitude of men and beasts in her midst.\nBut I will be for her an encircling wall of fire, says the LORD, and I will be the glory in her midst.\"\nSing and rejoice, O daughter Zion! See, I am coming to dwell among you, says the LORD.\nMany nations shall join themselves to the LORD on that day, and they shall be his people, and he will dwell among you."
+            },
+            "Psalm": {
+                "title": "Book of Jeremiah31,10.11-12ab.13.",
+                "reading": "Hear the word of the LORD, O nations,Proclaim it on distant isles, and say:He who scattered Israel, now gathers them together,He guards them as a shepherd his flock.\nThe LORD shall ransom Jacob,he shall redeem him from the hand of his conqueror.\nShouting, they shall mount the heights of Zion,\nthey shall come streaming to the LORD’s blessings:\nThen the virgins shall make merry and dance,and young men and old as well.I will turn their mourning into joy,I will console and gladden them after their sorrows."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,43b-45.",
+                "reading": "While they were all amazed at his every deed, he said to his disciples,\n\"Pay attention to what I am telling you. The Son of Man is to be handed over to men.\"\nBut they did not understand this saying; its meaning was hidden from them so that they should not understand it, and they were afraid to ask him about this saying."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Vincent de Paul",
+            "title": "Priest (1576-1660) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/84128360-a860-4062-936c-90dc0be05bd9"
+        }
     }
 }
