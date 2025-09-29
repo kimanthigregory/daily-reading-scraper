@@ -4668,5 +4668,27 @@
             "title": "O.SS. (1552-1624)",
             "profile_link": "https://dailygospel.org/AM/display-saint/9cd57717-f6ff-4be8-8488-15f2de175f19"
         }
+    },
+    "2025-09-29": {
+        "liturgical_week": "Saint Michael, Saint Gabriel, and Saint Raphael, archangels - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Daniel7,9-10.13-14.",
+                "reading": "As I watched : Thrones were set up and the Ancient One took his throne. His clothing was bright as snow, and the hair on his head as white as wool ; His throne was flames of fire, with wheels of burning fire.\nA surging stream of fire flowed out from where he sat; Thousands upon thousands were ministering to him, and myriads upon myriads attended him. The court was convened, and the books were opened.\nAs the visions during the night continued, I saw One like a son of man coming, on the clouds of heaven; When he reached the Ancient One and was presented before him,\nHe received dominion, glory, and kingship; nations and peoples of every language serve him. His dominion is an everlasting dominion that shall not be taken away, his kingship shall not be destroyed."
+            },
+            "Psalm": {
+                "title": "Psalms138(137),1-2a.2bc-3.4-5.",
+                "reading": "I will give thanks to you, O LORD, with all my heart,for you have heard the words of my mouth;in the presence of the angels I will sing your praise;\nI will worship at your holy temple.\nI will give thanks to your name,\nbecause of your kindness and your truth.\nWhen I called, you answered me;you built up strength within me.\nAll the kings of the earth shall give thanks to you, O LORD,when they hear the words of your mouth;\nand they shall sing of the ways of the LORD:\"Great is the glory of the LORD.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,47-51.",
+                "reading": "Jesus saw Nathanael coming toward him and said of him, \"Here is a true child of Israel. There is no duplicity in him.\"\nNathanael said to him, \"How do you know me?\" Jesus answered and said to him, \"Before Philip called you, I saw you under the fig tree.\"\nNathanael answered him, \"Rabbi, you are the Son of God; you are the King of Israel.\"\nJesus answered and said to him, \"Do you believe because I told you that I saw you under the fig tree? You will see greater things than this.\"\nAnd he said to him, \"Amen, amen, I say to you, you will see the sky opened and the angels of God ascending and descending on the Son of Man.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Michael Archangel - Feast",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e2aeba84-17c9-456b-a81c-c086a71dcd33"
+        }
     }
 }
