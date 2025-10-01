@@ -4712,5 +4712,27 @@
             "title": "Priest and Doctor of the Church (c. 340- c. 420) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/a4728405-bda2-40dc-8f08-c8e5d27b235e"
         }
+    },
+    "2025-10-01": {
+        "liturgical_week": "Wednesday of the Twenty-sixth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Nehemiah2,1-8.",
+                "reading": "In the month Nisan of the twentieth year of King Artaxerxes, when the wine was in my charge, I took some and offered it to the king. As I had never before been sad in his presence,\nthe king asked me, \"Why do you look sad? If you are not sick, you must be sad at heart.\" Though I was seized with great fear,\nI answered the king: \"May the king live forever! How could I not look sad when the city where my ancestors are buried lies in ruins, and its gates have been eaten out by fire?\"\nThe king asked me, \"What is it, then, that you wish?\" I prayed to the God of heaven\nand then answered the king: \"If it please the king, and if your servant is deserving of your favor, send me to Judah, to the city of my ancestors' graves, to rebuild it.\"\nThen the king, and the queen seated beside him, asked me how long my journey would take and when I would return. I set a date that was acceptable to him, and the king agreed that I might go.\nI asked the king further: \"If it please the king, let letters be given to me for the governors of West-of-Euphrates, that they may afford me safe-conduct till I arrive in Judah;\nalso a letter for Asaph, the keeper of the royal park, that he may give me wood for timbering the gates of the temple-citadel and for the city wall and the house that I shall occupy.\" The king granted my requests, for the favoring hand of my God was upon me."
+            },
+            "Psalm": {
+                "title": "Psalms137(136),1-2.3.4-5.6.",
+                "reading": "By the rivers of Babylonwe sat mourning and weepingwhen we remembered Zion.\nOn the poplars of that landwe hung up our harps.\nThere our captors asked usfor the words of a song;Our tormentors, for a joyful song:\"Sing for us a song of Zion!\"\nBut how could we sing a song of the LORDin a foreign land?\nIf I forget you, Jerusalem,may my right hand wither.\nMay my tongue stick to my palateif I do not remember you,if I do not exalt Jerusalembeyond all my delights."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,57-62.",
+                "reading": "As Jesus and His disciples were proceeding on their journey someone said to him, \"I will follow you wherever you go.\"\nJesus answered him, \"Foxes have dens and birds of the sky have nests, but the Son of Man has nowhere to rest his head.\"\nAnd to another he said, \"Follow me.\" But he replied, \"Lord, let me go first and bury my father.\"\nBut he answered him, \"Let the dead bury their dead. But you, go and proclaim the kingdom of God.\"\nAnd another said, \"I will follow you, Lord, but first let me say farewell to my family at home.\"\nJesus answered him, \"No one who sets a hand to the plow and looks to what was left behind is fit for the kingdom of God.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Therese of Lisieux",
+            "title": "Virgin and Doctor of the Church (1873-1897) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/bc329996-236d-4b60-a0d3-144cfe9962a8"
+        }
     }
 }
