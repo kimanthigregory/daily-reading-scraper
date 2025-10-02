@@ -4734,5 +4734,23 @@
             "title": "Virgin and Doctor of the Church (1873-1897) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/bc329996-236d-4b60-a0d3-144cfe9962a8"
         }
+    },
+    "2025-10-02": {
+        "liturgical_week": "Guardian Angels - Memorial",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus23,20-23.",
+                "reading": "\"See, I am sending an angel before you, to guard you on the way and bring you to the place I have prepared.\nBe attentive to him and heed his voice. Do not rebel against him, for he will not forgive your sin. My authority resides in him.\nIf you heed his voice and carry out all I tell you, I will be an enemy to your enemies and a foe to your foes.\n\"My angel will go before you and bring you to the Amorites, Hittites, Perizzites, Canaanites, Hivites and Jebusites; and I will wipe them out."
+            },
+            "Psalm": {
+                "title": "Psalms91(90),1-2.3-4.5-6.10-11.",
+                "reading": "You who dwell in the shelter of the Most High,who abide in the shadow of the Almighty,\nSay to the LORD, \"My refuge and my fortress,my God, in whom I trust.\"\nFor he will rescue you from the snare of the fowler,from the destroying pestilence.\nWith his pinions he will cover you,and under his wings you shall take refuge.\nYou shall not fear the terror of the nightnor the arrow that flies by day,\nnor the pestilence that roams in darkness,nor the plague that ravages at noon.\nNo evil shall befall you,nor shall affliction come near your tent,\nfor to his angels he has given command about you,that they guard you in all your ways."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew18,1-5.10.",
+                "reading": "The disciples approached Jesus and said, \"Who is the greatest in the kingdom of heaven?\"\nHe called a child over, placed it in their midst,\nand said, \"Amen, I say to you, unless you turn and become like children, you will not enter the kingdom of heaven.\nWhoever humbles himself like this child is the greatest in the kingdom of heaven.\nAnd whoever receives one child such as this in my name receives me.\nSee that you do not despise one of these little ones, for I say to you that their angels in heaven always look upon the face of my heavenly Father."
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
