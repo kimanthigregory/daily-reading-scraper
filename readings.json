@@ -4796,5 +4796,31 @@
             "title": "Founder (1182-1226)",
             "profile_link": "https://dailygospel.org/AM/display-saint/5e2fffae-2c62-47fd-b0c0-a335588ca2ec"
         }
+    },
+    "2025-10-05": {
+        "liturgical_week": "Twenty-seventh Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Habakkuk1,2-3.2,2-4.",
+                "reading": "How long, O LORD? I cry for help but you do not listen! I cry out to you, \"Violence!\" but you do not intervene.\nWhy do you let me see ruin; why must I look at misery? Destruction and violence are before me; there is strife, and clamorous discord.\nThen the LORD answered me and said: Write down the vision Clearly upon the tablets, so that one can read it readily.\nFor the vision still has its time, presses on to fulfillment, and will not disappoint; If it delays, wait for it, it will surely come, it will not be late.\nThe rash man has no integrity; but the just man, because of his faith, shall live."
+            },
+            "Psalm": {
+                "title": "Psalms95(94),1-2.6-7.8-9.",
+                "reading": "Come, let us sing joyfully to the LORD;let us acclaim the Rock of our salvation.\nLet us come into his presence with thanksgiving;let us joyfully sing psalms to him.\nCome, let us bow down in worship;let us kneel before the LORD who made us.\nFor he is our God,and we are the people he shepherds, the flock he guides.\nOh, that today you would hear his voice:“Harden not your hearts as at Meribah,as in the day of Massah in the desert,\nWhere your fathers tempted me;they tested me though they had seen my works.”"
+            },
+            "Second_Reading": {
+                "title": "Second Letter to Timothy1,6-8.13-14.",
+                "reading": "Beloved: I remind you to stir into flame the gift of God that you have through the imposition of my hands.\nFor God did not give us a spirit of cowardice but rather of power and love and self-control.\nSo do not be ashamed of your testimony to our Lord, nor of me, a prisoner for his sake; but bear your share of hardship for the gospel with the strength that comes from God.\nTake as your norm the sound words that you heard from me, in the faith and love that are in Christ Jesus.\nGuard this rich trust with the help of the holy Spirit that dwells within us."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke17,5-10.",
+                "reading": "The apostles said to the Lord, \"Increase our faith.\"\nThe Lord replied, \"If you have faith the size of a mustard seed, you would say to (this) mulberry tree, 'Be uprooted and planted in the sea,' and it would obey you.\nWho among you would say to your servant who has just come in from plowing or tending sheep in the field, 'Come here immediately and take your place at table'?\nWould he not rather say to him, 'Prepare something for me to eat. Put on your apron and wait on me while I eat and drink. You may eat and drink when I am finished'?\nIs he grateful to that servant because he did what was commanded?\nSo should it be with you. When you have done all you have been commanded, say, 'We are unprofitable servants; we have done what we were obliged to do.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Francis Xavier Seelos",
+            "title": "Priest (1819-1867)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3d9dd634-ca0f-465e-9d64-b1a1c535db9c"
+        }
     }
 }
