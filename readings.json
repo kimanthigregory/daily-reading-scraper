@@ -4844,5 +4844,27 @@
             "title": "Priest (c. 1030-1101)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3be617ba-2427-441f-8920-e469d362253e"
         }
+    },
+    "2025-10-07": {
+        "liturgical_week": "Tuesday of the Twenty-seventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jonah3,1-10.",
+                "reading": "The word of the LORD came to Jonah a second time:\n\"Set out for the great city of Nineveh, and announce to it the message that I will tell you.\"\nSo Jonah made ready and went to Nineveh, according to the LORD'S bidding. Now Nineveh was an enormously large city; it took three days to go through it.\nJonah began his journey through the city, and had gone but a single day's walk announcing, \"Forty days more and Nineveh shall be destroyed,\"\nwhen the people of Nineveh believed God; they proclaimed a fast and all of them, great and small, put on sackcloth.\nWhen the news reached the king of Nineveh, he rose from his throne, laid aside his robe, covered himself with sackcloth, and sat in the ashes.\nThen he had this proclaimed throughout Nineveh, by decree of the king and his nobles: \"Neither man nor beast, neither cattle nor sheep, shall taste anything; they shall not eat, nor shall they drink water.\nMan and beast shall be covered with sackcloth and call loudly to God; every man shall turn from his evil way and from the violence he has in hand.\nWho knows, God may relent and forgive, and withhold his blazing wrath, so that we shall not perish.\"\nWhen God saw by their actions how they turned from their evil way, he repented of the evil that he had threatened to do to them; he did not carry it out."
+            },
+            "Psalm": {
+                "title": "Psalms130(129),1-2.3-4ab.7-8.",
+                "reading": "Out of the depths I cry to you, O LORD\nLORD, hear my voice!Let your ears be attentiveto my voice in supplication.\nIf you, O LORD, mark iniquities,LORD, who can stand?\nBut with you is forgiveness,\nBut with you is forgiveness,\nFor with the LORD is kindnessand with him is plenteous redemption;\nand he will redeem Israelfrom all their iniquities."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke10,38-42.",
+                "reading": "Jesus entered a village where a woman whose name was Martha welcomed him.\nShe had a sister named Mary who sat beside the Lord at his feet listening to him speak.\nMartha, burdened with much serving, came to him and said, \"Lord, do you not care that my sister has left me by myself to do the serving? Tell her to help me.\"\nThe Lord said to her in reply, \"Martha, Martha, you are anxious and worried about many things.\nThere is need of only one thing. Mary has chosen the better part and it will not be taken from her.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Mark",
+            "title": "Pope and Martyr († 336)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f0ba3ee0-80b9-44db-b9c5-b9337e85393f"
+        }
     }
 }
