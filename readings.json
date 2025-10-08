@@ -4866,5 +4866,27 @@
             "title": "Pope and Martyr († 336)",
             "profile_link": "https://dailygospel.org/AM/display-saint/f0ba3ee0-80b9-44db-b9c5-b9337e85393f"
         }
+    },
+    "2025-10-08": {
+        "liturgical_week": "Wednesday of the Twenty-seventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jonah4,1-11.",
+                "reading": "Jonah was greatly displeased and became angry that God did not carry out the evil he threatened against Nineveh.\n\"I beseech you, LORD,\" he prayed, \"is not this what I said while I was still in my own country? This is why I fled at first to Tarshish. I knew that you are a gracious and merciful God, slow to anger, rich in clemency, loathe to punish.\nAnd now, LORD, please take my life from me; for it is better for me to die than to live.\"\nBut the LORD asked, \"Have you reason to be angry?\"\nJonah then left the city for a place to the east of it, where he built himself a hut and waited under it in the shade, to see what would happen to the city.\nAnd when the LORD God provided a gourd plant, that grew up over Jonah's head, giving shade that relieved him of any discomfort, Jonah was very happy over the plant.\nBut the next morning at dawn God sent a worm which attacked the plant, so that it withered.\nAnd when the sun arose, God sent a burning east wind; and the sun beat upon Jonah's head till he became faint. Then he asked for death, saying, \"I would be better off dead than alive.\"\nBut God said to Jonah, \"Have you reason to be angry over the plant?\" \"I have reason to be angry,\" Jonah answered, \"angry enough to die.\"\nThen the LORD said, \"You are concerned over the plant which cost you no labor and which you did not raise; it came up in one night and in one night it perished.\nAnd should I not be concerned over Nineveh, the great city, in which there are more than a hundred and twenty thousand persons who cannot distinguish their right hand from their left, not to mention the many cattle?\""
+            },
+            "Psalm": {
+                "title": "Psalms86(85),3-4.5-6.9-10.",
+                "reading": "Have mercy on me, O Lord,for to you I call all the day.\nGladden the soul of your servant,for to you, O Lord, I lift up my soul.\nFor you, O Lord, are good and forgiving,abounding in kindness to all who call upon you.\nHearken, O LORD, to my prayerand attend to the sound of my pleading.\nAll the nations you have made shall comeand worship you, O Lord,and glorify your name.\nFor you are great, and you do wondrous deeds;you alone are God."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,1-4.",
+                "reading": "Jesus was praying in a certain place, and when he had finished, one of his disciples said to him, \"Lord, teach us to pray just as John taught his disciples.\"\nHe said to them, \"When you pray, say: Father, hallowed be your name, your kingdom come.\nGive us each day our daily bread\nand forgive us our sins for we ourselves forgive everyone in debt to us, and do not subject us to the final test.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Demetrius",
+            "title": "Martyr († c. 306)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/c309158e-2344-4b04-b5ff-fb43c5ecfd2d"
+        }
     }
 }
