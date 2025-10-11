@@ -4932,5 +4932,27 @@
             "title": "Priest (1510-1572)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6e9aea79-2ffa-47c1-8cfe-1076d6d23b2c"
         }
+    },
+    "2025-10-11": {
+        "liturgical_week": "Saturday of the Twenty-seventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Joel4,12-21.",
+                "reading": "Thus says the LORD: Let the nations bestir themselves and come up to the Valley of Jehoshaphat; For there will I sit in judgment upon all the neighboring nations.\nApply the sickle, for the harvest is ripe; Come and tread, for the wine press is full; The vats overflow, for great is their malice.\nCrowd upon crowd in the valley of decision; For near is the day of the LORD in the valley of decision.\nSun and moon are darkened, and the stars withhold their brightness.\nThe LORD roars from Zion, and from Jerusalem raises his voice; The heavens and the earth quake, but the LORD is a refuge to his people, a stronghold to the men of Israel.\nThen shall you know that I, the LORD, am your God, dwelling on Zion, my holy mountain; Jerusalem shall be holy, and strangers shall pass through her no more.\nAnd then, on that day, the mountains shall drip new wine, and the hills shall flow with milk; And the channels of Judah shall flow with water: A fountain shall issue from the house of the LORD, to water the Valley of Shittim.\nEgypt shall be a waste, and Edom a desert waste, Because of violence done to the people of Judah, because they shed innocent blood in their land.\nBut Judah shall abide forever, and Jerusalem for all generations.\nI will avenge their blood, and not leave it unpunished. The LORD dwells in Zion."
+            },
+            "Psalm": {
+                "title": "Psalms97(96),1-2.5-6.11-12.",
+                "reading": "The LORD is king; let the earth rejoice;let the many islands be glad.\nClouds and darkness are round about him,justice and judgment are the foundation of his throne.\nThe mountains melt like wax before the LORD,before the Lord of all the earth.\nThe heavens proclaim his justice,and all peoples see his glory.\nLight dawns for the just;And gladness, for the upright of heart.\nBe glad in the LORD, you just,And give thanks to his holy name."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,27-28.",
+                "reading": "While Jesus was speaking, a woman from the crowd called out and said to him, \"Blessed is the womb that carried you and the breasts at which you nursed.\"\nHe replied, \"Rather, blessed are those who hear the word of God and observe it.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Tarachus and his Companions",
+            "title": "Martyrs († 304)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/c0d67688-aaf9-4058-a0bb-eb60daee061a"
+        }
     }
 }
