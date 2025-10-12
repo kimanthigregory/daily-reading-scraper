@@ -4954,5 +4954,31 @@
             "title": "Martyrs († 304)",
             "profile_link": "https://dailygospel.org/AM/display-saint/c0d67688-aaf9-4058-a0bb-eb60daee061a"
         }
+    },
+    "2025-10-12": {
+        "liturgical_week": "Twenty-eighth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "2nd book of Kings5,14-17.",
+                "reading": "Naaman went down and plunged into the Jordan seven times at the word of Elisha, the man of God. His flesh became again like the flesh of a little child, and he was clean of his leprosy.\nHe returned with his whole retinue to the man of God. On his arrival he stood before him and said, \"Now I know that there is no God in all the earth, except in Israel. Please accept a gift from your servant.\"\n\"As the LORD lives whom I serve, I will not take it,\" Elisha replied; and despite Naaman's urging, he still refused.\nNaaman said: \"If you will not accept, please let me, your servant, have two mule-loads of earth, for I will no longer offer holocaust or sacrifice to any other god except to the LORD."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3.4.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHas remembered faithful lovetoward the house of Israel.All the ends of the earth have seenthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise."
+            },
+            "Second_Reading": {
+                "title": "Second Letter to Timothy2,8-13.",
+                "reading": "Beloved: Remember Jesus Christ, raised from the dead, a descendant of David: such is my gospel,\nfor which I am suffering, even to the point of chains, like a criminal. But the word of God is not chained.\nTherefore, I bear with everything for the sake of those who are chosen, so that they too may obtain the salvation that is in Christ Jesus, together with eternal glory.\nThis saying is trustworthy: If we have died with him we shall also live with him;\nif we persevere we shall also reign with him. But if we deny him he will deny us.\nIf we are unfaithful he remains faithful, for he cannot deny himself."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke17,11-19.",
+                "reading": "As Jesus continued his journey to Jerusalem, he traveled through Samaria and Galilee.\nAs he was entering a village, ten lepers met him. They stood at a distance from him\nand raised their voice, saying, \"Jesus, Master! Have pity on us!\"\nAnd when he saw them, he said, \"Go show yourselves to the priests.\" As they were going they were cleansed.\nAnd one of them, realizing he had been healed, returned, glorifying God in a loud voice;\nand he fell at the feet of Jesus and thanked him. He was a Samaritan.\nJesus said in reply, \"Ten were cleansed, were they not? Where are the other nine?\nHas none but this foreigner returned to give thanks to God?\"\nThen he said to him, \"Stand up and go; your faith has saved you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Wilfrid",
+            "title": "Bishop (c. 634-709)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/551c6015-05f9-4539-a5e4-6a1b06f7681c"
+        }
     }
 }
