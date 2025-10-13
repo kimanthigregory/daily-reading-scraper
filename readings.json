@@ -4980,5 +4980,27 @@
             "title": "Bishop (c. 634-709)",
             "profile_link": "https://dailygospel.org/AM/display-saint/551c6015-05f9-4539-a5e4-6a1b06f7681c"
         }
+    },
+    "2025-10-13": {
+        "liturgical_week": "Monday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans1,1-7.",
+                "reading": "Paul, a slave of Christ Jesus, called to be an apostle and set apart for the gospel of God,\nwhich he promised previously through his prophets in the holy scriptures,\nthe gospel about his Son, descended from David according to the flesh,\nbut established as Son of God in power according to the spirit of holiness through resurrection from the dead, Jesus Christ our Lord.\nThrough him we have received the grace of apostleship, to bring about the obedience of faith, for the sake of his name, among all the Gentiles,\namong whom are you also, who are called to belong to Jesus Christ;\nto all the beloved of God in Rome, called to be holy. Grace to you and peace from God our Father and the Lord Jesus Christ."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3ab.3cd-4.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,29-32.",
+                "reading": "While still more people gathered in the crowd, Jesus said to them, \"This generation is an evil generation; it seeks a sign, but no sign will be given it, except the sign of Jonah.\nJust as Jonah became a sign to the Ninevites, so will the Son of Man be to this generation.\nAt the judgment the queen of the south will rise with the men of this generation and she will condemn them, because she came from the ends of the earth to hear the wisdom of Solomon, and there is something greater than Solomon here.\nAt the judgment the men of Nineveh will arise with this generation and condemn it, because at the preaching of Jonah they repented, and there is something greater than Jonah here.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Edward the Confessor",
+            "title": "King († 1066)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f1358e5d-546c-4fc0-80b5-a5200d849863"
+        }
     }
 }
