@@ -5002,5 +5002,27 @@
             "title": "King († 1066)",
             "profile_link": "https://dailygospel.org/AM/display-saint/f1358e5d-546c-4fc0-80b5-a5200d849863"
         }
+    },
+    "2025-10-14": {
+        "liturgical_week": "Tuesday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans1,16-25.",
+                "reading": "Brothers and sisters: I am not ashamed of the Gospel. It is the power of God for the salvation of everyone who believes: for Jew first, and then Greek.\nFor in it is revealed the righteousness of God from faith to faith; as it is written, \"The one who is righteous by faith will live.\"\nThe wrath of God is indeed being revealed from heaven against every impiety and wickedness of those who suppress the truth by their wickedness.\nFor what can be known about God is evident to them, because God made it evident to them.\nEver since the creation of the world, his invisible attributes of eternal power and divinity have been able to be understood and perceived in what he has made. As a result, they have no excuse;\nfor although they knew God they did not accord him glory as God or give him thanks. Instead, they became vain in their reasoning, and their senseless minds were darkened.\nWhile claiming to be wise, they became fools\nand exchanged the glory of the immortal God for the likeness of an image of mortal man or of birds or of four-legged animals or of snakes.\nTherefore, God handed them over to impurity through the lusts of their hearts for the mutual degradation of their bodies.\nThey exchanged the truth of God for a lie and revered and worshiped the creature rather than the creator, who is blessed forever. Amen."
+            },
+            "Psalm": {
+                "title": "Psalms19(18),2-3.4-5.",
+                "reading": "The heavens declare the glory of God;and the firmament proclaims his handiwork.\nDay pours out the word to day,and night to night imparts knowledge.\nNot a word nor a discoursewhose voice is not heard;\nThrough all the earth their voice resounds,and to the ends of the world, their message."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,37-41.",
+                "reading": "After Jesus had spoken, a Pharisee invited him to dine at his home. He entered and reclined at table to eat.\nThe Pharisee was amazed to see that he did not observe the prescribed washing before the meal.\nThe Lord said to him, \"Oh you Pharisees! Although you cleanse the outside of the cup and the dish, inside you are filled with plunder and evil.\nYou fools! Did not the maker of the outside also make the inside?\nBut as to what is within, give alms, and behold, everything will be clean for you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Callistus I",
+            "title": "Pope and Martyr († c. 222)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0cdeb825-2f78-4a93-a613-51e66bf079ee"
+        }
     }
 }
