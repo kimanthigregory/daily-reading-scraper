@@ -5046,5 +5046,27 @@
             "title": "Virgin and Doctor of the Church (1515-1582) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/1277da51-1a14-49bd-92e7-f242998653b5"
         }
+    },
+    "2025-10-16": {
+        "liturgical_week": "Thursday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans3,21-30.",
+                "reading": "Brothers and sisters, now the righteousness of God has been manifested apart from the law, though testified to by the law and the prophets,\nthe righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction;\nall have sinned and are deprived of the glory of God.\nThey are justified freely by his grace through the redemption in Christ Jesus,\nwhom God set forth as an expiation, through faith, by his blood, to prove his righteousness because of the forgiveness of sins previously committed,\nthrough the forbearance of God--to prove his righteousness in the present time, that he might be righteous and justify the one who has faith in Jesus.\nWhat occasion is there then for boasting? It is ruled out. On what principle, that of works? No, rather on the principle of faith.\nFor we consider that a person is justified by faith apart from works of the law.\nDoes God belong to Jews alone? Does he not belong to Gentiles, too? Yes, also to Gentiles,\nfor God is one and will justify the circumcised on the basis of faith and the uncircumcised through faith."
+            },
+            "Psalm": {
+                "title": "Psalms130(129),1-2.3-4b.4c-6.",
+                "reading": "Out of the depths I cry to you, O LORD\nLORD, hear my voice!Let your ears be attentiveto my voice in supplication.\nIf you, O LORD, mark iniquities,LORD, who can stand?\nBut with you is forgiveness,\nthat you may be revered.\nI trust in the LORD;my soul trusts in his word.\nMy soul waits for the Lordmore than sentinels for dawn."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,47-54.",
+                "reading": "The Lord said: “Woe to you! You build the memorials of the prophets whom your ancestors killed.\nConsequently, you bear witness and give consent to the deeds of your ancestors, for they killed them and you do the building.\nTherefore, the wisdom of God said, 'I will send to them prophets and apostles; some of them they will kill and persecute'\nin order that this generation might be charged with the blood of all the prophets shed since the foundation of the world,\nfrom the blood of Abel to the blood of Zechariah who died between the altar and the temple building. Yes, I tell you, this generation will be charged with their blood!\nWoe to you, scholars of the law! You have taken away the key of knowledge. You yourselves did not enter and you stopped those trying to enter.\"\nWhen he left, the scribes and Pharisees began to act with hostility toward him and to interrogate him about many things,\nfor they were plotting to catch him at something he might say."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Marguerite d'Youville",
+            "title": "Religious (1701-1771)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1a87fbeb-0aa1-4bfe-b79a-66cf0771535e"
+        }
     }
 }
