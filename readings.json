@@ -5068,5 +5068,27 @@
             "title": "Religious (1701-1771)",
             "profile_link": "https://dailygospel.org/AM/display-saint/1a87fbeb-0aa1-4bfe-b79a-66cf0771535e"
         }
+    },
+    "2025-10-17": {
+        "liturgical_week": "Friday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans4,1-8.",
+                "reading": "Brothers and sisters: What then can we say that Abraham found, our ancestor according to the flesh?\nIndeed, if Abraham was justified on the basis of his works, he has reason to boast; but this was not so in the sight of God.\nFor what does the scripture say? \"Abraham believed God, and it was credited to him as righteousness.\"\nA worker's wage is credited not as a gift, but as something due.\nBut when one does not work, yet believes in the one who justifies the ungodly, his faith is credited as righteousness.\nSo also David declares the blessedness of the person to whom God credits righteousness apart from works:\n\"Blessed are they whose iniquities are forgiven and whose sins are covered.\nBlessed is the man whose sin the Lord does not record.\""
+            },
+            "Psalm": {
+                "title": "Psalms32(31),1-2.5.11.",
+                "reading": "Blessed is he whose fault is taken away,whose sin is covered.\nBlessed the man to whom the LORD imputes not guilt,in whose spirit there is no guile.\nThen I acknowledged my sin to you,my guilt I covered not.I said, “I confess my faults to the LORD,”and you took away the guilt of my sin.\nBe glad in the LORD and rejoice, you just;exult, all you upright of heart."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,1-7.",
+                "reading": "At that time: So many people were crowding together that they were trampling one another underfoot. He began to speak, first to his disciples, \"Beware of the leaven--that is, the hypocrisy--of the Pharisees.\nThere is nothing concealed that will not be revealed, nor secret that will not be known.\nTherefore whatever you have said in the darkness will be heard in the light, and what you have whispered behind closed doors will be proclaimed on the housetops.\nI tell you, my friends, do not be afraid of those who kill the body but after that can do no more.\nI shall show you whom to fear. Be afraid of the one who after killing has the power to cast into Gehenna; yes, I tell you, be afraid of that one.\nAre not five sparrows sold for two small coins? Yet not one of them has escaped the notice of God.\nEven the hairs of your head have all been counted. Do not be afraid. You are worth more than many sparrows.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Ignatius of Antioch",
+            "title": "Bishop and Martyr († c. 107)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d3d16fa8-56df-4e12-80d2-12ec1b01394f"
+        }
     }
 }
