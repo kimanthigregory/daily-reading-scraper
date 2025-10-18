@@ -5090,5 +5090,27 @@
             "title": "Bishop and Martyr († c. 107)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d3d16fa8-56df-4e12-80d2-12ec1b01394f"
         }
+    },
+    "2025-10-18": {
+        "liturgical_week": "Saint Luke, evangelist - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to Timothy4,10-17b.",
+                "reading": "Beloved: Demas, enamored of the present world, deserted me and went to Thessalonica, Crescens to Galatia, and Titus to Dalmatia.\nLuke is the only one with me. Get Mark and bring him with you, for he is helpful to me in the ministry.\nI have sent Tychicus to Ephesus.\nWhen you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments.\nAlexander the coppersmith did me a great deal of harm; the Lord will repay him according to his deeds.\nYou too be on guard against him, for he has strongly resisted our preaching.\nAt my first defense no one appeared on my behalf, but everyone deserted me. May it not be held against them!\nBut the Lord stood by me and gave me strength, so that through me the proclamation might be completed and all the Gentiles might hear it."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),10-11.12-13ab.17-18.",
+                "reading": "Let all your works give you thanks, O LORD,and let your faithful ones bless you.\nLet them discourse of the glory of your Kingdomand speak of your might.\nMaking known to men your mightand the glorious splendor of your Kingdom.\nYour Kingdom is a Kingdom for all ages,\nand your dominion endures through all generations.\nThe LORD is just in all his waysand holy in all his works.\nThe LORD is near to all who call upon him,to all who call upon him in truth."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke10,1-9.",
+                "reading": "The Lord Jesus appointed seventy-two others whom he sent ahead of him in pairs to every town and place he intended to visit.\nHe said to them, \"The harvest is abundant but the laborers are few; so ask the master of the harvest to send out laborers for his harvest.\nGo on your way; behold, I am sending you like lambs among wolves.\nCarry no money bag, no sack, no sandals; and greet no one along the way.\nInto whatever house you enter, first say, 'Peace to this household.'\nIf a peaceful person lives there, your peace will rest on him; but if not, it will return to you.\nStay in the same house and eat and drink what is offered to you, for the laborer deserves his payment. Do not move about from one house to another.\nWhatever town you enter and they welcome you, eat what is set before you,\ncure the sick in it and say to them, 'The kingdom of God is at hand for you.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Luke",
+            "title": "Evangelist (1st century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/022eb3d7-3b99-4593-a825-de4d0d7a60a2"
+        }
     }
 }
