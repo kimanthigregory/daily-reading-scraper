@@ -5138,5 +5138,27 @@
             "title": "John de Brébeuf and Companions - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/91b387c5-e1f5-4b2b-af26-4db49a06794d"
         }
+    },
+    "2025-10-20": {
+        "liturgical_week": "Monday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans4,20-25.",
+                "reading": "Brothers and sisters: Abraham did not doubt God’s promise in unbelief; rather, he was empowered by faith and gave glory to God\nand was fully convinced that what he had promised he was also able to do.\nThat is why \"it was credited to him as righteousness.\"\nBut it was not for him alone that it was written that \"it was credited to him\";\nit was also for us, to whom it will be credited, who believe in the one who raised Jesus our Lord from the dead,\nwho was handed over for our transgressions and was raised for our justification."
+            },
+            "Psalm": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke1,69-70.71-72.73-75.",
+                "reading": "He has come to the help of his people and set them free.He has raised up for us a mighty savior,Born of the house of his servant David.\nThrough his holy prophets he promised of old\nthat he would save us from our enemies,from the hands of all who hate us.\nHe promised to show mercy to our fathersand to remember his holy covenant.\nThis was the oath he swore to our father Abraham:\nto set us free from the hands of our enemies,free to worship him without fear,\nholy and righteous in his sight all the days of our life."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,13-21.",
+                "reading": "Someone in the crowd said to Jesus, \"Teacher, tell my brother to share the inheritance with me.\"\nHe replied to him, \"Friend, who appointed me as your judge and arbitrator?\"\nThen he said to the crowd, \"Take care to guard against all greed, for though one may be rich, one's life does not consist of possessions.\"\nThen he told them a parable. \"There was a rich man whose land produced a bountiful harvest.\nHe asked himself, 'What shall I do, for I do not have space to store my harvest?'\nAnd he said, 'This is what I shall do: I shall tear down my barns and build larger ones. There I shall store all my grain and other goods\nand I shall say to myself, \"Now as for you, you have so many good things stored up for many years, rest, eat, drink, be merry!\"\nBut God said to him, 'You fool, this night your life will be demanded of you; and the things you have prepared, to whom will they belong?'\nThus will it be for the one who stores up treasure for himself but is not rich in what matters to God.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Paul of the Cross",
+            "title": "Priest (1693-1775)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/677f37e3-072f-455b-aec1-6c17943c852b"
+        }
     }
 }
