@@ -5160,5 +5160,27 @@
             "title": "Priest (1693-1775)",
             "profile_link": "https://dailygospel.org/AM/display-saint/677f37e3-072f-455b-aec1-6c17943c852b"
         }
+    },
+    "2025-10-21": {
+        "liturgical_week": "Tuesday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans5,12.15b.17-19.20b-21.",
+                "reading": "Brothers and sisters: Through one man sin entered the world, and through sin, death, and thus death came to all men, inasmuch as all sinned—\nBut the gift is not like the transgression. For if by that one person's transgression the many died, how much more did the grace of God and the gracious gift of the one person Jesus Christ overflow for the many.\nFor if, by the transgression of one person, death came to reign through that one, how much more will those who receive the abundance of grace and of the gift of justification come to reign in life through the one person Jesus Christ.\nIn conclusion, just as through one transgression condemnation came upon all, so through one righteous act acquittal and life came to all.\nFor just as through the disobedience of one person the many were made sinners, so through the obedience of one the many will be made righteous.\nThe law entered in so that transgression might increase but, where sin increased, grace overflowed all the more,\nso that, as sin reigned in death, grace also might reign through justification for eternal life through Jesus Christ our Lord."
+            },
+            "Psalm": {
+                "title": "Psalms40(39),7-8a.8b-9.10.17.",
+                "reading": "Sacrifice or oblation you wished not,but ears open to obedience you gave me.Burnt offerings or sin-offerings you sought not;\nthen said I, “Behold I come.”\n“In the written scroll it is prescribed for me,\nTo do your will, O my God, is my delight,and your law is within my heart!”\nI announced your justice in the vast assembly;I did not restrain my lips, as you, O LORD, know.\nMay all who seek youexult and be glad in you,and may those who love your salvationsay ever, “The LORD be glorified.”"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,35-38.",
+                "reading": "Jesus said to his disciples: “Gird your loins and light your lamps\nand be like servants who await their master's return from a wedding, ready to open immediately when he comes and knocks.\nBlessed are those servants whom the master finds vigilant on his arrival. Amen, I say to you, he will gird himself, have them recline at table, and proceed to wait on them.\nAnd should he come in the second or third watch and find them prepared in this way, blessed are those servants.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Hilarion",
+            "title": "Abbot and Hermit (291-371)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/5b1f0a0f-cfb8-4011-a774-1ec6b123acca"
+        }
     }
 }
