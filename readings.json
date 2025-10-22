@@ -5182,5 +5182,27 @@
             "title": "Abbot and Hermit (291-371)",
             "profile_link": "https://dailygospel.org/AM/display-saint/5b1f0a0f-cfb8-4011-a774-1ec6b123acca"
         }
+    },
+    "2025-10-22": {
+        "liturgical_week": "Wednesday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans6,12-18.",
+                "reading": "Brothers and sisters: Sin must not reign over your mortal bodies so that you obey their desires.\nAnd do not present the parts of your bodies to sin as weapons for wickedness, but present yourselves to God as raised from the dead to life and the parts of your bodies to God as weapons for righteousness.\nFor sin is not to have any power over you, since you are not under the law but under grace.\nWhat then? Shall we sin because we are not under the law but under grace? Of course not!\nDo you not know that if you present yourselves to someone as obedient slaves, you are slaves of the one you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?\nBut thanks be to God that, although you were once slaves of sin, you have become obedient from the heart to the pattern of teaching to which you were entrusted.\nFreed from sin, you have become slaves of righteousness."
+            },
+            "Psalm": {
+                "title": "Psalms124(123),1-3.4-6.7-8.",
+                "reading": "Had not the LORD been with us–let Israel say, had not the LORD been with us–\nWhen men rose up against us,\nthen would they have swallowed us alive,When their fury was inflamed against us.\nThen would the waters have overwhelmed us;The torrent would have swept over us;\nover us then would have swept the raging waters.\nBlessed be the LORD, who did not leave usa prey to their teeth.\nWe were rescued like a birdfrom the fowlers’ snare;Broken was the snare,and we were freed.\nOur help is in the name of the LORD,who made heaven and earth."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,39-48.",
+                "reading": "Jesus said to his disciples: “Be sure of this: if the master of the house had known the hour when the thief was coming, he would not have let his house be broken into.\nYou also must be prepared, for at an hour you do not expect, the Son of Man will come.\"\nThen Peter said, \"Lord, is this parable meant for us or for everyone?\"\nAnd the Lord replied, \"Who, then, is the faithful and prudent steward whom the master will put in charge of his servants to distribute (the) food allowance at the proper time?\nBlessed is that servant whom his master on arrival finds doing so.\nTruly, I say to you, he will put him in charge of all his property.\nBut if that servant says to himself, 'My master is delayed in coming,' and begins to beat the menservants and the maidservants, to eat and drink and get drunk,\nthen that servant's master will come on an unexpected day and at an unknown hour and will punish him severely and assign him a place with the unfaithful.\nThat servant who knew his master's will but did not make preparations nor act in accord with his will shall be beaten severely;\nand the servant who was ignorant of his master's will but acted in a way deserving of a severe beating shall be beaten only lightly. Much will be required of the person entrusted with much, and still more will be demanded of the person entrusted with more.”"
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John Paul II",
+            "title": "Pope",
+            "profile_link": "https://dailygospel.org/AM/display-saint/89f58a87-053b-4658-8eb3-d89395dd1aaa"
+        }
     }
 }
