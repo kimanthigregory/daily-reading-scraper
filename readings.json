@@ -5204,5 +5204,27 @@
             "title": "Pope",
             "profile_link": "https://dailygospel.org/AM/display-saint/89f58a87-053b-4658-8eb3-d89395dd1aaa"
         }
+    },
+    "2025-10-23": {
+        "liturgical_week": "Thursday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans6,19-23.",
+                "reading": "Brothers and sisters: I am speaking in human terms because of the weakness of your nature. For just as you presented the parts of your bodies as slaves to impurity and to lawlessness for lawlessness, so now present them as slaves to righteousness for sanctification.\nFor when you were slaves of sin, you were free from righteousness.\nBut what profit did you get then from the things of which you are now ashamed? For the end of those things is death.\nBut now that you have been freed from sin and have become slaves of God, the benefit that you have leads to sanctification, and its end is eternal life.\nFor the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+            },
+            "Psalm": {
+                "title": "Psalms1,1-2.3.4.6.",
+                "reading": "Blessed the man who follows notthe counsel of the wickedNor walks in the way of sinners,nor sits in the company of the insolent,\nBut delights in the law of the LORDand meditates on his law day and night.\nHe is like a treeplanted near running water,that yields its fruit in due season,and whose leaves never fade.Whatever he does, prospers.\nNot so, the wicked, not so;they are like chaff which the wind drives away.\nFor the LORD watches over the way of the just,but the way of the wicked vanishes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,49-53.",
+                "reading": "Jesus said to his disciples: “I have come to set the earth on fire, and how I wish it were already blazing!\nThere is a baptism with which I must be baptized, and how great is my anguish until it is accomplished!\nDo you think that I have come to establish peace on the earth? No, I tell you, but rather division.\nFrom now on a household of five will be divided, three against two and two against three;\na father will be divided against his son and a son against his father, a mother against her daughter and a daughter against her mother, a mother-in-law against her daughter-in-law and a daughter-in-law against her mother-in-law.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John of Capistrano",
+            "title": "Priest (1386-1456)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/5602024f-2901-4ca0-9671-f2ee914e34ee"
+        }
     }
 }
