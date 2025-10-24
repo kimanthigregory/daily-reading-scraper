@@ -5226,5 +5226,27 @@
             "title": "Priest (1386-1456)",
             "profile_link": "https://dailygospel.org/AM/display-saint/5602024f-2901-4ca0-9671-f2ee914e34ee"
         }
+    },
+    "2025-10-24": {
+        "liturgical_week": "Friday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans7,18-25a.",
+                "reading": "Brothers and sisters: I know that good does not dwell in me, that is, in my flesh. The willing is ready at hand, but doing the good is not.\nFor I do not do the good I want, but I do the evil I do not want.\nNow if (I) do what I do not want, it is no longer I who do it, but sin that dwells in me.\nSo, then, I discover the principle that when I want to do right, evil is at hand.\nFor I take delight in the law of God, in my inner self,\nbut I see in my members another principle at war with the law of my mind, taking me captive to the law of sin that dwells in my members.\nMiserable one that I am! Who will deliver me from this mortal body?\nThanks be to God through Jesus Christ our Lord."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),66.68.76.77.93.94.",
+                "reading": "Teach me wisdom and knowledge,for in your commands I trust.\nYou are good and bountiful;teach me your statutes.\nLet your kindness comfort mein accord with your promise to your servant.\nLet your compassion come to me that I may live,for your law is my delight.\nI will never forget your precepts;through them you give me life.\nI am yours; save me,for I have sought your precepts."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,54-59.",
+                "reading": "Jesus said to the crowds, “When you see a cloud rising in the west you say immediately that it is going to rain–and so it does;\nand when you notice that the wind is blowing from the south you say that it is going to be hot--and so it is.\nYou hypocrites! You know how to interpret the appearance of the earth and the sky; why do you not know how to interpret the present time?\nWhy do you not judge for yourselves what is right?\nIf you are to go with your opponent before a magistrate, make an effort to settle the matter on the way; otherwise your opponent will turn you over to the judge, and the judge hand you over to the constable, and the constable throw you into prison.\nI say to you, you will not be released until you have paid the last penny.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Anthony Mary Claret",
+            "title": "Archbishop (1807-1870)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8fe9ce04-3e31-4607-8496-3e560de25f49"
+        }
     }
 }
