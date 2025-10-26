@@ -5270,5 +5270,31 @@
             "title": "Martyrs († c. 287)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3850b305-b2c6-4b28-abcb-96b966a519b8"
         }
+    },
+    "2025-10-26": {
+        "liturgical_week": "Thirtieth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Sirach35,12-14.16-18.",
+                "reading": "The LORD is a God of justice, who knows no favorites.\nThough not unduly partial toward the weak, yet he hears the cry of the oppressed.\nHe is not deaf to the wail of the orphan, nor to the widow when she pours out her complaint;\nHe who serves God willingly is heard; his petition reaches the heavens.\nThe prayer of the lowly pierces the clouds; it does not rest till it reaches its goal,\nNor will it withdraw till the Most High responds, judges justly and affirms the right, and the Lord will not delay."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2-3.17-18.19.23.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nLet my soul glory in the LORD;the lowly will hear me and be glad.\nThe LORD confronts the evildoers,to destroy remembrance of them from the earth.\nWhen the just cry out, the LORD hears them,and from all their distress he rescues them.\nThe LORD is close to the brokenhearted;and those who are crushed in spirit he saves.\nThe LORD redeems the lives of his servants;no one incurs guilt who takes refuge in him."
+            },
+            "Second_Reading": {
+                "title": "Second Letter to Timothy4,6-8.16-18.",
+                "reading": "Beloved: I am already being poured out like a libation, and the time of my departure is at hand.\nI have competed well; I have finished the race; I have kept the faith.\nFrom now on the crown of righteousness awaits me, which the Lord, the just judge, will award to me on that day, and not only to me, but to all who have longed for his appearance.\nAt my first defense no one appeared on my behalf, but everyone deserted me. May it not be held against them!\nBut the Lord stood by me and gave me strength, so that through me the proclamation might be completed and all the Gentiles might hear it. And I was rescued from the lion's mouth.\nThe Lord will rescue me from every evil threat and will bring me safe to his heavenly kingdom. To him be glory forever and ever. Amen."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke18,9-14.",
+                "reading": "Jesus addressed this parable to those who were convinced of their own righteousness and despised everyone else.\n\"Two people went up to the temple area to pray; one was a Pharisee and the other was a tax collector.\nThe Pharisee took up his position and spoke this prayer to himself, 'O God, I thank you that I am not like the rest of humanity--greedy, dishonest, adulterous--or even like this tax collector.\nI fast twice a week, and I pay tithes on my whole income.'\nBut the tax collector stood off at a distance and would not even raise his eyes to heaven but beat his breast and prayed, 'O God, be merciful to me a sinner.'\nI tell you, the latter went home justified, not the former; for everyone who exalts himself will be humbled, and the one who humbles himself will be exalted.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Evaristus",
+            "title": "Pope and Martyr († 112)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f785102d-dbbc-4c6a-bc40-b25c17505882"
+        }
     }
 }
