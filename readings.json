@@ -5296,5 +5296,27 @@
             "title": "Pope and Martyr († 112)",
             "profile_link": "https://dailygospel.org/AM/display-saint/f785102d-dbbc-4c6a-bc40-b25c17505882"
         }
+    },
+    "2025-10-27": {
+        "liturgical_week": "Monday of the Thirtieth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans8,12-17.",
+                "reading": "Consequently, brothers, we are not debtors to the flesh, to live according to the flesh.\nFor if you live according to the flesh, you will die, but if by the spirit you put to death the deeds of the body, you will live.\nFor those who are led by the Spirit of God are children of God.\nFor you did not receive a spirit of slavery to fall back into fear, but you received a spirit of adoption, through which we cry, \"Abba, Father!\"\nThe Spirit itself bears witness with our spirit that we are children of God,\nand if children, then heirs, heirs of God and joint heirs with Christ, if only we suffer with him so that we may also be glorified with him."
+            },
+            "Psalm": {
+                "title": "Psalms68(67),2.4.6-7ab.20-21.",
+                "reading": "God arises; his enemies are scattered,and those who hate him flee before him.\nBut the just rejoice and exult before God;they are glad and rejoice.\nThe father of orphans and the defender of widowsis God in his holy dwelling.\nGod gives a home to the forsaken;\nhe leads forth prisoners to prosperity.\nBlessed day by day be the Lord,who bears our burdens; God, who is our salvation.\nGod is a saving God for us;the LORD, my Lord, controls the passageways of death."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke13,10-17.",
+                "reading": "Jesus was teaching in a synagogue on the sabbath.\nAnd a woman was there who for eighteen years had been crippled by a spirit; she was bent over, completely incapable of standing erect.\nWhen Jesus saw her, he called to her and said, \"Woman, you are set free of your infirmity.\"\nHe laid his hands on her, and she at once stood up straight and glorified God.\nBut the leader of the synagogue, indignant that Jesus had cured on the sabbath, said to the crowd in reply, \"There are six days when work should be done. Come on those days to be cured, not on the sabbath day.\"\nThe Lord said to him in reply, \"Hypocrites! Does not each one of you on the sabbath untie his ox or his ass from the manger and lead it out for watering?\nThis daughter of Abraham, whom Satan has bound for eighteen years now, ought she not to have been set free on the sabbath day from this bondage?\"\nWhen he said this, all his adversaries were humiliated; and the whole crowd rejoiced at all the splendid deeds done by him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Frumentius",
+            "title": "Bishop (4th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/57611160-5f4c-4105-b582-4c3142fec9f3"
+        }
     }
 }
