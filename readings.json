@@ -5318,5 +5318,27 @@
             "title": "Bishop (4th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/57611160-5f4c-4105-b582-4c3142fec9f3"
         }
+    },
+    "2025-10-28": {
+        "liturgical_week": "Saints Simon and Jude, apostles - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians2,19-22.",
+                "reading": "Brothers and sisters: You are no longer strangers and sojourners, but you are fellow citizens with the holy ones and members of the household of God,\nbuilt upon the foundation of the apostles and prophets, with Christ Jesus himself as the capstone.\nThrough him the whole structure is held together and grows into a temple sacred in the Lord;\nin him you also are being built together into a dwelling place of God in the Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms19(18),2-3.4-5.",
+                "reading": "The heavens declare the glory of God;and the firmament proclaims his handiwork.\nDay pours out the word to day,and night to night imparts knowledge.\nNot a word nor a discoursewhose voice is not heard;\nThrough all the earth their voice resounds,and to the ends of the world, their message."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,12-16.",
+                "reading": "Jesus departed to the mountain to pray, and he spent the night in prayer to God.\nWhen day came, he called his disciples to himself, and from them he chose Twelve, whom he also named apostles:\nSimon, whom he named Peter, and his brother Andrew, James, John, Philip, Bartholomew,\nMatthew, Thomas, James the son of Alphaeus, Simon who was called a Zealot,\nand Judas the son of James, and Judas Iscariot, who became a traitor."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Simon and Jude",
+            "title": "Apostles - Feast",
+            "profile_link": "https://dailygospel.org/AM/display-saint/911aaaad-68ba-4276-95fc-d13385415a00"
+        }
     }
 }
