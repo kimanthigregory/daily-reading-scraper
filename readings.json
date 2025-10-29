@@ -5340,5 +5340,27 @@
             "title": "Apostles - Feast",
             "profile_link": "https://dailygospel.org/AM/display-saint/911aaaad-68ba-4276-95fc-d13385415a00"
         }
+    },
+    "2025-10-29": {
+        "liturgical_week": "Wednesday of the Thirtieth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans8,26-30.",
+                "reading": "Brothers and sisters: The Spirit comes to the aid of our weakness; for we do not know how to pray as we ought, but the Spirit himself intercedes with inexpressible groanings.\nAnd the one who searches hearts knows what is the intention of the Spirit, because it intercedes for the holy ones according to God's will.\nWe know that all things work for good for those who love God, who are called according to his purpose.\nFor those he foreknew he also predestined to be conformed to the image of his Son, so that he might be the firstborn among many brothers.\nAnd those he predestined he also called; and those he called he also justified; and those he justified he also glorified."
+            },
+            "Psalm": {
+                "title": "Psalms13(12),4-5.6.",
+                "reading": "Look, answer me, O LORD, my God!Give light to my eyes that I may not sleep in death\nlest my enemy say, “I have overcome him”;lest my foes rejoice at my downfall.\nThough I trusted in your mercy,Let my heart rejoice in your salvation;let me sing of the LORD, “He has been good to me.”"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke13,22-30.",
+                "reading": "Jesus passed through towns and villages, teaching as he went and making his way to Jerusalem.\nSomeone asked him, \"Lord, will only a few people be saved?\" He answered them,\nStrive to enter through the narrow gate, for many, I tell you, will attempt to enter but will not be strong enough.\nAfter the master of the house has arisen and locked the door, then will you stand outside knocking and saying, 'Lord, open the door for us.' He will say to you in reply, 'I do not know where you are from.'\nAnd you will say, 'We ate and drank in your company and you taught in our streets.'\nThen he will say to you, 'I do not know where (you) are from. Depart from me, all you evildoers!'\nAnd there will be wailing and grinding of teeth when you see Abraham, Isaac, and Jacob and all the prophets in the kingdom of God and you yourselves cast out.\nAnd people will come from the east and the west and from the north and the south and will recline at table in the kingdom of God.\nFor behold, some are last who will be first, and some are first who will be last.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Narcissus",
+            "title": "Bishop (2nd century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d41c8b40-ca39-4b47-90d0-04beaf197cbf"
+        }
     }
 }
