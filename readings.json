@@ -5384,5 +5384,27 @@
             "title": "Martyr (3rd century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/20d1d274-c57f-451d-89e7-f3d363470718"
         }
+    },
+    "2025-10-31": {
+        "liturgical_week": "Friday of the Thirtieth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans9,1-5.",
+                "reading": "Brothers and Sisters: I speak the truth in Christ, I do not lie; my conscience joins with the holy Spirit in bearing me witness\nthat I have great sorrow and constant anguish in my heart.\nFor I could wish that I myself were accursed and separated from Christ for the sake of my brothers, my kin according to the flesh.\nThey are Israelites; theirs the adoption, the glory, the covenants, the giving of the law, the worship, and the promises;\ntheirs the patriarchs, and from them, according to the flesh, is the Messiah. God who is over all be blessed forever. Amen."
+            },
+            "Psalm": {
+                "title": "Psalms147,12-13.14-15.19-20.",
+                "reading": "Glorify the LORD, O Jerusalem;praise your God, O Zion.\nFor he has strengthened the bars of your gates;he has blessed your children within you.\nHe has granted peace in your borders;with the best of wheat he fills you.\nHe sends forth his command to the earth;swiftly runs his word!\nHe has proclaimed his word to Jacob,his statutes and his ordinances to Israel.\nHe has not done thus for any other nation;his ordinances he has not made known to them. Alleluia"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke14,1-6.",
+                "reading": "On a sabbath Jesus went to dine at the home of one of the leading Pharisees, and the people there were observing him carefully.\nIn front of him there was a man suffering from dropsy.\nJesus spoke to the scholars of the law and Pharisees in reply, asking, \"Is it lawful to cure on the sabbath or not?\"\nBut they kept silent; so he took the man and, after he had healed him, dismissed him.\nThen he said to them, \"Who among you, if your son or ox falls into a cistern, would not immediately pull him out on the sabbath day?\"\nBut they were unable to answer his question."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Quintin",
+            "title": "Martyr (3rd century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/fe888944-7973-4317-a6db-2827a61cfbb6"
+        }
     }
 }
