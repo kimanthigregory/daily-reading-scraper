@@ -5406,5 +5406,27 @@
             "title": "Martyr (3rd century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/fe888944-7973-4317-a6db-2827a61cfbb6"
         }
+    },
+    "2025-11-01": {
+        "liturgical_week": "All Saints",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation7,2-4.9-14.",
+                "reading": "I, John, saw another angel come up from the East, holding the seal of the living God. He cried out in a loud voice to the four angels who were given power to damage the land and the sea,\n\"Do not damage the land or the sea or the trees until we put the seal on the foreheads of the servants of our God.\"\nI heard the number of those who had been marked with the seal, one hundred and forty-four thousand marked from every tribe of the Israelites:\nAfter this I had a vision of a great multitude, which no one could count, from every nation, race, people, and tongue. They stood before the throne and before the Lamb, wearing white robes and holding palm branches in their hands.\nThey cried out in a loud voice: \"Salvation comes from our God, who is seated on the throne, and from the Lamb.\"\nAll the angels stood around the throne and around the elders and the four living creatures. They prostrated themselves before the throne, worshiped God,\nand exclaimed: \"Amen. Blessing and glory, wisdom and thanksgiving, honor, power, and might be to our God forever and ever. Amen.\"\nThen one of the elders spoke up and said to me, \"Who are these wearing white robes, and where did they come from?\"\nI said to him, \"My lord, you are the one who knows.\" He said to me, \"These are the ones who have survived the time of great distress; they have washed their robes and made them white in the blood of the Lamb.\""
+            },
+            "Psalm": {
+                "title": "Psalms24(23),1-2.3-4ab.5-6.",
+                "reading": "The LORD's are the earth and its fullness;the world and those who dwell in it.\nFor he founded it upon the seasand established it upon the rivers.\nWho can ascend the mountain of the LORD?or who may stand in his holy place?\nOne whose hands are sinless, whose heart is clean,\nwho desires not what is vain.\nHe shall receive a blessing from the LORD,a reward from God his savior.\nSuch is the race that seeks for him,that seeks the face of the God of Jacob."
+            },
+            "Second_Reading": {
+                "title": "First Letter of John3,1-3.",
+                "reading": "Beloved: See what love the Father has bestowed on us that we may be called the children of God. Yet so we are. The reason the world does not know us is that it did not know him.\nBeloved, we are God's children now; what we shall be has not yet been revealed. We do know that when it is revealed we shall be like him, for we shall see him as he is.\nEveryone who has this hope based on him makes himself pure, as he is pure."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,1-12a.",
+                "reading": "When Jesus saw the crowds, he went up the mountain, and after he had sat down, his disciples came to him.\nHe began to teach them, saying:\n\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\nBlessed are they who mourn, for they will be comforted.\nBlessed are the meek, for they will inherit the land.\nBlessed are they who hunger and thirst for righteousness, for they will be satisfied.\nBlessed are the merciful, for they will be shown mercy.\nBlessed are the clean of heart, for they will see God.\nBlessed are the peacemakers, for they will be called children of God.\nBlessed are they who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven.\nBlessed are you when they insult you and persecute you and utter every kind of evil against you (falsely) because of me.\nRejoice and be glad, for your reward will be great in heaven. \""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
