@@ -5428,5 +5428,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2025-11-02": {
+        "liturgical_week": "Commemoration of All the Faithful Departed (All Souls)",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Wisdom3,1-9.",
+                "reading": "The souls of the just are in the hand of God, and no torment shall touch them.\nThey seemed, in the view of the foolish, to be dead; and their passing away was thought an affliction\nand their going forth from us, utter destruction. But they are in peace.\nFor if before men, indeed, they be punished, yet is their hope full of immortality;\nChastised a little, they shall be greatly blessed, because God tried them and found them worthy of himself.\nAs gold in the furnace, he proved them, and as sacrificial offerings he took them to himself.\nIn the time of their visitation they shall shine, and shall dart about as sparks through stubble;\nThey shall judge nations and rule over peoples, and the LORD shall be their King forever.\nThose who trust in him shall understand truth, and the faithful shall abide with him in love: Because grace and mercy are with his holy ones, and his care is with the elect."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.4.7.8.9.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nOne thing I ask of the LORDthis I seek:to dwell in the house of the LORDall the days of my life,that I may gaze on the loveliness of the LORDand contemplate his temple.\nHear, O LORD, the sound of my call;have pity on me, and answer me.\nOf you my heart speaks; you my glance seeks.\nYour presence, O LORD, I seek.Hide not your face from me;do not in anger repel your servant.You are my helper: cast me not off.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans6,3-9.",
+                "reading": "Brothers and sisters:  Are you unaware that we who were baptized into Christ Jesus  were baptized into his death?\nWe were indeed buried with him through baptism into death, so that, just as Christ was raised from the dead by the glory of the Father, we too might live in newness of life.\nFor if we have grown into union with him through a death like his, we shall also be united with him in the resurrection.\nWe know that our old self was crucified with him, so that our sinful body might be done away with, that we might no longer be in slavery to sin.\nFor a dead person has been absolved from sin.\nIf, then, we have died with Christ, we believe that we shall also live with him.\nWe know that Christ, raised from the dead, dies no more; death no longer has power over him."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew25,31-46.",
+                "reading": "Jesus said to his disciples: \"When the Son of Man comes in his glory, and all the angels with him, he will sit upon his glorious throne,\nand all the nations will be assembled before him. And he will separate them one from another, as a shepherd separates the sheep from the goats.\nHe will place the sheep on his right and the goats on his left.\nThen the king will say to those on his right, 'Come, you who are blessed by my Father. Inherit the kingdom prepared for you from the foundation of the world.\nFor I was hungry and you gave me food, I was thirsty and you gave me drink, a stranger and you welcomed me,\nnaked and you clothed me, ill and you cared for me, in prison and you visited me.'\nThen the righteous will answer him and say, 'Lord, when did we see you hungry and feed you, or thirsty and give you drink?\nWhen did we see you a stranger and welcome you, or naked and clothe you?\nWhen did we see you ill or in prison, and visit you?'\nAnd the king will say to them in reply, 'Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.'\nThen he will say to those on his left, 'Depart from me, you accursed, into the eternal fire prepared for the devil and his angels.\nFor I was hungry and you gave me no food, I was thirsty and you gave me no drink,\na stranger and you gave me no welcome, naked and you gave me no clothing, ill and in prison, and you did not care for me.'\nThen they will answer and say, 'Lord, when did we see you hungry or thirsty or a stranger or naked or ill or in prison, and not minister to your needs?'\nHe will answer them, 'Amen, I say to you, what you did not do for one of these least ones, you did not do for me.'\nAnd these will go off to eternal punishment, but the righteous to eternal life.\""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
