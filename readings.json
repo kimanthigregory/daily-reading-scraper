@@ -5472,5 +5472,27 @@
             "title": "Religious (1579-1639)",
             "profile_link": "https://dailygospel.org/AM/display-saint/33369e18-2068-4a5e-b865-b5264d63ae44"
         }
+    },
+    "2025-11-04": {
+        "liturgical_week": "Tuesday of the Thirty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans12,5-16a.",
+                "reading": "Brothers and sisters: We, though many, are one Body in Christ and individually parts of one another.\nSince we have gifts that differ according to the grace given to us, let us exercise them: if prophecy, in proportion to the faith;\nif ministry, in ministering; if one is a teacher, in teaching;\nif one exhorts, in exhortation; if one contributes, in generosity; if one is over others, with diligence; if one does acts of mercy, with cheerfulness.\nLet love be sincere; hate what is evil, hold on to what is good;\nlove one another with mutual affection; anticipate one another in showing honor.\nDo not grow slack in zeal, be fervent in spirit, serve the Lord.\nRejoice in hope, endure in affliction, persevere in prayer.\nContribute to the needs of the holy ones, exercise hospitality.\nBless those who persecute (you), bless and do not curse them.\nRejoice with those who rejoice, weep with those who weep.\nHave the same regard for one another; do not be haughty but associate with the lowly."
+            },
+            "Psalm": {
+                "title": "Psalms131(130),1.2.3.",
+                "reading": "O LORD, my heart is not proud,nor are my eyes haughty;I busy not myself with great things,nor with things too sublime for me.\nNay rather, I have stilled and quietedmy soul like a weaned child.Like a weaned child on its mother's lap,so is my soul within me.\nO Israel, hope in the LORD,both now and forever."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke14,15-24.",
+                "reading": "One of those at table with Jesus said to him, \"Blessed is the one who will dine in the kingdom of God.\"\nHe replied to him, \"A man gave a great dinner to which he invited many.\nWhen the time for the dinner came, he dispatched his servant to say to those invited, 'Come, everything is now ready.'\nBut one by one, they all began to excuse themselves. The first said to him, 'I have purchased a field and must go to examine it; I ask you, consider me excused.'\nAnd another said, 'I have purchased five yoke of oxen and am on my way to evaluate them; I ask you, consider me excused.'\nAnd another said, 'I have just married a woman, and therefore I cannot come.'\nThe servant went and reported this to his master. Then the master of the house in a rage commanded his servant, 'Go out quickly into the streets and alleys of the town and bring in here the poor and the crippled, the blind and the lame.'\nThe servant reported, 'Sir, your orders have been carried out and still there is room.'\nThe master then ordered the servant, 'Go out to the highways and hedgerows and make people come in that my home may be filled.\nFor, I tell you, none of those men who were invited will taste my dinner.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Charles Borromeo",
+            "title": "Archbishop of Milan († 1584)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4ace96f2-c021-47a7-9091-f771046cddc1"
+        }
     }
 }
