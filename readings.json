@@ -5494,5 +5494,27 @@
             "title": "Archbishop of Milan († 1584)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4ace96f2-c021-47a7-9091-f771046cddc1"
         }
+    },
+    "2025-11-05": {
+        "liturgical_week": "Wednesday of the Thirty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Romans13,8-10.",
+                "reading": "Brothers and sisters: Owe nothing to anyone, except to love one another; for the one who loves another has fulfilled the law.\nThe commandments, \"You shall not commit adultery; you shall not kill; you shall not steal; you shall not covet,\" and whatever other commandment there may be, are summed up in this saying, (namely) \"You shall love your neighbor as yourself.\"\nLove does no evil to the neighbor; hence, love is the fulfillment of the law."
+            },
+            "Psalm": {
+                "title": "Psalms112(111),1-2.4-5.9.",
+                "reading": "Blessed the man who fears the LORD,who greatly delights in his commands.\nHis posterity shall be mighty upon the earth;the upright generation shall be blessed.\nLight shines through the darkness for the upright;he is gracious and merciful and just.\nWell for the man who is gracious and lends,who conducts his affairs with justice;\nLavishly he gives to the poor,his justice shall endure forever;his horn shall be exalted in glory."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke14,25-33.",
+                "reading": "Great crowds were traveling with Jesus, and he turned and addressed them,\n\"If any one comes to me without hating his father and mother, wife and children, brothers and sisters, and even his own life, he cannot be my disciple.\nWhoever does not carry his own cross and come after me cannot be my disciple.\nWhich of you wishing to construct a tower does not first sit down and calculate the cost to see if there is enough for its completion?\nOtherwise, after laying the foundation and finding himself unable to finish the work the onlookers should laugh at him\nand say, 'This one began to build but did not have the resources to finish.'\nOr what king marching into battle would not first sit down and decide whether with ten thousand troops he can successfully oppose another king advancing upon him with twenty thousand troops?\nBut if not, while he is still far away, he will send a delegation to ask for peace terms.\nIn the same way, anyone of you who does not renounce all his possessions cannot be my disciple.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bertilla",
+            "title": "Abbess (7th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/11057aaa-a928-4230-ae4f-4c0fac468d80"
+        }
     }
 }
