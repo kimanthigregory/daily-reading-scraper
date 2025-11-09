@@ -5582,5 +5582,31 @@
             "title": "Religious (1880-1906)",
             "profile_link": "https://dailygospel.org/AM/display-saint/c9713402-fed4-4969-950b-14de4a434a35"
         }
+    },
+    "2025-11-09": {
+        "liturgical_week": "Dedication of the Basilica of St. John Lateran in Rome - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezekiel47,1-2.8-9.12.",
+                "reading": "The angel brought me, Ezekiel, back to the entrance of the temple of the LORD, and I saw water flowing out from beneath the threshold of the temple toward the east, for the façade of the temple was toward the east; the water flowed down from the right side of the temple, south of the altar.\nHe led me outside by the north gate, and around to the outer gate facing the east, where I saw water trickling from the southern side.\nHe said to me, \"This water flows into the eastern district down upon the Arabah, and empties into the sea, the salt waters, which it makes fresh.\nWherever the river flows, every sort of living creature that can multiply shall live, and there shall be abundant fish, for wherever this water comes the sea shall be made fresh.\nAlong both banks of the river, fruit trees of every kind shall grow; their leaves shall not fade, nor their fruit fail. Every month they shall bear fresh fruit, for they shall be watered by the flow from the sanctuary. Their fruit shall serve for food, and their leaves for medicine.\""
+            },
+            "Psalm": {
+                "title": "Psalms46(45),2-3.5-6.8-9.",
+                "reading": "God is our refuge and our strength,an ever-present help in distress.\nTherefore, we fear not, though the earth be shakenand mountains plunge into the depths of the sea.\nThere is a stream whose runlets gladden the city of God,the holy dwelling of the Most High.\nGod is in its midst; it shall not be disturbed;God will help it at the break of dawn.\nThe LORD of hosts is with us;our stronghold is the God of Jacob.\nCome! behold the deeds of the LORD,the astounding things he has wrought on earth."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians3,9c-11.16-17.",
+                "reading": "Brothers and sisters; you are God's building.\nAccording to the grace of God given to me, like a wise master builder I laid a foundation, and another is building upon it. But each one must be careful how he builds upon it,\nfor no one can lay a foundation other than the one that is there, namely, Jesus Christ.\nDo you not know that you are the temple of God, and that the Spirit of God dwells in you?\nIf anyone destroys God's temple, God will destroy that person; for the temple of God, which you are, is holy."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John2,13-22.",
+                "reading": "Since the Passover of the Jews was near, Jesus went up to Jerusalem.\nHe found in the temple area those who sold oxen, sheep, and doves, as well as the money-changers seated there.\nHe made a whip out of cords and drove them all out of the temple area, with the sheep and oxen, and spilled the coins of the money-changers and overturned their tables,\nand to those who sold doves he said, \"Take these out of here, and stop making my Father's house a marketplace.\"\nHis disciples recalled the words of scripture, \"Zeal for your house will consume me.\"\nAt this the Jews answered and said to him, \"What sign can you show us for doing this?\"\nJesus answered and said to them, \"Destroy this temple and in three days I will raise it up.\"\nThe Jews said, \"This temple has been under construction for forty-six years, and you will raise it up in three days?\"\nBut he was speaking about the temple of his body.\nTherefore, when he was raised from the dead, his disciples remembered that he had said this, and they came to believe the scripture and the word Jesus had spoken."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Theodore Tyro",
+            "title": "Martyr († c. 306)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6f1b4b8d-8a16-4f2b-9f91-f712aab98086"
+        }
     }
 }
