@@ -5630,5 +5630,27 @@
             "title": "Pope and Doctor of the Church († 461) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/fa3a39b8-3eeb-4959-82c4-c531010aeb0c"
         }
+    },
+    "2025-11-11": {
+        "liturgical_week": "Tuesday of the Thirty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Wisdom2,23-24.3,1-9.",
+                "reading": "God formed man to be imperishable; the image of his own nature he made him.\nBut by the envy of the devil, death entered the world, and they who are in his possession experience it.\nBut the souls of the just are in the hand of God, and no torment shall touch them.\nThey seemed, in the view of the foolish, to be dead; and their passing away was thought an affliction\nand their going forth from us, utter destruction. But they are in peace.\nFor if before men, indeed, they be punished, yet is their hope full of immortality;\nChastised a little, they shall be greatly blessed, because God tried them and found them worthy of himself.\nAs gold in the furnace, he proved them, and as sacrificial offerings he took them to himself.\nIn the time of their visitation they shall shine, and shall dart about as sparks through stubble;\nThey shall judge nations and rule over peoples, and the LORD shall be their King forever.\nThose who trust in him shall understand truth, and the faithful shall abide with him in love: Because grace and mercy are with his holy ones, and his care is with the elect."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2-3.16-17.18-19.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nLet my soul glory in the LORD;the lowly will hear me and be glad.\nThe LORD has eyes for the just,And ears for their cry.\nThe LORD confronts the evildoers,to destroy remembrance of them from the earth.\nWhen the just cry out, the LORD hears them,and from all their distress he rescues them.\nThe LORD is close to the brokenhearted;and those who are crushed in spirit he saves."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke17,7-10.",
+                "reading": "Jesus said to the Apostles: “Who among you would say to your servant who has just come in from plowing or tending sheep in the field, ‘Come here immediately and take your place at table’?\nWould he not rather say to him, 'Prepare something for me to eat. Put on your apron and wait on me while I eat and drink. You may eat and drink when I am finished'?\nIs he grateful to that servant because he did what was commanded?\nSo should it be with you. When you have done all you have been commanded, say, 'We are unprofitable servants; we have done what we were obliged to do.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Martin of Tours",
+            "title": "Bishop († 397) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/25a1c479-e3e3-4a2a-86ef-d4355da00f0e"
+        }
     }
 }
