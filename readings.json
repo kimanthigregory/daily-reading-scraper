@@ -5718,5 +5718,27 @@
             "title": "Archbishop of Dublin (c. 1125-1180)",
             "profile_link": "https://dailygospel.org/AM/display-saint/0c537594-ed67-4fa0-9303-edeb834553c3"
         }
+    },
+    "2025-11-15": {
+        "liturgical_week": "Saturday of the Thirty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Wisdom18,14-16.19,6-9.",
+                "reading": "When peaceful stillness compassed everything and the night in its swift course was half spent,\nYour all-powerful word from heaven's royal throne bounded, a fierce warrior, into the doomed land,\nbearing the sharp sword of your inexorable decree. And as he alighted, he filled every place with death; he still reached to heaven, while he stood upon the earth.\nFor all creation, in its several kinds, was being made over anew, serving its natural laws, that your children might be preserved unharmed.\nThe cloud overshadowed their camp; and out of what had before been water, dry land was seen emerging: Out of the Red Sea an unimpeded road, and a grassy plain out of the mighty flood.\nOver this crossed the whole nation sheltered by your hand, after they beheld stupendous wonders.\nFor they ranged about like horses, and bounded about like lambs, praising you, O LORD! their deliverer."
+            },
+            "Psalm": {
+                "title": "Psalms105(104),2-3.36-37.42-43.",
+                "reading": "Sing to him, sing his praise,proclaim all his wondrous deeds.\nGlory in his holy name;rejoice, O hearts that seek the LORD!\nHe struck down every firstborn in the land,the first fruits of all their manhood.\nAnd he led them forth laden with silver and gold,with not a weakling among their tribes.\nFor he remembered his holy wordto his servant Abraham.\nAnd he led forth his people with joy;with shouts of joy, his chosen ones."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke18,1-8.",
+                "reading": "Jesus told his disciples a parable about the necessity for them to pray always without becoming weary. He said,\n\"There was a judge in a certain town who neither feared God nor respected any human being.\nAnd a widow in that town used to come to him and say, 'Render a just decision for me against my adversary.'\nFor a long time the judge was unwilling, but eventually he thought, 'While it is true that I neither fear God nor respect any human being,\nbecause this widow keeps bothering me I shall deliver a just decision for her lest she finally come and strike me.'\"\nThe Lord said, \"Pay attention to what the dishonest judge says.\nWill not God then secure the rights of his chosen ones who call out to him day and night? Will he be slow to answer them?\nI tell you, he will see to it that justice is done for them speedily. But when the Son of Man comes, will he find faith on earth?\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Albert the Great",
+            "title": "(c. 1200-1280)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/93971f74-383c-4872-a682-8a76d88a69ef"
+        }
     }
 }
