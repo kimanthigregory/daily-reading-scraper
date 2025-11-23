@@ -5890,5 +5890,31 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2025-11-23": {
+        "liturgical_week": "Christ the King - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "2nd book of Samuel5,1-3.",
+                "reading": "In those days, all the tribes of Israel came to David in Hebron and said: \"Here we are, your bone and your flesh.\nIn days past, when Saul was our king, it was you who led the Israelites out and brought them back. And the LORD said to you, 'You shall shepherd my people Israel and shall be commander of Israel.'\"\nWhen all the elders of Israel came to David in Hebron, King David made an agreement with them there before the LORD, and they anointed him king of Israel."
+            },
+            "Psalm": {
+                "title": "Psalms122(121),1-2.3-4.5.",
+                "reading": "I rejoiced because they said to me,\"We will go up to the house of the LORD.\"\nAnd now we have set footwithin your gates, O Jerusalem.\nJerusalem, built as a citywith compact unity.\nTo it the tribes go up,The tribes of the LORD.According to the decree for Israel,To give thanks to the name of the LORD.\nIn it are set up judgment seats,seats for the house of David."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Colossians1,12-20.",
+                "reading": "Brothers and sisters: Let us give thanks to the Father, who has made you fit to share in the inheritance of the holy ones in light.\nHe delivered us from the power of darkness and transferred us to the kingdom of his beloved Son,\nin whom we have redemption, the forgiveness of sins.\nHe is the image of the invisible God, the firstborn of all creation.\nFor in him were created all things in heaven and on earth, the visible and the invisible, whether thrones or dominions or principalities or powers; all things were created through him and for him.\nHe is before all things, and in him all things hold together.\nHe is the head of the body, the church. He is the beginning, the firstborn from the dead, that in all things he himself might be preeminent.\nFor in him all the fullness was pleased to dwell,\nand through him to reconcile all things for him, making peace by the blood of his cross (through him), whether those on earth or those in heaven."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke23,35-43.",
+                "reading": "The rulers sneered at Jesus and said, \"He saved others, let him save himself if he is the chosen one, the Messiah of God.\"\nEven the soldiers jeered at him. As they approached to offer him wine\nthey called out, \"If you are King of the Jews, save yourself.\"\nAbove him there was an inscription that read, \"This is the King of the Jews.\"\nNow one of the criminals hanging there reviled Jesus, saying, \"Are you not the Messiah? Save yourself and us.\"\nThe other, however, rebuking him, said in reply, \"Have you no fear of God, for you are subject to the same condemnation?\nAnd indeed, we have been condemned justly, for the sentence we received corresponds to our crimes, but this man has done nothing criminal.\"\nThen he said, \"Jesus, remember me when you come into your kingdom.\"\nHe replied to him, \"Amen, I say to you, today you will be with me in Paradise.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Clement I",
+            "title": "Pope and martyr († 100)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/9e30f337-94ac-4c6f-84a7-b8d33daeb52a"
+        }
     }
 }
