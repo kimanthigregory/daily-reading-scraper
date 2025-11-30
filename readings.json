@@ -6048,5 +6048,31 @@
             "title": "Bishop and Martyr († 250)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d27575b4-9c4a-4720-864a-63eb279e270f"
         }
+    },
+    "2025-11-30": {
+        "liturgical_week": "First Sunday of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah2,1-5.",
+                "reading": "This is what Isaiah, son of Amoz, saw concerning Judah and Jerusalem.\nIn days to come, The mountain of the LORD'S house shall be established as the highest mountain and raised above the hills. All nations shall stream toward it;\nmany peoples shall come and say: \"Come, let us climb the LORD'S mountain, to the house of the God of Jacob, That he may instruct us in his ways, and we may walk in his paths.\" For from Zion shall go forth instruction, and the word of the LORD from Jerusalem.\nHe shall judge between the nations, and impose terms on many peoples. They shall beat their swords into plowshares and their spears into pruning hooks; One nation shall not raise the sword against another, nor shall they train for war again.\nO house of Jacob, come, let us walk in the light of the LORD!"
+            },
+            "Psalm": {
+                "title": "Psalms122(121),1-2.3-4.5.6-7.8-9.",
+                "reading": "I rejoiced because they said to me,\"We will go up to the house of the LORD.\"\nAnd now we have set footwithin your gates, O Jerusalem.\nJerusalem, built as a citywith compact unity.\nTo it the tribes go up,The tribes of the LORD.According to the decree for Israel,To give thanks to the name of the LORD.\nIn it are set up judgment seats,seats for the house of David.\nPray for the peace of Jerusalem!May those who love you prosper!\nMay peace be within your walls,Prosperity in your buildings.\nBecause of my relatives and friendsI will say, \"Peace be within you!\"\nBecause of the house of the LORD, our God,I will pray for your good."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans13,11-14a.",
+                "reading": "Brothers and sisters: You know the time; it is the hour now for you to awake from sleep. For our salvation is nearer now than when we first believed;\nthe night is advanced, the day is at hand. Let us then throw off the works of darkness (and) put on the armor of light;\nlet us conduct ourselves properly as in the day, not in orgies and drunkenness, not in promiscuity and licentiousness, not in rivalry and jealousy.\nBut put on the Lord Jesus Christ."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew24,37-44.",
+                "reading": "Jesus said to his disciples: “As it was in the days of Noah, so it will be at the coming of the Son of Man.\nIn (those) days before the flood, they were eating and drinking, marrying and giving in marriage, up to the day that Noah entered the ark.\nThey did not know until the flood came and carried them all away. So will it be (also) at the coming of the Son of Man.\nTwo men will be out in the field; one will be taken, and one will be left.\nTwo women will be grinding at the mill; one will be taken, and one will be left.\nTherefore, stay awake! For you do not know on which day your Lord will come.\nBe sure of this: if the master of the house had known the hour of night when the thief was coming, he would have stayed awake and not let his house be broken into.\nSo too, you also must be prepared, for at an hour you do not expect, the Son of Man will come."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Andrew",
+            "title": "Apostle",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3d68d6a5-ed0c-4bdd-ac02-11963fdbc4fd"
+        }
     }
 }
