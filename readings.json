@@ -6074,5 +6074,27 @@
             "title": "Apostle",
             "profile_link": "https://dailygospel.org/AM/display-saint/3d68d6a5-ed0c-4bdd-ac02-11963fdbc4fd"
         }
+    },
+    "2025-12-01": {
+        "liturgical_week": "Monday of the First week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah4,2-6.",
+                "reading": "On that day, The branch of the LORD will be luster and glory, and the fruit of the earth will be honor and splendor for the survivors of Israel.\nHe who remains in Zion and he that is left in Jerusalem Will be called holy: every one marked down for life in Jerusalem.\nWhen the Lord washes away the filth of the daughters of Zion, And purges Jerusalem's blood from her midst with a blast of searing judgment,\nThen will the LORD create, over the whole site of Mount Zion and over her place of assembly, A smoking cloud by day and a light of flaming fire by night.\nFor over all, his glory will be shelter and protection: shade from the parching heat of day, refuge and cover from storm and rain."
+            },
+            "Psalm": {
+                "title": "Psalms122(121),1-2.3-4b.4cd-5.6-7.8-9.",
+                "reading": "I rejoiced because they said to me,\"We will go up to the house of the LORD.\"\nAnd now we have set footwithin your gates, O Jerusalem.\nJerusalem, built as a citywith compact unity.\nTo it the tribes go up,the tribes of the LORD.\nAccording to the decree for Israel,\nto give thanks to the name of the LORD.\nIn it are set up judgment seats,seats for the house of David.\nPray for the peace of Jerusalem!May those who love you prosper!\nMay peace be within your walls,Prosperity in your buildings.\nBecause of my relatives and friendsI will say, \"Peace be within you!\"\nBecause of the house of the LORD, our God,I will pray for your good."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew8,5-11.",
+                "reading": "When Jesus entered Capernaum, a centurion approached him and appealed to him,\nsaying, \"Lord, my servant is lying at home paralyzed, suffering dreadfully.\"\nHe said to him, \"I will come and cure him.\"\nThe centurion said in reply, \"Lord, I am not worthy to have you enter under my roof; only say the word and my servant will be healed.\nFor I too am a person subject to authority, with soldiers subject to me. And I say to one, 'Go,' and he goes; and to another, 'Come here,' and he comes; and to my slave, 'Do this,' and he does it.\"\nWhen Jesus heard this, he was amazed and said to those following him, \"Amen, I say to you, in no one in Israel have I found such faith.\nI say to you, many will come from the east and the west, and will recline with Abraham, Isaac, and Jacob at the banquet in the kingdom of heaven.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Charles of Jesus",
+            "title": "Priest (1858-1916)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/500a0338-63dd-423b-b61f-c72bd8012b93"
+        }
     }
 }
