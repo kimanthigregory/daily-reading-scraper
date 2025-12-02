@@ -6096,5 +6096,27 @@
             "title": "Priest (1858-1916)",
             "profile_link": "https://dailygospel.org/AM/display-saint/500a0338-63dd-423b-b61f-c72bd8012b93"
         }
+    },
+    "2025-12-02": {
+        "liturgical_week": "Tuesday of the First week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah11,1-10.",
+                "reading": "On that day, a shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom.\nThe spirit of the LORD shall rest upon him: a spirit of wisdom and of understanding, A spirit of counsel and of strength, a spirit of knowledge and of fear of the LORD,\nand his delight shall be the fear of the LORD. Not by appearance shall he judge, nor by hearsay shall he decide,\nBut he shall judge the poor with justice, and decide aright for the land's afflicted. He shall strike the ruthless with the rod of his mouth, and with the breath of his lips he shall slay the wicked.\nJustice shall be the band around his waist, and faithfulness a belt upon his hips.\nThen the wolf shall be a guest of the lamb, and the leopard shall lie down with the kid; The calf and the young lion shall browse together, with a little child to guide them.\nThe cow and the bear shall be neighbors, together their young shall rest; the lion shall eat hay like the ox.\nThe baby shall play by the cobra's den, and the child lay his hand on the adder's lair.\nThere shall be no harm or ruin on all my holy mountain; for the earth shall be filled with knowledge of the LORD, as water covers the sea.\nOn that day, The root of Jesse, set up as a signal for the nations, The Gentiles shall seek out, for his dwelling shall be glorious."
+            },
+            "Psalm": {
+                "title": "Psalms72(71),1-2.7-8.12-13.17.",
+                "reading": "O God, with your judgment endow the king,and with your justice, the king's son;\nHe shall govern your people with justiceand your afflicted ones with judgment.\nJustice shall flower in his days,and profound peace, till the moon be no more.\nMay he rule from sea to sea,and from the River to the ends of the earth.\nFor he shall rescue the poor when he cries out,And the afflicted when he has no one to help him.\nHe shall have pity for the lowly and the poor;The lives of the poor he shall save.\nMay his name be blessed forever;As long as the sun his name shall remain.In him shall all the tribes of the earth be blessed;All the nations shall proclaim his happiness."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke10,21-24.",
+                "reading": "Jesus rejoiced in the Holy Spirit and said, “I give you praise, Father, Lord of heaven and earth, for although you have hidden these things from the wise and the learned you have revealed them to the childlike. Yes, Father, such has been your gracious will.\nAll things have been handed over to me by my Father. No one knows who the Son is except the Father, and who the Father is except the Son and anyone to whom the Son wishes to reveal him.\"\nTurning to the disciples in private he said, \"Blessed are the eyes that see what you see.\nFor I say to you, many prophets and kings desired to see what you see, but did not see it, and to hear what you hear, but did not hear it.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bibiana",
+            "title": "Virgin and Martyr (4th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/c71e072e-35d0-402b-a5fd-0607e54257a6"
+        }
     }
 }
