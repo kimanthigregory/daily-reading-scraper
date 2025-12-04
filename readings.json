@@ -6140,5 +6140,27 @@
             "title": "Virgin and Martyr (4th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/c71e072e-35d0-402b-a5fd-0607e54257a6"
         }
+    },
+    "2025-12-04": {
+        "liturgical_week": "Thursday of the First week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah26,1-6.",
+                "reading": "On that day they will sing this song in the land of Judah: \"A strong city have we; he sets up walls and ramparts to protect us.\nOpen up the gates to let in a nation that is just, one that keeps faith.\nA nation of firm purpose you keep in peace; in peace, for its trust in you.\"\nTrust in the LORD forever! For the LORD is an eternal Rock.\nHe humbles those in high places, and the lofty city he brings down; He tumbles it to the ground, levels it with the dust.\nIt is trampled underfoot by the needy, by the footsteps of the poor."
+            },
+            "Psalm": {
+                "title": "Psalms118(117),1.8-9.19-21.25-27a.",
+                "reading": "Give thanks to the LORD, for he is good,for his mercy endures forever.\nIt is better to take refuge in the LORDThan to trust in man.\nIt is better to take refuge in the LORDThan to trust in princes.\nOpen to me the gates of justice;I will enter them and give thanks to the LORD.\nThis is the gate of the LORD;the just shall enter it.\nI will give thanks to you, for you have answered meand have been my savior.\nO LORD, grant salvation!O LORD, grant prosperity!\nBlessed is he who comes in the name of the LORD;we bless you from the house of the LORD.\nThe LORD is God, and he has given us light."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew7,21.24-27.",
+                "reading": "Jesus said to his disciples: \"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father in heaven.\nEveryone who listens to these words of mine and acts on them will be like a wise man who built his house on rock.\nThe rain fell, the floods came, and the winds blew and buffeted the house. But it did not collapse; it had been set solidly on rock.\nAnd everyone who listens to these words of mine but does not act on them will be like a fool who built his house on sand.\nThe rain fell, the floods came, and the winds blew and buffeted the house. And it collapsed and was completely ruined.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Barbara",
+            "title": "Virgin and Martyr (3rd century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d7d18b05-e597-445f-ab6c-c28770d5970a"
+        }
     }
 }
