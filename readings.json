@@ -6162,5 +6162,27 @@
             "title": "Virgin and Martyr (3rd century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d7d18b05-e597-445f-ab6c-c28770d5970a"
         }
+    },
+    "2025-12-05": {
+        "liturgical_week": "Friday of the First week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah29,17-24.",
+                "reading": "Thus says the Lord GOD: But a very little while, and Lebanon shall be changed into an orchard, and the orchard be regarded as a forest!\nOn that day the deaf shall hear the words of a book; And out of gloom and darkness, the eyes of the blind shall see.\nThe lowly will ever find joy in the LORD, and the poor rejoice in the Holy One of Israel.\nFor the tyrant will be no more and the arrogant will have gone; All who are alert to do evil will be cut off,\nthose whose mere word condemns a man, Who ensnare his defender at the gate, and leave the just man with an empty claim.\nTherefore thus says the LORD, the God of the house of Jacob, who redeemed Abraham: Now Jacob shall have nothing to be ashamed of, nor shall his face grow pale.\nWhen his children see the work of my hands in his midst, They shall keep my name holy; they shall reverence the Holy One of Jacob, and be in awe of the God of Israel.\nThose who err in spirit shall acquire understanding, and those who find fault shall receive instruction."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.4.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nOne thing I ask of the LORDthis I seek:to dwell in the house of the LORDall the days of my life,that I may gaze on the loveliness of the LORDand contemplate his temple.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew9,27-31.",
+                "reading": "As Jesus passed by, two blind men followed him, crying out, “Son of David, have pity on us!”\nWhen he entered the house, the blind men approached him and Jesus said to them, \"Do you believe that I can do this?\" \"Yes, Lord,\" they said to him.\nThen he touched their eyes and said, \"Let it be done for you according to your faith.\"\nAnd their eyes were opened. Jesus warned them sternly, \"See that no one knows about this.\"\nBut they went out and spread word of him through all that land."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Sabas",
+            "title": "Abbot (439-532)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/41c94ebe-2914-44a3-8436-b177b92edf4b"
+        }
     }
 }
