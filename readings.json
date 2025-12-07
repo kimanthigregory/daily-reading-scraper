@@ -6206,5 +6206,31 @@
             "title": "(† 342)",
             "profile_link": "https://dailygospel.org/AM/display-saint/cc5a01bc-61b3-4525-b930-dad062dba94a"
         }
+    },
+    "2025-12-07": {
+        "liturgical_week": "Second Sunday of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah11,1-10.",
+                "reading": "On that day, a shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom.\nThe spirit of the LORD shall rest upon him: a spirit of wisdom and of understanding, A spirit of counsel and of strength, a spirit of knowledge and of fear of the LORD,\nand his delight shall be the fear of the LORD. Not by appearance shall he judge, nor by hearsay shall he decide,\nBut he shall judge the poor with justice, and decide aright for the land's afflicted. He shall strike the ruthless with the rod of his mouth, and with the breath of his lips he shall slay the wicked.\nJustice shall be the band around his waist, and faithfulness a belt upon his hips.\nThen the wolf shall be a guest of the lamb, and the leopard shall lie down with the kid; The calf and the young lion shall browse together, with a little child to guide them.\nThe cow and the bear shall be neighbors, together their young shall rest; the lion shall eat hay like the ox.\nThe baby shall play by the cobra's den, and the child lay his hand on the adder's lair.\nThere shall be no harm or ruin on all my holy mountain; for the earth shall be filled with knowledge of the LORD, as water covers the sea.\nOn that day, The root of Jesse, set up as a signal for the nations, The Gentiles shall seek out, for his dwelling shall be glorious."
+            },
+            "Psalm": {
+                "title": "Psalms72(71),1-2.7-8.12-13.17.",
+                "reading": "O God, with your judgment endow the king,and with your justice, the king's son;\nHe shall govern your people with justiceand your afflicted ones with judgment.\nJustice shall flower in his days,and profound peace, till the moon be no more.\nMay he rule from sea to sea,and from the River to the ends of the earth.\nFor he shall rescue the poor when he cries out,And the afflicted when he has no one to help him.\nHe shall have pity for the lowly and the poor;The lives of the poor he shall save.\nMay his name be blessed forever;As long as the sun his name shall remain.In him shall all the tribes of the earth be blessed;All the nations shall proclaim his happiness."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans15,4-9.",
+                "reading": "Brothers and sisters: Whatever was written previously was written for our instruction, that by endurance and by the encouragement of the Scriptures we might have hope.\nMay the God of endurance and encouragement grant you to think in harmony with one another, in keeping with Christ Jesus,\nthat with one accord you may with one voice glorify the God and Father of our Lord Jesus Christ.\nWelcome one another, then, as Christ welcomed you, for the glory of God.\nFor I say that Christ became a minister of the circumcised to show God's truthfulness, to confirm the promises to the patriarchs,\nbut so that the Gentiles might glorify God for his mercy. As it is written: \"Therefore, I will praise you among the Gentiles and sing praises to your name.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew3,1-12.",
+                "reading": "John the Baptist appeared, preaching in the desert of Judea\n(and) saying, \"Repent, for the kingdom of heaven is at hand!\"\nIt was of him that the prophet Isaiah had spoken when he said: \"A voice of one crying out in the desert, 'Prepare the way of the Lord, make straight his paths.'\"\nJohn wore clothing made of camel's hair and had a leather belt around his waist. His food was locusts and wild honey.\nAt that time Jerusalem, all Judea, and the whole region around the Jordan were going out to him\nand were being baptized by him in the Jordan River as they acknowledged their sins.\nWhen he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, \"You brood of vipers! Who warned you to flee from the coming wrath?\nProduce good fruit as evidence of your repentance.\nAnd do not presume to say to yourselves, 'We have Abraham as our father.' For I tell you, God can raise up children to Abraham from these stones.\nEven now the ax lies at the root of the trees. Therefore every tree that does not bear good fruit will be cut down and thrown into the fire.\nI am baptizing you with water, for repentance, but the one who is coming after me is mightier than I. I am not worthy to carry his sandals. He will baptize you with the holy Spirit and fire.\nHis winnowing fan is in his hand. He will clear his threshing floor and gather his wheat into his barn, but the chaff he will burn with unquenchable fire.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Ambrose",
+            "title": "Bishop and Doctor of the Church",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4729ed74-ea0b-4047-b950-1d3f19a9605c"
+        }
     }
 }
