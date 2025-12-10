@@ -6280,5 +6280,27 @@
             "title": "Marian Visionary (1474-1548)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b5694b28-5d3a-4749-b8fc-3f01f0ae61e5"
         }
+    },
+    "2025-12-10": {
+        "liturgical_week": "Wednesday of the Second week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah40,25-31.",
+                "reading": "To whom can you liken me as an equal? says the Holy One.\nLift up your eyes on high and see who has created these: He leads out their army and numbers them, calling them all by name. By his great might and the strength of his power not one of them is missing!\nWhy, O Jacob, do you say, and declare, O Israel, \"My way is hidden from the LORD, and my right is disregarded by my God\"?\nDo you not know or have you not heard? The LORD is the eternal God, creator of the ends of the earth. He does not faint nor grow weary, and his knowledge is beyond scrutiny.\nHe gives strength to the fainting; for the weak he makes vigor abound.\nThough young men faint and grow weary, and youths stagger and fall,\nThey that hope in the LORD will renew their strength, they will soar as with eagles' wings; They will run and not grow weary, walk and not grow faint."
+            },
+            "Psalm": {
+                "title": "Psalms103(102),1-2.3-4.8.10.",
+                "reading": "Bless the LORD, O my soul;and all my being, bless his holy name.\nBless the LORD, O my soul,and forget not all his benefits.\nHe pardons all your iniquities,he heals all your ills.\nHe redeems your life from destruction,he crowns you with kindness and compassion.\nMerciful and gracious is the LORD,slow to anger and abounding in kindness.\nNot according to our sins does he deal with us,nor does he requite us according to our crimes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew11,28-30.",
+                "reading": "Jesus said to the crowds: “Come to me, all you who labor and are burdened, and I will give you rest.\nTake my yoke upon you and learn from me, for I am meek and humble of heart; and you will find rest for yourselves.\nFor my yoke is easy, and my burden light.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Eulalia",
+            "title": "Virgin and Martyr († 304)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/547d1fa6-b3a0-4053-b64d-be79fcbe50f1"
+        }
     }
 }
