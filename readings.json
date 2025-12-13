@@ -6346,5 +6346,27 @@
             "title": "Abbot (565-622)",
             "profile_link": "https://dailygospel.org/AM/display-saint/83932f83-baad-4b48-9b4c-8ecf6842481f"
         }
+    },
+    "2025-12-13": {
+        "liturgical_week": "Saturday of the Second week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Sirach48,1-4.9-11.",
+                "reading": "In those days, like a fire there appeared the prophet Elijah whose words were as a flaming furnace.\nTheir staff of bread he shattered, in his zeal he reduced them to straits;\nBy God's word he shut up the heavens and three times brought down fire.\nHow awesome are you, Elijah! Whose glory is equal to yours?\nYou were taken aloft in a whirlwind, in a chariot with fiery horses.\nYou are destined, it is written, in time to come to put an end to wrath before the day of the LORD, To turn back the hearts of fathers toward their sons, and to reestablish the tribes of Jacob.\nBlessed is he who shall have seen you and who falls asleep in your friendship."
+            },
+            "Psalm": {
+                "title": "Psalms80(79),2ac.3b.15-16.18-19.",
+                "reading": "O shepherd of Israel, hearken.\nfrom your throne upon the cherubim, shine forth.\nRouse your power.\nOnce again, O LORD of hosts,look down from heaven, and see:take care of this vine,\nand protect what your right hand has plantedthe son of man whom you yourself made strong.\nMay your help be with the man of your right hand,with the son of man whom you yourself made strong.\nThen we will no more withdraw from you;give us new life, and we will call upon your name."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew17,10-13.",
+                "reading": "As they were coming down from the mountain, the disciples asked Jesus, “Why do the scribes say that Elijah must come first?”\nHe said in reply, \"Elijah will indeed come and restore all things;\nbut I tell you that Elijah has already come, and they did not recognize him but did to him whatever they pleased. So also will the Son of Man suffer at their hands.\"\nThen the disciples understood that he was speaking to them of John the Baptist."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Lucy",
+            "title": "Virgin and Martyr († c. 304)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4206cfd1-a8b6-43d4-b7c7-8acb5acb4ba7"
+        }
     }
 }
