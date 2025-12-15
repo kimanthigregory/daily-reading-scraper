@@ -6394,5 +6394,27 @@
             "title": "Doctor of the Church (1542-1591)",
             "profile_link": "https://dailygospel.org/AM/display-saint/18c00380-5708-4a78-8af4-356f21d2f648"
         }
+    },
+    "2025-12-15": {
+        "liturgical_week": "Monday of the Third week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Numbers24,2-7.15-17a.",
+                "reading": "When Balaam raised his eyes and saw Israel encamped, tribe by tribe, the spirit of God came upon him,\nand he gave voice to his oracle: The utterance of Balaam, son of Beor, the utterance of the man whose eye is true,\nThe utterance of one who hears what God says, and knows what the Most High knows, Of one who sees what the Almighty sees, enraptured, and with eyes unveiled:\nHow goodly are your tents, O Jacob; your encampments, O Israel!\nThey are like gardens beside a stream, like the cedars planted by the LORD.\nHis wells shall yield free-flowing waters, he shall have the sea within reach; His king shall rise higher than. . . . and his royalty shall be exalted.\nThen Balaam gave voice to his oracle: The utterance of Balaam, son of Beor, the utterance of the man whose eye is true,\nThe utterance of one who hears what God says, and knows what the Most High knows, Of one who sees what the Almighty sees, enraptured and with eyes unveiled.\nI see him, though not now; I behold him, though not near: A star shall advance from Jacob, and a staff shall rise from Israel."
+            },
+            "Psalm": {
+                "title": "Psalms25(24),4-5ab.6.7bc.8-9.",
+                "reading": "Your ways, O LORD, make known to me;teach me your paths,\nguide me in your truth and teach me,\nfor you are God my savior.\nRemember that your compassion, O LORD,and your love are from of old.\nIn your kindness remember me,\nbecause of your goodness, O LORD.\nGood and upright is the LORD;thus he shows sinners the way.\nHe guides the humble to justice,he teaches the humble his way."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew21,23-27.",
+                "reading": "When Jesus had come into the temple area, the chief priests and the elders of the people approached him as he was teaching and said, “By what authority are you doing these things? And who gave you this authority?”\nJesus said to them in reply, \"I shall ask you one question, and if you answer it for me, then I shall tell you by what authority I do these things.\nWhere was John's baptism from? Was it of heavenly or of human origin?\" They discussed this among themselves and said, \"If we say 'Of heavenly origin,' he will say to us, 'Then why did you not believe him?'\nBut if we say, 'Of human origin,' we fear the crowd, for they all regard John as a prophet.\"\nSo they said to Jesus in reply, \"We do not know.\" He himself said to them, \"Neither shall I tell you by what authority I do these things.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Virginia Centurione Bracelli",
+            "title": "Foundress (1587-1651)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b82832b3-71d2-4177-8175-b71a5bb7b753"
+        }
     }
 }
