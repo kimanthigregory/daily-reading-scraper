@@ -6416,5 +6416,27 @@
             "title": "Foundress (1587-1651)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b82832b3-71d2-4177-8175-b71a5bb7b753"
         }
+    },
+    "2025-12-16": {
+        "liturgical_week": "Tuesday of the Third week of Advent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Zephaniah3,1-2.9-13.",
+                "reading": "Thus says the Lord: \"Woe to the city, rebellious and polluted, to the tyrannical city!\nShe hears no voice, accepts no correction; In the LORD she has not trusted, to her God she has not drawn near.\nFor then I will change and purify the lips of the peoples, That they all may call upon the name of the LORD, to serve him with one accord;\nFrom beyond the rivers of Ethiopia and as far as the recesses of the North, they shall bring me offerings.\nOn that day You need not be ashamed of all your deeds, your rebellious actions against me; For then will I remove from your midst the proud braggarts, And you shall no longer exalt yourself on my holy mountain.\nBut I will leave as a remnant in your midst a people humble and lowly, Who shall take refuge in the name of the LORD;\nthe remnant of Israel. They shall do no wrong and speak no lies; Nor shall there be found in their mouths a deceitful tongue; They shall pasture and couch their flocks with none to disturb them."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),2-3.6-7.17-18.19.23.",
+                "reading": "I will bless the LORD at all times;his praise shall be ever in my mouth.\nLet my soul glory in the LORD;the lowly will hear me and be glad.\nLook to him that you may be radiant with joy,and your faces may not blush with shame.\nWhen the poor one called out, the LORD heard,and from all his distress he saved him.\nThe LORD confronts the evildoers,to destroy remembrance of them from the earth.\nWhen the just cry out, the LORD hears them,and from all their distress he rescues them.\nThe LORD is close to the brokenhearted;and those who are crushed in spirit he saves.\nThe LORD redeems the lives of his servants;no one incurs guilt who takes refuge in him."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew21,28-32.",
+                "reading": "Jesus said to the chief priests and the elders of the people: \"What is your opinion? A man had two sons. He came to the first and said, 'Son, go out and work in the vineyard today.'\nHe said in reply, 'I will not,' but afterwards he changed his mind and went.\nThe man came to the other son and gave the same order. He said in reply, 'Yes, sir,' but did not go.\nWhich of the two did his father's will?\" They answered, \"The first.\" Jesus said to them, \"Amen, I say to you, tax collectors and prostitutes are entering the kingdom of God before you.\nWhen John came to you in the way of righteousness, you did not believe him; but tax collectors and prostitutes did. Yet even when you saw that, you did not later change your minds and believe him.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Eusebius",
+            "title": "Bishop († c. 371)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/a06076fa-814f-4027-aad1-a41bf410e4f0"
+        }
     }
 }
