@@ -6552,5 +6552,27 @@
             "title": "Priest and Doctor of the Church (1521-1597)",
             "profile_link": "https://dailygospel.org/AM/display-saint/443aced3-2ddd-4489-b3a1-1ebfe973374a"
         }
+    },
+    "2025-12-22": {
+        "liturgical_week": "Readings for 22 December",
+        "readings": {
+            "First_Reading": {
+                "title": "1st book of Samuel1,24-28.",
+                "reading": "In those days Hannah brought Samuel with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and presented him at the temple of the LORD in Shiloh.\nAfter the boy's father had sacrificed the young bull, Hannah, his mother, approached Eli\nand said: \"Pardon, my lord! As you live my lord, I am the woman who stood near you here, praying to the LORD.\nI prayed for this child, and the LORD granted my request.\nNow I, in turn, give him to the LORD; as long as he lives, he shall be dedicated to the LORD.\" She left Samuel there."
+            },
+            "Psalm": {
+                "title": "1st book of Samuel2,1.4-5.6-7.8abcd.",
+                "reading": "My heart exults in the LORD,my horn is exalted in my God.I have swallowed up my enemies;I rejoice in my victory.\nThe bows of the mighty are broken,while the tottering gird on strength.\nThe well-fed hire themselves out for bread,while the hungry batten on spoil.The barren wife bears seven sons,while the mother of many languishes.\nThe LORD puts to death and gives life;He casts down to the nether world;He raises up again.\nThe LORD makes poor and makes rich,He humbles, he also exalts.\nHe raises the needy from the dust;\nfrom the dung heap he lifts up the poor,\nto seat them with nobles\nand make a glorious throne their heritage."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke1,46-56.",
+                "reading": "Mary said: \"My soul proclaims the greatness of the Lord;\nmy spirit rejoices in God my savior.\nFor he has looked with favor on his lowly servant;from this day all generations will call me blessed.\nThe Almighty has done great things for me,and holy is his name.\nHe has mercy on those who fear himin every generation.\nHe has shown might with his arm, dispersed the arrogant of mind and heart.\nHe has thrown down the rulers from their thrones but lifted up the lowly.\nHe has filled the hungry with good things;and the rich he has sent away empty.\nHe has come to the help of his servant Israel ,remembering his promise of mercy,\nThe promise he made to our fathers,to Abraham and to his descendants forever.\"\nMary remained with her about three months and then returned to her home."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Ischyrion",
+            "title": "Martyr († c. 250)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/db9a1339-9fdb-4d2f-8488-79b130ba05f4"
+        }
     }
 }
