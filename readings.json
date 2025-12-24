@@ -6596,5 +6596,31 @@
             "title": "Priest (1390-1473)",
             "profile_link": "https://dailygospel.org/AM/display-saint/87649047-ec2c-4962-b537-b9dd8cea18b8"
         }
+    },
+    "2025-12-24": {
+        "liturgical_week": "The Nativity of the Lord, Mass at Midnight",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah9,1-6.",
+                "reading": "The people who walked in darkness have seen a great light; Upon those who dwelt in the land of gloom a light has shone.\nYou have brought them abundant joy and great rejoicing, As they rejoice before you as at the harvest, as men make merry when dividing spoils.\nFor the yoke that burdened them, the pole on their shoulder, And the rod of their taskmaster you have smashed, as on the day of Midian.\nFor every boot that tramped in battle, every cloak rolled in blood, will be burned as fuel for flames.\nFor a child is born to us, a son is given us; upon his shoulder dominion rests. They name him Wonder-Counselor, God-Hero, Father-Forever, Prince of Peace.\nHis dominion is vast and forever peaceful, From David's throne, and over his kingdom, which he confirms and sustains By judgment and justice, both now and forever. The zeal of the LORD of hosts will do this!"
+            },
+            "Psalm": {
+                "title": "Psalms96(95),1-2a.2b-3.11-12.13.",
+                "reading": "Sing to the LORD a new song;sing to the LORD, all you lands.\nSing to the LORD; bless his name.\nAnnounce his salvation, day after day.\nTell his glory among the nations;among all peoples, his wondrous deeds.\nLet the heavens be glad and the earth rejoice;let the sea and what fills it resound;\nlet the plains be joyful and all that is in them.Then shall all the trees of the forest exult before the LORD.\nThe LORD comes,he comes to rule the earth.He shall rule the world with justiceand the peoples with his constancy."
+            },
+            "Second_Reading": {
+                "title": "Letter to Titus2,11-14.",
+                "reading": "Beloved: The grace of God has appeared, saving all\nand training us to reject godless ways and worldly desires and to live temperately, justly, and devoutly in this age,\nas we await the blessed hope, the appearance of the glory of the great God and of our savior Jesus Christ,\nwho gave himself for us to deliver us from all lawlessness and to cleanse for himself a people as his own, eager to do what is good."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke2,1-14.",
+                "reading": "In those days a decree went out from Caesar Augustus that the whole world should be enrolled.\nThis was the first enrollment, when Quirinius was governor of Syria.\nSo all went to be enrolled, each to his own town.\nAnd Joseph too went up from Galilee from the town of Nazareth to Judea, to the city of David that is called Bethlehem, because he was of the house and family of David,\nto be enrolled with Mary, his betrothed, who was with child.\nWhile they were there, the time came for her to have her child,\nand she gave birth to her firstborn son. She wrapped him in swaddling clothes and laid him in a manger, because there was no room for them in the inn.\nNow there were shepherds in that region living in the fields and keeping the night watch over their flock.\nThe angel of the Lord appeared to them and the glory of the Lord shone around them, and they were struck with great fear.\nThe angel said to them, \"Do not be afraid; for behold, I proclaim to you good news of great joy that will be for all the people.\nFor today in the city of David a savior has been born for you who is Messiah and Lord.\nAnd this will be a sign for you: you will find an infant wrapped in swaddling clothes and lying in a manger.\"\nAnd suddenly there was a multitude of the heavenly host with the angel, praising God and saying:\nGlory to God in the highest and on earth peace to those on whom his favor rests."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Delphinus",
+            "title": "Bishop († 403)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2f6eaa4f-c8d3-467a-9fba-381b4568164c"
+        }
     }
 }
