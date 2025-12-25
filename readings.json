@@ -6622,5 +6622,27 @@
             "title": "Bishop († 403)",
             "profile_link": "https://dailygospel.org/AM/display-saint/2f6eaa4f-c8d3-467a-9fba-381b4568164c"
         }
+    },
+    "2025-12-25": {
+        "liturgical_week": "Christmas (Mass of the day)",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah52,7-10.",
+                "reading": "How beautiful upon the mountains are the feet of him who brings glad tidings, Announcing peace, bearing good news, announcing salvation, and saying to Zion, \"Your God is King!\"\nHark! Your watchmen raise a cry, together they shout for joy, For they see directly, before their eyes, the LORD restoring Zion.\nBreak out together in song, O ruins of Jerusalem! For the LORD comforts his people, he redeems Jerusalem.\nThe LORD has bared his holy arm in the sight of all the nations; All the ends of the earth will behold the salvation of our God."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3ab.3cd-4.5-6.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise.\nSing praise to the LORD with the harp,with the harp and melodious song.\nWith trumpets and the sound of the hornsing joyfully before the King, the LORD."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Hebrews1,1-6.",
+                "reading": "Brothers and sisters: In times past, God spoke in partial and various ways to our ancestors through the prophets;\nin these last days, he spoke to us through a son, whom he made heir of all things and through whom he created the universe,\nwho is the refulgence of his glory, the very imprint of his being, and who sustains all things by his mighty word. When he had accomplished purification from sins, he took his seat at the right hand of the Majesty on high,\nas far superior to the angels as the name he has inherited is more excellent than theirs.\nFor to which of the angels did God ever say: \"You are my son; this day I have begotten you\"? Or again: \"I will be a father to him, and he shall be a son to me\"?\nAnd again, when he leads the first-born into the world, he says: \"Let all the angels of God worship him.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,1-18.",
+                "reading": "In the beginning was the Word, and the Word was with God, and the Word was God.\nHe was in the beginning with God.\nAll things came to be through him, and without him nothing came to be. What came to be\nthrough him was life, and this life was the light of the human race;\nthe light shines in the darkness, and the darkness has not overcome it.\nA man named John was sent from God.\nHe came for testimony, to testify to the light, so that all might believe through him.\nHe was not the light, but came to testify to the light.\nThe true light, which enlightens everyone, was coming into the world.\nHe was in the world, and the world came to be through him, but the world did not know him.\nHe came to what was his own, but his own people did not accept him.\nBut to those who did accept him he gave power to become children of God, to those who believe in his name,\nwho were born not by natural generation nor by human choice nor by a man's decision but of God.\nAnd the Word became flesh and made his dwelling among us, and we saw his glory, the glory as of the Father's only Son, full of grace and truth.\nJohn testified to him and cried out, saying, \"This was he of whom I said, 'The one who is coming after me ranks ahead of me because he existed before me.'\"\nFrom his fullness we have all received, grace in place of grace,\nbecause while the law was given through Moses, grace and truth came through Jesus Christ.\nNo one has ever seen God. The only Son, God, who is at the Father's side, has revealed him."
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
