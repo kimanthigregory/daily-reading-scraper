@@ -6644,5 +6644,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2025-12-26": {
+        "liturgical_week": "Saint Stephen, first martyr - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles6,8-10.7,54-59.",
+                "reading": "Stephen, filled with grace and power,  was working great wonders and signs among the people.\nCertain members of the so-called Synagogue of Freedmen, Cyrenians, and Alexandrians, and people from Cilicia and Asia, came forward and debated with Stephen,\nbut they could not withstand the wisdom and the spirit with which he spoke.\nWhen they heard this, they were infuriated, and they ground their teeth at him.\nBut he, filled with the holy Spirit, looked up intently to heaven and saw the glory of God and Jesus standing at the right hand of God,\nand he said, \"Behold, I see the heavens opened and the Son of Man standing at the right hand of God.\"\nBut they cried out in a loud voice, covered their ears, and rushed upon him together.\nThey threw him out of the city, and began to stone him. The witnesses laid down their cloaks at the feet of a young man named Saul.\nAs they were stoning Stephen, he called out, \"Lord Jesus, receive my spirit.\""
+            },
+            "Psalm": {
+                "title": "Psalms31(30),3cd-4.6.8a.16b-17.",
+                "reading": "Be my rock of refuge,\na stronghold to give me safety.\nYou are my rock and my fortress;for your name's sake you will lead and guide me.\nInto your hands I commend my spirit;You will redeem me, O LORD, O faithful God.\nI will rejoice and be glad because of your mercy.\nRescue me from the clutches of my enemies and my persecutors.\nLet your face shine upon your servant;save me in your kindness."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew10,17-22.",
+                "reading": "Jesus said to His disciples: \"Beware of men, for they will hand you over to courts and scourge you in their synagogues,\nand you will be led before governors and kings for my sake as a witness before them and the pagans.\nWhen they hand you over, do not worry about how you are to speak or what you are to say. You will be given at that moment what you are to say.\nFor it will not be you who speak but the Spirit of your Father speaking through you.\nBrother will hand over brother to death, and the father his child; children will rise up against parents and have them put to death.\nYou will be hated by all because of my name, but whoever endures to the end will be saved.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Stephen",
+            "title": "The First Martyr",
+            "profile_link": "https://dailygospel.org/AM/display-saint/bcf23d1a-0e30-42ae-80f3-0cc1f89ec3cc"
+        }
     }
 }
