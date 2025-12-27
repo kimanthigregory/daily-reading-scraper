@@ -6666,5 +6666,27 @@
             "title": "The First Martyr",
             "profile_link": "https://dailygospel.org/AM/display-saint/bcf23d1a-0e30-42ae-80f3-0cc1f89ec3cc"
         }
+    },
+    "2025-12-27": {
+        "liturgical_week": "Saint John, apostle and evangelist - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John1,1-4.",
+                "reading": "Beloved; what was from the beginning, what we have heard, what we have seen with our eyes, what we looked upon and touched with our hands concerns the Word of life--\nfor the life was made visible; we have seen it and testify to it and proclaim to you the eternal life that was with the Father and was made visible to us--\nwhat we have seen and heard we proclaim now to you, so that you too may have fellowship with us; for our fellowship is with the Father and with his Son, Jesus Christ.\nWe are writing this so that our joy may be complete."
+            },
+            "Psalm": {
+                "title": "Psalms97(96),1-2.5-6.11-12.",
+                "reading": "The LORD is king; let the earth rejoice;let the many islands be glad.\nClouds and darkness are round about him,justice and judgment are the foundation of his throne.\nThe mountains melt like wax before the LORD,before the Lord of all the earth.\nThe heavens proclaim his justice,and all peoples see his glory.\nLight dawns for the just;And gladness, for the upright of heart.\nBe glad in the LORD, you just,And give thanks to his holy name."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John20,2-8.",
+                "reading": "On the first day of the week, Mary Magdalene ran and went to Simon Peter and to the other disciple whom Jesus loved, and told them, \"They have taken the Lord from the tomb, and we don't know where they put him.\"\nSo Peter and the other disciple went out and came to the tomb.\nThey both ran, but the other disciple ran faster than Peter and arrived at the tomb first;\nhe bent down and saw the burial cloths there, but did not go in.\nWhen Simon Peter arrived after him, he went into the tomb and saw the burial cloths there,\nand the cloth that had covered his head, not with the burial cloths but rolled up in a separate place.\nThen the other disciple also went in, the one who had arrived at the tomb first, and he saw and believed."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John",
+            "title": "Apostle and Evangelist (Feast)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e624f563-ab77-46d9-9ecd-d6feb10927e4"
+        }
     }
 }
