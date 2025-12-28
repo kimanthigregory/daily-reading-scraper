@@ -6688,5 +6688,31 @@
             "title": "Apostle and Evangelist (Feast)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e624f563-ab77-46d9-9ecd-d6feb10927e4"
         }
+    },
+    "2025-12-28": {
+        "liturgical_week": "The Holy Family - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Sirach3,2-6.12-14.",
+                "reading": "God sets a father in honor over his children; a mother's authority he confirms over her sons.\nHe who honors his father atones for sins;\nhe stores up riches who reveres his mother.\nHe who honors his father is gladdened by children, and when he prays he is heard.\nHe who reveres his father will live a long life; he obeys the LORD who brings comfort to his mother.\nMy son, take care of your father when he is old; grieve him not as long as he lives.\nEven if his mind fail, be considerate with him; revile him not in the fullness of your strength.\nFor kindness to a father will not be forgotten, firmly planted against the debt of your sins-a house raised in justice to you."
+            },
+            "Psalm": {
+                "title": "Psalms128(127),1-2.3.4-5.",
+                "reading": "Blessed are you who fear the LORD,who walk in his ways!\nFor you shall eat the fruit of your handiwork;blessed shall you be, and favored.\nYour wife shall be like a fruitful vinein the recesses of your home;Your children like olive plantsaround your table.\nBehold, thus is the man blessedwho fears the LORD.\nThe LORD bless you from Zion:may you see the prosperity of Jerusalemall the days of your life."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Colossians3,12-21.",
+                "reading": "Brothers and sisters: Put on, as God’s chosen ones, holy and beloved, heartfelt compassion, kindness, humility, gentleness, and patience,\nbearing with one another and forgiving one another, if one has a grievance against another; as the Lord has forgiven you, so must you also do.\nAnd over all these put on love, that is, the bond of perfection.\nAnd let the peace of Christ control your hearts, the peace into which you were also called in one body. And be thankful.\nLet the word of Christ dwell in you richly, as in all wisdom you teach and admonish one another, singing psalms, hymns, and spiritual songs with gratitude in your hearts to God.\nAnd whatever you do, in word or in deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.\nWives, be subordinate to your husbands, as is proper in the Lord.\nHusbands, love your wives, and avoid any bitterness toward them.\nChildren, obey your parents in everything, for this is pleasing to the Lord.\nFathers, do not provoke your children, so they may not become discouraged."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew2,13-15.19-23.",
+                "reading": "When the Magi had departed, behold, the angel of the Lord appeared to Joseph in a dream and said, \"Rise, take the child and his mother, flee to Egypt, and stay there until I tell you. Herod is going to search for the child to destroy him.\"\nJoseph rose and took the child and his mother by night and departed for Egypt.\nHe stayed there until the death of Herod, that what the Lord had said through the prophet might be fulfilled, \"Out of Egypt I called my son.\"\nWhen Herod had died, behold, the angel of the Lord appeared in a dream to Joseph in Egypt\nand said, \"Rise, take the child and his mother and go to the land of Israel, for those who sought the child's life are dead.\"\nHe rose, took the child and his mother, and went to the land of Israel.\nBut when he heard that Archelaus was ruling over Judea in place of his father Herod, he was afraid to go back there. And because he had been warned in a dream, he departed for the region of Galilee.\nHe went and dwelt in a town called Nazareth, so that what had been spoken through the prophets might be fulfilled, \"He shall be called a Nazorean.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Anthony the Hermit",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d59bb053-4d5e-40a2-9f07-42bf05976d69"
+        }
     }
 }
