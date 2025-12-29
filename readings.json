@@ -6714,5 +6714,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/d59bb053-4d5e-40a2-9f07-42bf05976d69"
         }
+    },
+    "2025-12-29": {
+        "liturgical_week": "The Fifth Day in the Octave of Christmas",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John2,3-11.",
+                "reading": "Beloved: The way we may be sure that we know him is to keep his commandments.\nWhoever says, \"I know him,\" but does not keep his commandments is a liar, and the truth is not in him.\nBut whoever keeps his word, the love of God is truly perfected in him. This is the way we may know that we are in union with him:\nwhoever claims to abide in him ought to live (just) as he lived.\nBeloved, I am writing no new commandment to you but an old commandment that you had from the beginning. The old commandment is the word that you have heard.\nAnd yet I do write a new commandment to you, which holds true in him and among you, for the darkness is passing away, and the true light is already shining.\nWhoever says he is in the light, yet hates his brother, is still in the darkness.\nWhoever loves his brother remains in the light, and there is nothing in him to cause a fall.\nWhoever hates his brother is in darkness; he walks in darkness and does not know where he is going because the darkness has blinded his eyes."
+            },
+            "Psalm": {
+                "title": "Psalms96(95),1-2a.2b-3.5b-6.",
+                "reading": "Sing to the LORD a new song;sing to the LORD, all you lands.\nSing to the LORD; bless his name.\nAnnounce his salvation, day after day.\nTell his glory among the nations;among all peoples, his wondrous deeds.\nThe LORD made the heavens.\nSplendor and majesty go before him;Praise and grandeur are in his sanctuary."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke2,22-35.",
+                "reading": "When the days were completed for their purification according to the law of Moses, Mary and Joseph took Jesus up to Jerusalem to present him to the Lord,\njust as it is written in the law of the Lord, \"Every male that opens the womb shall be consecrated to the Lord,\"\nand to offer the sacrifice of \"a pair of turtledoves or two young pigeons,\" in accordance with the dictate in the law of the Lord.\nNow there was a man in Jerusalem whose name was Simeon. This man was righteous and devout, awaiting the consolation of Israel, and the holy Spirit was upon him.\nIt had been revealed to him by the holy Spirit that he should not see death before he had seen the Messiah of the Lord.\nHe came in the Spirit into the temple; and when the parents brought in the child Jesus to perform the custom of the law in regard to him,\nhe took him into his arms and blessed God, saying:\nNow, Master, you may let your servant go in peace, according to your word,\nfor my eyes have seen your salvation,\nwhich you prepared in sight of all the peoples,\na light for revelation to the Gentiles, and glory for your people Israel.\"\nThe child's father and mother were amazed at what was said about him;\nand Simeon blessed them and said to Mary his mother, \"Behold, this child is destined for the fall and rise of many in Israel, and to be a sign that will be contradicted\n(and you yourself a sword will pierce) so that the thoughts of many hearts may be revealed.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Thomas Becket",
+            "title": "Bishop and Martyr († 1170)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1de09bc5-5cce-496c-bee7-7a275bae3026"
+        }
     }
 }
