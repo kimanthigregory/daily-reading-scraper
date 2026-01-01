@@ -6780,5 +6780,27 @@
             "title": "Pope (+ 335)",
             "profile_link": "https://dailygospel.org/AM/display-saint/df72427a-f3ce-49d7-ba5a-32c6835439f6"
         }
+    },
+    "2026-01-01": {
+        "liturgical_week": "Mary, Mother of God - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Numbers6,22-27.",
+                "reading": "The LORD said to Moses :\n\"Speak to Aaron and his sons and tell them: This is how you shall bless the Israelites. Say to them:\nThe LORD bless you and keep you!\nThe LORD let his face shine upon you, and be gracious to you!\nThe LORD look upon you kindly and give you peace!\nSo shall they invoke my name upon the Israelites, and I will bless them.\""
+            },
+            "Psalm": {
+                "title": "Psalms67(66),2-3.5.6.8.",
+                "reading": "May God have pity on us and bless us;may he let his face shine upon us.\nSo may your way be known upon earth;among all nations, your salvation.\nMay the nations be glad and exultbecause you rule the peoples in equity;the nations on the earth you guide.\nMay the peoples praise you, O God;may all the peoples praise you!\nMay God bless us,and may all the ends of the earth fear him!"
+            },
+            "Second_Reading": {
+                "title": "Letter to the Galatians4,4-7.",
+                "reading": "Brothers and sisters: When the fullness of time had come, God sent his Son, born of a woman, born under the law,\nto ransom those under the law, so that we might receive adoption.\nAs proof that you are children, God sent the spirit of his Son into our hearts, crying out, \"Abba, Father!\"\nSo you are no longer a slave but a child, and if a child then also an heir, through God."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke2,16-21.",
+                "reading": "The shepherds went in haste to Bethlehem and found Mary and Joseph, and the infant lying in the manger.\nWhen they saw this, they made known the message that had been told them about this child.\nAll who heard it were amazed by what had been told them by the shepherds.\nAnd Mary kept all these things, reflecting on them in her heart.\nThen the shepherds returned, glorifying and praising God for all they had heard and seen, just as it had been told to them.\nWhen eight days were completed for his circumcision, he was named Jesus, the name given him by the angel before he was conceived in the womb."
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
