@@ -6802,5 +6802,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2026-01-02": {
+        "liturgical_week": "Christmas Weekday (January 2nd)",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John2,22-28.",
+                "reading": "Beloved: Who is the liar? Whoever denies that Jesus is the Christ. Whoever denies the Father and the Son, this is the antichrist.\nNo one who denies the Son has the Father, but whoever confesses the Son has the Father as well.\nLet what you heard from the beginning remain in you. If what you heard from the beginning remains in you, then you will remain in the Son and in the Father.\nAnd this is the promise that he made us: eternal life.\nI write you these things about those who would deceive you.\nAs for you, the anointing that you received from him remains in you, so that you do not need anyone to teach you. But his anointing teaches you about everything and is true and not false; just as it taught you, remain in him.\nAnd now, children, remain in him, so that when he appears we may have confidence and not be put to shame by him at his coming."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3ab.3cd-4.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,19-28.",
+                "reading": "This is the testimony of John. When the Jews from Jerusalem sent priests and Levites to him to ask him, \"Who are you?\"\nhe admitted and did not deny it, but admitted, \"I am not the Messiah.\"\nSo they asked him, \"What are you then? Are you Elijah?\" And he said, \"I am not.\" \"Are you the Prophet?\" He answered, \"No.\"\nSo they said to him, \"Who are you, so we can give an answer to those who sent us? What do you have to say for yourself?\"\nHe said: \"I am 'the voice of one crying out in the desert, \"Make straight the way of the Lord,\"' as Isaiah the prophet said.\"\nSome Pharisees were also sent.\nThey asked him, \"Why then do you baptize if you are not the Messiah or Elijah or the Prophet?\"\nJohn answered them, \"I baptize with water; but there is one among you whom you do not recognize,\nthe one who is coming after me, whose sandal strap I am not worthy to untie.\"\nThis happened in Bethany across the Jordan, where John was baptizing."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Gregory Nazianzen",
+            "title": "Bishop and Doctor of the Church († c. 390)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8eb55258-6180-4228-9f8d-d9faedb16063"
+        }
     }
 }
