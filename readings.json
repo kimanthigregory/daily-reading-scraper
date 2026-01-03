@@ -6824,5 +6824,27 @@
             "title": "Bishop and Doctor of the Church († c. 390)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8eb55258-6180-4228-9f8d-d9faedb16063"
         }
+    },
+    "2026-01-03": {
+        "liturgical_week": "Christmas Weekday (January 3rd)",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John2,29.3,1-6.",
+                "reading": "If you consider that God is righteous, you also know that everyone who acts in righteousness is begotten by him.\nSee what love the Father has bestowed on us that we may be called the children of God. Yet so we are. The reason the world does not know us is that it did not know him.\nBeloved, we are God's children now; what we shall be has not yet been revealed. We do know that when it is revealed we shall be like him, for we shall see him as he is.\nEveryone who has this hope based on him makes himself pure, as he is pure.\nEveryone who commits sin commits lawlessness, for sin is lawlessness.\nYou know that he was revealed to take away sins, and in him there is no sin.\nNo one who remains in him sins; no one who sins has seen him or known him."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.3cd-4.5-6.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise.\nSing praise to the LORD with the harp,with the harp and melodious song.\nWith trumpets and the sound of the hornsing joyfully before the King, the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,29-34.",
+                "reading": "John the Baptist saw Jesus coming toward him and said, \"Behold, the Lamb of God, who takes away the sin of the world.\nHe is the one of whom I said, 'A man is coming after me who ranks ahead of me because he existed before me.'\nI did not know him, but the reason why I came baptizing with water was that he might be made known to Israel.\"\nJohn testified further, saying, \"I saw the Spirit come down like a dove from the sky and remain upon him.\nI did not know him, but the one who sent me to baptize with water told me, 'On whomever you see the Spirit come down and remain, he is the one who will baptize with the holy Spirit.'\nNow I have seen and testified that he is the Son of God.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Genevieve",
+            "title": "Virgin (c. 422 - 512)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/82611195-f874-4275-85ab-f76473a24654"
+        }
     }
 }
