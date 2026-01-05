@@ -6872,5 +6872,27 @@
             "title": "Foundress (1774-1821)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6353d370-5ac5-472b-8da7-206916eae177"
         }
+    },
+    "2026-01-05": {
+        "liturgical_week": "Christmas Weekday (January 5th)",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John3,11-21.",
+                "reading": "Beloved: This is the message you have heard from the beginning: we should love one another,\nunlike Cain who belonged to the evil one and slaughtered his brother. Why did he slaughter him? Because his own works were evil, and those of his brother righteous.\nDo not be amazed, (then,) brothers, if the world hates you.\nWe know that we have passed from death to life because we love our brothers. Whoever does not love remains in death.\nEveryone who hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.\nThe way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers.\nIf someone who has worldly means sees a brother in need and refuses him compassion, how can the love of God remain in him?\nChildren, let us love not in word or speech but in deed and truth.\n(Now) this is how we shall know that we belong to the truth and reassure our hearts before him\nin whatever our hearts condemn, for God is greater than our hearts and knows everything.\nBeloved, if (our) hearts do not condemn us, we have confidence in God"
+            },
+            "Psalm": {
+                "title": "Psalms100(99),1b-2.3.4.5.",
+                "reading": "Sing joyfully to the LORD all you lands;\nserve the LORD with gladness;come before him with joyful song.\nKnow that the LORD is God;he made us, his we are;his people, the flock he tends.\nEnter his gates with thanksgiving,his courts with praise;give thanks to him; bless his name.\nThe LORD is good:his kindness endures forever,and his faithfulness, to all generations."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,43-51.",
+                "reading": "Jesus decided to go to Galilee, and he found Philip. And Jesus said to him, \"Follow me.\"\nNow Philip was from Bethsaida, the town of Andrew and Peter.\nPhilip found Nathanael and told him, \"We have found the one about whom Moses wrote in the law, and also the prophets, Jesus, son of Joseph, from Nazareth.\"\nBut Nathanael said to him, \"Can anything good come from Nazareth?\" Philip said to him, \"Come and see.\"\nJesus saw Nathanael coming toward him and said of him, \"Here is a true Israelite. There is no duplicity in him.\"\nNathanael said to him, \"How do you know me?\" Jesus answered and said to him, \"Before Philip called you, I saw you under the fig tree.\"\nNathanael answered him, \"Rabbi, you are the Son of God; you are the King of Israel.\"\nJesus answered and said to him, \"Do you believe because I told you that I saw you under the fig tree? You will see greater things than this.\"\nAnd he said to him, \"Amen, amen, I say to you, you will see the sky opened and the angels of God ascending and descending on the Son of Man.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John N. Neumann",
+            "title": "Bishop (1811-1860) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3775420a-573a-446b-bea1-56e525f5261d"
+        }
     }
 }
