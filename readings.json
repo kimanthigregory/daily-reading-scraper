@@ -6894,5 +6894,27 @@
             "title": "Bishop (1811-1860) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/3775420a-573a-446b-bea1-56e525f5261d"
         }
+    },
+    "2026-01-06": {
+        "liturgical_week": "2nd day after Epiphany",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John4,7-10.",
+                "reading": "Beloved, let us love one another, because love is of God; everyone who loves is begotten by God and knows God.\nWhoever is without love does not know God, for God is love.\nIn this way the love of God was revealed to us: God sent his only Son into the world so that we might have life through him.\nIn this is love: not that we have loved God, but that he loved us and sent his Son as expiation for our sins."
+            },
+            "Psalm": {
+                "title": "Psalms72(71),1-2.3-4.7-8.",
+                "reading": "O God, with your judgment endow the king,and with your justice, the king's son;\nHe shall govern your people with justiceand your afflicted ones with judgment.\nThe mountains shall yield peace for the people,and the hills justice.\nHe shall defend the afflicted among the people,save the children of the poor.\nJustice shall flower in his days,and profound peace, till the moon be no more.\nMay he rule from sea to sea,and from the River to the ends of the earth."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark6,34-44.",
+                "reading": "When Jesus saw the vast crowd, his heart was moved with pity for them, for they were like sheep without a shepherd; and he began to teach them many things.\nBy now it was already late and his disciples approached him and said, \"This is a deserted place and it is already very late.\nDismiss them so that they can go to the surrounding farms and villages and buy themselves something to eat.\"\nHe said to them in reply, \"Give them some food yourselves.\" But they said to him, \"Are we to buy two hundred days' wages worth of food and give it to them to eat?\"\nHe asked them, \"How many loaves do you have? Go and see.\" And when they had found out they said, \"Five loaves and two fish.\"\nSo he gave orders to have them sit down in groups on the green grass.\nThe people took their places in rows by hundreds and by fifties.\nThen, taking the five loaves and the two fish and looking up to heaven, he said the blessing, broke the loaves, and gave them to (his) disciples to set before the people; he also divided the two fish among them all.\nThey all ate and were satisfied.\nAnd they picked up twelve wicker baskets full of fragments and what was left of the fish.\nThose who ate (of the loaves) were five thousand men."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Andre Bessette",
+            "title": "C.S.C. (1845-1937)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/8e48a022-e358-4308-94e6-1f36f20048c8"
+        }
     }
 }
