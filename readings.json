@@ -6960,5 +6960,27 @@
             "title": "The Apologist, Bishop (2nd century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/945974a0-7bf0-419e-831a-935c0d0b92fa"
         }
+    },
+    "2026-01-09": {
+        "liturgical_week": "5th day after Epiphany",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of John5,5-13.",
+                "reading": "Beloved: Who indeed is the victor over the world but the one who believes that Jesus is the Son of God?\nThis is the one who came through water and blood, Jesus Christ, not by water alone, but by water and blood. The Spirit is the one that testifies, and the Spirit is truth.\nSo there are three that testify,\nthe Spirit, the water, and the blood, and the three are of one accord.\nIf we accept human testimony, the testimony of God is surely greater. Now the testimony of God is this, that he has testified on behalf of his Son.\nWhoever believes in the Son of God has this testimony within himself. Whoever does not believe God has made him a liar by not believing the testimony God has given about his Son.\nAnd this is the testimony: God gave us eternal life, and this life is in his Son.\nWhoever possesses the Son has life; whoever does not possess the Son of God does not have life.\nI write these things to you so that you may know that you have eternal life, you who believe in the name of the Son of God."
+            },
+            "Psalm": {
+                "title": "Psalms147,12-13.14-15.19-20.",
+                "reading": "Glorify the LORD, O Jerusalem;praise your God, O Zion.\nFor he has strengthened the bars of your gates;he has blessed your children within you.\nHe has granted peace in your borders;with the best of wheat he fills you.\nHe sends forth his command to the earth;swiftly runs his word!\nHe has proclaimed his word to Jacob,his statutes and his ordinances to Israel.\nHe has not done thus for any other nation;his ordinances he has not made known to them. Alleluia"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke5,12-16.",
+                "reading": "It happened that there was a man full of leprosy in one of the towns where Jesus was; and when he saw Jesus, he fell prostrate, pleaded with him, and said, “Lord, if you wish, you can make me clean.”\nJesus stretched out his hand, touched him, and said, \"I do will it. Be made clean.\" And the leprosy left him immediately.\nThen he ordered him not to tell anyone, but \"Go, show yourself to the priest and offer for your cleansing what Moses prescribed; that will be proof for them.\"\nThe report about him spread all the more, and great crowds assembled to listen to him and to be cured of their ailments,\nbut he would withdraw to deserted places to pray."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Julian and Basilissa",
+            "title": "Martyrs († c. 313)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/71acadc7-ebb2-4b70-aca4-0e00c013c991"
+        }
     }
 }
