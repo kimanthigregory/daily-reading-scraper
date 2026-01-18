@@ -7162,5 +7162,31 @@
             "title": "Archbishop († 429)",
             "profile_link": "https://dailygospel.org/AM/display-saint/7ab913a7-9083-402e-8256-2508d2019f4d"
         }
+    },
+    "2026-01-18": {
+        "liturgical_week": "Second Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah49,3.5-6.",
+                "reading": "The LORD said to me: You are my servant, Israel, through whom I show my glory.\nFor now the LORD has spoken who formed me as his servant from the womb, That Jacob may be brought back to him and Israel gathered to him; And I am made glorious in the sight of the LORD, and my God is now my strength!\nIt is too little, he says, for you to be my servant, to raise up the tribes of Jacob, and restore the survivors of Israel; I will make you a light to the nations, that my salvation may reach to the ends of the earth."
+            },
+            "Psalm": {
+                "title": "Psalms40(39),2.4.7-8.9.10.",
+                "reading": "I have waited, waited for the LORD,and he stooped toward me and heard my cry.\nAnd he put a new song into my mouth,a hymn to our God.Many shall look on in aweand trust in the LORD.\nSacrifice or oblation you wished not,but ears open to obedience you gave me.Burnt offerings or sin-offerings you sought not;\nthen said I, “Behold I come.”\nTo do your will, O my God, is my delight,and your law is within my heart!”\nI announced your justice in the vast assembly;I did not restrain my lips, as you, O LORD, know."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians1,1-3.",
+                "reading": "Paul, called to be an apostle of Christ Jesus by the will of God, and Sosthenes our brother,\nto the church of God that is in Corinth, to you who have been sanctified in Christ Jesus, called to be holy, with all those everywhere who call upon the name of our Lord Jesus Christ, their Lord and ours.\nGrace to you and peace from God our Father and the Lord Jesus Christ."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,29-34.",
+                "reading": "John the Baptist saw Jesus coming toward him and said, \"Behold, the Lamb of God, who takes away the sin of the world.\nHe is the one of whom I said, 'A man is coming after me who ranks ahead of me because he existed before me.'\nI did not know him, but the reason why I came baptizing with water was that he might be made known to Israel.\"\nJohn testified further, saying, \"I saw the Spirit come down like a dove from the sky and remain upon him.\nI did not know him, but the one who sent me to baptize with water told me, 'On whomever you see the Spirit come down and remain, he is the one who will baptize with the holy Spirit.'\nNow I have seen and testified that he is the Son of God.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Jaime Hilario",
+            "title": "Martyr (1898-1937)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/9213503a-f6d8-4039-b722-bb7b59c1739a"
+        }
     }
 }
