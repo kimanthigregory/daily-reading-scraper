@@ -7298,5 +7298,27 @@
             "title": "Religious (1838-1918)",
             "profile_link": "https://dailygospel.org/AM/display-saint/fd62f30e-39a3-440e-bd59-73f9c29d8922"
         }
+    },
+    "2026-01-24": {
+        "liturgical_week": "Saturday of the Second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "2nd book of Samuel1,1-4.11-12.19.23-27.",
+                "reading": "David returned from his defeat of the Amalekites  and spent two days in Ziklag.\nOn the third day a man came from Saul's camp, with his clothes torn and dirt on his head. Going to David, he fell to the ground in homage.\nDavid asked him, \"Where do you come from?\" He replied, \"I have escaped from the Israelite camp.\"\n\"Tell me what happened,\" David bade him. He answered that the soldiers had fled the battle and that many of them had fallen and were dead, among them Saul and his son Jonathan.\nDavid seized his garments and rent them, and all the men who were with him did likewise.\nThey mourned and wept and fasted until evening for Saul and his son Jonathan, and for the soldiers of the LORD of the clans of Israel, because they had fallen by the sword.\n\"Alas! the glory of Israel, Saul, slain upon your heights; how can the warriors have fallen!\nSaul and Jonathan, beloved and cherished, separated neither in life nor in death, swifter than eagles, stronger than lions!\nWomen of Israel, weep over Saul, who clothed you in scarlet and in finery, who decked your attire with ornaments of gold.\n\"How can the warriors have fallen-- in the thick of the battle, slain upon your heights!\n\"I grieve for you, Jonathan my brother! most dear have you been to me; More precious have I held love for you than love for women.\n\"How can the warriors have fallen, the weapons of war have perished!\""
+            },
+            "Psalm": {
+                "title": "Psalms80(79),2-3.5-7.",
+                "reading": "Shepherd of Israel, listen!From your throne upon the cherubim, shine forth\nRouse your power,come to save us.\nLORD of hosts, how long will you burn with angerwhile your people pray?\nYou have fed them the bread of tears,made them drink tears in abundance.\nYou have left us to be fought over by our neighbors;our enemies deride us."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark3,20-21.",
+                "reading": "Jesus came with his disciples into the house. Again the crowd gathered, making it impossible for them even to eat.\nWhen his relatives heard of this they set out to seize him, for they said, \"He is out of his mind.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Francis of Sales",
+            "title": "Doctor of the Church († 1622)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/126d2660-ffe2-4949-8499-314508121333"
+        }
     }
 }
