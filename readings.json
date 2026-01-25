@@ -7320,5 +7320,27 @@
             "title": "Doctor of the Church († 1622)",
             "profile_link": "https://dailygospel.org/AM/display-saint/126d2660-ffe2-4949-8499-314508121333"
         }
+    },
+    "2026-01-25": {
+        "liturgical_week": "Third Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah8,23.9,1-3.",
+                "reading": "First the Lord degraded the land of Zebulun and the land of Naphtali; but in the end he has glorified the seaward road, the land West of the Jordan, the District of the Gentiles. Anguish has taken wing, dispelled is darkness; for there is no gloom where but now there was distress.\nThe people who walked in darkness have seen a great light; Upon those who dwelt in the land of gloom a light has shone.\nYou have brought them abundant joy and great rejoicing, As they rejoice before you as at the harvest, as men make merry when dividing spoils.\nFor the yoke that burdened them, the pole on their shoulder, And the rod of their taskmaster you have smashed, as on the day of Midian."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.4.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nOne thing I ask of the LORDthis I seek:to dwell in the house of the LORDall the days of my life,that I may gaze on the loveliness of the LORDand contemplate his temple.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians1,10-13.17.",
+                "reading": "I urge you, brothers, in the name of our Lord Jesus Christ, that all of you agree in what you say, and that there be no divisions among you, but that you be united in the same mind and in the same purpose.\nFor it has been reported to me about you, my brothers, by Chloe's people, that there are rivalries among you.\nI mean that each of you is saying, \"I belong to Paul,\" or \"I belong to Apollos,\" or \"I belong to Kephas,\" or \"I belong to Christ.\"\nIs Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?\nFor Christ did not send me to baptize but to preach the gospel, and not with the wisdom of human eloquence, so that the cross of Christ might not be emptied of its meaning."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew4,12-23.",
+                "reading": "When Jesus heard that John had been arrested, he withdrew to Galilee.\nHe left Nazareth and went to live in Capernaum by the sea, in the region of Zebulun and Naphtali,\nthat what had been said through Isaiah the prophet might be fulfilled:\nLand of Zebulun and land of Naphtali, the way to the sea, beyond the Jordan, Galilee of the Gentiles,\nthe people who sit in darkness have seen a great light, on those dwelling in a land overshadowed by death light has arisen.\"\nFrom that time on, Jesus began to preach and say, \"Repent, for the kingdom of heaven is at hand.\"\nAs he was walking by the Sea of Galilee, he saw two brothers, Simon who is called Peter, and his brother Andrew, casting a net into the sea; they were fishermen.\nHe said to them, \"Come after me, and I will make you fishers of men.\"\nAt once they left their nets and followed him.\nHe walked along from there and saw two other brothers, James, the son of Zebedee, and his brother John. They were in a boat, with their father Zebedee, mending their nets. He called them,\nand immediately they left their boat and their father and followed him.\nHe went around all of Galilee, teaching in their synagogues, proclaiming the gospel of the kingdom, and curing every disease and illness among the people."
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
