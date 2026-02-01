@@ -7474,5 +7474,31 @@
             "title": "Priest (1815-1888) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/25cefa51-f38c-49dd-a7e8-213ca84d04e2"
         }
+    },
+    "2026-02-01": {
+        "liturgical_week": "Fourth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Zephaniah2,3.3,12-13.",
+                "reading": "Seek the LORD, all you humble of the earth, who have observed his law; Seek justice, seek humility; perhaps you may be sheltered on the day of the LORD'S anger.\nBut I will leave as a remnant in your midst a people humble and lowly, Who shall take refuge in the name of the LORD;\nthe remnant of Israel. They shall do no wrong and speak no lies; Nor shall there be found in their mouths a deceitful tongue; They shall pasture and couch their flocks with none to disturb them."
+            },
+            "Psalm": {
+                "title": "Psalms146(145),7.8-9.10.",
+                "reading": "The LORD keeps faith forever,secures justice for the oppressed,gives food to the hungry.the LORD sets captives free.\nThe LORD gives sight to the blind.The LORD raises up those who were bowed down;the LORD loves the just.\nThe LORD protects strangers.The fatherless and the widow he sustains,but the way of the wicked he thwarts.\nThe LORD shall reign forever;your God, O Zion, through all generations. Alleluia."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians1,26-31.",
+                "reading": "Consider your own calling, brothers. Not many of you were wise by human standards, not many were powerful, not many were of noble birth.\nRather, God chose the foolish of the world to shame the wise, and God chose the weak of the world to shame the strong,\nand God chose the lowly and despised of the world, those who count for nothing, to reduce to nothing those who are something,\nso that no human being might boast before God.\nIt is due to him that you are in Christ Jesus, who became for us wisdom from God, as well as righteousness, sanctification, and redemption,\nso that, as it is written, \"Whoever boasts, should boast in the Lord.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,1-12.",
+                "reading": "When Jesus saw the crowds, he went up the mountain, and after he had sat down, his disciples came to him.\nHe began to teach them, saying:\n\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\nBlessed are they who mourn, for they will be comforted.\nBlessed are the meek, for they will inherit the land.\nBlessed are they who hunger and thirst for righteousness, for they will be satisfied.\nBlessed are the merciful, for they will be shown mercy.\nBlessed are the clean of heart, for they will see God.\nBlessed are the peacemakers, for they will be called children of God.\nBlessed are they who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven.\nBlessed are you when they insult you and persecute you and utter every kind of evil against you (falsely) because of me.\nRejoice and be glad, for your reward will be great in heaven.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bridgid of Ireland",
+            "title": "Foundress († 523)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/47f21c22-d7e7-46ff-a4c6-cf760ed45df7"
+        }
     }
 }
