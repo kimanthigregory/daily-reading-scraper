@@ -7500,5 +7500,27 @@
             "title": "Foundress († 523)",
             "profile_link": "https://dailygospel.org/AM/display-saint/47f21c22-d7e7-46ff-a4c6-cf760ed45df7"
         }
+    },
+    "2026-02-02": {
+        "liturgical_week": "Presentation of the Lord - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Malachi3,1-4.",
+                "reading": "Thus says the Lord God: Lo, I am sending my messenger to prepare the way before me; and suddenly there will come to the temple the Lord whom you seek, and the messenger of the covenant whom you desire. Yes, he is coming, says the Lord of hosts.\nBut who will endure the day of his coming? And who can stand when he appears? For he is like the refiner's fire, or like the fuller's lye.\nHe will sit refining and purifying (silver), and he will purify the sons of Levi, Refining them like gold or like silver that they may offer due sacrifice to the LORD.\nThen the sacrifice of Judah and Jerusalem will please the LORD, as in days of old, as in years gone by."
+            },
+            "Psalm": {
+                "title": "Psalms24(23),7.8.9.10.",
+                "reading": "Lift up, O gates, your lintels;reach up, you ancient portals,that the king of glory may come in!\nWho is this king of glory?The LORD, strong and mighty,the LORD, mighty in battle.\nLift up, O gates, your lintels;reach up, you ancient portals,that the king of glory may come in!\nWho is this king of glory?The LORD of hosts; he is the king of glory."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke2,22-40.",
+                "reading": "When the days were completed for their purification according to the law of Moses, Mary and Joseph took Jesus up to Jerusalem to present him to the Lord,\njust as it is written in the law of the Lord, \"Every male that opens the womb shall be consecrated to the Lord,\"\nand to offer the sacrifice of \"a pair of turtledoves or two young pigeons,\" in accordance with the dictate in the law of the Lord.\nNow there was a man in Jerusalem whose name was Simeon. This man was righteous and devout, awaiting the consolation of Israel, and the holy Spirit was upon him.\nIt had been revealed to him by the holy Spirit that he should not see death before he had seen the Messiah of the Lord.\nHe came in the Spirit into the temple; and when the parents brought in the child Jesus to perform the custom of the law in regard to him,\nhe took him into his arms and blessed God, saying:\nNow, Master, you may let your servant go in peace, according to your word,\nfor my eyes have seen your salvation,\nwhich you prepared in sight of all the peoples,\na light for revelation to the Gentiles, and glory for your people Israel.\"\nThe child's father and mother were amazed at what was said about him;\nand Simeon blessed them and said to Mary his mother, \"Behold, this child is destined for the fall and rise of many in Israel, and to be a sign that will be contradicted\n(and you yourself a sword will pierce) so that the thoughts of many hearts may be revealed.\"\nThere was also a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived seven years with her husband after her marriage,\nand then as a widow until she was eighty-four. She never left the temple, but worshiped night and day with fasting and prayer.\nAnd coming forward at that very time, she gave thanks to God and spoke about the child to all who were awaiting the redemption of Jerusalem.\nWhen they had fulfilled all the prescriptions of the law of the Lord, they returned to Galilee, to their own town of Nazareth.\nThe child grew and became strong, filled with wisdom; and the favor of God was upon him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Theophane Venard",
+            "title": "Priest and Martyr (1829-1861)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/df1307cb-4012-4d4a-94f0-a0c95feb6ebb"
+        }
     }
 }
