@@ -7632,5 +7632,31 @@
             "title": "Foundress (1786-1856)",
             "profile_link": "https://dailygospel.org/AM/display-saint/64570fb7-9916-499a-a982-504ebfc59572"
         }
+    },
+    "2026-02-08": {
+        "liturgical_week": "Fifth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah58,7-10.",
+                "reading": "Thus says the LORD: Share your bread with the hungry, shelter the oppressed and the homeless; clothe the naked when you see them, and do not turn your back on your own.\nThen your light shall break forth like the dawn, and your wound shall quickly be healed; Your vindication shall go before you, and the glory of the LORD shall be your rear guard.\nThen you shall call, and the LORD will answer, you shall cry for help, and he will say: Here I am!\nIf you bestow your bread on the hungry and satisfy the afflicted; Then light shall rise for you in the darkness, and the gloom shall become for you like midday."
+            },
+            "Psalm": {
+                "title": "Psalms112(111),4-5.6-7.8-9.",
+                "reading": "Light shines through the darkness for the upright;he is gracious and merciful and just.\nWell for the man who is gracious and lends,who conducts his affairs with justice;\nHe shall never be moved;the just one shall be in everlasting remembrance.\nAn evil report he shall not fear;His heart is firm, trusting in the LORD.\nHis heart is steadfast; he shall not feartill he looks down upon his foes\nLavishly he gives to the poor,his justice shall endure forever;his horn shall be exalted in glory."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians2,1-5.",
+                "reading": "When I came to you, brothers and sisters, proclaiming the mystery of God, I did not come with sublimity of words or of wisdom.\nFor I resolved to know nothing while I was with you except Jesus Christ, and him crucified.\nI came to you in weakness and fear and much trembling,\nand my message and my proclamation were not with persuasive (words of) wisdom, but with a demonstration of spirit and power,\nso that your faith might rest not on human wisdom but on the power of God."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,13-16.",
+                "reading": "Jesus said to his disciples: \"You are the salt of the earth. But if salt loses its taste, with what can it be seasoned? It is no longer good for anything but to be thrown out and trampled underfoot.\nYou are the light of the world. A city set on a mountain cannot be hidden.\nNor do they light a lamp and then put it under a bushel basket; it is set on a lampstand, where it gives light to all in the house.\nJust so, your light must shine before others, that they may see your good deeds and glorify your heavenly Father.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Josephine Bakhita",
+            "title": "Religious (1869-1947)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4451a401-cbcb-4407-8272-b64a59ae0d88"
+        }
     }
 }
