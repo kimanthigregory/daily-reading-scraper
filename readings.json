@@ -7658,5 +7658,27 @@
             "title": "Religious (1869-1947)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4451a401-cbcb-4407-8272-b64a59ae0d88"
         }
+    },
+    "2026-02-09": {
+        "liturgical_week": "Monday of the Fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "1st book of Kings8,1-7.9-13.",
+                "reading": "The elders of Israel and all the leaders of the tribes, the princes in the ancestral houses of the children of Israel, came to King Solomon in Jerusalem, to bring up the ark of the LORD's covenant from the City of David, which is Zion.\nAll the men of Israel assembled before King Solomon during the festival in the month of Ethanim (the seventh month).\nWhen all the elders of Israel had arrived, the priests took up the ark;\nthey carried the ark of the LORD and the meeting tent with all the sacred vessels that were in the tent. (The priests and Levites carried them.)\nKing Solomon and the entire community of Israel present for the occasion sacrificed before the ark sheep and oxen too many to number or count.\nThe priests brought the ark of the covenant of the LORD to its place beneath the wings of the cherubim in the sanctuary, the holy of holies of the temple.\nThe cherubim had their wings spread out over the place of the ark, sheltering the ark and its poles from above.\nThere was nothing in the ark but the two stone tablets which Moses had put there at Horeb, when the LORD made a covenant with the Israelites at their departure from the land of Egypt.\nWhen the priests left the holy place, the cloud filled the temple of the LORD\nso that the priests could no longer minister because of the cloud, since the LORD'S glory had filled the temple of the LORD.\nThen Solomon said, \"The LORD intends to dwell in the dark cloud;\nI have truly built you a princely house, a dwelling where you may abide forever.\""
+            },
+            "Psalm": {
+                "title": "Psalms132(131),6-7.8-10.",
+                "reading": "\"Behold, we have heard of it in Ephrathah;we have found it in the fields of Jaar.\nLet us enter God's dwelling;let us worship at God's footstool.\"\n\"Arise, LORD, come to your resting place,you and your majestic ark.\nYour priests will be clothed with justice;your faithful will shout for joy.\"\nFor the sake of David your servant,do not reject your anointed."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark6,53-56.",
+                "reading": "After making the crossing to the other side of the sea, Jesus and his disciples came to land at Gennesaret and tied up there.\nAs they were leaving the boat, people immediately recognized him.\nThey scurried about the surrounding country and began to bring in the sick on mats to wherever they heard he was.\nWhatever villages or towns or countryside he entered, they laid the sick in the marketplaces and begged him that they might touch only the tassel on his cloak; and as many as touched it were healed."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Apollonia",
+            "title": "Virgin and Martyr († 249)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/74078543-3dd4-40bc-8f6b-3f212c6c3c25"
+        }
     }
 }
