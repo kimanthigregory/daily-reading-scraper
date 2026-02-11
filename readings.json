@@ -7702,5 +7702,27 @@
             "title": "Abbess (+ c. 543)",
             "profile_link": "https://dailygospel.org/AM/display-saint/98923449-80f0-44b8-a1df-0da450c895f1"
         }
+    },
+    "2026-02-11": {
+        "liturgical_week": "Wednesday of the Fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "1st book of Kings10,1-10.",
+                "reading": "The queen of Sheba, having heard of Solomon's fame, came to test him with subtle questions.\nShe arrived in Jerusalem with a very numerous retinue, and with camels bearing spices, a large amount of gold, and precious stones. She came to Solomon and questioned him on every subject in which she was interested.\nKing Solomon explained everything she asked about, and there remained nothing hidden from him that he could not explain to her.\nWhen the queen of Sheba witnessed Solomon's great wisdom, the palace he had built,\nthe food at his table, the seating of his ministers, the attendance and garb of his waiters, his banquet service, and the holocausts he offered in the temple of the LORD, she was breathless.\n\"The report I heard in my country about your deeds and your wisdom is true,\" she told the king.\n\"Though I did not believe the report until I came and saw with my own eyes, I have discovered that they were not telling me the half. Your wisdom and prosperity surpass the report I heard.\nHappy are your men, happy these servants of yours, who stand before you always and listen to your wisdom.\nBlessed be the LORD, your God, whom it has pleased to place you on the throne of Israel. In his enduring love for Israel, the LORD has made you king to carry out judgment and justice.\"\nThen she gave the king one hundred and twenty gold talents, a very large quantity of spices, and precious stones. Never again did anyone bring such an abundance of spices as the queen of Sheba gave to King Solomon."
+            },
+            "Psalm": {
+                "title": "Psalms37(36),5-6.30-31.39-40.",
+                "reading": "Commit to the LORD your way;trust in him, and he will act.\nHe will make justice dawn for you like the light;bright as the noonday shall be your vindication.\nThe mouths of the just utter wisdom;their tongues speak what is right.\nGod's teaching is in their hearts;their steps do not falter.\nThe salvation of the just is from the LORD;He is their refuge in time of distress.\nThe LORD helps them and delivers them;He delivers them from the wicked and saves them,because they take refuge in him."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark7,14-23.",
+                "reading": "Jesus summoned the crowd again and said to them, \"Hear me, all of you, and understand.\nNothing that enters one from outside can defile that person; but the things that come out from within are what defile.\"\nWhen he got home away from the crowd his disciples questioned him about the parable.\nHe said to them, \"Are even you likewise without understanding? Do you not realize that everything that goes into a person from outside cannot defile,\nsince it enters not the heart but the stomach and passes out into the latrine?\" (Thus he declared all foods clean.)\nBut what comes out of a person, that is what defiles.\nFrom within people, from their hearts, come evil thoughts, unchastity, theft, murder,\nadultery, greed, malice, deceit, licentiousness, envy, blasphemy, arrogance, folly.\nAll these evils come from within and they defile.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Severinus of Agaunum",
+            "title": "Abbot (+ 507)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2d21edfa-6cb4-4720-9a36-adeba2193742"
+        }
     }
 }
