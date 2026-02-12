@@ -7724,5 +7724,27 @@
             "title": "Abbot (+ 507)",
             "profile_link": "https://dailygospel.org/AM/display-saint/2d21edfa-6cb4-4720-9a36-adeba2193742"
         }
+    },
+    "2026-02-12": {
+        "liturgical_week": "Thursday of the Fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "1st book of Kings11,4-13.",
+                "reading": "When Solomon was old his wives had turned his heart to strange gods, and his heart was not entirely with the LORD, his God, as the heart of his father David had been.\nBy adoring Astarte, the goddess of the Sidonians, and Milcom, the idol of the Ammonites,\nSolomon did evil in the sight of the LORD; he did not follow him unreservedly as his father David had done.\nSolomon then built a high place to Chemosh, the idol of Moab, and to Molech, the idol of the Ammonites, on the hill opposite Jerusalem.\nHe did the same for all his foreign wives who burned incense and sacrificed to their gods.\nThe LORD, therefore, became angry with Solomon, because his heart was turned away from the LORD, the God of Israel, who had appeared to him twice\n(for though the LORD had forbidden him this very act of following strange gods, Solomon had not obeyed him).\nSo the LORD said to Solomon: \"Since this is what you want, and you have not kept my covenant and my statutes which I enjoined on you, I will deprive you of the kingdom and give it to your servant.\nI will not do this during your lifetime, however, for the sake of your father David; it is your son whom I will deprive.\nNor will I take away the whole kingdom. I will leave your son one tribe for the sake of my servant David and of Jerusalem, which I have chosen.\""
+            },
+            "Psalm": {
+                "title": "Psalms106(105),3-4.35-36.37.40.",
+                "reading": "Blessed are they who observe what is right,who do always what is just.\nRemember me, LORD, as you favor your people;come to me with your saving help.\nBut mingled with the nationsand learned their works.\nThey served their idols,which became a snare for them.\nThey sacrificed their sonsand their daughters to demons.\nAnd the LORD grew angry with his people,and abhorred his inheritance."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark7,24-30.",
+                "reading": "Jesus went to the district of Tyre. He entered a house and wanted no one to know about it, but he could not escape notice.\nSoon a woman whose daughter had an unclean spirit heard about him. She came and fell at his feet.\nThe woman was a Greek, a Syrophoenician by birth, and she begged him to drive the demon out of her daughter.\nHe said to her, \"Let the children be fed first. For it is not right to take the food of the children and throw it to the dogs.\"\nShe replied and said to him, \"Lord, even the dogs under the table eat the children's scraps.\"\nThen he said to her, \"For saying this, you may go. The demon has gone out of your daughter.\"\nWhen the woman went home, she found the child lying in bed and the demon gone."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Martyrs of Abitene",
+            "title": "(+304)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0f6e96c0-dd44-4b39-8fcd-6c066893200c"
+        }
     }
 }
