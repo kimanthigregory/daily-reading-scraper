@@ -7746,5 +7746,27 @@
             "title": "(+304)",
             "profile_link": "https://dailygospel.org/AM/display-saint/0f6e96c0-dd44-4b39-8fcd-6c066893200c"
         }
+    },
+    "2026-02-13": {
+        "liturgical_week": "Friday of the Fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "1st book of Kings11,29-32.12,19.",
+                "reading": "At that time Jeroboam left Jerusalem, and the prophet Ahijah the Shilonite met him on the road. The two were alone in the area, and the prophet was wearing a new cloak.\nAhijah took off his new cloak, tore it into twelve pieces,\nand said to Jeroboam: \"Take ten pieces for yourself; the LORD, the God of Israel, says: 'I will tear away the kingdom from Solomon's grasp and will give you ten of the tribes.\nOne tribe shall remain to him for the sake of David my servant, and of Jerusalem, the city I have chosen out of all the tribes of Israel.\nand Israel went into rebellion against David's house to this day."
+            },
+            "Psalm": {
+                "title": "Psalms81(80),10-11ab.12-13.14-15.",
+                "reading": "\"There shall be no strange god among younor shall you worship any alien god.\nI, the LORD, am your God\nwho led you forth from the land of Egypt.\"\nBut my people did not listen to my words;Israel did not obey me.\nSo I gave them up to the hardness of their hearts;they walked according to their own counsels.\"\n\"If only my people would hear me,and Israel walk in my ways,\nQuickly would I humble their enemies;against their foes I would turn my hand.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark7,31-37.",
+                "reading": "Jesus left the district of Tyre and went by way of Sidon to the Sea of Galilee, into the district of the Decapolis.\nAnd people brought to him a deaf man who had a speech impediment and begged him to lay his hand on him.\nHe took him off by himself away from the crowd. He put his finger into the man's ears and, spitting, touched his tongue;\nthen he looked up to heaven and groaned, and said to him, \"Ephphatha!\" (that is, \"Be opened!\")\nAnd (immediately) the man's ears were opened, his speech impediment was removed, and he spoke plainly.\nHe ordered them not to tell anyone. But the more he ordered them not to, the more they proclaimed it.\nThey were exceedingly astonished and they said, \"He has done all things well. He makes the deaf hear and (the) mute speak.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Jordan of Saxony",
+            "title": "Dominican Priest (c. 1190-1237)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e247ceda-ecc7-4066-a2e9-dfc297ee559a"
+        }
     }
 }
