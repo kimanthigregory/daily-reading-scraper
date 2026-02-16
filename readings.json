@@ -7816,5 +7816,27 @@
             "title": "Martyrs († c. 121)",
             "profile_link": "https://dailygospel.org/AM/display-saint/f8c49b68-ed00-41c9-986d-3caf68cc1f00"
         }
+    },
+    "2026-02-16": {
+        "liturgical_week": "Monday of the Sixth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter of James1,1-11.",
+                "reading": "James, a slave of God and of the Lord Jesus Christ, to the twelve tribes in the dispersion, greetings.\nConsider it all joy, my brothers, when you encounter various trials,\nfor you know that the testing of your faith produces perseverance.\nAnd let perseverance be perfect, so that you may be perfect and complete, lacking in nothing.\nBut if any of you lacks wisdom, he should ask God who gives to all generously and ungrudgingly, and he will be given it.\nBut he should ask in faith, not doubting, for the one who doubts is like a wave of the sea that is driven and tossed about by the wind.\nFor that person must not suppose that he will receive anything from the Lord,\nsince he is a man of two minds, unstable in all his ways.\nThe brother in lowly circumstances should take pride in his high standing,\nand the rich one in his lowliness, for he will pass away \"like the flower of the field.\"\nFor the sun comes up with its scorching heat and dries up the grass, its flower droops, and the beauty of its appearance vanishes. So will the rich person fade away in the midst of his pursuits."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),67.68.71.72.75.76.",
+                "reading": "Before I was afflicted I went astray,but now I hold to your promise.\nYou are good and bountiful;teach me your statutes.\nIt is good for me that I have been afflicted,that I may learn your statutes.\nThe law of your mouth is to me more preciousthan thousands of gold and silver pieces.\nI know, O LORD, that your ordinances are just,and in your faithfulness you have afflicted me.\nLet your kindness comfort mein accord with your promise to your servant."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark8,11-13.",
+                "reading": "The Pharisees came forward and began to argue with Jesus, seeking from him a sign from heaven to test him.\nHe sighed from the depth of his spirit and said, \"Why does this generation seek a sign? Amen, I say to you, no sign will be given to this generation.\"\nThen he left them, got into the boat again, and went off to the other shore."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Onesimus",
+            "title": "Disciple of St. Paul",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2c5b6aa8-d520-4048-81dd-d56c5d525704"
+        }
     }
 }
