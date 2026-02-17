@@ -7838,5 +7838,27 @@
             "title": "Disciple of St. Paul",
             "profile_link": "https://dailygospel.org/AM/display-saint/2c5b6aa8-d520-4048-81dd-d56c5d525704"
         }
+    },
+    "2026-02-17": {
+        "liturgical_week": "Tuesday of the Sixth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter of James1,12-18.",
+                "reading": "Blessed is the man who perseveres in temptation, for when he has been proved he will receive the crown of life that he promised to those who love him.\nNo one experiencing temptation should say, \"I am being tempted by God\"; for God is not subject to temptation to evil, and he himself tempts no one.\nRather, each person is tempted when he is lured and enticed by his own desire.\nThen desire conceives and brings forth sin, and when sin reaches maturity it gives birth to death.\nDo not be deceived, my beloved brothers:\nall good giving and every perfect gift is from above, coming down from the Father of lights, with whom there is no alteration or shadow caused by change.\nHe willed to give us birth by the word of truth that we may be a kind of firstfruits of his creatures."
+            },
+            "Psalm": {
+                "title": "Psalms94(93),12-13a.14-15.18-19.",
+                "reading": "Blessed the man you instruct, O LORD,whom by your law you teach.\nYou give them rest from evil days.\nFor the LORD will not cast off his people,nor abandon his inheritance;\nbut judgment shall again be with justice,and all the upright of heart shall follow it.\nWhen I say, \"My foot is slipping,\"your love, O LORD, sustains me.\nWhen cares increase within me,your comfort gives me joy."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark8,14-21.",
+                "reading": "The disciples had forgotten to bring bread, and they had only one loaf with them in the boat.\nHe enjoined them, \"Watch out, guard against the leaven of the Pharisees and the leaven of Herod.\"\nThey concluded among themselves that it was because they had no bread.\nWhen he became aware of this he said to them, \"Why do you conclude that it is because you have no bread? Do you not yet understand or comprehend? Are your hearts hardened?\nDo you have eyes and not see, ears and not hear? And do you not remember,\nwhen I broke the five loaves for the five thousand, how many wicker baskets full of fragments you picked up?\" They answered him, \"Twelve.\"\nWhen I broke the seven loaves for the four thousand, how many full baskets of fragments did you pick up? They answered (him), \"Seven.\"\nHe said to them, \"Do you still not understand?\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Seven Founders of the Servite Order",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0da2bba6-c6c9-49e3-8c5c-eb2afce2e212"
+        }
     }
 }
