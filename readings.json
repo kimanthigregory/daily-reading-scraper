@@ -7860,5 +7860,31 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/0da2bba6-c6c9-49e3-8c5c-eb2afce2e212"
         }
+    },
+    "2026-02-18": {
+        "liturgical_week": "Ash Wednesday",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Joel2,12-18.",
+                "reading": "Even now, says the LORD, return to me with your whole heart, with fasting, and weeping, and mourning;\nRend your hearts, not your garments, and return to the LORD, your God. For gracious and merciful is he, slow to anger, rich in kindness, and relenting in punishment.\nPerhaps he will again relent and leave behind him a blessing, Offerings and libations for the LORD, your God.\nBlow the trumpet in Zion! proclaim a fast, call an assembly;\nGather the people, notify the congregation; Assemble the elders, gather the children and the infants at the breast; Let the bridegroom quit his room, and the bride her chamber.\nBetween the porch and the altar let the priests, the ministers of the LORD, weep, And say, \"Spare, O LORD, your people, and make not your heritage a reproach, with the nations ruling over them! Why should they say among the peoples, 'Where is their God?'\"\nThen the LORD was stirred to concern for his land and took pity on his people."
+            },
+            "Psalm": {
+                "title": "Psalms51(50),3-4.5-6ab.12-13.14.17.",
+                "reading": "Have mercy on me, O God, in your goodness;in the greatness of your compassion wipe out my offense.\nThoroughly wash me from my guiltand of my sin cleanse me.\nFor I acknowledge my offense,and my sin is before me always:\n\"Against you only have I sinned,\nand done what is evil in your sight.\"\nA clean heart create for me, O God,and a steadfast spirit renew within me.\nCast me not out from your presence,and your Holy Spirit take not from me.\nGive me back the joy of your salvation,and a willing spirit sustain in me.\nO Lord, open my lips,and my mouth shall proclaim your praise."
+            },
+            "Second_Reading": {
+                "title": "Second Letter to the Corinthians5,20-21.6,1-2.",
+                "reading": "Brothers and sisters: We are ambassadors for Christ, as if God were appealing through us. We implore you on behalf of Christ, be reconciled to God.\nFor our sake he made him to be sin who did not know sin, so that we might become the righteousness of God in him.\nWorking together, then, we appeal to you not to receive the grace of God in vain.\nFor he says: \"In an acceptable time I heard you, and on the day of salvation I helped you.\" Behold, now is a very acceptable time; behold, now is the day of salvation."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew6,1-6.16-18.",
+                "reading": "Jesus said to his disciples: \"Take care not to perform righteous deeds in order that people may see them; otherwise, you will have no recompense from your heavenly Father.\nWhen you give alms, do not blow a trumpet before you, as the hypocrites do in the synagogues and in the streets to win the praise of others. Amen, I say to you, they have received their reward.\nBut when you give alms, do not let your left hand know what your right is doing,\nso that your almsgiving may be secret. And your Father who sees in secret will repay you.\nWhen you pray, do not be like the hypocrites, who love to stand and pray in the synagogues and on street corners so that others may see them. Amen, I say to you, they have received their reward.\nBut when you pray, go to your inner room, close the door, and pray to your Father in secret. And your Father who sees in secret will repay you.\nWhen you fast, do not look gloomy like the hypocrites. They neglect their appearance, so that they may appear to others to be fasting. Amen, I say to you, they have received their reward.\nBut when you fast, anoint your head and wash your face,\nso that you may not appear to be fasting, except to your Father who is hidden. And your Father who sees what is hidden will repay you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Flavian",
+            "title": "Bishop and Martyr († 449)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/25cfeaa2-ffb6-485d-82ca-dd685644942b"
+        }
     }
 }
