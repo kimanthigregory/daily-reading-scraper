@@ -7886,5 +7886,27 @@
             "title": "Bishop and Martyr († 449)",
             "profile_link": "https://dailygospel.org/AM/display-saint/25cfeaa2-ffb6-485d-82ca-dd685644942b"
         }
+    },
+    "2026-02-19": {
+        "liturgical_week": "Thursday after Ash Wednesday",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Deuteronomy30,15-20.",
+                "reading": "Moses said to the people: \"Today I have set before you life and prosperity, death and doom.\nIf you obey the commandments of the LORD, your God, which I enjoin on you today, loving him, and walking in his ways, and keeping his commandments, statutes and decrees, you will live and grow numerous, and the LORD, your God, will bless you in the land you are entering to occupy.\nIf, however, you turn away your hearts and will not listen, but are led astray and adore and serve other gods,\nI tell you now that you will certainly perish; you will not have a long life on the land which you are crossing the Jordan to enter and occupy.\nI call heaven and earth today to witness against you: I have set before you life and death, the blessing and the curse. Choose life, then, that you and your descendants may live,\nby loving the LORD, your God, heeding his voice, and holding fast to him. For that will mean life for you, a long life for you to live on the land which the LORD swore he would give to your fathers Abraham, Isaac and Jacob.\""
+            },
+            "Psalm": {
+                "title": "Psalms1,1-2.3.4.6.",
+                "reading": "Blessed the man who follows notthe counsel of the wickedNor walks in the way of sinners,nor sits in the company of the insolent,\nBut delights in the law of the LORDand meditates on his law day and night.\nHe is like a treeplanted near running water,that yields its fruit in due season,and whose leaves never fade.Whatever he does, prospers.\nNot so, the wicked, not so;they are like chaff which the wind drives away.\nFor the LORD watches over the way of the just,but the way of the wicked vanishes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,22-25.",
+                "reading": "Jesus said to his disciples: \"The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\"\nThen he said to all, \"If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me.\nFor whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it.\nWhat profit is there for one to gain the whole world yet lose or forfeit himself?\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Barbatus",
+            "title": "Bishop († 682)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/56ce928b-d857-4277-bb29-b62c279a79c1"
+        }
     }
 }
