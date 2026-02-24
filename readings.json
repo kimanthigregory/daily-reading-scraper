@@ -8000,5 +8000,27 @@
             "title": "Bishop and Martyr († 167)",
             "profile_link": "https://dailygospel.org/AM/display-saint/d73fb9d2-34dd-4284-9515-2320fab9828e"
         }
+    },
+    "2026-02-24": {
+        "liturgical_week": "Tuesday of the First week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah55,10-11.",
+                "reading": "Thus says the LORD: Just as from the heavens the rain and snow come down and do not return there till they have watered the earth, making it fertile and fruitful, giving seed to the one who sows and bread to the one who eats,\nSo shall my word be that goes forth from my mouth; It shall not return to me void, but shall do my will, achieving the end for which I sent it."
+            },
+            "Psalm": {
+                "title": "Psalms34(33),4-5.6-7.16-17.18-19.",
+                "reading": "Glorify the LORD with me,let us together extol his name.\nI sought the LORD, and he answered meand delivered me from all my fears.\nLook to him that you may be radiant with joy,and your faces may not blush with shame.\nWhen the poor one called out, the LORD heard,and from all his distress he saved him.\nThe LORD has eyes for the just,And ears for their cry.\nThe LORD confronts the evildoers,to destroy remembrance of them from the earth.\nWhen the just cry out, the LORD hears them,and from all their distress he rescues them.\nThe LORD is close to the brokenhearted;and those who are crushed in spirit he saves."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew6,7-15.",
+                "reading": "Jesus said to his disciples:\"In praying, do not babble like the pagans, who think that they will be heard because of their many words.\nDo not be like them. Your Father knows what you need before you ask him.\nThis is how you are to pray: Our Father in heaven, hallowed be your name,\nyour kingdom come, your will be done, on earth as in heaven.\nGive us today our daily bread;\nand forgive us our debts, as we forgive our debtors;\nand do not subject us to the final test, but deliver us from the evil one.\nIf you forgive others their transgressions, your heavenly Father will forgive you.\nBut if you do not forgive others, neither will your Father forgive your transgressions.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Bl. Tommaso (Thomas) Maria Fusco",
+            "title": "Founder (1831-1891)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/76f8f9d7-537d-4daf-85a3-384a6aff1c47"
+        }
     }
 }
