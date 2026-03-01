@@ -8110,5 +8110,31 @@
             "title": "Priest (1876-1936)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b4cf35a9-8962-4dee-8d7d-b903ef749215"
         }
+    },
+    "2026-03-01": {
+        "liturgical_week": "Second Sunday of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Genesis12,1-4a.",
+                "reading": "The LORD said to Abram: \"Go forth from the land of your kinsfolk and from your father's house to a land that I will show you.\nI will make of you a great nation, and I will bless you; I will make your name great, so that you will be a blessing.\nI will bless those who bless you and curse those who curse you. All the communities of the earth shall find blessing in you.\"\nAbram went as the LORD directed him, and Lot went with him. Abram was seventy-five years old when he left Haran."
+            },
+            "Psalm": {
+                "title": "Psalms33(32),4-5.18-19.20.22.",
+                "reading": "Upright is the word of the LORD,and all his works are trustworthy.\nHe loves justice and right;of the kindness of the LORD the earth is full.\nSee, the eyes of the LORD are upon those who fear him,upon those who hope for his kindness,\nTo deliver them from deathand preserve them in spite of famine.\nOur soul waits for the LORD,who is our help and our shield,\nMay your kindness, O LORD, be upon uswho have put our hope in you."
+            },
+            "Second_Reading": {
+                "title": "Second Letter to Timothy1,8b-10.",
+                "reading": "Beloved: So do not be ashamed of your testimony to our Lord, nor of me, a prisoner for his sake; but bear your share of hardship for the gospel with the strength that comes from God.\nHe saved us and called us to a holy life, not according to our works but according to his own design and the grace bestowed on us in Christ Jesus before time began,\nbut now made manifest through the appearance of our savior Christ Jesus, who destroyed death and brought life and immortality to light through the gospel,"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew17,1-9.",
+                "reading": "Jesus took Peter, James, and John his brother,  and led them up a high mountain by themselves.\nAnd he was transfigured before them; his face shone like the sun and his clothes became white as light.\nAnd behold, Moses and Elijah appeared to them, conversing with him.\nThen Peter said to Jesus in reply, \"Lord, it is good that we are here. If you wish, I will make three tents here, one for you, one for Moses, and one for Elijah.\"\nWhile he was still speaking, behold, a bright cloud cast a shadow over them, then from the cloud came a voice that said, \"This is my beloved Son, with whom I am well pleased; listen to him.\"\nWhen the disciples heard this, they fell prostrate and were very much afraid.\nBut Jesus came and touched them, saying, \"Rise, and do not be afraid.\"\nAnd when the disciples raised their eyes, they saw no one else but Jesus alone.\nAs they were coming down from the mountain, Jesus charged them, \"Do not tell the vision to anyone until the Son of Man has been raised from the dead.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Albinus",
+            "title": "Bishop († 550)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/28208b87-9e4c-429c-aab9-b77f33b1d329"
+        }
     }
 }
