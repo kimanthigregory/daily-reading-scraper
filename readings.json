@@ -8180,5 +8180,27 @@
             "title": "Religious (1858-1955)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8ea31d32-759e-41f8-900d-bec84fe39694"
         }
+    },
+    "2026-03-04": {
+        "liturgical_week": "Wednesday of the Second week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah18,18-20.",
+                "reading": "The people of Judah and the citizens of Jerusalem said, \"Come, let us contrive a plot against Jeremiah. It will not mean the loss of instruction from the priests, nor of counsel from the wise, nor of messages from the prophets. And so, let us destroy him by his own tongue; let us carefully note his every word.\"\nHeed me, O LORD, and listen to what my adversaries say.\nMust good be repaid with evil that they should dig a pit to take my life? Remember that I stood before you to speak in their behalf, to turn away your wrath from them."
+            },
+            "Psalm": {
+                "title": "Psalms31(30),5-6.14.15-16.",
+                "reading": "You will free me from the snare they set for me,for you are my refuge.\nInto your hands I commend my spirit;You will redeem me, O LORD, O faithful God.\nI hear the whispers of the crowd, that frighten me from every side,as they consult together against me, plotting to take my life.\nBut my trust is in you, O LORD;I say, \"You are my God.\nIn your hands is my destiny; rescue mefrom the clutches of my enemies and my persecutors.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew20,17-28.",
+                "reading": "As Jesus was going up to Jerusalem, he took the Twelve disciples aside by themselves, and said to them on the way,\nBehold, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and the scribes, and they will condemn him to death,\nand hand him over to the Gentiles to be mocked and scourged and crucified, and he will be raised on the third day.\"\nThen the mother of the sons of Zebedee approached him with her sons and did him homage, wishing to ask him for something.\nHe said to her, \"What do you wish?\" She answered him, \"Command that these two sons of mine sit, one at your right and the other at your left, in your kingdom.\"\nJesus said in reply, \"You do not know what you are asking. Can you drink the cup that I am going to drink?\" They said to him, \"We can.\"\nHe replied, \"My cup you will indeed drink, but to sit at my right and at my left, this is not mine to give but is for those for whom it has been prepared by my Father.\"\nWhen the ten heard this, they became indignant at the two brothers.\nBut Jesus summoned them and said, \"You know that the rulers of the Gentiles lord it over them, and the great ones make their authority over them felt.\nBut it shall not be so among you. Rather, whoever wishes to be great among you shall be your servant;\nwhoever wishes to be first among you shall be your slave.\nJust so, the Son of Man did not come to be served but to serve and to give his life as a ransom for many.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Casimir",
+            "title": "Prince (1458-1484) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ab17df71-8781-41f8-a481-430a308fb11b"
+        }
     }
 }
