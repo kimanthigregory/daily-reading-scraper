@@ -8316,5 +8316,27 @@
             "title": "Religious (1384-1440)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ba398317-ea2c-48db-a2c5-f320bf35cc54"
         }
+    },
+    "2026-03-10": {
+        "liturgical_week": "Tuesday of the Third week of Lent",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Daniel3,25.34-43.",
+                "reading": "Azariah stood up in the fire and prayed aloud:\n\"For your name's sake, do not deliver us up forever, or make void your covenant.\nDo not take away your mercy from us, for the sake of Abraham, your beloved, Isaac your servant, and Israel your holy one,\nTo whom you promised to multiply their offspring like the stars of heaven, or the sand on the shore of the sea.\nFor we are reduced, O Lord, beyond any other nation, brought low everywhere in the world this day because of our sins.\nWe have in our day no prince, prophet, or leader, no holocaust, sacrifice, oblation, or incense, no place to offer first fruits, to find favor with you.\nBut with contrite heart and humble spirit let us be received;\nAs though it were holocausts of rams and bullocks, or thousands of fat lambs, So let our sacrifice be in your presence today as we follow you unreservedly; for those who trust in you cannot be put to shame.\nAnd now we follow you with our whole heart, we fear you and we pray to you.\nDo not let us be put to shame, but deal with us in your kindness and great mercy.\nDeliver us by your wonders, and bring glory to your name, O Lord\""
+            },
+            "Psalm": {
+                "title": "Psalms25(24),4bc-5ab.6-7bc.8-9.",
+                "reading": "Your ways, O LORD, make known to me;\nteach me your paths,\nguide me in your truth and teach me,\nfor you are God my savior.\nRemember that your compassion, O LORD,and your love are from of old.\nIn your kindness remember me,\nbecause of your goodness, O LORD.\nGood and upright is the LORD;thus he shows sinners the way.\nHe guides the humble to justice,he teaches the humble his way."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew18,21-35.",
+                "reading": "Peter approached Jesus and asked him, \"Lord, if my brother sins against me, how often must I forgive him? As many as seven times?\"\nJesus answered, \"I say to you, not seven times but seventy-seven times.\nThat is why the kingdom of heaven may be likened to a king who decided to settle accounts with his servants.\nWhen he began the accounting, a debtor was brought before him who owed him a huge amount.\nSince he had no way of paying it back, his master ordered him to be sold, along with his wife, his children, and all his property, in payment of the debt.\nAt that, the servant fell down, did him homage, and said, 'Be patient with me, and I will pay you back in full.'\nMoved with compassion the master of that servant let him go and forgave him the loan.\nWhen that servant had left, he found one of his fellow servants who owed him a much smaller amount. He seized him and started to choke him, demanding, 'Pay back what you owe.'\nFalling to his knees, his fellow servant begged him, 'Be patient with me, and I will pay you back.'\nBut he refused. Instead, he had him put in prison until he paid back the debt.\nNow when his fellow servants saw what had happened, they were deeply disturbed, and went to their master and reported the whole affair.\nHis master summoned him and said to him, 'You wicked servant! I forgave you your entire debt because you begged me to.\nShould you not have had pity on your fellow servant, as I had pity on you?'\nThen in anger his master handed him over to the torturers until he should pay back the whole debt.\nSo will my heavenly Father do to you, unless each of you forgives his brother from his heart.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Marie Eugenie of Jesus",
+            "title": "Foundress (1817-1898)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0a0b31d1-0940-45a3-ad4d-9fb2af7065e5"
+        }
     }
 }
