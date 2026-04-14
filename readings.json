@@ -9126,5 +9126,27 @@
             "title": "Martyr († 586)",
             "profile_link": "https://dailygospel.org/AM/display-saint/92c08169-6e51-433c-aa9c-f9fa46d2511d"
         }
+    },
+    "2026-04-14": {
+        "liturgical_week": "Tuesday of the Second week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles4,32-37.",
+                "reading": "The community of believers was of one heart and mind,  and no one claimed that any of his possessions was his own,  but they had everything in common.\nWith great power the apostles bore witness to the resurrection of the Lord Jesus, and great favor was accorded them all.\nThere was no needy person among them, for those who owned property or houses would sell them, bring the proceeds of the sale,\nand put them at the feet of the apostles, and they were distributed to each according to need.\nThus Joseph, also named by the apostles Barnabas (which is translated \"son of encouragement\"), a Levite, a Cypriot by birth,\nsold a piece of property that he owned, then brought the money and put it at the feet of the apostles."
+            },
+            "Psalm": {
+                "title": "Psalms93(92),1ab.1c-2.5.",
+                "reading": "The LORD is king, in splendor robed;\nrobed is the LORD and girt about with strength.\nAnd he has made the world firm,\nyour throne stands firm from of old;from everlasting you are, O LORD.\nYour decrees are worthy of trust indeed:holiness befits your house,O LORD, for length of days."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John3,7b-15.",
+                "reading": "Jesus said to Nicodemus: “'You must be born from above.'\nThe wind blows where it wills, and you can hear the sound it makes, but you do not know where it comes from or where it goes; so it is with everyone who is born of the Spirit.\"\nNicodemus answered and said to him, \"How can this happen?\"\nJesus answered and said to him, \"You are the teacher of Israel and you do not understand this?\nAmen, amen, I say to you, we speak of what we know and we testify to what we have seen, but you people do not accept our testimony.\nIf I tell you about earthly things and you do not believe, how will you believe if I tell you about heavenly things?\nNo one has gone up to heaven except the one who has come down from heaven, the Son of Man.\nAnd just as Moses lifted up the serpent in the desert, so must the Son of Man be lifted up,\nso that everyone who believes in him may have eternal life.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Peter Gonzales",
+            "title": "Dominican Priest (1190-1246)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/874a79ac-d0b6-4ec9-a2d6-031ad26fa46d"
+        }
     }
 }
