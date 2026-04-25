@@ -9376,5 +9376,27 @@
             "title": "Priest († 1914)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6e4d1a7c-23d1-4b83-a4a7-3fa7cb4ee562"
         }
+    },
+    "2026-04-25": {
+        "liturgical_week": "Saint Mark, evangelist - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of Peter5,5b-14.",
+                "reading": "Beloved:  Clothe yourselves with humility in your dealings with one another, for:  God opposes the proud but bestows favor on the humble.\nSo humble yourselves under the mighty hand of God, that he may exalt you in due time.\nCast all your worries upon him because he cares for you.\nBe sober and vigilant. Your opponent the devil is prowling around like a roaring lion looking for (someone) to devour.\nResist him, steadfast in faith, knowing that your fellow believers throughout the world undergo the same sufferings.\nThe God of all grace who called you to his eternal glory through Christ (Jesus) will himself restore, confirm, strengthen, and establish you after you have suffered a little.\nTo him be dominion forever. Amen.\nI write you this briefly through Silvanus, whom I consider a faithful brother, exhorting you and testifying that this is the true grace of God. Remain firm in it.\nThe chosen one at Babylon sends you greeting, as does Mark, my son.\nGreet one another with a loving kiss. Peace to all of you who are in Christ."
+            },
+            "Psalm": {
+                "title": "Psalms89(88),2-3.6-7.16-17.",
+                "reading": "The favors of the LORD I will sing forever;through all generations my mouth shall proclaim your faithfulness.\nFor you have said, “My kindness is established forever”;in heaven you have confirmed your faithfulness.\nThe heavens proclaim your wonders, O LORD,and your faithfulness, in the assembly of the holy ones.\nFor who in the skies can rank with the LORD?Who is like the LORD among the sons of God?\nBlessed the people who know the joyful shout;in the light of your countenance, O LORD, they walk.\nAt your name they rejoice all the day,and through your justice they are exalted."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark16,15-20.",
+                "reading": "Jesus said to the eleven: \"Go into the whole world and proclaim the Gospel to every creature.\nWhoever believes and is baptized will be saved; whoever does not believe will be condemned.\nThese signs will accompany those who believe: in my name they will drive out demons, they will speak new languages.\nThey will pick up serpents (with their hands), and if they drink any deadly thing, it will not harm them. They will lay hands on the sick, and they will recover.\"\nSo then the Lord Jesus, after he spoke to them, was taken up into heaven and took his seat at the right hand of God.\nBut they went forth and preached everywhere, while the Lord worked with them and confirmed the word through accompanying signs."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Mark",
+            "title": "Evangelist",
+            "profile_link": "https://dailygospel.org/AM/display-saint/fed4483d-76fa-4235-adb4-4715c51c9292"
+        }
     }
 }
