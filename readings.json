@@ -9398,5 +9398,31 @@
             "title": "Evangelist",
             "profile_link": "https://dailygospel.org/AM/display-saint/fed4483d-76fa-4235-adb4-4715c51c9292"
         }
+    },
+    "2026-04-26": {
+        "liturgical_week": "Fourth Sunday of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles2,14.36-41.",
+                "reading": "Then Peter stood up with the Eleven,  raised his voice, and proclaimed:  \"You who are Jews, indeed all of you staying in Jerusalem.  Let this be known to you, and listen to my words.\nTherefore let the whole house of Israel know for certain that God has made him both Lord and Messiah, this Jesus whom you crucified.\"\nNow when they heard this, they were cut to the heart, and they asked Peter and the other apostles, \"What are we to do, my brothers?\"\nPeter (said) to them, \"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins; and you will receive the gift of the holy Spirit.\nFor the promise is made to you and to your children and to all those far off, whomever the Lord our God will call.\"\nHe testified with many other arguments, and was exhorting them, \"Save yourselves from this corrupt generation.\"\nThose who accepted his message were baptized, and about three thousand persons were added that day."
+            },
+            "Psalm": {
+                "title": "Psalms23(22),1-3a.3b-4.5.6.",
+                "reading": "The LORD is my shepherd; I shall not want.\nIn verdant pastures he gives me repose;beside restful waters he leads me;\nhe refreshes my soul.\nHe guides me in right pathsfor His names's sake.\nEven though I walk in the dark valleyI fear no evil; for you are at my sidewith your rod and your staffthat give me courage.\nYou spread the table before mein the sight of my foes;You anoint my head with oil;my cup overflows.\nOnly goodness and kindness follow meall the days of my life;and I shall dwell in the house of the LORDfor years to come."
+            },
+            "Second_Reading": {
+                "title": "First Letter of Peter2,20-25.",
+                "reading": "But what credit is there if you are patient when beaten for doing wrong? But if you are patient when you suffer for doing what is good, this is a grace before God.\nFor to this you have been called, because Christ also suffered for you, leaving you an example that you should follow in his footsteps.\n\"He committed no sin, and no deceit was found in his mouth.\"\nWhen he was insulted, he returned no insult; when he suffered, he did not threaten; instead, he handed himself over to the one who judges justly.\nHe himself bore our sins in his body upon the cross, so that, free from sin, we might live for righteousness. By his wounds you have been healed.\nFor you had gone astray like sheep, but you have now returned to the shepherd and guardian of your souls."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John10,1-10.",
+                "reading": "Jesus said:  \"Amen, amen, I say to you,  whoever does not enter a sheepfold through the gate  but climbs over elsewhere is a thief and a robber.\nBut whoever enters through the gate is the shepherd of the sheep.\nThe gatekeeper opens it for him, and the sheep hear his voice, as he calls his own sheep by name and leads them out.\nWhen he has driven out all his own, he walks ahead of them, and the sheep follow him, because they recognize his voice.\nBut they will not follow a stranger; they will run away from him, because they do not recognize the voice of strangers.\"\nAlthough Jesus used this figure of speech, they did not realize what he was trying to tell them.\nSo Jesus said again, \"Amen, amen, I say to you, I am the gate for the sheep.\nAll who came (before me) are thieves and robbers, but the sheep did not listen to them.\nI am the gate. Whoever enters through me will be saved, and will come in and go out and find pasture.\nA thief comes only to steal and slaughter and destroy; I came so that they might have life and have it more abundantly.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Raphael Arnáiz Barón",
+            "title": "Trappist Monk (1911-1938)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/5b3de59a-47e1-4202-a34d-a2a0e2172e53"
+        }
     }
 }
