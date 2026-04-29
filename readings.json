@@ -9468,5 +9468,27 @@
             "title": "Priest (1673-1716)",
             "profile_link": "https://dailygospel.org/AM/display-saint/9d7615ac-ad6a-4244-82d9-910f0ccc16bb"
         }
+    },
+    "2026-04-29": {
+        "liturgical_week": "Wednesday of the Fourth week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles12,24-25.13,1-5a.",
+                "reading": "The word of God continued to spread and grow.\nAfter Barnabas and Saul completed their relief mission, they returned to Jerusalem, taking with them John, who is called Mark.\nNow there were in the church at Antioch prophets and teachers: Barnabas, Symeon who was called Niger, Lucius of Cyrene, Manaen who was a close friend of Herod the tetrarch, and Saul.\nWhile they were worshiping the Lord and fasting, the holy Spirit said, \"Set apart for me Barnabas and Saul for the work to which I have called them.\"\nThen, completing their fasting and prayer, they laid hands on them and sent them off.\nSo they, sent forth by the holy Spirit, went down to Seleucia and from there sailed to Cyprus.\nWhen they arrived in Salamis, they proclaimed the word of God in the Jewish synagogues. They had John also as their assistant."
+            },
+            "Psalm": {
+                "title": "Psalms67(66),2-3.5.6.8.",
+                "reading": "May God have pity on us and bless us;may he let his face shine upon us.\nSo may your way be known upon earth;among all nations, your salvation.\nMay the nations be glad and exultbecause you rule the peoples in equity;the nations on the earth you guide.\nMay the peoples praise you, O God;may all the peoples praise you!\nMay God bless us,and may all the ends of the earth fear him!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John12,44-50.",
+                "reading": "Jesus cried out and said,  \"Whoever believes in me believes not only in me  but also in the one who sent me,\nand whoever sees me sees the one who sent me.\nI came into the world as light, so that everyone who believes in me might not remain in darkness.\nAnd if anyone hears my words and does not observe them, I do not condemn him, for I did not come to condemn the world but to save the world.\nWhoever rejects me and does not accept my words has something to judge him: the word that I spoke, it will condemn him on the last day,\nbecause I did not speak on my own, but the Father who sent me commanded me what to say and speak.\nAnd I know that his commandment is eternal life. So what I say, I say as the Father told me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Catherine of Siena",
+            "title": "Doctor of the Church (1347-1380)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cbca528a-2493-4a92-9766-1d152103f16c"
+        }
     }
 }
