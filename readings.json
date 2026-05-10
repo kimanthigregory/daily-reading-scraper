@@ -9714,5 +9714,31 @@
             "title": "Religious (1901-1927)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4f84b94c-0525-4850-9c8c-5c6ae7ae99a8"
         }
+    },
+    "2026-05-10": {
+        "liturgical_week": "Sixth Sunday of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles8,5-8.14-17.",
+                "reading": "Philip went down to (the) city of Samaria and proclaimed the Messiah to them.\nWith one accord, the crowds paid attention to what was said by Philip when they heard it and saw the signs he was doing.\nFor unclean spirits, crying out in a loud voice, came out of many possessed people, and many paralyzed and crippled people were cured.\nThere was great joy in that city.\nNow when the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent them Peter and John,\nwho went down and prayed for them, that they might receive the holy Spirit,\nfor it had not yet fallen upon any of them; they had only been baptized in the name of the Lord Jesus.\nThen they laid hands on them and they received the holy Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms66(65),1-3a.4-5.6-7a.16.20.",
+                "reading": "Shout joyfully to God, all the earth,\nsing praise to the glory of his name;proclaim his glorious praise.\nSay to God, “How tremendous are your deeds!”\n“Let all on earth worship and sing praise to you,sing praise to your name!”\nCome and see the works of God,his tremendous deeds among the children of Adam.\nHe has changed the sea into dry land;through the river they passed on foot;therefore let us rejoice in him.\nHe rules by his might forever.\nHear now, all you who fear God, while I declarewhat he has done for me.\nBlessed be God who refused me notmy prayer or his kindness!"
+            },
+            "Second_Reading": {
+                "title": "First Letter of Peter3,15-18.",
+                "reading": "Beloved, sanctify Christ as Lord in your hearts. Always be ready to give an explanation to anyone who asks you for a reason for your hope,\nbut do it with gentleness and reverence, keeping your conscience clear, so that, when you are maligned, those who defame your good conduct in Christ may themselves be put to shame.\nFor it is better to suffer for doing good, if that be the will of God, than for doing evil.\nFor Christ also suffered for sins once, the righteous for the sake of the unrighteous, that he might lead you to God. Put to death in the flesh, he was brought to life in the spirit."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John14,15-21.",
+                "reading": "Jesus said to his disciples: If you love me, you will keep my commandments.\nAnd I will ask the Father, and he will give you another Advocate to be with you always,\nthe Spirit of truth, which the world cannot accept, because it neither sees nor knows it. But you know it, because it remains with you, and will be in you.\nI will not leave you orphans; I will come to you.\nIn a little while the world will no longer see me, but you will see me, because I live and you will live.\nOn that day you will realize that I am in my Father and you are in me and I in you.\nWhoever has my commandments and observes them is the one who loves me. And whoever loves me will be loved by my Father, and I will love him and reveal myself to him.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Jozef Damian De Veuster",
+            "title": "Priest (1840-1889)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/61084d1c-fa05-439a-a4d3-1c6e4a62af76"
+        }
     }
 }
