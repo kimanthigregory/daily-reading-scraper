@@ -9810,5 +9810,27 @@
             "title": "Religious (1342-1420)",
             "profile_link": "https://dailygospel.org/AM/display-saint/c2774510-a01b-4b75-a05e-42d98eaf538e"
         }
+    },
+    "2026-05-14": {
+        "liturgical_week": "Ascension of the Lord - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles1,1-11.",
+                "reading": "In the first book, Theophilus, I dealt with all that Jesus did and taught\nuntil the day he was taken up, after giving instructions through the holy Spirit to the apostles whom he had chosen.\nHe presented himself alive to them by many proofs after he had suffered, appearing to them during forty days and speaking about the kingdom of God.\nWhile meeting with them, he enjoined them not to depart from Jerusalem, but to wait for \"the promise of the Father about which you have heard me speak;\nfor John baptized with water, but in a few days you will be baptized with the holy Spirit.\"\nWhen they had gathered together they asked him, \"Lord, are you at this time going to restore the kingdom to Israel?\"\nHe answered them, \"It is not for you to know the times or seasons that the Father has established by his own authority.\nBut you will receive power when the holy Spirit comes upon you, and you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth.\"\nWhen he had said this, as they were looking on, he was lifted up, and a cloud took him from their sight.\nWhile they were looking intently at the sky as he was going, suddenly two men dressed in white garments stood beside them.\nThey said, \"Men of Galilee, why are you standing there looking at the sky? This Jesus who has been taken up from you into heaven will return in the same way as you have seen him going into heaven.\""
+            },
+            "Psalm": {
+                "title": "Psalms47(46),2-3.6-7.8-9.",
+                "reading": "All you peoples, clap your hands;shout to God with cries of gladness.\nFor the LORD, the Most High, the awesome,is the great king over all the earth.\nGod mounts his throne amid shouts of joy;the LORD, amid trumpet blasts.\nSing praise to God, sing praise;sing praise to our king, sing praise.\nFor king of all the earth is God;sing hymns of praise.\nGod reigns over the nations,God sits upon his holy throne."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Ephesians1,17-23.",
+                "reading": "Brothers and sisters: May the God of our Lord Jesus Christ, the Father of glory, give you a spirit of wisdom and revelation resulting in knowledge of him.\nMay the eyes of (your) hearts be enlightened, that you may know what is the hope that belongs to his call, what are the riches of glory in his inheritance among the holy ones,\nand what is the surpassing greatness of his power for us who believe, in accord with the exercise of his great might,\nwhich he worked in Christ, raising him from the dead and seating him at his right hand in the heavens,\nfar above every principality, authority, power, and dominion, and every name that is named not only in this age but also in the one to come.\nAnd he put all things beneath his feet and gave him as head over all things to the church,\nwhich is his body, the fullness of the one who fills all things in every way."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew28,16-20.",
+                "reading": "The eleven disciples went to Galilee, to the mountain to which Jesus had ordered them.\nWhen they saw him, they worshiped, but they doubted.\nThen Jesus approached and said to them, \"All power in heaven and on earth has been given to me.\nGo, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit,\nteaching them to observe all that I have commanded you. And behold, I am with you always, until the end of the age.\""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
