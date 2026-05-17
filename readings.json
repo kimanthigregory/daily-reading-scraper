@@ -9876,5 +9876,31 @@
             "title": "Priest and Martyr († 1954)",
             "profile_link": "https://dailygospel.org/AM/display-saint/60d85fa6-ce22-4f21-af60-1d7aca21180a"
         }
+    },
+    "2026-05-17": {
+        "liturgical_week": "Seventh Sunday of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles1,12-14.",
+                "reading": "After Jesus had been taken up to heaven the apostles returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a sabbath day's journey away.\nWhen they entered the city they went to the upper room where they were staying, Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James.\nAll these devoted themselves with one accord to prayer, together with some women, and Mary the mother of Jesus, and his brothers."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.4.7-8a.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nOne thing I ask of the LORDthis I seek:to dwell in the house of the LORDall the days of my life,that I may gaze on the loveliness of the LORDand contemplate his temple.\nHear, O LORD, the sound of my call;have pity on me, and answer me.\nOf you my heart speaks; you my glance seeks."
+            },
+            "Second_Reading": {
+                "title": "First Letter of Peter4,13-16.",
+                "reading": "Beloved rejoice to the extent that you share in the sufferings of Christ, so that when his glory is revealed you may also rejoice exultantly.\nIf you are insulted for the name of Christ, blessed are you, for the Spirit of glory and of God rests upon you.\nBut let no one among you be made to suffer as a murderer, a thief, an evildoer, or as an intriguer.\nBut whoever is made to suffer as a Christian should not be ashamed but glorify God because of the name."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John17,1-11a.",
+                "reading": "Jesus raised his eyes to heaven and said, \"Father, the hour has come. Give glory to your son, so that your son may glorify you,\njust as you gave him authority over all people, so that he may give eternal life to all you gave him.\nNow this is eternal life, that they should know you, the only true God, and the one whom you sent, Jesus Christ.\nI glorified you on earth by accomplishing the work that you gave me to do.\nNow glorify me, Father, with you, with the glory that I had with you before the world began.\nI revealed your name to those whom you gave me out of the world. They belonged to you, and you gave them to me, and they have kept your word.\nNow they know that everything you gave me is from you,\nbecause the words you gave to me I have given to them, and they accepted them and truly understood that I came from you, and they have believed that you sent me.\nI pray for them. I do not pray for the world but for the ones you have given me, because they are yours,\nand everything of mine is yours and everything of yours is mine, and I have been glorified in them.\nAnd now I will no longer be in the world, but they are in the world, while I am coming to you. Holy Father, keep them in your name that you have given me, so that they may be one just as we are.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Joachina de Vedruna de Mas",
+            "title": "Foundress (1783-1854)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/91fe8cae-96d1-4fbb-b5d2-d65c55def002"
+        }
     }
 }
