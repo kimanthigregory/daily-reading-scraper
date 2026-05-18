@@ -9902,5 +9902,27 @@
             "title": "Foundress (1783-1854)",
             "profile_link": "https://dailygospel.org/AM/display-saint/91fe8cae-96d1-4fbb-b5d2-d65c55def002"
         }
+    },
+    "2026-05-18": {
+        "liturgical_week": "Monday of the Seventh week of Easter",
+        "readings": {
+            "First_Reading": {
+                "title": "Acts of the Apostles19,1-8.",
+                "reading": "While Apollos was in Corinth, Paul traveled through the interior of the country and came down to Ephesus where he found some disciples.\nHe said to them, \"Did you receive the holy Spirit when you became believers?\" They answered him, \"We have never even heard that there is a holy Spirit.\"\nHe said, \"How were you baptized?\" They replied, \"With the baptism of John.\"\nPaul then said, \"John baptized with a baptism of repentance, telling the people to believe in the one who was to come after him, that is, in Jesus.\"\nWhen they heard this, they were baptized in the name of the Lord Jesus.\nAnd when Paul laid (his) hands on them, the holy Spirit came upon them, and they spoke in tongues and prophesied.\nAltogether there were about twelve men.\nHe entered the synagogue, and for three months debated boldly with persuasive arguments about the kingdom of God."
+            },
+            "Psalm": {
+                "title": "Psalms68(67),2-3.4-5ac.6-7ab.",
+                "reading": "God arises; his enemies are scattered,and those who hate him flee before him.\nAs smoke is driven away, so are they driven;as wax melts before the fire.\nBut the just rejoice and exult before God;they are glad and rejoice.\nSing to God, chant praise to his name;\nwhose name is the LORD.\nThe father of orphans and the defender of widowsis God in his holy dwelling.\nGod gives a home to the forsaken;\nhe leads forth prisoners to prosperity."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John16,29-33.",
+                "reading": "The disciples said to Jesus, \"Now you are talking plainly, and not in any figure of speech.\nNow we realize that you know everything and that you do not need to have anyone question you. Because of this we believe that you came from God.\"\nJesus answered them, \"Do you believe now?\nBehold, the hour is coming and has arrived when each of you will be scattered to his own home and you will leave me alone. But I am not alone, because the Father is with me.\nI have told you this so that you might have peace in me. In the world you will have trouble, but take courage, I have conquered the world.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Venantius",
+            "title": "Martyr († 250)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/299480cd-ee10-47b1-b26d-3a239d747db7"
+        }
     }
 }
