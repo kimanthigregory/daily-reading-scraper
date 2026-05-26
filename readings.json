@@ -10078,5 +10078,27 @@
             "title": "Priest and Doctor of the Church (673-735)",
             "profile_link": "https://dailygospel.org/AM/display-saint/0c75346f-4c48-4cc2-b4cd-09631d331c12"
         }
+    },
+    "2026-05-26": {
+        "liturgical_week": "Tuesday of the Eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter of Peter1,10-16.",
+                "reading": "Beloved: Concerning this salvation, prophets who prophesied about the grace that was to be yours searched and investigated it,\ninvestigating the time and circumstances that the Spirit of Christ within them indicated when it testified in advance to the sufferings destined for Christ and the glories to follow them.\nIt was revealed to them that they were serving not themselves but you with regard to the things that have now been announced to you by those who preached the good news to you (through) the holy Spirit sent from heaven, things into which angels longed to look.\nTherefore, gird up the loins of your mind, live soberly, and set your hopes completely on the grace to be brought to you at the revelation of Jesus Christ.\nLike obedient children, do not act in compliance with the desires of your former ignorance\nbut, as he who called you is holy, be holy yourselves in every aspect of your conduct,\nfor it is written, \"Be holy because I (am) holy.\""
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3ab.3cd-4.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark10,28-31.",
+                "reading": "Peter began to say to Jesus, \"We have given up everything and followed you.\"\nJesus said, \"Amen, I say to you, there is no one who has given up house or brothers or sisters or mother or father or children or lands for my sake and for the sake of the gospel\nwho will not receive a hundred times more now in this present age: houses and brothers and sisters and mothers and children and lands, with persecutions, and eternal life in the age to come.\"\nBut many that are first will be last, and (the) last will be first.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Philip Neri",
+            "title": "Priest (1515-1595) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/7115bf36-030e-4c55-931a-82e10a61f777"
+        }
     }
 }
