@@ -10166,5 +10166,27 @@
             "title": "Religious (1865 - 1939)",
             "profile_link": "https://dailygospel.org/AM/display-saint/533d2a8f-7726-417d-a7a7-0945d9f70624"
         }
+    },
+    "2026-05-30": {
+        "liturgical_week": "Saturday of the Eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter of Jude1,17.20b-25.",
+                "reading": "Beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ,\nbuild yourselves up in your most holy faith; pray in the holy Spirit.\nKeep yourselves in the love of God and wait for the mercy of our Lord Jesus Christ that leads to eternal life.\nOn those who waver, have mercy;\nsave others by snatching them out of the fire; on others have mercy with fear, abhorring even the outer garment stained by the flesh.\nTo the one who is able to keep you from stumbling and to present you unblemished and exultant, in the presence of his glory,\nto the only God, our savior, through Jesus Christ our Lord be glory, majesty, power, and authority from ages past, now, and for ages to come. Amen."
+            },
+            "Psalm": {
+                "title": "Psalms63(62),2.3-4.5-6.",
+                "reading": "O God, you are my God whom I seek;for you my flesh pines and my soul thirstslike the earth, parched, lifeless and without water.\nThus have I gazed toward you in the sanctuaryto see your power and your glory,\nfor your kindness is a greater good than life;my lips shall glorify you.\nThus will I bless you while I live;lifting up my hands, I will call upon your name.\nAs with the riches of a banquet shall my soul be satisfied,and with exultant lips my mouth shall praise you."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark11,27-33.",
+                "reading": "Jesus and his disciples returned once more to Jerusalem. As he was walking in the temple area, the chief priests, the scribes, and the elders approached him\nand said to him, \"By what authority are you doing these things? Or who gave you this authority to do them?\"\nJesus said to them, \"I shall ask you one question. Answer me, and I will tell you by what authority I do these things.\nWas John's baptism of heavenly or of human origin? Answer me.\"\nThey discussed this among themselves and said, \"If we say, 'Of heavenly origin,' he will say, '(Then) why did you not believe him?'\nBut shall we say, 'Of human origin'?\"--they feared the crowd, for they all thought John really was a prophet.\nSo they said to Jesus in reply, \"We do not know.\" Then Jesus said to them, \"Neither shall I tell you by what authority I do these things.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Felix I",
+            "title": "Pope and Martyr († 274)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e2bec9f5-834d-4ec0-a461-41f40a0ecacb"
+        }
     }
 }
