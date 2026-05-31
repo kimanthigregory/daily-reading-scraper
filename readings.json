@@ -10188,5 +10188,31 @@
             "title": "Pope and Martyr († 274)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e2bec9f5-834d-4ec0-a461-41f40a0ecacb"
         }
+    },
+    "2026-05-31": {
+        "liturgical_week": "The Most Holy Trinity - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus34,4b-6.8-9.",
+                "reading": "Early in the morning Moses went up Mount Sinai as the LORD had commanded him, taking along the two stone tablets.\nHaving come down in a cloud, the LORD stood with him there and proclaimed his name, \"LORD.\"\nThus the LORD passed before him and cried out, \"The LORD, the LORD, a merciful and gracious God, slow to anger and rich in kindness and fidelity,\nMoses at once bowed down to the ground in worship.\nThen he said, \"If I find favor with you, O Lord, do come along in our company. This is indeed a stiff-necked people; yet pardon our wickedness and sins, and receive us as your own.\""
+            },
+            "Psalm": {
+                "title": "Book of Daniel3,52.53.54.55.56.",
+                "reading": "Blessed are you, O Lord, the God of our fathers,praiseworthy and exalted above all forever;and blessed is your holy and glorious name,praiseworthy and exalted above all for all ages.\nBlessed are you in the temple of your holy glory,praiseworthy and exalted above all forever.\nBlessed are you on the throne of your kingdom,praiseworthy and exalted above all forever.\nBlessed are you who look into the depthsfrom your throne upon the cherubim;praiseworthy and exalted above all forever.\nBlessed are you in the firmament of heaven,praiseworthy and glorious forever."
+            },
+            "Second_Reading": {
+                "title": "Second Letter to the Corinthians13,11-13.",
+                "reading": "Brothers and sisters, rejoice. Mend your ways, encourage one another, agree with one another, live in peace, and the God of love and peace will be with you.\nGreet one another with a holy kiss. All the holy ones greet you.\nThe grace of the Lord Jesus Christ and the love of God and the fellowship of the holy Spirit be with all of you."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John3,16-18.",
+                "reading": "God so loved the world that he gave his only-begotten Son,  so that everyone who believes in him might not perish  but might have eternal life.\nFor God did not send his Son into the world to condemn the world, but that the world might be saved through him.\nWhoever believes in him will not be condemned, but whoever does not believe has already been condemned, because he has not believed in the name of the only Son of God."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Petronilla",
+            "title": "Virgin (1st century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cee94bbb-8ece-4649-b573-10bb6a33a1ec"
+        }
     }
 }
