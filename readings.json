@@ -10236,5 +10236,27 @@
             "title": "Martyr († c. 165) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/10868db4-b290-43e5-84e6-e55a5ff97784"
         }
+    },
+    "2026-06-02": {
+        "liturgical_week": "Tuesday of the Ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "second Letter of Peter3,12-15a.17-18.",
+                "reading": "Beloved: Wait for and hasten the coming of the day of God, because of which the heavens will be dissolved in flames and the elements melted by fire.\nBut according to his promise we await new heavens and a new earth in which righteousness dwells.\nTherefore, beloved, since you await these things, be eager to be found without spot or blemish before him, at peace.\nAnd consider the patience of our Lord as salvation, as our beloved brother Paul, according to the wisdom given to him, also wrote to you,\nTherefore, beloved, since you are forewarned, be on your guard not to be led into the error of the unprincipled and to fall from your own stability.\nBut grow in grace and in the knowledge of our Lord and savior Jesus Christ. To him be glory now and to the day of eternity. (Amen.)"
+            },
+            "Psalm": {
+                "title": "Psalms90(89),2.3-4.10.14.16.",
+                "reading": "Before the mountains were begottenAnd the earth and the world were brought forth,From everlasting to everlasting you are God.\nYou turn man back to dust,Saying, \"Return, O children of men.\"\nFor a thousand years in your sightare as yesterday, now that it is past,or as a watch of the night.\nSeventy is the sum of our years,Or eighty, if we are strong,And most of them are fruitless toil,For they pass quickly and we drift away.\nFill us at daybreak with your kindness,that we may shout for joy and gladness all our days.\nLet your work be seen by your servantsAnd your glory by their children."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark12,13-17.",
+                "reading": "Some Pharisees and Herodians were sent to Jesus to ensnare him in his speech.\nThey came and said to him, \"Teacher, we know that you are a truthful man and that you are not concerned with anyone's opinion. You do not regard a person's status but teach the way of God in accordance with the truth. Is it lawful to pay the census tax to Caesar or not? Should we pay or should we not pay?\"\nKnowing their hypocrisy he said to them, \"Why are you testing me? Bring me a denarius to look at.\"\nThey brought one to him and he said to them, \"Whose image and inscription is this?\" They replied to him, \"Caesar's.\"\nSo Jesus said to them, \"Repay to Caesar what belongs to Caesar and to God what belongs to God.\" They were utterly amazed at him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Peter & Marcellinus",
+            "title": "Martyrs († c. 304)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/326d0fc0-ddb2-4aad-8daa-b0432df49459"
+        }
     }
 }
