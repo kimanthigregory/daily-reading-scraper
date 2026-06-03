@@ -10258,5 +10258,27 @@
             "title": "Martyrs († c. 304)",
             "profile_link": "https://dailygospel.org/AM/display-saint/326d0fc0-ddb2-4aad-8daa-b0432df49459"
         }
+    },
+    "2026-06-03": {
+        "liturgical_week": "Wednesday of the Ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to Timothy1,1-3.6-12.",
+                "reading": "Paul, an apostle of Christ Jesus by the will of God for the promise of life in Christ Jesus,\nto Timothy, my dear child: grace, mercy, and peace from God the Father and Christ Jesus our Lord.\nI am grateful to God, whom I worship with a clear conscience as my ancestors did, as I remember you constantly in my prayers, night and day.\nFor this reason, I remind you to stir into flame the gift of God that you have through the imposition of my hands.\nFor God did not give us a spirit of cowardice but rather of power and love and self-control.\nSo do not be ashamed of your testimony to our Lord, nor of me, a prisoner for his sake; but bear your share of hardship for the gospel with the strength that comes from God.\nHe saved us and called us to a holy life, not according to our works but according to his own design and the grace bestowed on us in Christ Jesus before time began,\nbut now made manifest through the appearance of our savior Christ Jesus, who destroyed death and brought life and immortality to light through the gospel,\nfor which I was appointed preacher and apostle and teacher.\nOn this account I am suffering these things; but I am not ashamed, for I know him in whom I have believed and am confident that he is able to guard what has been entrusted to me until that day."
+            },
+            "Psalm": {
+                "title": "Psalms123(122),1-2a.2bcd.",
+                "reading": "To you I lift up my eyeswho are enthroned in heaven --\nAs the eyes of servantsare on the hands of their masters.\nAs the eyes of a maidare on the hands of her mistress,\nso are our eyes on the LORD, our God,\ntill he have pity on us."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark12,18-27.",
+                "reading": "Some Sadducees, who say there is no resurrection, came to Jesus and put this question to him,\nsaying, \"Teacher, Moses wrote for us, 'If someone's brother dies, leaving a wife but no child, his brother must take the wife and raise up descendants for his brother.'\nNow there were seven brothers. The first married a woman and died, leaving no descendants.\nSo the second married her and died, leaving no descendants, and the third likewise.\nAnd the seven left no descendants. Last of all the woman also died.\nAt the resurrection (when they arise) whose wife will she be? For all seven had been married to her.\"\nJesus said to them, \"Are you not misled because you do not know the scriptures or the power of God?\nWhen they rise from the dead, they neither marry nor are given in marriage, but they are like the angels in heaven.\nAs for the dead being raised, have you not read in the Book of Moses, in the passage about the bush, how God told him, 'I am the God of Abraham, (the) God of Isaac, and (the) God of Jacob'?\nHe is not God of the dead but of the living. You are greatly misled.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Charles Lwanga & Companions",
+            "title": "Martyrs († 1886-1887)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2f923294-0b36-4cd7-82ae-0dd4de95f2b0"
+        }
     }
 }
