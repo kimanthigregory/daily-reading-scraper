@@ -10280,5 +10280,27 @@
             "title": "Martyrs († 1886-1887)",
             "profile_link": "https://dailygospel.org/AM/display-saint/2f923294-0b36-4cd7-82ae-0dd4de95f2b0"
         }
+    },
+    "2026-06-04": {
+        "liturgical_week": "Thursday of the Ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to Timothy2,8-15.",
+                "reading": "Beloved: Remember Jesus Christ, raised from the dead, a descendant of David: such is my gospel,\nfor which I am suffering, even to the point of chains, like a criminal. But the word of God is not chained.\nTherefore, I bear with everything for the sake of those who are chosen, so that they too may obtain the salvation that is in Christ Jesus, together with eternal glory.\nThis saying is trustworthy: If we have died with him we shall also live with him;\nif we persevere we shall also reign with him. But if we deny him he will deny us.\nIf we are unfaithful he remains faithful, for he cannot deny himself.\nRemind people of these things and charge them before God to stop disputing about words. This serves no useful purpose since it harms those who listen.\nBe eager to present yourself as acceptable to God, a workman who causes no disgrace, imparting the word of truth without deviation."
+            },
+            "Psalm": {
+                "title": "Psalms25(24),4bc-5ab.8-9.10.14.",
+                "reading": "Your ways, O LORD, make known to me;\nteach me your paths,\nguide me in your truth and teach me,\nfor you are God my savior.\nGood and upright is the LORD;thus he shows sinners the way.\nHe guides the humble to justice,he teaches the humble his way.\nAll the paths of the LORD are kindness and constancytoward those who keep his covenant and his decrees.\nThe friendship of the LORD is with those who fear him,and his covenant, for their instruction."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark12,28-34.",
+                "reading": "One of the scribes came to Jesus and asked him, \"Which is the first of all the commandments?\"\nJesus replied, \"The first is this: 'Hear, O Israel! The Lord our God is Lord alone!\nYou shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.'\nThe second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these.\"\nThe scribe said to him, \"Well said, teacher. You are right in saying, 'He is One and there is no other than he.'\nAnd 'to love him with all your heart, with all your understanding, with all your strength, and to love your neighbor as yourself' is worth more than all burnt offerings and sacrifices.\"\nAnd when Jesus saw that (he) answered with understanding, he said to him, \"You are not far from the kingdom of God.\" And no one dared to ask him any more questions."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Francis Caracciolo",
+            "title": "Co-Founder (1563-1608)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/7e1e4a77-93be-448d-ab07-f7a44ccfdadc"
+        }
     }
 }
