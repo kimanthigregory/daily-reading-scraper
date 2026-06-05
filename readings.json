@@ -10302,5 +10302,27 @@
             "title": "Co-Founder (1563-1608)",
             "profile_link": "https://dailygospel.org/AM/display-saint/7e1e4a77-93be-448d-ab07-f7a44ccfdadc"
         }
+    },
+    "2026-06-05": {
+        "liturgical_week": "Friday of the Ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to Timothy3,10-17.",
+                "reading": "You have followed my teaching, way of life, purpose, faith, patience, love, endurance,\npersecutions, and sufferings, such as happened to me in Antioch, Iconium, and Lystra, persecutions that I endured. Yet from all these things the Lord delivered me.\nIn fact, all who want to live religiously in Christ Jesus will be persecuted.\nBut wicked people and charlatans will go from bad to worse, deceivers and deceived.\nBut you, remain faithful to what you have learned and believed, because you know from whom you learned it,\nand that from infancy you have known (the) sacred scriptures, which are capable of giving you wisdom for salvation through faith in Christ Jesus.\nAll scripture is inspired by God and is useful for teaching, for refutation, for correction, and for training in righteousness,\nso that one who belongs to God may be competent, equipped for every good work."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),157.160.161.165.166.168.",
+                "reading": "Though my persecutors and my foes are many,I turn not away from your decrees.\nPermanence is your word's chief trait;Each of your just ordinances is everlasting.\nPrinces persecute me without causeBut my heart stands in awe of your word.\nThose who love your law have great peace,And for them there is no stumbling block.\nI wait for your salvation, O LORD,And your commands I fulfill.\nI keep your precepts and your decrees,For all my ways are before you."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark12,35-37.",
+                "reading": "As Jesus was teaching in the temple area he said, \"How do the scribes claim that the Messiah is the son of David?\nDavid himself, inspired by the holy Spirit, said: 'The Lord said to my lord, \"Sit at my right hand until I place your enemies under your feet.\"'\nDavid himself calls him 'lord'; so how is he his son?\" (The) great crowd heard this with delight."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Boniface",
+            "title": "Bishop and Martyr († 754) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3949876d-56f1-439e-927f-8207f388258e"
+        }
     }
 }
