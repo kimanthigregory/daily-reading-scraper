@@ -10324,5 +10324,27 @@
             "title": "Bishop and Martyr († 754) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/3949876d-56f1-439e-927f-8207f388258e"
         }
+    },
+    "2026-06-06": {
+        "liturgical_week": "Saturday of the Ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to Timothy4,1-8.",
+                "reading": "I charge you in the presence of God and of Christ Jesus, who willjudge the living and the dead, and by his appearing and his kingly power:\nproclaim the word; be persistent whether it is convenient or inconvenient; convince, reprimand, encourage through all patience and teaching.\nFor the time will come when people will not tolerate sound doctrine but, following their own desires and insatiable curiosity, will accumulate teachers\nand will stop listening to the truth and will be diverted to myths.\nBut you, be self-possessed in all circumstances; put up with hardship; perform the work of an evangelist; fulfill your ministry.\nFor I am already being poured out like a libation, and the time of my departure is at hand.\nI have competed well; I have finished the race; I have kept the faith.\nFrom now on the crown of righteousness awaits me, which the Lord, the just judge, will award to me on that day, and not only to me, but to all who have longed for his appearance."
+            },
+            "Psalm": {
+                "title": "Psalms71(70),8-9.14-15ab.16-17.22.",
+                "reading": "My mouth shall be filled with your praise,With your glory day by day.\nCast me not off in my old age;As my strength fails, forsake me not.\nBut I will always hopeAnd praise you ever more and more.\nMy mouth shall declare your justice,\nday by day your salvation.\nI will treat of the mighty works of the Lord;O GOD, I will tell of your singular justice.\nO God, you have taught me from my youth,and till the present I proclaim your wondrous deeds.\nSo will I give you thanks with music on the lyre,For your faithfulness, O my God!I will sing your praises with the harp,O Holy One of Israel!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Mark12,38-44.",
+                "reading": "In the course of his teaching Jesus said, \"Beware of the scribes, who like to go around in long robes and accept greetings in the marketplaces,\nseats of honor in synagogues, and places of honor at banquets.\nThey devour the houses of widows and, as a pretext, recite lengthy prayers. They will receive a very severe condemnation.\"\nHe sat down opposite the treasury and observed how the crowd put money into the treasury. Many rich people put in large sums.\nA poor widow also came and put in two small coins worth a few cents.\nCalling his disciples to himself, he said to them, \"Amen, I say to you, this poor widow put in more than all the other contributors to the treasury.\nFor they have all contributed from their surplus wealth, but she, from her poverty, has contributed all she had, her whole livelihood.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Norbert",
+            "title": "Bishop (c.1080-1134)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/20fb879b-66c9-459d-8313-c450c56a50c0"
+        }
     }
 }
