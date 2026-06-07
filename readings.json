@@ -10346,5 +10346,31 @@
             "title": "Bishop (c.1080-1134)",
             "profile_link": "https://dailygospel.org/AM/display-saint/20fb879b-66c9-459d-8313-c450c56a50c0"
         }
+    },
+    "2026-06-07": {
+        "liturgical_week": "The Most Holy Body and Blood of Christ - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Deuteronomy8,2-3.14b-16a.",
+                "reading": "Moses said to the people:\"Remember how for forty years now the LORD, your God, has directed all your journeying in the desert, so as to test you by affliction and find out whether or not it was your intention to keep his commandments.\nHe therefore let you be afflicted with hunger, and then fed you with manna, a food unknown to you and your fathers, in order to show you that not by bread alone does man live, but by every word that comes forth from the mouth of the LORD.\n\"Do not forget the LORD, your God, who brought you out of the land of Egypt, that place of slavery;\nwho guided you through the vast and terrible desert with its saraph serpents and scorpions, its parched and waterless ground; who brought forth water for you from the flinty rock\nand fed you in the desert with manna, a food unknown to your fathers.\""
+            },
+            "Psalm": {
+                "title": "Psalms147,12-13.14-15.19-20.",
+                "reading": "Glorify the LORD, O Jerusalem;praise your God, O Zion.\nFor he has strengthened the bars of your gates;he has blessed your children within you.\nHe has granted peace in your borders;with the best of wheat he fills you.\nHe sends forth his command to the earth;swiftly runs his word!\nHe has proclaimed his word to Jacob,his statutes and his ordinances to Israel.\nHe has not done thus for any other nation;his ordinances he has not made known to them. Alleluia"
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians10,16-17.",
+                "reading": "Brothers and sisters:The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?\nBecause the loaf of bread is one, we, though many, are one body, for we all partake of the one loaf."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John6,51-58.",
+                "reading": "Jesus said to the crowds:\"I am the living bread that came down from heaven; whoever eats this bread will live forever; and the bread that I will give is my flesh for the life of the world.\"\nThe Jews quarreled among themselves, saying, \"How can this man give us (his) flesh to eat?\"\nJesus said to them, \"Amen, amen, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you.\nWhoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day.\nFor my flesh is true food, and my blood is true drink.\nWhoever eats my flesh and drinks my blood remains in me and I in him.\nJust as the living Father sent me and I have life because of the Father, so also the one who feeds on me will have life because of me.\nThis is the bread that came down from heaven. Unlike your ancestors who ate and still died, whoever eats this bread will live forever.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Robert of Newminster",
+            "title": "Abbot (12th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1febb60a-4b8f-49e7-a749-871e3e9bc965"
+        }
     }
 }
