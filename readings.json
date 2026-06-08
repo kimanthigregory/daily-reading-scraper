@@ -10372,5 +10372,27 @@
             "title": "Abbot (12th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/1febb60a-4b8f-49e7-a749-871e3e9bc965"
         }
+    },
+    "2026-06-08": {
+        "liturgical_week": "Monday of the Tenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "1st book of Kings17,1-6.",
+                "reading": "Elijah the Tishbite, from Tishbe in Gilead, said to Ahab: \"As the LORD, the God of Israel, lives, whom I serve, during these years there shall be no dew or rain except at my word.\"\nThe LORD then said to Elijah:\n\"Leave here, go east and hide in the Wadi Cherith, east of the Jordan.\nYou shall drink of the stream, and I have commanded ravens to feed you there.\"\nSo he left and did as the LORD had commanded. He went and remained by the Wadi Cherith, east of the Jordan.\nRavens brought him bread and meat in the morning, and bread and meat in the evening, and he drank from the stream."
+            },
+            "Psalm": {
+                "title": "Psalms121(120),1-2.3-4.5-6.7-8.",
+                "reading": "I lift up my eyes toward the mountains;whence shall help come to me?\nMy help is from the LORD,who made heaven and earth.\nMay he not suffer your foot to slip;may he slumber not who guards you:\nindeed he neither slumbers nor sleeps,the guardian of Israel.\nThe LORD is your guardian; the LORD is your shade;he is beside you at your right hand.\nThe sun shall not harm you by day,nor the moon by night.\nThe LORD will guard you from all evil;he will guard your life.\nThe LORD will guard your coming and your going,both now and forever."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew5,1-12.",
+                "reading": "When Jesus saw the crowds, he went up the mountain, and after he had sat down, his disciples came to him.\nHe began to teach them, saying:\n\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\nBlessed are they who mourn, for they will be comforted.\nBlessed are the meek, for they will inherit the land.\nBlessed are they who hunger and thirst for righteousness, for they will be satisfied.\nBlessed are the merciful, for they will be shown mercy.\nBlessed are the clean of heart, for they will see God.\nBlessed are the peacemakers, for they will be called children of God.\nBlessed are they who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven.\nBlessed are you when they insult you and persecute you and utter every kind of evil against you (falsely) because of me.\nRejoice and be glad, for your reward will be great in heaven.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Medard",
+            "title": "Bishop (c. 457-545)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ea0cb836-87a7-4bc3-9402-5c71f8bdb358"
+        }
     }
 }
