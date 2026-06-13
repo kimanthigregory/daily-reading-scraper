@@ -10482,5 +10482,27 @@
             "title": "Apostle",
             "profile_link": "https://dailygospel.org/AM/display-saint/136d01bd-d2cd-4b37-8473-ad29bfb980d8"
         }
+    },
+    "2026-06-13": {
+        "liturgical_week": "Immaculate Heart of Mary - Memorial",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah61,9-11.",
+                "reading": "Thus says the Lord: The descendants of my people shall be renowned among the nations, and their offspring among the peoples; All who see them shall acknowledge them as a race the LORD has blessed.\nI rejoice heartily in the LORD, in my God is the joy of my soul; For he has clothed me with a robe of salvation, and wrapped me in a mantle of justice, Like a bridegroom adorned with a diadem, like a bride bedecked with her jewels.\nAs the earth brings forth its plants, and a garden makes its growth spring up, So will the Lord GOD make justice and praise spring up before all the nations."
+            },
+            "Psalm": {
+                "title": "1st book of Samuel2,1.4-5.6-7.8abcd.",
+                "reading": "My heart exults in the LORD,my horn is exalted in my God.I have swallowed up my enemies;I rejoice in my victory.\nThe bows of the mighty are broken,while the tottering gird on strength.\nThe well-fed hire themselves out for bread,while the hungry batten on spoil.The barren wife bears seven sons,while the mother of many languishes.\nThe LORD puts to death and gives life;He casts down to the nether world;He raises up again.\nThe LORD makes poor and makes rich,He humbles, he also exalts.\nHe raises the needy from the dust;\nfrom the dung heap he lifts up the poor,\nto seat them with nobles\nand make a glorious throne their heritage."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke2,41-51.",
+                "reading": "Each year Jesus' parents went to Jerusalem for the feast of Passover,\nand when he was twelve years old, they went up according to festival custom.\nAfter they had completed its days, as they were returning, the boy Jesus remained behind in Jerusalem, but his parents did not know it.\nThinking that he was in the caravan, they journeyed for a day and looked for him among their relatives and acquaintances,\nbut not finding him, they returned to Jerusalem to look for him.\nAfter three days they found him in the temple, sitting in the midst of the teachers, listening to them and asking them questions,\nand all who heard him were astounded at his understanding and his answers.\nWhen his parents saw him, they were astonished, and his mother said to him, \"Son, why have you done this to us? Your father and I have been looking for you with great anxiety.\"\nAnd he said to them, \"Why were you looking for me? Did you not know that I must be in my Father's house?\"\nBut they did not understand what he said to them.\nHe went down with them and came to Nazareth, and was obedient to them; and his mother kept all these things in her heart."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Anthony of Padua",
+            "title": "Priest and Doctor of the Church (1195-1231)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3afcd9df-3703-4464-8592-ff1edf6c3b62"
+        }
     }
 }
