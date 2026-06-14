@@ -10504,5 +10504,31 @@
             "title": "Priest and Doctor of the Church (1195-1231)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3afcd9df-3703-4464-8592-ff1edf6c3b62"
         }
+    },
+    "2026-06-14": {
+        "liturgical_week": "Eleventh Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus19,2-6.",
+                "reading": "After the journey from Rephidim to the desert of Sinai, they pitched camp. While Israel was encamped here in front of the mountain,\nMoses went up the mountain to God. Then the LORD called to him and said, \"Thus shall you say to the house of Jacob;\ntell the Israelites: You have seen for yourselves how I treated the Egyptians and how I bore you up on eagle wings and brought you here to myself.\nTherefore, if you hearken to my voice and keep my covenant, you shall be my special possession, dearer to me than all other people, though all the earth is mine.\nYou shall be to me a kingdom of priests, a holy nation. That is what you must tell the Israelites.\""
+            },
+            "Psalm": {
+                "title": "Psalms100(99),2.3.5.",
+                "reading": "Sing joyfully to the Lord all you lands,serve the LORD with gladness;come before him with joyful song.\nKnow that the LORD is God;he made us, his we are;his people, the flock he tends.\nThe LORD is good:his kindness endures forever,and his faithfulness, to all generations."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans5,6-11.",
+                "reading": "For Christ, while we were still helpless, yet died at the appointed time for the ungodly.\nIndeed, only with difficulty does one die for a just person, though perhaps for a good person one might even find courage to die.\nBut God proves his love for us in that while we were still sinners Christ died for us.\nHow much more then, since we are now justified by his blood, will we be saved through him from the wrath.\nIndeed, if, while we were enemies, we were reconciled to God through the death of his Son, how much more, once reconciled, will we be saved by his life.\nNot only that, but we also boast of God through our Lord Jesus Christ, through whom we have now received reconciliation."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew9,36-38.10,1-8.",
+                "reading": "At the sight of the crowds, his heart was moved with pity for them because they were troubled and abandoned, like sheep without a shepherd.\nThen he said to his disciples, \"The harvest is abundant but the laborers are few;\nso ask the master of the harvest to send out laborers for his harvest.\"\nThen he summoned his twelve disciples and gave them authority over unclean spirits to drive them out and to cure every disease and every illness.\nThe names of the twelve apostles are these: first, Simon called Peter, and his brother Andrew; James, the son of Zebedee, and his brother John;\nPhilip and Bartholomew, Thomas and Matthew the tax collector; James, the son of Alphaeus, and Thaddeus;\nSimon the Cananean, and Judas Iscariot who betrayed him.\nJesus sent out these twelve after instructing them thus, \"Do not go into pagan territory or enter a Samaritan town.\nGo rather to the lost sheep of the house of Israel.\nAs you go, make this proclamation: 'The kingdom of heaven is at hand.'\"\nCure the sick, raise the dead, cleanse lepers, drive out demons. Without cost you have received; without cost you are to give.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Elisha",
+            "title": "Prophet (9th century BC)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e237189f-f536-4ec7-8a1b-1f760b95db61"
+        }
     }
 }
