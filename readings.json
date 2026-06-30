@@ -10876,5 +10876,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/73073926-7c85-4aed-9bdb-dd9201e563e2"
         }
+    },
+    "2026-06-30": {
+        "liturgical_week": "Tuesday of the Thirteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Amos3,1-8.4,11-12.",
+                "reading": "Hear this word, O children of Israel, that the LORD pronounces over you, over the whole family that I brought up from the land of Egypt:\nYou alone have I favored, more than all the families of the earth; Therefore I will punish you for all your crimes.\nDo two walk together unless they have agreed?\nDoes a lion roar in the forest when it has no prey? Does a young lion cry out from its den unless it has seized something?\nIs a bird brought to earth by a snare when there is no lure for it? Does a snare spring up from the ground without catching anything?\nIf the trumpet sounds in a city, will the people not be frightened? If evil befalls a city, has not the LORD caused it?\nIndeed, the Lord GOD does nothing without revealing his plan to his servants, the prophets.\nThe lion roars-- who will not be afraid! The Lord GOD speaks-- who will not prophesy!\nI brought upon you such upheaval as when God overthrew Sodom and Gomorrah: you were like a brand plucked from the fire; Yet you returned not to me, says the LORD.\nSo now I will deal with you in my own way, O Israel! and since I will deal thus with you, prepare to meet your God, O Israel:"
+            },
+            "Psalm": {
+                "title": "Psalms5,5-6.7.8.",
+                "reading": "For you, O God, delight not in wickedness;No evil man remains with you;\nThe arrogant may not stand in your sight.You hate all evildoers.\nYou destroy all who speak falsehood;the bloodthirsty and the deceitfulthe LORD abhors.\nBut I can enter your house because of your great love.I can worship in your holy templebecause of my reverence for you, LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew8,23-27.",
+                "reading": "As Jesus got into a boat, his disciples followed him.\nSuddenly a violent storm came up on the sea, so that the boat was being swamped by waves; but he was asleep.\nThey came and woke him, saying, \"Lord, save us! We are perishing!\"\nHe said to them, \"Why are you terrified, O you of little faith?\" Then he got up, rebuked the winds and the sea, and there was great calm.\nThe men were amazed and said, \"What sort of man is this, whom even the winds and the sea obey?\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "First Martyrs of Rome",
+            "title": "(† 1st century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3d3faf01-74d9-4ada-9122-3e07ce472487"
+        }
     }
 }
