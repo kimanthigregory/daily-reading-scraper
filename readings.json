@@ -10898,5 +10898,27 @@
             "title": "(† 1st century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3d3faf01-74d9-4ada-9122-3e07ce472487"
         }
+    },
+    "2026-07-01": {
+        "liturgical_week": "Wednesday of the Thirteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Amos5,14-15.21-24.",
+                "reading": "Seek good and not evil, that you may live; Then truly will the LORD, the God of hosts, be with you as you claim!\nHate evil and love good, and let justice prevail at the gate; Then it may be that the LORD, the God of hosts, will have pity on the remnant of Joseph.\nI hate, I spurn your feasts, I take no pleasure in your solemnities;\nYour cereal offerings I will not accept, nor consider your stall-fed peace offerings.\nAway with your noisy songs! I will not listen to the melodies of your harps. But if you would offer me holocausts,\nthen let justice surge like water, and goodness like an unfailing stream."
+            },
+            "Psalm": {
+                "title": "Psalms50(49),7.8-9.10-11.12-13.16bc-17.",
+                "reading": "\"Hear, my people, and I will speak;Israel, I will testify against you;God, your God, am I.\"\n\"Not for your sacrifices do I rebuke you,for your burnt offerings are before me always.”\nI take from your house no bullock,no goats out of your fold.\"\n\"For mine are all the animals of the forests,beasts by the thousand on my mountains.\nI know all the birds of the air,and whatever stirs in the plains, belongs to me.\"\n\"If I were hungry, I should not tell you,for mine are the world and its fullness.\nDo I eat the flesh of strong bulls,or is the blood of goats my drink?\"\n\"Why do you recite my statutes,\nand profess my covenant with your mouth,\nThough you hate disciplineand cast my words behind you?\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew8,28-34.",
+                "reading": "When Jesus came to the territory of the Gadarenes,two demoniacs who were coming from the tombs met him. They were so savage that no one could travel by that road.\nThey cried out, \"What have you to do with us, Son of God? Have you come here to torment us before the appointed time?\"\nSome distance away a herd of many swine was feeding.\nThe demons pleaded with him, \"If you drive us out, send us into the herd of swine.\"\nAnd he said to them, \"Go then!\" They came out and entered the swine, and the whole herd rushed down the steep bank into the sea where they drowned.\nThe swineherds ran away, and when they came to the town they reported everything, including what had happened to the demoniacs.\nThereupon the whole town came out to meet Jesus, and when they saw him they begged him to leave their district."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Junípero Serra Ferrer",
+            "title": "O.F.M. (1713-1784)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6b67c47d-52c0-450a-a0ca-64129b07f493"
+        }
     }
 }
