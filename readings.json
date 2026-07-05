@@ -10986,5 +10986,31 @@
             "title": "Queen (1271-1336)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4b968471-aaaa-480a-b2a5-b432c7f4d2a1"
         }
+    },
+    "2026-07-05": {
+        "liturgical_week": "Fourteenth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Zechariah9,9-10.",
+                "reading": "Thus says the LORD: Rejoice heartily, O daughter Zion, shout for joy, O daughter Jerusalem! See, your king shall come to you; a just savior is he, Meek, and riding on an ass, on a colt, the foal of an ass.\nHe shall banish the chariot from Ephraim, and the horse from Jerusalem; The warrior's bow shall be banished, and he shall proclaim peace to the nations. His dominion shall be from sea to sea, and from the River to the ends of the earth."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),1-2.8-9.10-11.13cd-14.",
+                "reading": "I will extol you, O my God and King,and I will bless your name forever and ever.\nEvery day will I bless you,and I will praise your name forever and ever.\nThe LORD is gracious and merciful,slow to anger and of great kindness.\nThe LORD is good to alland compassionate toward all his works.\nLet all your works give you thanks, O LORD,and let your faithful ones bless you.\nLet them discourse of the glory of your Kingdomand speak of your might.\nThe LORD is faithful in all his words\nand holy in all his works.\nThe LORD lifts up all who are fallingand raises up all who are bowed down."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans8,9.11-13.",
+                "reading": "Brothers and sisters: You are not in the flesh; on the contrary, you are in the spirit, if only the Spirit of God dwells in you. Whoever does not have the Spirit of Christ does not belong to him.\nIf the Spirit of the one who raised Jesus from the dead dwells in you, the one who raised Christ from the dead will give life to your mortal bodies also, through his Spirit that dwells in you.\nConsequently, brothers, we are not debtors to the flesh, to live according to the flesh.\nFor if you live according to the flesh, you will die, but if by the spirit you put to death the deeds of the body, you will live."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew11,25-30.",
+                "reading": "At that time Jesus exclaimed, \"I give praise to you, Father, Lord of heaven and earth, for although you have hidden these things from the wise and the learned you have revealed them to the childlike.\nYes, Father, such has been your gracious will.\nAll things have been handed over to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son wishes to reveal him.\"\n\"Come to me, all you who labor and are burdened, and I will give you rest.\nTake my yoke upon you and learn from me, for I am meek and humble of heart; and you will find rest for yourselves.\nFor my yoke is easy, and my burden light.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Anthony Mary Zaccaria",
+            "title": "Priest (1502-1539)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f34b88c2-67af-4522-b175-22bdeadef610"
+        }
     }
 }
