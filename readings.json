@@ -11218,5 +11218,27 @@
             "title": "Priest (1550-1614)",
             "profile_link": "https://dailygospel.org/AM/display-saint/841d6dd5-51b8-4d4a-a96c-e5a82e632579"
         }
+    },
+    "2026-07-15": {
+        "liturgical_week": "Wednesday of the Fifteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah10,5-7.13-16.",
+                "reading": "Thus says the LORD: Woe to Assyria! My rod in anger, my staff in wrath.\nAgainst an impious nation I send him, and against a people under my wrath I order him To seize plunder, carry off loot, and tread them down like the mud of the streets.\nBut this is not what he intends, nor does he have this in mind; Rather, it is in his heart to destroy, to make an end of nations not a few.\nand the boastfulness of his haughty eyes. For he says: \"By my own power I have done it, and by my wisdom, for I am shrewd. I have moved the boundaries of peoples, their treasures I have pillaged, and, like a giant, I have put down the enthroned.\nMy hand has seized like a nest the riches of nations; As one takes eggs left alone, so I took in all the earth; No one fluttered a wing, or opened a mouth, or chirped!\"\nWill the axe boast against him who hews with it? Will the saw exalt itself above him who wields it? As if a rod could sway him who lifts it, or a staff him who is not wood!\nTherefore the Lord, the LORD of hosts, will send among his fat ones leanness, And instead of his glory there will be kindling like the kindling of fire."
+            },
+            "Psalm": {
+                "title": "Psalms94(93),5-6.7-8.9-10.14-15.",
+                "reading": "Your people, O LORD, they trample down,your inheritance they afflict.\nWidow and stranger they slay,the fatherless they murder.\nAnd they say, \"The LORD sees not;the God of Jacob perceives not.\"\nUnderstand, you senseless ones among the people;and, you fools, when will you be wise?\nShall he who shaped the ear not hear?Or he who formed the eye not see?\nShall he who instructs nations not chastise,He who teaches men knowledge?\nFor the LORD will not cast off his people,nor abandon his inheritance;\nbut judgment shall again be with justice,and all the upright of heart shall follow it."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew11,25-27.",
+                "reading": "At that time Jesus exclaimed, \"I give praise to you, Father, Lord of heaven and earth, for although you have hidden these things from the wise and the learned you have revealed them to the childlike.\nYes, Father, such has been your gracious will.\nAll things have been handed over to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son wishes to reveal him.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bonaventure",
+            "title": "Bishop and Doctor of the Church (1218-1274)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/afad77f9-ef13-4eda-b345-7b8ce1eef3ec"
+        }
     }
 }
