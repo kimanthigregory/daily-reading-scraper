@@ -11240,5 +11240,23 @@
             "title": "Bishop and Doctor of the Church (1218-1274)",
             "profile_link": "https://dailygospel.org/AM/display-saint/afad77f9-ef13-4eda-b345-7b8ce1eef3ec"
         }
+    },
+    "2026-07-16": {
+        "liturgical_week": "Thursday of the Fifteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah26,7-9.12.16-19.",
+                "reading": "The way of the just is smooth; the path of the just you make level.\nYes, for your way and your judgments, O LORD, we look to you; Your name and your title are the desire of our souls.\nMy soul yearns for you in the night, yes, my spirit within me keeps vigil for you; When your judgment dawns upon the earth, the world's inhabitants learn justice.\nO LORD, you mete out peace to us, for it is you who have accomplished all we have done.\nO LORD, oppressed by your punishment, we cried out in anguish under your chastising.\nAs a woman about to give birth writhes and cries out in her pains, so were we in your presence, O LORD.\nWe conceived and writhed in pain, giving birth to wind; Salvation we have not achieved for the earth, the inhabitants of the world cannot bring it forth.\nBut your dead shall live, their corpses shall rise; awake and sing, you who lie in the dust. For your dew is a dew of light, and the land of shades gives birth."
+            },
+            "Psalm": {
+                "title": "Psalms102(101),13-14ab.15.16-18.19-21.",
+                "reading": "You, O LORD, abide forever,and your name through all generations.\nYou will arise and have mercy on Zion,\nfor it is time to pity her.\nFor her stones are dear to your servants,and her dust moves them to pity.\nThe nations shall revere your name, O LORD,and all the kings of the earth your glory,\nwhen the LORD has rebuilt Zionand appeared in his glory;\nwhen he has regarded the prayer of the destitute,and not despised their prayer.\nLet this be written for the generation to come,and let his future creatures praise the LORD:\n\"The LORD looked down from his holy height,from heaven he beheld the earth,\nto hear the groaning of the prisoners,to release those doomed to die.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew11,28-30.",
+                "reading": "Jesus said to the crowds: “Come to me, all you who labor and are burdened, and I will give you rest.\nTake my yoke upon you and learn from me, for I am meek and humble of heart; and you will find rest for yourselves.\nFor my yoke is easy, and my burden light.\""
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
