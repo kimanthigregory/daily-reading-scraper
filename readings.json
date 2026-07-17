@@ -11258,5 +11258,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2026-07-17": {
+        "liturgical_week": "Friday of the Fifteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah38,1-6.21-22.7-8.",
+                "reading": "In those days, when Hezekiah was mortally ill, the prophet Isaiah, son of Amoz, came and said to him: \"Thus says the LORD: Put your house in order, for you are about to die; you shall not recover.\"\nThen Hezekiah turned his face to the wall and prayed to the LORD:\n\"O LORD, remember how faithfully and wholeheartedly I conducted myself in your presence, doing what was pleasing to you!\" And Hezekiah wept bitterly.\nThen the word of the LORD came to Isaiah:\n\"Go, tell Hezekiah: Thus says the LORD, the God of your father David: I have heard your prayer and seen your tears. I will heal you: in three days you shall go up to the LORD'S temple; I will add fifteen years to your life.\nI will rescue you and this city from the hand of the king of Assyria; I will be a shield to this city.\"\nIsaiah then ordered a poultice of figs to be taken and applied to the boil, that he might recover.\nThen Hezekiah asked, \"What is the sign that I shall go up to the temple of the LORD?\"\n(Isaiah answered:) \"This will be the sign for you from the LORD that he will do what he has promised:\nSee, I will make the shadow cast by the sun on the stairway to the terrace of Ahaz go back the ten steps it has advanced.\" So the sun came back the ten steps it had advanced."
+            },
+            "Psalm": {
+                "title": "Book of Isaiah38,10.11.12abcd.16.",
+                "reading": "Once I said,\"In the noontime of life I must depart!To the gates of the nether world I shall be consignedfor the rest of my years.\"\nI said, \"I shall see the LORD no morein the land of the living.No longer shall I behold my fellow menamong those who dwell in the world.\"\nMy dwelling, like a shepherd's tent,\nis struck down and borne away from me;\nYou have folded up my life, like a weaver\nwho severs the last thread.\nThose live whom the LORD protects;Yours is the life of my spirit.You have given me health and life."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew12,1-8.",
+                "reading": "Jesus was going through a field of grain on the sabbath. His disciples were hungry and began to pick the heads of grain and eat them.\nWhen the Pharisees saw this, they said to him, \"See, your disciples are doing what is unlawful to do on the sabbath.\"\nHe said to them, \"Have you not read what David did when he and his companions were hungry,\nhow he went into the house of God and ate the bread of offering, which neither he nor his companions but only the priests could lawfully eat?\nOr have you not read in the law that on the sabbath the priests serving in the temple violate the sabbath and are innocent?\nI say to you, something greater than the temple is here.\nIf you knew what this meant, 'I desire mercy, not sacrifice,' you would not have condemned these innocent men.\nFor the Son of Man is Lord of the sabbath.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Alexius",
+            "title": "Mendicant († 404)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/21774044-a91d-4844-8a35-009306c935c5"
+        }
     }
 }
