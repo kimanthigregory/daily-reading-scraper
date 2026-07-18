@@ -11280,5 +11280,27 @@
             "title": "Mendicant († 404)",
             "profile_link": "https://dailygospel.org/AM/display-saint/21774044-a91d-4844-8a35-009306c935c5"
         }
+    },
+    "2026-07-18": {
+        "liturgical_week": "Saturday of the Fifteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Micah2,1-5.",
+                "reading": "Woe to those who plan iniquity, and work out evil on their couches; In the morning light they accomplish it when it lies within their power.\nThey covet fields, and seize them; houses, and they take them; They cheat an owner of his house, a man of his inheritance.\nTherefore thus says the LORD: Behold, I am planning against this race an evil from which you shall not withdraw your necks; Nor shall you walk with head high, for it will be a time of evil.\nOn that day a satire shall be sung over you, and there shall be a plaintive chant: \"Our ruin is complete, our fields are portioned out among our captors, The fields of my people are measured out, and no one can get them back!\"\nThus you shall have no one to mark out boundaries by lot in the assembly of the LORD."
+            },
+            "Psalm": {
+                "title": "Psalms9(9B),1-2.3-4.7-8.14.",
+                "reading": "Why, O LORD, do you stand aloof?Why hide in times of distress?\nProudly the wicked harass the afflicted,who are caught in the devices the wicked have contrived.\nFor the wicked man glories in his greed,and the covetous blasphemes, sets the LORD at nought.\nThe wicked man boasts, \"He will not avenge it\";\"There is no God,\" sums up his thoughts.\nHis mouth is full of cursing, guile and deceit;under his tongue are mischief and iniquity.\nHe lurks in ambush near the villages;in hiding he murders the innocent;his eyes spy upon the unfortunate.\nYou do see, for you behold misery and sorrow,taking them in your hands.On you the unfortunate man depends;of the fatherless you are the helper."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew12,14-21.",
+                "reading": "The Pharisees went out and took counsel against Jesus to put him to death.\nWhen Jesus realized this, he withdrew from that place. Many (people) followed him, and he cured them all,\nbut he warned them not to make him known.\nThis was to fulfill what had been spoken through Isaiah the prophet:\n\"Behold, my servant whom I have chosen, my beloved in whom I delight; I shall place my spirit upon him, and he will proclaim justice to the Gentiles.\nHe will not contend or cry out, nor will anyone hear his voice in the streets.\nA bruised reed he will not break, a smoldering wick he will not quench, until he brings justice to victory.\nAnd in his name the Gentiles will hope.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Frederick",
+            "title": "Bishop and Martyr († 838)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0977bbd0-e385-42ea-abcb-c0f58343d3a5"
+        }
     }
 }
