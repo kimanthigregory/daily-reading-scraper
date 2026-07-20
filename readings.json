@@ -11328,5 +11328,27 @@
             "title": "Martyrs (c. 1781)",
             "profile_link": "https://dailygospel.org/AM/display-saint/ed57d276-103f-427a-9d2c-72c39fb9bf56"
         }
+    },
+    "2026-07-20": {
+        "liturgical_week": "Monday of the Sixteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Micah6,1-4.6-8.",
+                "reading": "Hear what the LORD says: Arise, present your plea before the mountains, and let the hills hear your voice!\nHear, O mountains, the plea of the LORD, pay attention, O foundations of the earth! For the LORD has a plea against his people, and he enters into trial with Israel.\nO my people, what have I done to you, or how have I wearied you? Answer me!\nFor I brought you up from the land of Egypt, from the place of slavery I released you; And I sent before you Moses, Aaron, and Miriam.\nWith what shall I come before the LORD, and bow before God most high? Shall I come before him with holocausts, with calves a year old?\nWill the LORD be pleased with thousands of rams, with myriad streams of oil? Shall I give my first-born for my crime, the fruit of my body for the sin of my soul?\nYou have been told, O man, what is good, and what the LORD requires of you: Only to do right and to love goodness, and to walk humbly with your God."
+            },
+            "Psalm": {
+                "title": "Psalms50(49),5-6.8-9.16bc-17.21.23.",
+                "reading": "\"Gather my faithful ones before me,those who have made a covenant with me by sacrifice.\"\nAnd the heavens proclaim his justice;for God himself is the judge.\n\"Not for your sacrifices do I rebuke you,for your burnt offerings are before me always.”\nI take from your house no bullock,no goats out of your fold.\"\n\"Why do you recite my statutes,\nand profess my covenant with your mouth,\nThough you hate disciplineand cast my words behind you?\"\n\"When you do these things, shall I be deaf to it?Or do you think that I am like yourself?I will correct you by drawing them up before your eyes.\nHe that offers praise as a sacrifice glorifies me;and to him that goes the right way I will show the salvation of God.”"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew12,38-42.",
+                "reading": "Some of the scribes and Pharisees said to Jesus, \"Teacher, we wish to see a sign from you.\"\nHe said to them in reply, \"An evil and unfaithful generation seeks a sign, but no sign will be given it except the sign of Jonah the prophet.\nJust as Jonah was in the belly of the whale three days and three nights, so will the Son of Man be in the heart of the earth three days and three nights.\nAt the judgment, the men of Nineveh will arise with this generation and condemn it, because they repented at the preaching of Jonah; and there is something greater than Jonah here.\nAt the judgment the queen of the south will arise with this generation and condemn it, because she came from the ends of the earth to hear the wisdom of Solomon; and there is something greater than Solomon here.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Apollinaris",
+            "title": "Bishop and Martyr (1st century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/223716e7-2d8e-4894-9e1e-ab91ed6e6fa0"
+        }
     }
 }
