@@ -11350,5 +11350,27 @@
             "title": "Bishop and Martyr (1st century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/223716e7-2d8e-4894-9e1e-ab91ed6e6fa0"
         }
+    },
+    "2026-07-21": {
+        "liturgical_week": "Tuesday of the Sixteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Micah7,14-15.18-20.",
+                "reading": "Shepherd your people with your staff, the flock of your inheritance, That dwells apart in a woodland, in the midst of Carmel. Let them feed in Bashan and Gilead, as in the days of old;\nAs in the days when you came from the land of Egypt, show us wonderful signs.\nWho is there like you, the God who removes guilt and pardons sin for the remnant of his inheritance; Who does not persist in anger forever, but delights rather in clemency,\nAnd will again have compassion on us, treading underfoot our guilt? You will cast into the depths of the sea all our sins;\nYou will show faithfulness to Jacob, and grace to Abraham, As you have sworn to our fathers from days of old."
+            },
+            "Psalm": {
+                "title": "Psalms85(84),2-4.5-6.7-8.",
+                "reading": "You have favored, O LORD, your land;you have brought back the captives of Jacob.\nYou have forgiven the guilt of your people;you have covered all their sins.\nYou have withdrawn all your wrath;you have revoked your burning anger.\nRestore us, O God our savior,And abandon your displeasure against us.\nWill you be ever angry with us,prolonging your anger to all generations?\nWill you not instead give us life;and shall not your people rejoice in you?\nShow us, O LORD, your kindness,and grant us your salvation."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew12,46-50.",
+                "reading": "While Jesus was speaking to the crowds, his mother and his brothers appeared outside, wishing to speak with him.\nSomeone told him, \"Your mother and your brothers are standing outside, asking to speak with you.\"\nBut he said in reply to the one who told him, \"Who is my mother? Who are my brothers?\"\nAnd stretching out his hand toward his disciples, he said, \"Here are my mother and my brothers.\nFor whoever does the will of my heavenly Father is my brother, and sister, and mother.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Lawrence of Brindisi",
+            "title": "Priest and Doctor of the Church (1559-1619)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/ffc58dff-776c-49d6-884e-c2ca3ab26423"
+        }
     }
 }
