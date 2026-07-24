@@ -11416,5 +11416,27 @@
             "title": "Apostle to the Apostles",
             "profile_link": "https://dailygospel.org/AM/display-saint/ac387575-7226-4919-8884-83bc29591d2c"
         }
+    },
+    "2026-07-24": {
+        "liturgical_week": "Friday of the Sixteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah3,14-17.",
+                "reading": "Return, rebellious children, says the LORD, for I am your Master; I will take you, one from a city, two from a clan, and bring you to Zion.\nI will appoint over you shepherds after my own heart, who will shepherd you wisely and prudently.\nWhen you multiply and become fruitful in the land, says the LORD, They will in those days no longer say, \"The ark of the covenant of the LORD!\" They will no longer think of it, or remember it, or miss it, or make another.\nAt that time they will call Jerusalem the LORD'S throne; there all nations will be gathered together to honor the name of the LORD at Jerusalem, and they will walk no longer in their hardhearted wickedness."
+            },
+            "Psalm": {
+                "title": "Book of Jeremiah31,10.11-12abcd.13.",
+                "reading": "Hear the word of the LORD, O nations,Proclaim it on distant isles, and say:He who scattered Israel, now gathers them together,He guards them as a shepherd his flock.\nThe LORD shall ransom Jacob,he shall redeem him from the hand of his conqueror.\nShouting, they shall mount the heights of Zion,\nthey shall come streaming to the LORD’s blessings:\nthe grain, the wine, and the oil,\nthe sheep and the oxen.\nThen the virgins shall make merry and dance,and young men and old as well.I will turn their mourning into joy,I will console and gladden them after their sorrows."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew13,18-23.",
+                "reading": "Jesus said to His disciples: \"Hear then the parable of the sower.\nThe seed sown on the path is the one who hears the word of the kingdom without understanding it, and the evil one comes and steals away what was sown in his heart.\nThe seed sown on rocky ground is the one who hears the word and receives it at once with joy.\nBut he has no root and lasts only for a time. When some tribulation or persecution comes because of the word, he immediately falls away.\nThe seed sown among thorns is the one who hears the word, but then worldly anxiety and the lure of riches choke the word and it bears no fruit.\nBut the seed sown on rich soil is the one who hears the word and understands it, who indeed bears fruit and yields a hundred or sixty or thirtyfold.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Sharbel Makhluf",
+            "title": "Priest (1828-1898)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6b13ad26-5440-402b-9bec-a703876a572e"
+        }
     }
 }
