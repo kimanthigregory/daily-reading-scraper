@@ -11438,5 +11438,27 @@
             "title": "Priest (1828-1898)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6b13ad26-5440-402b-9bec-a703876a572e"
         }
+    },
+    "2026-07-25": {
+        "liturgical_week": "Saint James, apostle - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians4,7-15.",
+                "reading": "Brothers and sisters: We hold this treasure in earthen vessels, that the surpassing power may be of God and not from us.\nWe are afflicted in every way, but not constrained; perplexed, but not driven to despair;\npersecuted, but not abandoned; struck down, but not destroyed;\nalways carrying about in the body the dying of Jesus, so that the life of Jesus may also be manifested in our body.\nFor we who live are constantly being given up to death for the sake of Jesus, so that the life of Jesus may be manifested in our mortal flesh.\nSo death is at work in us, but life in you.\nSince, then, we have the same spirit of faith, according to what is written, \"I believed, therefore I spoke,\" we too believe and therefore speak,\nknowing that the one who raised the Lord Jesus will raise us also with Jesus and place us with you in his presence.\nEverything indeed is for you, so that the grace bestowed in abundance on more and more people may cause the thanksgiving to overflow for the glory of God."
+            },
+            "Psalm": {
+                "title": "Psalms126(125),1-2ab.2cd-3.4-5.6.",
+                "reading": "When the LORD brought back the captives of Zion,we were like men dreaming.\nThen our mouth was filled with laughter,\nand our tongue with rejoicing.\nThen they said among the nations,\n\"the LORD has done great things for them.\"\nThe LORD has done great things for us;we are glad indeed.\nRestore our fortunes, O LORD,like the torrents in the southern desert.\nThose that sow in tearsshall reap rejoicing.\nAlthough they go forth weeping,carrying the seed to be sown,they shall come back rejoicing,carrying their sheaves."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew20,20-28.",
+                "reading": "The mother of the sons of Zebedee approached Jesus with her sons and did him homage, wishing to ask him for something.\nHe said to her, \"What do you wish?\" She answered him, \"Command that these two sons of mine sit, one at your right and the other at your left, in your kingdom.\"\nJesus said in reply, \"You do not know what you are asking. Can you drink the cup that I am going to drink?\" They said to him, \"We can.\"\nHe replied, \"My cup you will indeed drink, but to sit at my right and at my left, this is not mine to give but is for those for whom it has been prepared by my Father.\"\nWhen the ten heard this, they became indignant at the two brothers.\nBut Jesus summoned them and said, \"You know that the rulers of the Gentiles lord it over them, and the great ones make their authority over them felt.\nBut it shall not be so among you. Rather, whoever wishes to be great among you shall be your servant;\nwhoever wishes to be first among you shall be your slave.\nJust so, the Son of Man did not come to be served but to serve and to give his life as a ransom for many.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. James the Greater",
+            "title": "Apostle - Feast",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6968d3ca-0316-4a90-bac5-c8881410aa42"
+        }
     }
 }
