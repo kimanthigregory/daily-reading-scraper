@@ -11662,5 +11662,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/1e8fca9e-184f-4ff1-927e-93d7b149a118"
         }
+    },
+    "2026-08-04": {
+        "liturgical_week": "Tuesday of the Eighteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah30,1-2.12-15.18-22.",
+                "reading": "The following message came to Jeremiah from the LORD:\nThus says the LORD, the God of Israel: Write all the words I have spoken to you in a book.\nFor thus says the LORD: Incurable is your wound, grievous your bruise;\nThere is none to plead your cause, no remedy for your running sore, no healing for you.\nAll your lovers have forgotten you, they do not seek you. I struck you as an enemy would strike, punished you cruelly;\nWhy cry out over your wound? your pain is without relief. Because of your great guilt, your numerous sins, I have done this to you.\nThus says the LORD: See! I will restore the tents of Jacob, his dwellings I will pity; City shall be rebuilt upon hill, and palace restored as it was.\nFrom them will resound songs of praise, the laughter of happy men. I will make them not few, but many; they will not be tiny, for I will glorify them.\nHis sons shall be as of old, his assembly before me shall stand firm; I will punish all his oppressors.\nHis leader shall be one of his own, and his rulers shall come from his kin. When I summon him, he shall approach me; how else should one take the deadly risk of approaching me? says the LORD.\nYou shall be my people, and I will be your God."
+            },
+            "Psalm": {
+                "title": "Psalms102(101),16-18.19-21.29.22-23.",
+                "reading": "The nations shall revere your name, O LORD,and all the kings of the earth your glory,\nwhen the LORD has rebuilt Zionand appeared in his glory;\nwhen he has regarded the prayer of the destitute,and not despised their prayer.\nLet this be written for the generation to come,and let his future creatures praise the LORD:\n\"The LORD looked down from his holy height,from heaven he beheld the earth,\nto hear the groaning of the prisoners,to release those doomed to die.\"\nThe children of your servants shall abide,and their posterity shall continue in your presence,\nthat the name of the LORD may be declared on Zion;and his praise, in Jerusalem,\nwhen the peoples gather togetherand the kingdoms, to serve the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew15,1-2.10-14.",
+                "reading": "Some Pharisees and scribes came to Jesus from Jerusalem and said,\nWhy do your disciples break the tradition of the elders? They do not wash (their) hands when they eat a meal.\nHe summoned the crowd and said to them, \"Hear and understand.\nIt is not what enters one's mouth that defiles that person; but what comes out of the mouth is what defiles one.\"\nThen his disciples approached and said to him, \"Do you know that the Pharisees took offense when they heard what you said?\"\nHe said in reply, \"Every plant that my heavenly Father has not planted will be uprooted.\nLet them alone; they are blind guides (of the blind). If a blind person leads a blind person, both will fall into a pit.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John Mary Vianney",
+            "title": "Priest (1786-1859) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/082cf43b-0040-46d8-85b4-b34a72bcb30a"
+        }
     }
 }
