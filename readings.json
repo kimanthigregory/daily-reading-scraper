@@ -11684,5 +11684,23 @@
             "title": "Priest (1786-1859) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/082cf43b-0040-46d8-85b4-b34a72bcb30a"
         }
+    },
+    "2026-08-05": {
+        "liturgical_week": "Wednesday of the Eighteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah31,1-7.",
+                "reading": "At that time, says the LORD, I will be the God of all the tribes of Israel, and they shall be my people.\nThus says the LORD: The people that escaped the sword have found favor in the desert. As Israel comes forward to be given his rest,\nthe LORD appears to him from afar: With age-old love I have loved you; so I have kept my mercy toward you.\nAgain I will restore you, and you shall be rebuilt, O virgin Israel; Carrying your festive tambourines, you shall go forth dancing with the merrymakers.\nAgain you shall plant vineyards on the mountains of Samaria; those who plant them shall enjoy the fruits.\nYes, a day will come when the watchmen will call out on Mount Ephraim: \"Rise up, let us go to Zion, to the LORD, our God.\"\nFor thus says the LORD: Shout with joy for Jacob, exult at the head of the nations; proclaim your praise and say: The LORD has delivered his people, the remnant of Israel."
+            },
+            "Psalm": {
+                "title": "Book of Jeremiah31,10.11-12ab.13.",
+                "reading": "Hear the word of the LORD, O nations,Proclaim it on distant isles, and say:He who scattered Israel, now gathers them together,He guards them as a shepherd his flock.\nThe LORD shall ransom Jacob,he shall redeem him from the hand of his conqueror.\nShouting, they shall mount the heights of Zion,\nthey shall come streaming to the LORD’s blessings:\nThen the virgins shall make merry and dance,and young men and old as well.I will turn their mourning into joy,I will console and gladden them after their sorrows."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew15,21-28.",
+                "reading": "At that time Jesus withdrew to the region of Tyre and Sidon.\nAnd behold, a Canaanite woman of that district came and called out, \"Have pity on me, Lord, Son of David! My daughter is tormented by a demon.\"\nBut he did not say a word in answer to her. His disciples came and asked him, \"Send her away, for she keeps calling out after us.\"\nHe said in reply, \"I was sent only to the lost sheep of the house of Israel.\"\nBut the woman came and did him homage, saying, \"Lord, help me.\"\nHe said in reply, \"It is not right to take the food of the children and throw it to the dogs.\"\nShe said, \"Please, Lord, for even the dogs eat the scraps that fall from the table of their masters.\"\nThen Jesus said to her in reply, \"O woman, great is your faith! Let it be done for you as you wish.\" And her daughter was healed from that hour."
+            }
+        },
+        "saint_of_the_day": {}
     }
 }
