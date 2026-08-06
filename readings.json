@@ -11702,5 +11702,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2026-08-06": {
+        "liturgical_week": "Transfiguration of the Lord - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Daniel7,9-10.13-14.",
+                "reading": "As I watched : Thrones were set up and the Ancient One took his throne. His clothing was bright as snow, and the hair on his head as white as wool ; His throne was flames of fire, with wheels of burning fire.\nA surging stream of fire flowed out from where he sat; Thousands upon thousands were ministering to him, and myriads upon myriads attended him. The court was convened, and the books were opened.\nAs the visions during the night continued, I saw One like a son of man coming, on the clouds of heaven; When he reached the Ancient One and was presented before him,\nHe received dominion, glory, and kingship; nations and peoples of every language serve him. His dominion is an everlasting dominion that shall not be taken away, his kingship shall not be destroyed."
+            },
+            "Psalm": {
+                "title": "Psalms97(96),1-2.5-6.9.",
+                "reading": "The LORD is king; let the earth rejoice;let the many islands be glad.\nClouds and darkness are round about him,justice and judgment are the foundation of his throne.\nThe mountains melt like wax before the LORD,before the Lord of all the earth.\nThe heavens proclaim his justice,and all peoples see his glory.\nYou, O LORD, are the Most High over all the earth,exalted far above all gods."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew17,1-9.",
+                "reading": "Jesus took Peter, James, and John his brother,  and led them up a high mountain by themselves.\nAnd he was transfigured before them; his face shone like the sun and his clothes became white as light.\nAnd behold, Moses and Elijah appeared to them, conversing with him.\nThen Peter said to Jesus in reply, \"Lord, it is good that we are here. If you wish, I will make three tents here, one for you, one for Moses, and one for Elijah.\"\nWhile he was still speaking, behold, a bright cloud cast a shadow over them, then from the cloud came a voice that said, \"This is my beloved Son, with whom I am well pleased; listen to him.\"\nWhen the disciples heard this, they fell prostrate and were very much afraid.\nBut Jesus came and touched them, saying, \"Rise, and do not be afraid.\"\nAnd when the disciples raised their eyes, they saw no one else but Jesus alone.\nAs they were coming down from the mountain, Jesus charged them, \"Do not tell the vision to anyone until the Son of Man has been raised from the dead.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Hormisdas",
+            "title": "Pope († 523)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0ebc4363-c4d0-4b82-bd95-158ef4218d11"
+        }
     }
 }
