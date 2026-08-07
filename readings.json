@@ -11724,5 +11724,27 @@
             "title": "Pope († 523)",
             "profile_link": "https://dailygospel.org/AM/display-saint/0ebc4363-c4d0-4b82-bd95-158ef4218d11"
         }
+    },
+    "2026-08-07": {
+        "liturgical_week": "Friday of the Eighteenth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Nahum2,1.3.3,1-3.6-7.",
+                "reading": "See, upon the mountains there advances the bearer of good news, announcing peace! Celebrate your feasts, O Judah, fulfill your vows! For nevermore shall you be invaded by the scoundrel; he is completely destroyed.\nThe LORD will restore the vine of Jacob, the pride of Israel, Though ravagers have ravaged them and ruined the tendrils.\nWoe to the bloody city, all lies, full of plunder, whose looting never stops!\nThe crack of the whip, the rumbling sounds of wheels; horses a-gallop, chariots bounding,\nCavalry charging, The flame of the sword, the flash of the spear, the many slain, the heaping corpses, the endless bodies to stumble upon!\nI will cast filth upon you, disgrace you and put you to shame;\nTill everyone who sees you runs from you, saying, \"Nineveh is destroyed; who can pity her? Where can one find any to console her?\""
+            },
+            "Psalm": {
+                "title": "Book of Deuteronomy32,35cd-36ab.39abcd.41.",
+                "reading": "Close at hand is the day of their disaster\nand their doom is rushing upon them!\nSurely, the LORD shall do justice for his people;\non his servants he shall have pity.\n\"Learn then that I, I alone, am God,\nand there is no god besides me.\nIt is I who bring both death and life,\nI who inflict wounds and heal them.\nI will sharpen my flashing sword,and my hand shall lay hold of my quiver.\"With vengeance I will repay my foesand requite those who hate me.\""
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew16,24-28.",
+                "reading": "Jesus said to his disciples, “Whoever wishes to come after me must deny himself, take up his cross, and follow me.\nFor whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it.\nWhat profit would there be for one to gain the whole world and forfeit his life? Or what can one give in exchange for his life?\nFor the Son of Man will come with his angels in his Father's glory, and then he will repay everyone according to his conduct.\"\nAmen, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Cajetan",
+            "title": "Priest (1480-1547)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6cfa8284-5b3c-4257-a0d9-39b294374f1d"
+        }
     }
 }
