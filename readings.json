@@ -11794,5 +11794,27 @@
             "title": "(1891-1942)",
             "profile_link": "https://dailygospel.org/AM/display-saint/57b9ee44-6b03-4feb-9a77-16dc4cf7a384"
         }
+    },
+    "2026-08-10": {
+        "liturgical_week": "Saint Lawrence, deacon and martyr - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Corinthians9,6-10.",
+                "reading": "Brothers and sisters, whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully.\nEach must do as already determined, without sadness or compulsion, for God loves a cheerful giver.\nMoreover, God is able to make every grace abundant for you, so that in all things, always having all you need, you may have an abundance for every good work.\nAs it is written: \"He scatters abroad, he gives to the poor; his righteousness endures forever.\"\nThe one who supplies seed to the sower and bread for food will supply and multiply your seed and increase the harvest of your righteousness."
+            },
+            "Psalm": {
+                "title": "Psalms112(111),1-2.5-6.7-8.9.",
+                "reading": "Blessed the man who fears the LORD,who greatly delights in his commands.\nHis posterity shall be mighty upon the earth;the upright generation shall be blessed.\nWell for the man who is gracious and lends,who conducts his affairs with justice;\nHe shall never be moved;the just one shall be in everlasting remembrance.\nAn evil report he shall not fear;His heart is firm, trusting in the LORD.\nHis heart is steadfast; he shall not feartill he looks down upon his foes\nLavishly he gives to the poor,his justice shall endure forever;his horn shall be exalted in glory."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John12,24-26.",
+                "reading": "Jesus said to his disciples: “Amen, amen, I say to you, unless a grain of wheat falls to the ground and dies, it remains just a grain of wheat; but if it dies, it produces much fruit.\nWhoever loves his life loses it, and whoever hates his life in this world will preserve it for eternal life.\nWhoever serves me must follow me, and where I am, there also will my servant be. The Father will honor whoever serves me.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Lawrence",
+            "title": "Deacon and Martyr († 258)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/135eaa4e-1cbc-4583-a0bd-4649e75bf0b2"
+        }
     }
 }
