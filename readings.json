@@ -12118,5 +12118,27 @@
             "title": "Religious (1586-1617)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e0ecbd6f-eaa0-487c-9c42-913a2b68c4c7"
         }
+    },
+    "2026-08-24": {
+        "liturgical_week": "Saint Bartholomew, apostle - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation21,9b-14.",
+                "reading": "The angel spoke to me, saying, \"Come here. I will show you the bride, the wife of the Lamb.\"\nHe took me in spirit to a great, high mountain and showed me the holy city Jerusalem coming down out of heaven from God.\nIt gleamed with the splendor of God. Its radiance was like that of a precious stone, like jasper, clear as crystal.\nIt had a massive, high wall, with twelve gates where twelve angels were stationed and on which names were inscribed, (the names) of the twelve tribes of the Israelites.\nThere were three gates facing east, three north, three south, and three west.\nThe wall of the city had twelve courses of stones as its foundation, on which were inscribed the twelve names of the twelve apostles of the Lamb."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),10-11.12-13ab.17-18.",
+                "reading": "Let all your works give you thanks, O LORD,and let your faithful ones bless you.\nLet them discourse of the glory of your Kingdomand speak of your might.\nMaking known to men your mightand the glorious splendor of your Kingdom.\nYour Kingdom is a Kingdom for all ages,\nand your dominion endures through all generations.\nThe LORD is just in all his waysand holy in all his works.\nThe LORD is near to all who call upon him,to all who call upon him in truth."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint John1,45-51.",
+                "reading": "Philip found Nathanael and told him, \"We have found the one about whom Moses wrote in the law, and also the prophets, Jesus, son of Joseph, from Nazareth.\"\nBut Nathanael said to him, \"Can anything good come from Nazareth?\" Philip said to him, \"Come and see.\"\nJesus saw Nathanael coming toward him and said of him, \"Here is a true Israelite. There is no duplicity in him.\"\nNathanael said to him, \"How do you know me?\" Jesus answered and said to him, \"Before Philip called you, I saw you under the fig tree.\"\nNathanael answered him, \"Rabbi, you are the Son of God; you are the King of Israel.\"\nJesus answered and said to him, \"Do you believe because I told you that I saw you under the fig tree? You will see greater things than this.\"\nAnd he said to him, \"Amen, amen, I say to you, you will see the sky opened and the angels of God ascending and descending on the Son of Man.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Bartholomew",
+            "title": "Apostle - Feast",
+            "profile_link": "https://dailygospel.org/AM/display-saint/746e5b76-85cb-41ed-9df3-ef67dacbc4bf"
+        }
     }
 }
