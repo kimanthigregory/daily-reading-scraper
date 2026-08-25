@@ -12140,5 +12140,27 @@
             "title": "Apostle - Feast",
             "profile_link": "https://dailygospel.org/AM/display-saint/746e5b76-85cb-41ed-9df3-ef67dacbc4bf"
         }
+    },
+    "2026-08-25": {
+        "liturgical_week": "Tuesday of the Twenty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Second Letter to the Thessalonians2,1-3a.14-17.",
+                "reading": "We ask you, brothers and sisters, with regard to the coming of our Lord Jesus Christ and our assembling with him,\nnot to be shaken out of your minds suddenly, or to be alarmed either by a \"spirit,\" or by an oral statement, or by a letter allegedly from us to the effect that the day of the Lord is at hand.\nLet no one deceive you in any way.\nTo this end he has (also) called you through our gospel to possess the glory of our Lord Jesus Christ.\nTherefore, brothers, stand firm and hold fast to the traditions that you were taught, either by an oral statement or by a letter of ours.\nMay our Lord Jesus Christ himself and God our Father, who has loved us and given us everlasting encouragement and good hope through his grace,\nencourage your hearts and strengthen them in every good deed and word."
+            },
+            "Psalm": {
+                "title": "Psalms96(95),10.11-12a.12b-13.",
+                "reading": "Say among the nations: The LORD is king.He has made the world firm, not to be moved;He governs the peoples with equity.\nLet the heavens be glad and the earth rejoice;let the sea and what fills it resound;\nLet the plains be joyful and all that is in them!\nThen shall all the trees of the forest exult.\nThe LORD comes,he comes to rule the earth.He shall rule the world with justiceand the peoples with his constancy."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew23,23-26.",
+                "reading": "Jesus said: \"Woe to you, scribes and Pharisees, you hypocrites. You pay tithes of mint and dill and cummin, and have neglected the weightier things of the law: judgment and mercy and fidelity. (But) these you should have done, without neglecting the others.\nBlind guides, who strain out the gnat and swallow the camel!\nWoe to you, scribes and Pharisees, you hypocrites. You cleanse the outside of cup and dish, but inside they are full of plunder and self-indulgence.\nBlind Pharisee, cleanse first the inside of the cup, so that the outside also may be clean.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Louis",
+            "title": "King of France (1215-1270)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/931f4eab-d945-40d0-acf7-0370eded4455"
+        }
     }
 }
