@@ -12184,5 +12184,27 @@
             "title": "King of France (1215-1270)",
             "profile_link": "https://dailygospel.org/AM/display-saint/931f4eab-d945-40d0-acf7-0370eded4455"
         }
+    },
+    "2026-08-27": {
+        "liturgical_week": "Thursday of the Twenty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians1,1-9.",
+                "reading": "Paul, called to be an apostle of Christ Jesus by the will of God, and Sosthenes our brother,\nto the church of God that is in Corinth, to you who have been sanctified in Christ Jesus, called to be holy, with all those everywhere who call upon the name of our Lord Jesus Christ, their Lord and ours.\nGrace to you and peace from God our Father and the Lord Jesus Christ.\nI give thanks to my God always on your account for the grace of God bestowed on you in Christ Jesus,\nthat in him you were enriched in every way, with all discourse and all knowledge,\nas the testimony to Christ was confirmed among you,\nso that you are not lacking in any spiritual gift as you wait for the revelation of our Lord Jesus Christ.\nHe will keep you firm to the end, irreproachable on the day of our Lord Jesus (Christ).\nGod is faithful, and by him you were called to fellowship with his Son, Jesus Christ our Lord."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),2-3.4-5.6-7.",
+                "reading": "Every day will I bless you,and I will praise your name forever and ever.\nGreat is the LORD and highly to be praised;His greatness is unsearchable.\nGeneration after generation praises your worksand proclaims your might.\nThey speak of the splendor of your glorious majestyand tell of your wondrous works.\nThey discourse of the power of your terrible deedsand declare your greatness.\nThey publish the fame of your abundant goodnessand joyfully sing of your justice."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew24,42-51.",
+                "reading": "Jesus said to his disciples: \"Stay awake! For you do not know on which day your Lord will come.\nBe sure of this: if the master of the house had known the hour of night when the thief was coming, he would have stayed awake and not let his house be broken into.\nSo too, you also must be prepared, for at an hour you do not expect, the Son of Man will come.\nWho, then, is the faithful and prudent servant, whom the master has put in charge of his household to distribute to them their food at the proper time?\nBlessed is that servant whom his master on his arrival finds doing so.\nAmen, I say to you, he will put him in charge of all his property.\nBut if that wicked servant says to himself, 'My master is long delayed,'\nand begins to beat his fellow servants, and eat and drink with drunkards,\nthe servant's master will come on an unexpected day and at an unknown hour\nand will punish him severely and assign him a place with the hypocrites, where there will be wailing and grinding of teeth.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Monica",
+            "title": "Layperson (332-387)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6ccd265d-9133-4ef5-b4bc-b33e9fe1aea4"
+        }
     }
 }
