@@ -12250,5 +12250,31 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/e7fc4b42-60fd-4d9a-ade3-8bef2eb2835b"
         }
+    },
+    "2026-08-30": {
+        "liturgical_week": "Twenty-second Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Jeremiah20,7-9.",
+                "reading": "You duped me, O LORD, and I let myself be duped; you were too strong for me, and you triumphed. All the day I am an object of laughter; everyone mocks me.\nWhenever I speak, I must cry out, violence and outrage is my message; The word of the LORD has brought me derision and reproach all the day.\nI say to myself, I will not mention him, I will speak in his name no more. But then it becomes like fire burning in my heart, imprisoned in my bones; I grow weary holding it in, I cannot endure it."
+            },
+            "Psalm": {
+                "title": "Psalms63(62),2.3-4.5-6.8-9.",
+                "reading": "O God, you are my God whom I seek;for you my flesh pines and my soul thirstslike the earth, parched, lifeless and without water.\nThus have I gazed toward you in the sanctuaryto see your power and your glory,\nfor your kindness is a greater good than life;my lips shall glorify you.\nThus will I bless you while I live;lifting up my hands, I will call upon your name.\nAs with the riches of a banquet shall my soul be satisfied,and with exultant lips my mouth shall praise you.\nYou indeed are my help,and in the shadow of your wings I shout for joy.\nMy soul clings fast to you;your right hand upholds me."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Romans12,1-2.",
+                "reading": "I urge you therefore, brothers and sisters, by the mercies of God, to offer your bodies as a living sacrifice, holy and pleasing to God, your spiritual worship.\nDo not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew16,21-27.",
+                "reading": "Jesus began to show his disciples that he must go to Jerusalem and suffer greatly from the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\nThen Peter took him aside and began to rebuke him, \"God forbid, Lord! No such thing shall ever happen to you.\"\nHe turned and said to Peter, \"Get behind me, Satan! You are an obstacle to me. You are thinking not as God does, but as human beings do.\"\nThen Jesus said to his disciples, \"Whoever wishes to come after me must deny himself, take up his cross, and follow me.\nFor whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it.\nWhat profit would there be for one to gain the whole world and forfeit his life? Or what can one give in exchange for his life?\nFor the Son of Man will come with his angels in his Father's glory, and then he will repay everyone according to his conduct.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Jeanne Jugan",
+            "title": "Foundress (1792-1879)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/7851532e-7cc5-453f-b714-729ec85786c9"
+        }
     }
 }
