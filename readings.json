@@ -12320,5 +12320,27 @@
             "title": "Abbot (640-720)",
             "profile_link": "https://dailygospel.org/AM/display-saint/591454f2-134e-497f-b245-98765a97a450"
         }
+    },
+    "2026-09-02": {
+        "liturgical_week": "Wednesday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians3,1-9.",
+                "reading": "Brothers and sisters, I could not talk to you as spiritual people, but as fleshly people, as infants in Christ.\nI fed you milk, not solid food, because you were unable to take it. Indeed, you are still not able, even now,\nfor you are still of the flesh. While there is jealousy and rivalry among you, are you not of the flesh, and behaving in an ordinary human way?\nWhenever someone says, \"I belong to Paul,\" and another, \"I belong to Apollos,\" are you not merely human?\nWhat is Apollos, after all, and what is Paul? Ministers through whom you became believers, just as the Lord assigned each one.\nI planted, Apollos watered, but God caused the growth.\nTherefore, neither the one who plants nor the one who waters is anything, but only God, who causes the growth.\nThe one who plants and the one who waters are equal, and each will receive wages in proportion to his labor.\nFor we are God's co-workers; you are God's field, God's building."
+            },
+            "Psalm": {
+                "title": "Psalms33(32),12-13.14-15.20-21.",
+                "reading": "Blessed the nation whose God is the LORD,the people he has chosen for his own inheritance.\nFrom heaven the LORD looks down;He sees all mankind.\nFrom his fixed throne he beholdsAll who dwell on the earth,\nHe who fashioned the heart of each,He who knows all their works.\nOur soul waits for the LORD,who is our help and our shield,\nFor in him our hearts rejoice;In his holy name we trust."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke4,38-44.",
+                "reading": "After Jesus left the synagogue, he entered the house of Simon. Simon's mother-in-law was afflicted with a severe fever, and they interceded with him about her.\nHe stood over her, rebuked the fever, and it left her. She got up immediately and waited on them.\nAt sunset, all who had people sick with various diseases brought them to him. He laid his hands on each of them and cured them.\nAnd demons also came out from many, shouting, \"You are the Son of God.\" But he rebuked them and did not allow them to speak because they knew that he was the Messiah.\nAt daybreak, Jesus left and went to a deserted place. The crowds went looking for him, and when they came to him, they tried to prevent him from leaving them.\nBut he said to them, \"To the other towns also I must proclaim the good news of the kingdom of God, because for this purpose I have been sent.\"\nAnd he was preaching in the synagogues of Judea."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Ingrid of Sweden",
+            "title": "(† 1282)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/05050f4f-3778-4fb8-94b0-86bd811fd112"
+        }
     }
 }
