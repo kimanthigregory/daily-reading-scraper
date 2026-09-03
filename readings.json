@@ -12342,5 +12342,27 @@
             "title": "(† 1282)",
             "profile_link": "https://dailygospel.org/AM/display-saint/05050f4f-3778-4fb8-94b0-86bd811fd112"
         }
+    },
+    "2026-09-03": {
+        "liturgical_week": "Thursday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians3,18-23.",
+                "reading": "Brothers and sisters : Let no one deceive himself. If anyone among you considers himself wise in this age, let him become a fool, so as to become wise.\nFor the wisdom of this world is foolishness in the eyes of God, for it is written: \"He catches the wise in their own ruses,\"\nand again: \"The Lord knows the thoughts of the wise, that they are vain.\"\nSo let no one boast about human beings, for everything belongs to you,\nPaul or Apollos or Kephas, or the world or life or death, or the present or the future: all belong to you,\nand you to Christ, and Christ to God."
+            },
+            "Psalm": {
+                "title": "Psalms24(23),1-2.3-4ab.5-6.",
+                "reading": "The LORD's are the earth and its fullness;the world and those who dwell in it.\nFor he founded it upon the seasand established it upon the rivers.\nWho can ascend the mountain of the LORD?or who may stand in his holy place?\nOne whose hands are sinless, whose heart is clean,\nwho desires not what is vain.\nHe shall receive a blessing from the LORD,a reward from God his savior.\nSuch is the race that seeks for him,that seeks the face of the God of Jacob."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke5,1-11.",
+                "reading": "While the crowd was pressing in on Jesus and listening to the word of God, he was standing by the Lake of Gennesaret.\nHe saw two boats there alongside the lake; the fishermen had disembarked and were washing their nets.\nGetting into one of the boats, the one belonging to Simon, he asked him to put out a short distance from the shore. Then he sat down and taught the crowds from the boat.\nAfter he had finished speaking, he said to Simon, \"Put out into deep water and lower your nets for a catch.\"\nSimon said in reply, \"Master, we have worked hard all night and have caught nothing, but at your command I will lower the nets.\"\nWhen they had done this, they caught a great number of fish and their nets were tearing.\nThey signaled to their partners in the other boat to come to help them. They came and filled both boats so that they were in danger of sinking.\nWhen Simon Peter saw this, he fell at the knees of Jesus and said, \"Depart from me, Lord, for I am a sinful man.\"\nFor astonishment at the catch of fish they had made seized him and all those with him,\nand likewise James and John, the sons of Zebedee, who were partners of Simon. Jesus said to Simon, \"Do not be afraid; from now on you will be catching men.\"\nWhen they brought their boats to the shore, they left everything and followed him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Gregory the Great",
+            "title": "Pope and Doctor of the Church (c.540-604) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e709349f-89e8-43c0-9f5e-3105d3b86c2b"
+        }
     }
 }
