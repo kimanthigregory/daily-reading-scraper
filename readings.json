@@ -12364,5 +12364,27 @@
             "title": "Pope and Doctor of the Church (c.540-604) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/e709349f-89e8-43c0-9f5e-3105d3b86c2b"
         }
+    },
+    "2026-09-04": {
+        "liturgical_week": "Friday of the Twenty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians4,1-5.",
+                "reading": "Brothers and sisters : Thus should one regard us : as servants of Christ and stewards of the mysteries of God.\nNow it is of course required of stewards that they be found trustworthy.\nIt does not concern me in the least that I be judged by you or any human tribunal; I do not even pass judgment on myself;\nI am not conscious of anything against me, but I do not thereby stand acquitted; the one who judges me is the Lord.\nTherefore, do not make any judgment before the appointed time, until the Lord comes, for he will bring to light what is hidden in darkness and will manifest the motives of our hearts, and then everyone will receive praise from God."
+            },
+            "Psalm": {
+                "title": "Psalms37(36),3-4.5-6.27-28.39-40.",
+                "reading": "Trust in the LORD and do good,that you may dwell in the land and be fed in security.\nTake delight in the LORD,and he will grant you your heart's requests.\nCommit to the LORD your way;trust in him, and he will act.\nHe will make justice dawn for you like the light;bright as the noonday shall be your vindication.\nTurn from evil and do good,that you may abide forever;\nFor the LORD loves what is right,and forsakes not his faithful ones.\nThe salvation of the just is from the LORD;He is their refuge in time of distress.\nThe LORD helps them and delivers them;He delivers them from the wicked and saves them,because they take refuge in him."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke5,33-39.",
+                "reading": "The scribes and Pharisees said to Jesus, \"The disciples of John the Baptist fast often and offer prayers, and the disciples of the Pharisees do the same ; but yours eat and drink.\"\nJesus answered them, \"Can you make the wedding guests fast while the bridegroom is with them?\nBut the days will come, and when the bridegroom is taken away from them, then they will fast in those days.\"\nAnd he also told them a parable. \"No one tears a piece from a new cloak to patch an old one. Otherwise, he will tear the new and the piece from it will not match the old cloak.\nLikewise, no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins, and it will be spilled, and the skins will be ruined.\nRather, new wine must be poured into fresh wineskins.\n(And) no one who has been drinking old wine desires new, for he says, 'The old is good.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Rosalia",
+            "title": "Layperson († 1160)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/22816fbc-44f6-453c-b23b-f0db337ce7bf"
+        }
     }
 }
