@@ -12474,5 +12474,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/13e34341-5125-4780-ab13-c459c53757ca"
         }
+    },
+    "2026-09-09": {
+        "liturgical_week": "Wednesday of the Twenty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians7,25-31.",
+                "reading": "Brothers and sisters: In regard to virgins, I have no commandment from the Lord, but I give my opinion as one who by the Lord's mercy is trustworthy.\nSo this is what I think best because of the present distress: that it is a good thing for a person to remain as he is.\nAre you bound to a wife? Do not seek a separation. Are you free of a wife? Then do not look for a wife.\nIf you marry, however, you do not sin, nor does an unmarried woman sin if she marries; but such people will experience affliction in their earthly life, and I would like to spare you that.\nI tell you, brothers, the time is running out. From now on, let those having wives act as not having them,\nthose weeping as not weeping, those rejoicing as not rejoicing, those buying as not owning,\nthose using the world as not using it fully. For the world in its present form is passing away."
+            },
+            "Psalm": {
+                "title": "Psalms45(44),11-12.14-15.16-17.",
+                "reading": "Hear, O daughter, and see; turn your ear,Forget your people and your father's house.\nSo shall the king desire your beauty;for he is your lord. and you must worship him.\nAll glorious is the king's daughter as she enters;Her raiment is threaded with spun gold.\nIn embroidered apparel she is borne in to the king;behind her the virgins of her train are brought to you.\nThey are borne in with gladness and joy;they enter the palace of the king.\nThe place of your fathers your sons shall have;You shall make them princes through all the land."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,20-26.",
+                "reading": "Raising his eyes toward his disciples Jesus said: “Blessed are you who are poor, for the kingdom of God is yours.\nBlessed are you who are now hungry, for you will be satisfied. Blessed are you who are now weeping, for you will laugh.\nBlessed are you when people hate you, and when they exclude and insult you, and denounce your name as evil on account of the Son of Man.\nRejoice and leap for joy on that day! Behold, your reward will be great in heaven. For their ancestors treated the prophets in the same way.\nBut woe to you who are rich, for you have received your consolation.\nBut woe to you who are filled now, for you will be hungry. Woe to you who laugh now, for you will grieve and weep.\nWoe to you when all speak well of you, for their ancestors treated the false prophets in this way.”"
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Peter Claver",
+            "title": "Priest (1580-1654) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cfc484b6-d934-48c9-9373-d52160f47a07"
+        }
     }
 }
