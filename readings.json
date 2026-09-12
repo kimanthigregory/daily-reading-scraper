@@ -12540,5 +12540,27 @@
             "title": "Bishop (4th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4c462c29-597e-46f7-b7a6-388510c38698"
         }
+    },
+    "2026-09-12": {
+        "liturgical_week": "Saturday of the Twenty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians10,14-22.",
+                "reading": "My beloved ones, avoid idolatry.\nI am speaking as to sensible people; judge for yourselves what I am saying.\nThe cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?\nBecause the loaf of bread is one, we, though many, are one body, for we all partake of the one loaf.\nLook at Israel according to the flesh; are not those who eat the sacrifices participants in the altar?\nSo what am I saying? That meat sacrificed to idols is anything? Or that an idol is anything?\nNo, I mean that what they sacrifice, (they sacrifice) to demons, not to God, and I do not want you to become participants with demons.\nYou cannot drink the cup of the Lord and also the cup of demons. You cannot partake of the table of the Lord and of the table of demons.\nOr are we provoking the Lord to jealous anger? Are we stronger than he?"
+            },
+            "Psalm": {
+                "title": "Psalms116(115),12-13.17-18.",
+                "reading": "How shall I make a return to the LORDfor all the good he has done for me?\nThe cup of salvation I will take up,and I will call upon the name of the LORD.\nTo you will I offer sacrifice of thanksgiving,and I will call upon the name of the LORD.\nMy vows to the LORD I will payin the presence of all his people."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke6,43-49.",
+                "reading": "Jesus said to his disciples : \"A good tree does not bear rotten fruit, nor does a rotten tree bear good fruit.\nFor every tree is known by its own fruit. For people do not pick figs from thornbushes, nor do they gather grapes from brambles.\nA good person out of the store of goodness in his heart produces good, but an evil person out of a store of evil produces evil; for from the fullness of the heart the mouth speaks.\nWhy do you call me, 'Lord, Lord,' but not do what I command?\nI will show you what someone is like who comes to me, listens to my words, and acts on them.\nThat one is like a person building a house, who dug deeply and laid the foundation on rock; when the flood came, the river burst against that house but could not shake it because it had been well built.\nBut the one who listens and does not act is like a person who built a house on the ground without a foundation. When the river burst against it, it collapsed at once and was completely destroyed.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Guy of Anderlecht",
+            "title": "(† c.1012)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4a622eb9-1f33-4a55-9bde-ae7f0d27a4d8"
+        }
     }
 }
