@@ -12628,5 +12628,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/8b6838ea-fe83-4cd5-92f9-2704a01114a9"
         }
+    },
+    "2026-09-16": {
+        "liturgical_week": "Wednesday of the Twenty-fourth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "First Letter to the Corinthians12,31.13,1-13.",
+                "reading": "Brothers and sisters: Strive eagerly for the greatest spiritual gifts. But I shall show you a still more excellent way.\nIf I speak in human and angelic tongues but do not have love, I am a resounding gong or a clashing cymbal.\nAnd if I have the gift of prophecy and comprehend all mysteries and all knowledge; if I have all faith so as to move mountains but do not have love, I am nothing.\nIf I give away everything I own, and if I hand my body over so that I may boast but do not have love, I gain nothing.\nLove is patient, love is kind. It is not jealous, (love) is not pompous, it is not inflated,\nit is not rude, it does not seek its own interests, it is not quick-tempered, it does not brood over injury,\nit does not rejoice over wrongdoing but rejoices with the truth.\nIt bears all things, believes all things, hopes all things, endures all things.\nLove never fails. If there are prophecies, they will be brought to nothing; if tongues, they will cease; if knowledge, it will be brought to nothing.\nFor we know partially and we prophesy partially,\nbut when the perfect comes, the partial will pass away.\nWhen I was a child, I used to talk as a child, think as a child, reason as a child; when I became a man, I put aside childish things.\nAt present we see indistinctly, as in a mirror, but then face to face. At present I know partially; then I shall know fully, as I am fully known.\nSo faith, hope, love remain, these three; but the greatest of these is love."
+            },
+            "Psalm": {
+                "title": "Psalms33(32),2-3.4-5.12.22.",
+                "reading": "Give thanks to the LORD on the harp;with the ten stringed lyre chant his praises.\nSing to him a new song;pluck the strings skillfully, with shouts of gladness.\nFor upright is the word of the LORD,and all his works are trustworthy.\nHe loves justice and right;of the kindness of the LORD the earth is full.\nBlessed the nation whose God is the LORD,the people he has chosen for his own inheritance.\nMay your kindness, O LORD, be upon uswho have put our hope in you."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke7,31-35.",
+                "reading": "Jesus said to the crowds: “To what shall I compare the people of this generation? What are they like?\nThey are like children who sit in the marketplace and call to one another, 'We played the flute for you, but you did not dance. We sang a dirge, but you did not weep.'\nFor John the Baptist came neither eating food nor drinking wine, and you said, 'He is possessed by a demon.'\nThe Son of Man came eating and drinking and you said, 'Look, he is a glutton and a drunkard, a friend of tax collectors and sinners.'\nBut wisdom is vindicated by all her children.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Cyprian & Cornelius",
+            "title": "Martyrs",
+            "profile_link": "https://dailygospel.org/AM/display-saint/11315e0d-0122-444e-af60-1a5863252b9a"
+        }
     }
 }
