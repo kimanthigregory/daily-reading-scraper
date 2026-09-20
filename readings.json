@@ -12716,5 +12716,31 @@
             "title": "Bishop and Martyr († 305)",
             "profile_link": "https://dailygospel.org/AM/display-saint/af478fca-430b-4d52-b0c9-165cd840898f"
         }
+    },
+    "2026-09-20": {
+        "liturgical_week": "Twenty-fifth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah55,6-9.",
+                "reading": "Seek the LORD while he may be found, call him while he is near.\nLet the scoundrel forsake his way, and the wicked man his thoughts; Let him turn to the LORD for mercy; to our God, who is generous in forgiving.\nFor my thoughts are not your thoughts, nor are your ways my ways, says the LORD.\nAs high as the heavens are above the earth, so high are my ways above your ways and my thoughts above your thoughts."
+            },
+            "Psalm": {
+                "title": "Psalms145(144),2-3.8-9.17-18.",
+                "reading": "Every day will I bless you,and I will praise your name forever and ever.\nGreat is the LORD and highly to be praised;His greatness is unsearchable.\nThe LORD is gracious and merciful,slow to anger and of great kindness.\nThe LORD is good to alland compassionate toward all his works.\nThe LORD is just in all his waysand holy in all his works.\nThe LORD is near to all who call upon him,to all who call upon him in truth."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Philippians1,20c-24.27a.",
+                "reading": "Brothers and sisters: Christ will be magnified in my body, whether by life or by death.\nFor to me life is Christ, and death is gain.\nIf I go on living in the flesh, that means fruitful labor for me. And I do not know which I shall choose.\nI am caught between the two. I long to depart this life and be with Christ, (for) that is far better.\nYet that I remain (in) the flesh is more necessary for your benefit.\nOnly, conduct yourselves in a way worthy of the gospel of Christ."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew20,1-16a.",
+                "reading": "Jesus told his disciples this parable: \"The kingdom of heaven is like a landowner who went out at dawn to hire laborers for his vineyard.\nAfter agreeing with them for the usual daily wage, he sent them into his vineyard.\nGoing out about nine o'clock, he saw others standing idle in the marketplace,\nand he said to them, 'You too go into my vineyard, and I will give you what is just.'\nSo they went off. (And) he went out again around noon, and around three o'clock, and did likewise.\nGoing out about five o'clock, he found others standing around, and said to them, 'Why do you stand here idle all day?'\nThey answered, 'Because no one has hired us.' He said to them, 'You too go into my vineyard.'\nWhen it was evening the owner of the vineyard said to his foreman, 'Summon the laborers and give them their pay, beginning with the last and ending with the first.'\nWhen those who had started about five o'clock came, each received the usual daily wage.\nSo when the first came, they thought that they would receive more, but each of them also got the usual wage.\nAnd on receiving it they grumbled against the landowner,\nsaying, 'These last ones worked only one hour, and you have made them equal to us, who bore the day's burden and the heat.'\nHe said to one of them in reply, 'My friend, I am not cheating you. Did you not agree with me for the usual daily wage?\nTake what is yours and go. What if I wish to give this last one the same as you?\n(Or) am I not free to do as I wish with my own money? Are you envious because I am generous?'\nThus, the last will be first, and the first will be last.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Eustachius and Companions",
+            "title": "Martyrs († 2nd century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/505f3b06-b06e-4407-b730-f82905fbd159"
+        }
     }
 }
