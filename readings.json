@@ -12742,5 +12742,27 @@
             "title": "Martyrs († 2nd century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/505f3b06-b06e-4407-b730-f82905fbd159"
         }
+    },
+    "2026-09-21": {
+        "liturgical_week": "Saint Matthew, apostle and evangelist - Feast",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians4,1-7.11-13.",
+                "reading": "Brothers and sisters : I, a prisoner for the Lord, urge you to live in a manner worthy of the call you have received,\nwith all humility and gentleness, with patience, bearing with one another through love,\nstriving to preserve the unity of the spirit through the bond of peace:\none body and one Spirit, as you were also called to the one hope of your call;\none Lord, one faith, one baptism;\none God and Father of all, who is over all and through all and in all.\nBut grace was given to each of us according to the measure of Christ's gift.\nAnd he gave some as apostles, others as prophets, others as evangelists, others as pastors and teachers,\nto equip the holy ones for the work of ministry, for building up the body of Christ,\nuntil we all attain to the unity of faith and knowledge of the Son of God, to mature manhood, to the extent of the full stature of Christ,"
+            },
+            "Psalm": {
+                "title": "Psalms19(18),2-3.4-5.",
+                "reading": "The heavens declare the glory of God;and the firmament proclaims his handiwork.\nDay pours out the word to day,and night to night imparts knowledge.\nNot a word nor a discoursewhose voice is not heard;\nThrough all the earth their voice resounds,and to the ends of the world, their message."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew9,9-13.",
+                "reading": "As Jesus passed by, he saw a man named Matthew sitting at the customs post. He said to him, \"Follow me.\" And he got up and followed him.\nWhile he was at table in his house, many tax collectors and sinners came and sat with Jesus and his disciples.\nThe Pharisees saw this and said to his disciples, \"Why does your teacher eat with tax collectors and sinners?\"\nHe heard this and said, \"Those who are well do not need a physician, but the sick do.\nGo and learn the meaning of the words, 'I desire mercy, not sacrifice.' I did not come to call the righteous but sinners.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Matthew",
+            "title": "Apostle - Feast",
+            "profile_link": "https://dailygospel.org/AM/display-saint/063657c2-5e72-4f76-941c-0d18d9cda816"
+        }
     }
 }
