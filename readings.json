@@ -12764,5 +12764,27 @@
             "title": "Apostle - Feast",
             "profile_link": "https://dailygospel.org/AM/display-saint/063657c2-5e72-4f76-941c-0d18d9cda816"
         }
+    },
+    "2026-09-22": {
+        "liturgical_week": "Tuesday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Proverbs21,1-6.10-13.",
+                "reading": "Like a stream is the king's heart in the hand of the LORD; wherever it pleases him, he directs it.\nAll the ways of a man may be right in his own eyes, but it is the LORD who proves hearts.\nTo do what is right and just is more acceptable to the LORD than sacrifice.\nHaughty eyes and a proud heart-- the tillage of the wicked is sin.\nThe plans of the diligent are sure of profit, but all rash haste leads certainly to poverty.\nHe who makes a fortune by a lying tongue is chasing a bubble over deadly snares.\nThe soul of the wicked man desires evil; his neighbor finds no pity in his eyes.\nWhen the arrogant man is punished, the simple are the wiser; when the wise man is instructed, he gains knowledge.\nThe just man appraises the house of the wicked: there is one who brings down the wicked to ruin.\nHe who shuts his ear to the cry of the poor will himself also call and not be heard."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),1.27.30.34.35.44.",
+                "reading": "Blessed are they whose way is blameless,who walk in the law of the LORD.\nMake me understand the way of your precepts,and I will meditate on your wondrous deeds.\nThe way of truth I have chosen;I have set your ordinances before me.\nGive me discernment, that I may observe your lawand keep it with all my heart.\nLead me in the path of your commands,for in it I delight.\nI will keep your law continually,forever and ever."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke8,19-21.",
+                "reading": "The mother of Jesus and his brothers came to him but were unable to join him because of the crowd.\nHe was told, \"Your mother and your brothers are standing outside and they wish to see you.\"\nHe said to them in reply, \"My mother and my brothers are those who hear the word of God and act on it.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "The Theban Legion",
+            "title": "Martyrs (c.287)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/36be1113-47e0-4b5b-b625-8ee157906fad"
+        }
     }
 }
