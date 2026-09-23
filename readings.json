@@ -12786,5 +12786,27 @@
             "title": "Martyrs (c.287)",
             "profile_link": "https://dailygospel.org/AM/display-saint/36be1113-47e0-4b5b-b625-8ee157906fad"
         }
+    },
+    "2026-09-23": {
+        "liturgical_week": "Wednesday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Proverbs30,5-9.",
+                "reading": "Every word of God is tested ; he is a shield to those who take refuge in him.\nAdd nothing to his words, lest he reprove you, and you be exposed as a deceiver.\nTwo things I ask of you, deny them not to me before I die:\nPut falsehood and lying far from me, give me neither poverty nor riches; (provide me only with the food I need;)\nLest, being full, I deny you, saying, \"Who is the LORD?\" Or, being in want, I steal, and profane the name of my God."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),29.72.89.101.104.163.",
+                "reading": "Remove from me the way of falsehood,and favor me with your law.\nThe law of your mouth is to me more preciousthan thousands of gold and silver pieces.\nYour word, O LORD, endures forever;it is firm as the heavens.\nFrom every evil way I withhold my feet,that I may keep your words.\nThrough your precepts I gain discernment;therefore I hate every false way.\nFalsehood I hate and abhor;your law I love."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,1-6.",
+                "reading": "Jesus summoned the Twelve and gave them power and authority over all demons and to cure diseases,\nand he sent them to proclaim the kingdom of God and to heal the sick.\nHe said to them, \"Take nothing for the journey, neither walking stick, nor sack, nor food, nor money, and let no one take a second tunic.\nWhatever house you enter, stay there and leave from there.\nAnd as for those who do not welcome you, when you leave that town, shake the dust from your feet in testimony against them.\"\nThen they set out and went from village to village proclaiming the good news and curing diseases everywhere."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Pio da Pietrelcina",
+            "title": "Capuchin Priest (1887-1968) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/a0526ddd-a69a-45ab-b7e9-3520b2ba690c"
+        }
     }
 }
