@@ -12808,5 +12808,27 @@
             "title": "Capuchin Priest (1887-1968) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/a0526ddd-a69a-45ab-b7e9-3520b2ba690c"
         }
+    },
+    "2026-09-24": {
+        "liturgical_week": "Thursday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ecclesiastes1,2-11.",
+                "reading": "Vanity of vanities, says Qoheleth, vanity of vanities! All things are vanity!\nWhat profit has man from all the labor which he toils at under the sun?\nOne generation passes and another comes, but the world forever stays.\nThe sun rises and the sun goes down; then it presses on to the place where it rises.\nBlowing now toward the south, then toward the north, the wind turns again and again, resuming its rounds.\nAll rivers go to the sea, yet never does the sea become full. To the place where they go, the rivers keep on going.\nAll speech is labored; there is nothing man can say. The eye is not satisfied with seeing nor is the ear filled with hearing.\nWhat has been, that will be; what has been done, that will be done. Nothing is new under the sun.\nEven the thing of which we say, \"See, this is new!\" has already existed in the ages that preceded us.\nThere is no remembrance of the men of old; nor of those to come will there be any remembrance among those who come after them."
+            },
+            "Psalm": {
+                "title": "Psalms90(89),3-4.5-6.12-13.14.17bc.",
+                "reading": "You turn man back to dust,saying, \"Return, O children of men.\"\nFor a thousand years in your sightare as yesterday, now that it is past,or as a watch of the night.\nYou make an end of them in their sleep;the next morning they are like the changing grass,\nWhich at dawn springs up anew,but by evening wilts and fades.\nTeach us to number our days aright,that we may gain wisdom of heart.\nReturn, O LORD! How long?Have pity on your servants!\nFill us at daybreak with your kindness,that we may shout for joy and gladness all our days.\nProsper the work of our hands for us!\nProsper the work of our hands!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,7-9.",
+                "reading": "Herod the tetrarch heard about all that was happening, and he was greatly perplexed because some were saying, \"John has been raised from the dead\" ;\nothers were saying, \"Elijah has appeared\"; still others, \"One of the ancient prophets has arisen.\"\nBut Herod said, \"John I beheaded. Who then is this about whom I hear such things?\" And he kept trying to see him."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Pacific of San Severino",
+            "title": "",
+            "profile_link": "https://dailygospel.org/AM/display-saint/077ffc11-3f1f-434b-994b-e1241280dd81"
+        }
     }
 }
