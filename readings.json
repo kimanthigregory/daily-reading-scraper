@@ -12830,5 +12830,27 @@
             "title": "",
             "profile_link": "https://dailygospel.org/AM/display-saint/077ffc11-3f1f-434b-994b-e1241280dd81"
         }
+    },
+    "2026-09-25": {
+        "liturgical_week": "Friday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ecclesiastes3,1-11.",
+                "reading": "There is an appointed time for everything, and a time for every thing under the heavens.\nA time to be born, and a time to die; a time to plant, and a time to uproot the plant.\nA time to kill, and a time to heal; a time to tear down, and a time to build.\nA time to weep, and a time to laugh; a time to mourn, and a time to dance.\nA time to scatter stones, and a time to gather them; a time to embrace, and a time to refrain from embraces.\nA time to seek, and a time to lose; a time to keep, and a time to cast away.\nA time to rend, and a time to sew; a time to be silent, and a time to speak.\nA time to love, and a time to hate; a time of war, and a time of peace.\nWhat advantage has the worker from his toil?\nI have considered the task which God has appointed for men to be busied about.\nHe has made everything appropriate to its time, and has put the timeless into their hearts, without men's ever discovering, from beginning to end, the work which God has done."
+            },
+            "Psalm": {
+                "title": "Psalms144(143),1a.2abc.3-4.",
+                "reading": "Blessed be the LORD, my rock,\nmy mercy and my fortress,\nmy stronghold, my deliverer,\nmy shield, in whom I trust.\nLORD, what is man, that you notice him;the son of man, that you take thought of him?\nMan is like a breath;his days, like a passing shadow."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,18-22.",
+                "reading": "Once when Jesus was praying in solitude, and the disciples were with him, he asked them, \"Who do the crowds say that I am?\"\nThey said in reply, \"John the Baptist; others, Elijah; still others, 'One of the ancient prophets has arisen.'\"\nThen he said to them, \"But who do you say that I am?\" Peter said in reply, \"The Messiah of God.\"\nHe rebuked them and directed them not to tell this to anyone.\nHe said, \"The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Finbarr",
+            "title": "Bishop (6th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/e6a7ddc0-bd22-4007-bbc9-f2dcdadd93a3"
+        }
     }
 }
