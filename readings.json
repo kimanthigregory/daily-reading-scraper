@@ -12852,5 +12852,27 @@
             "title": "Bishop (6th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/e6a7ddc0-bd22-4007-bbc9-f2dcdadd93a3"
         }
+    },
+    "2026-09-26": {
+        "liturgical_week": "Saturday of the Twenty-fifth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ecclesiastes11,9-10.12,1-8.",
+                "reading": "Rejoice, O young man, while you are young and let your heart be glad in the days of your youth. Follow the ways of your heart, the vision of your eyes ; Yet understand that as regards all this God will bring you to judgment.\nWard off grief from your heart and put away trouble from your presence, though the dawn of youth is fleeting.\nRemember your Creator in the days of your youth, before the evil days come and the years approach of which you will say, I have no pleasure in them;\nBefore the sun is darkened. and the light, and the moon, and the stars, while the clouds return after the rain;\nWhen the guardians of the house tremble, and the strong men are bent, And the grinders are idle because they are few, and they who look through the windows grow blind;\nWhen the doors to the street are shut, and the sound of the mill is low; When one waits for the chirp of a bird, but all the daughters of song are suppressed;\nAnd one fears heights, and perils in the street; When the almond tree blooms, and the locust grows sluggish and the caper berry is without effect, Because man goes to his lasting home, and mourners go about the streets;\nBefore the silver cord is snapped and the golden bowl is broken, And the pitcher is shattered at the spring, and the broken pulley falls into the well,\nAnd the dust returns to the earth as it once was, and the life breath returns to God who gave it.\nVanity of vanities, says Qoheleth, all things are vanity!"
+            },
+            "Psalm": {
+                "title": "Psalms90(89),3-4.5-6.12-13.14.17.",
+                "reading": "You turn man back to dust,saying, \"Return, O children of men.\"\nFor a thousand years in your sightare as yesterday, now that it is past,or as a watch of the night.\nYou make an end of them in their sleep;the next morning they are like the changing grass,\nWhich at dawn springs up anew,but by evening wilts and fades.\nTeach us to number our days aright,that we may gain wisdom of heart.\nReturn, O LORD! How long?Have pity on your servants!\nFill us at daybreak with your kindness,that we may shout for joy and gladness all our days.\nAnd may the gracious care of the LORD our God be ours;Prosper the work of our hands for us!Prosper the work of our hands!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke9,43b-45.",
+                "reading": "While they were all amazed at his every deed, he said to his disciples,\n\"Pay attention to what I am telling you. The Son of Man is to be handed over to men.\"\nBut they did not understand this saying; its meaning was hidden from them so that they should not understand it, and they were afraid to ask him about this saying."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Cosmas & Damian",
+            "title": "Martyrs († c. 283)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/347aa27f-f2bc-4225-9373-ee0df08befa8"
+        }
     }
 }
