@@ -12874,5 +12874,31 @@
             "title": "Martyrs († c. 283)",
             "profile_link": "https://dailygospel.org/AM/display-saint/347aa27f-f2bc-4225-9373-ee0df08befa8"
         }
+    },
+    "2026-09-27": {
+        "liturgical_week": "Twenty-sixth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezekiel18,25-28.",
+                "reading": "You say, \"The LORD'S way is not fair!\" Hear now, house of Israel: Is it my way that is unfair, or rather, are not your ways unfair?\nWhen a virtuous man turns away from virtue to commit iniquity, and dies, it is because of the iniquity he committed that he must die.\nBut if a wicked man, turning from the wickedness he has committed, does what is right and just, he shall preserve his life;\nsince he has turned away from all the sins which he committed, he shall surely live, he shall not die."
+            },
+            "Psalm": {
+                "title": "Psalms25(24),4-5ab.6-7.8-9.",
+                "reading": "Your ways, O LORD, make known to me;teach me your paths,\nguide me in your truth and teach me,\nfor you are God my savior.\nRemember that your compassion, O LORD,and your love are from of old.\nRemember no more the sins of my youth;remember me only in light of your love.\nGood and upright is the LORD;thus he shows sinners the way.\nHe guides the humble to justice,he teaches the humble his way."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Philippians2,1-11.",
+                "reading": "Brothers and sisters: If there is any encouragement in Christ, any solace in love, any participation in the Spirit, any compassion and mercy,\ncomplete my joy by being of the same mind, with the same love, united in heart, thinking one thing.\nDo nothing out of selfishness or out of vainglory; rather, humbly regard others as more important than yourselves,\neach looking out not for his own interests, but (also) everyone for those of others.\nHave among yourselves the same attitude that is also yours in Christ Jesus,\nWho, though he was in the form of God, did not regard equality with God something to be grasped.\nRather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance,\nhe humbled himself, becoming obedient to death, even death on a cross.\nBecause of this, God greatly exalted him and bestowed on him the name that is above every name,\nthat at the name of Jesus every knee should bend, of those in heaven and on earth and under the earth,\nand every tongue confess that Jesus Christ is Lord, to the glory of God the Father."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew21,28-32.",
+                "reading": "Jesus said to the chief priests and the elders of the people: \"What is your opinion? A man had two sons. He came to the first and said, 'Son, go out and work in the vineyard today.'\nHe said in reply, 'I will not,' but afterwards he changed his mind and went.\nThe man came to the other son and gave the same order. He said in reply, 'Yes, sir,' but did not go.\nWhich of the two did his father's will?\" They answered, \"The first.\" Jesus said to them, \"Amen, I say to you, tax collectors and prostitutes are entering the kingdom of God before you.\nWhen John came to you in the way of righteousness, you did not believe him; but tax collectors and prostitutes did. Yet even when you saw that, you did not later change your minds and believe him.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Vincent de Paul",
+            "title": "Priest (1576-1660) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/84128360-a860-4062-936c-90dc0be05bd9"
+        }
     }
 }
