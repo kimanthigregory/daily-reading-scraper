@@ -13098,5 +13098,27 @@
             "title": "Priest (c. 1030-1101)",
             "profile_link": "https://dailygospel.org/AM/display-saint/3be617ba-2427-441f-8920-e469d362253e"
         }
+    },
+    "2026-10-07": {
+        "liturgical_week": "Wednesday of the Twenty-seventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Galatians2,1-2.7-14.",
+                "reading": "Brothers and sisters: After fourteen years I again went up to Jerusalem with Barnabas, taking Titus along also.\nI went up in accord with a revelation, and I presented to them the gospel that I preach to the Gentiles--but privately to those of repute--so that I might not be running, or have run, in vain.\nOn the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter to the circumcised,\nfor the one who worked in Peter for an apostolate to the circumcised worked also in me for the Gentiles,\nand when they recognized the grace bestowed upon me, James and Kephas and John, who were reputed to be pillars, gave me and Barnabas their right hands in partnership, that we should go to the Gentiles and they to the circumcised.\nOnly, we were to be mindful of the poor, which is the very thing I was eager to do.\nAnd when Kephas came to Antioch, I opposed him to his face because he clearly was wrong.\nFor, until some people came from James, he used to eat with the Gentiles; but when they came, he began to draw back and separated himself, because he was afraid of the circumcised.\nAnd the rest of the Jews (also) acted hypocritically along with him, with the result that even Barnabas was carried away by their hypocrisy.\nBut when I saw that they were not on the right road in line with the truth of the gospel, I said to Kephas in front of all, \"If you, though a Jew, are living like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?\""
+            },
+            "Psalm": {
+                "title": "Psalms117(116),1.2.",
+                "reading": "Praise the LORD, all you nations;glorify him, all you peoples!\nFor steadfast is his kindness for us,and the fidelity of the LORD endures forever."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,1-4.",
+                "reading": "Jesus was praying in a certain place, and when he had finished, one of his disciples said to him, \"Lord, teach us to pray just as John taught his disciples.\"\nHe said to them, \"When you pray, say: Father, hallowed be your name, your kingdom come.\nGive us each day our daily bread\nand forgive us our sins for we ourselves forgive everyone in debt to us, and do not subject us to the final test.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Mark",
+            "title": "Pope († 336)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f0ba3ee0-80b9-44db-b9c5-b9337e85393f"
+        }
     }
 }
