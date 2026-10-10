@@ -13164,5 +13164,27 @@
             "title": "Dominican (1526-1581)",
             "profile_link": "https://dailygospel.org/AM/display-saint/b96b49da-0dec-44e6-b68f-35d547085f6d"
         }
+    },
+    "2026-10-10": {
+        "liturgical_week": "Saturday of the Twenty-seventh week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Galatians3,22-29.",
+                "reading": "Brothers and sisters: Scripture confined all things under the power of sin, that through faith in Jesus Christ the promise might be given to those who believe.\nBefore faith came, we were held in custody under law, confined for the faith that was to be revealed.\nConsequently, the law was our disciplinarian for Christ, that we might be justified by faith.\nBut now that faith has come, we are no longer under a disciplinarian.\nFor through faith you are all children of God in Christ Jesus.\nFor all of you who were baptized into Christ have clothed yourselves with Christ.\nThere is neither Jew nor Greek, there is neither slave nor free person, there is not male and female; for you are all one in Christ Jesus.\nAnd if you belong to Christ, then you are Abraham's descendant, heirs according to the promise."
+            },
+            "Psalm": {
+                "title": "Psalms105(104),2-3.4-5.6-7.",
+                "reading": "Sing to him, sing his praise,proclaim all his wondrous deeds.\nGlory in his holy name;rejoice, O hearts that seek the LORD!\nLook to the LORD in his strength;seek to serve him constantly.\nRecall the wondrous deeds that he has wrought,his portents, and the judgments he has uttered.\nYou descendants of Abraham, his servants,sons of Jacob, his chosen ones!\nHe, the LORD, is our God;throughout the earth his judgments prevail."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,27-28.",
+                "reading": "While Jesus was speaking, a woman from the crowd called out and said to him, \"Blessed is the womb that carried you and the breasts at which you nursed.\"\nHe replied, \"Rather, blessed are those who hear the word of God and observe it.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Francis Borgia",
+            "title": "Priest (1510-1572)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/6e9aea79-2ffa-47c1-8cfe-1076d6d23b2c"
+        }
     }
 }
