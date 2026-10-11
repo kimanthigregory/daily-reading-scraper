@@ -13186,5 +13186,31 @@
             "title": "Priest (1510-1572)",
             "profile_link": "https://dailygospel.org/AM/display-saint/6e9aea79-2ffa-47c1-8cfe-1076d6d23b2c"
         }
+    },
+    "2026-10-11": {
+        "liturgical_week": "Twenty-eighth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Isaiah25,6-10a.",
+                "reading": "On this mountain the LORD of hosts will provide for all peoples a feast of rich food and choice wines, juicy, rich food and pure, choice wines.\nOn this mountain he will destroy the veil that veils all peoples, The web that is woven over all nations;\nhe will destroy death forever. The Lord GOD will wipe away the tears from all faces; The reproach of his people he will remove from the whole earth; for the LORD has spoken.\nOn that day it will be said: \"Behold our God, to whom we looked to save us! This is the LORD for whom we looked; let us rejoice and be glad that he has saved us!\"\nFor the hand of the LORD will rest on this mountain."
+            },
+            "Psalm": {
+                "title": "Psalms23(22),1-3a.3b-4.5.6.",
+                "reading": "The LORD is my shepherd; I shall not want.\nIn verdant pastures he gives me repose;beside restful waters he leads me;\nhe refreshes my soul.\nHe guides me in right pathsfor His names's sake.\nEven though I walk in the dark valleyI fear no evil; for you are at my sidewith your rod and your staffthat give me courage.\nYou spread the table before mein the sight of my foes;You anoint my head with oil;my cup overflows.\nOnly goodness and kindness follow meall the days of my life;and I shall dwell in the house of the LORDfor years to come."
+            },
+            "Second_Reading": {
+                "title": "Letter to the Philippians4,12-14.19-20.",
+                "reading": "I know indeed how to live in humble circumstances; I know also how to live with abundance. In every circumstance and in all things I have learned the secret of being well fed and of going hungry, of living in abundance and of being in need.\nI have the strength for everything through him who empowers me.\nStill, it was kind of you to share in my distress.\nMy God will fully supply whatever you need, in accord with his glorious riches in Christ Jesus.\nTo our God and Father, glory forever and ever. Amen."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew22,1-14.",
+                "reading": "Jesus again in reply spoke to the chief priests and the elders of the people in parables saying,\n“The kingdom of heaven may be likened to a king who gave a wedding feast for his son.\nHe dispatched his servants to summon the invited guests to the feast, but they refused to come.\nA second time he sent other servants, saying, 'Tell those invited: \"Behold, I have prepared my banquet, my calves and fattened cattle are killed, and everything is ready; come to the feast.\"'\nSome ignored the invitation and went away, one to his farm, another to his business.\nThe rest laid hold of his servants, mistreated them, and killed them.\nThe king was enraged and sent his troops, destroyed those murderers, and burned their city.\nThen he said to his servants, 'The feast is ready, but those who were invited were not worthy to come.\nGo out, therefore, into the main roads and invite to the feast whomever you find.'\nThe servants went out into the streets and gathered all they found, bad and good alike, and the hall was filled with guests.\nBut when the king came in to meet the guests he saw a man there not dressed in a wedding garment.\nHe said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence.\nThen the king said to his attendants, 'Bind his hands and feet, and cast him into the darkness outside, where there will be wailing and grinding of teeth.'\nMany are invited, but few are chosen.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Damien de Veuster",
+            "title": "Priest (1840-1889)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/695233cc-091e-40cc-a11b-4cf94c64ce1a"
+        }
     }
 }
