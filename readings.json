@@ -13234,5 +13234,27 @@
             "title": "Bishop (c. 634-709)",
             "profile_link": "https://dailygospel.org/AM/display-saint/551c6015-05f9-4539-a5e4-6a1b06f7681c"
         }
+    },
+    "2026-10-13": {
+        "liturgical_week": "Tuesday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Galatians5,1-6.",
+                "reading": "Brothers and sisters: For freedom Christ set us free; so stand firm and do not submit again to the yoke of slavery.\nIt is I, Paul, who am telling you that if you have yourselves circumcised, Christ will be of no benefit to you.\nOnce again I declare to every man who has himself circumcised that he is bound to observe the entire law.\nYou are separated from Christ, you who are trying to be justified by law; you have fallen from grace.\nFor through the Spirit, by faith, we await the hope of righteousness.\nFor in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."
+            },
+            "Psalm": {
+                "title": "Psalms119(118),41.43.44.45.47.48.",
+                "reading": "Let your mercy come to me, O LORD,your salvation according to your promise.\nTake not the word of truth from my mouth,for in your ordinances is my hope.\nI will keep your law continually,forever and ever.\nI will walk at liberty,because I seek your precepts.\nI will delight in your commands,which I love.\nI will lift up my hands to your commandsand meditate on your statutes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,37-41.",
+                "reading": "After Jesus had spoken, a Pharisee invited him to dine at his home. He entered and reclined at table to eat.\nThe Pharisee was amazed to see that he did not observe the prescribed washing before the meal.\nThe Lord said to him, \"Oh you Pharisees! Although you cleanse the outside of the cup and the dish, inside you are filled with plunder and evil.\nYou fools! Did not the maker of the outside also make the inside?\nBut as to what is within, give alms, and behold, everything will be clean for you.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Edward the Confessor",
+            "title": "King († 1066)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/f1358e5d-546c-4fc0-80b5-a5200d849863"
+        }
     }
 }
