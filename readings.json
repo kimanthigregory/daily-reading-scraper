@@ -13256,5 +13256,27 @@
             "title": "King († 1066)",
             "profile_link": "https://dailygospel.org/AM/display-saint/f1358e5d-546c-4fc0-80b5-a5200d849863"
         }
+    },
+    "2026-10-14": {
+        "liturgical_week": "Wednesday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Galatians5,18-25.",
+                "reading": "Brothers and sisters: If you are guided by the Spirit, you are not under the law.\nNow the works of the flesh are obvious: immorality, impurity, licentiousness,\nidolatry, sorcery, hatreds, rivalry, jealousy, outbursts of fury, acts of selfishness, dissensions, factions,\noccasions of envy, drinking bouts, orgies, and the like. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God.\nIn contrast, the fruit of the Spirit is love, joy, peace, patience, kindness, generosity, faithfulness,\ngentleness, self-control. Against such there is no law.\nNow those who belong to Christ (Jesus) have crucified their flesh with its passions and desires.\nIf we live in the Spirit, let us also follow the Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms1,1-2.3.4.6.",
+                "reading": "Blessed the man who follows notthe counsel of the wickedNor walks in the way of sinners,nor sits in the company of the insolent,\nBut delights in the law of the LORDand meditates on his law day and night.\nHe is like a treeplanted near running water,that yields its fruit in due season,and whose leaves never fade.Whatever he does, prospers.\nNot so, the wicked, not so;they are like chaff which the wind drives away.\nFor the LORD watches over the way of the just,but the way of the wicked vanishes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,42-46.",
+                "reading": "The Lord said: \"Woe to you Pharisees! You pay tithes of mint and of rue and of every garden herb, but you pay no attention to judgment and to love for God. These you should have done, without overlooking the others.\nWoe to you Pharisees! You love the seat of honor in synagogues and greetings in marketplaces.\nWoe to you! You are like unseen graves over which people unknowingly walk.\"\nThen one of the scholars of the law said to him in reply, \"Teacher, by saying this you are insulting us too.\"\nAnd he said, \"Woe also to you scholars of the law! You impose on people burdens hard to carry, but you yourselves do not lift one finger to touch them.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Callistus I",
+            "title": "Pope and Martyr († c. 222)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0cdeb825-2f78-4a93-a613-51e66bf079ee"
+        }
     }
 }
