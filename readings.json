@@ -13278,5 +13278,27 @@
             "title": "Pope and Martyr († c. 222)",
             "profile_link": "https://dailygospel.org/AM/display-saint/0cdeb825-2f78-4a93-a613-51e66bf079ee"
         }
+    },
+    "2026-10-15": {
+        "liturgical_week": "Thursday of the Twenty-eighth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians1,1-10.",
+                "reading": "Paul, an apostle of Christ Jesus by the will of God, to the holy ones who are (in Ephesus) faithful in Christ Jesus:\ngrace to you and peace from God our Father and the Lord Jesus Christ.\nBlessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavens,\nas he chose us in him, before the foundation of the world, to be holy and without blemish before him. In love\nhe destined us for adoption to himself through Jesus Christ, in accord with the favor of his will,\nfor the praise of the glory of his grace that he granted us in the beloved.\nIn him we have redemption by his blood, the forgiveness of transgressions, in accord with the riches of his grace\nthat he lavished upon us. In all wisdom and insight,\nhe has made known to us the mystery of his will in accord with his favor that he set forth in him\nas a plan for the fullness of times, to sum up all things in Christ, in heaven and on earth."
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3ab.3cd-4.5-6.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nAll the ends of the earth have seen\nthe salvation by our God.\nSing joyfully to the LORD, all you lands;break into song; sing praise.\nSing praise to the LORD with the harp,with the harp and melodious song.\nWith trumpets and the sound of the hornsing joyfully before the King, the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke11,47-54.",
+                "reading": "The Lord said: “Woe to you! You build the memorials of the prophets whom your ancestors killed.\nConsequently, you bear witness and give consent to the deeds of your ancestors, for they killed them and you do the building.\nTherefore, the wisdom of God said, 'I will send to them prophets and apostles; some of them they will kill and persecute'\nin order that this generation might be charged with the blood of all the prophets shed since the foundation of the world,\nfrom the blood of Abel to the blood of Zechariah who died between the altar and the temple building. Yes, I tell you, this generation will be charged with their blood!\nWoe to you, scholars of the law! You have taken away the key of knowledge. You yourselves did not enter and you stopped those trying to enter.\"\nWhen he left, the scribes and Pharisees began to act with hostility toward him and to interrogate him about many things,\nfor they were plotting to catch him at something he might say."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Teresa of Jesus",
+            "title": "Virgin and Doctor of the Church (1515-1582) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/1277da51-1a14-49bd-92e7-f242998653b5"
+        }
     }
 }
