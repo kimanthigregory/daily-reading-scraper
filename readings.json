@@ -13392,5 +13392,27 @@
             "title": "John de Brébeuf and Companions - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/91b387c5-e1f5-4b2b-af26-4db49a06794d"
         }
+    },
+    "2026-10-20": {
+        "liturgical_week": "Tuesday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians2,12-22.",
+                "reading": "Brothers and sisters: You were at that time without Christ, alienated from the community of Israel and strangers to the covenants of promise, without hope and without God in the world.\nBut now in Christ Jesus you who once were far off have become near by the blood of Christ.\nFor he is our peace, he who made both one and broke down the dividing wall of enmity, through his flesh,\nabolishing the law with its commandments and legal claims, that he might create in himself one new person in place of the two, thus establishing peace,\nand might reconcile both with God, in one body, through the cross, putting that enmity to death by it.\nHe came and preached peace to you who were far off and peace to those who were near,\nfor through him we both have access in one Spirit to the Father.\nSo then you are no longer strangers and sojourners, but you are fellow citizens with the holy ones and members of the household of God,\nbuilt upon the foundation of the apostles and prophets, with Christ Jesus himself as the capstone.\nThrough him the whole structure is held together and grows into a temple sacred in the Lord;\nin him you also are being built together into a dwelling place of God in the Spirit."
+            },
+            "Psalm": {
+                "title": "Psalms85(84),9ab-10.11-12.13-14.",
+                "reading": "I will hear what God proclaims;\nthe LORD –for he proclaims peace to his people.\nNear indeed is his salvation to those who fear him,glory dwelling in our land.\nKindness and truth shall meet;justice and peace shall kiss.\nTruth shall spring out of the earth,and justice shall look down from heaven.\nThe LORD himself will give his benefits;our land shall yield its increase.\nJustice shall walk before him,and salvation, along the way of his steps."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,35-38.",
+                "reading": "Jesus said to his disciples: “Gird your loins and light your lamps\nand be like servants who await their master's return from a wedding, ready to open immediately when he comes and knocks.\nBlessed are those servants whom the master finds vigilant on his arrival. Amen, I say to you, he will gird himself, have them recline at table, and proceed to wait on them.\nAnd should he come in the second or third watch and find them prepared in this way, blessed are those servants.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Paul of the Cross",
+            "title": "Priest (1693-1775)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/677f37e3-072f-455b-aec1-6c17943c852b"
+        }
     }
 }
