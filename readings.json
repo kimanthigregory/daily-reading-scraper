@@ -13436,5 +13436,27 @@
             "title": "Abbot and Hermit (291-371)",
             "profile_link": "https://dailygospel.org/AM/display-saint/5b1f0a0f-cfb8-4011-a774-1ec6b123acca"
         }
+    },
+    "2026-10-22": {
+        "liturgical_week": "Thursday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians3,14-21.",
+                "reading": "Brothers and sisters: I kneel before the Father,\nfrom whom every family in heaven and on earth is named,\nthat he may grant you in accord with the riches of his glory to be strengthened with power through his Spirit in the inner self,\nand that Christ may dwell in your hearts through faith; that you, rooted and grounded in love,\nmay have strength to comprehend with all the holy ones what is the breadth and length and height and depth,\nand to know the love of Christ that surpasses knowledge, so that you may be filled with all the fullness of God.\nNow to him who is able to accomplish far more than all we ask or imagine, by the power at work within us,\nto him be glory in the church and in Christ Jesus to all generations, forever and ever. Amen."
+            },
+            "Psalm": {
+                "title": "Psalms33(32),1-2.4-5.11-12.18-19.",
+                "reading": "Exult, you just, in the LORD;Praise from the upright is fitting.\nGive thanks to the LORD on the harp;With the ten stringed lyre chant his praises\nFor upright is the word of the LORD,and all his works are trustworthy.\nHe loves justice and right;of the kindness of the LORD the earth is full.\nBut the plan of the LORD stands forever;The design of his heart, through all generations.\nBlessed the nation whose God is the LORD,the people he has chosen for his own inheritance.\nSee, the eyes of the LORD are upon those who fear him,upon those who hope for his kindness,\nTo deliver them from deathand preserve them in spite of famine."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,49-53.",
+                "reading": "Jesus said to his disciples: “I have come to set the earth on fire, and how I wish it were already blazing!\nThere is a baptism with which I must be baptized, and how great is my anguish until it is accomplished!\nDo you think that I have come to establish peace on the earth? No, I tell you, but rather division.\nFrom now on a household of five will be divided, three against two and two against three;\na father will be divided against his son and a son against his father, a mother against her daughter and a daughter against her mother, a mother-in-law against her daughter-in-law and a daughter-in-law against her mother-in-law.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John Paul II",
+            "title": "Pope",
+            "profile_link": "https://dailygospel.org/AM/display-saint/89f58a87-053b-4658-8eb3-d89395dd1aaa"
+        }
     }
 }
