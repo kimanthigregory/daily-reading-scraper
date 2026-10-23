@@ -13458,5 +13458,27 @@
             "title": "Pope",
             "profile_link": "https://dailygospel.org/AM/display-saint/89f58a87-053b-4658-8eb3-d89395dd1aaa"
         }
+    },
+    "2026-10-23": {
+        "liturgical_week": "Friday of the Twenty-ninth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians4,1-6.",
+                "reading": "Brothers and sisters : I, a prisoner for the Lord, urge you to live in a manner worthy of the call you have received,\nwith all humility and gentleness, with patience, bearing with one another through love,\nstriving to preserve the unity of the spirit through the bond of peace:\none body and one Spirit, as you were also called to the one hope of your call;\none Lord, one faith, one baptism;\none God and Father of all, who is over all and through all and in all."
+            },
+            "Psalm": {
+                "title": "Psalms24(23),1-2.3-4ab.5-6.",
+                "reading": "The LORD's are the earth and its fullness;the world and those who dwell in it.\nFor he founded it upon the seasand established it upon the rivers.\nWho can ascend the mountain of the LORD?or who may stand in his holy place?\nOne whose hands are sinless, whose heart is clean,\nwho desires not what is vain.\nHe shall receive a blessing from the LORD,a reward from God his savior.\nSuch is the race that seeks for him,that seeks the face of the God of Jacob."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke12,54-59.",
+                "reading": "Jesus said to the crowds, “When you see a cloud rising in the west you say immediately that it is going to rain–and so it does;\nand when you notice that the wind is blowing from the south you say that it is going to be hot--and so it is.\nYou hypocrites! You know how to interpret the appearance of the earth and the sky; why do you not know how to interpret the present time?\nWhy do you not judge for yourselves what is right?\nIf you are to go with your opponent before a magistrate, make an effort to settle the matter on the way; otherwise your opponent will turn you over to the judge, and the judge hand you over to the constable, and the constable throw you into prison.\nI say to you, you will not be released until you have paid the last penny.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. John of Capistrano",
+            "title": "Priest (1386-1456)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/5602024f-2901-4ca0-9671-f2ee914e34ee"
+        }
     }
 }
