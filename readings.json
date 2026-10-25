@@ -13502,5 +13502,31 @@
             "title": "Archbishop (1807-1870)",
             "profile_link": "https://dailygospel.org/AM/display-saint/8fe9ce04-3e31-4607-8496-3e560de25f49"
         }
+    },
+    "2026-10-25": {
+        "liturgical_week": "Thirtieth Sunday in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Exodus22,20-26.",
+                "reading": "Thus says the LORD: \"You shall not molest or oppress an alien, for you were once aliens yourselves in the land of Egypt.\nYou shall not wrong any widow or orphan.\nIf ever you wrong them and they cry out to me, I will surely hear their cry.\nMy wrath will flare up, and I will kill you with the sword; then your own wives will be widows, and your children orphans.\nIf you lend money to one of your poor neighbors among my people, you shall not act like an extortioner toward him by demanding interest from him.\nIf you take your neighbor's cloak as a pledge, you shall return it to him before sunset;\nfor this cloak of his is the only covering he has for his body. What else has he to sleep in? If he cries out to me, I will hear him; for I am compassionate.\""
+            },
+            "Psalm": {
+                "title": "Psalms18(17),2-3a.3bc-4.47.51a-51b.",
+                "reading": "I love you, O LORD, my strength,\nO LORD, my rock, my fortress, my deliverer.\nMy God, my rock of refuge,\nmy shield, the horn of my salvation, my stronghold!\nPraised be the LORD, I exclaim,and I am safe from my enemies.\nThe LORD lives! And blessed be my rock!Extolled be God my savior.\nYou who gave great victories to your king\nand showed kindness to your anointed;to David and his posterity forever"
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Thessalonians1,5c-10.",
+                "reading": "For our gospel did not come to you in word alone, but also in power and in the holy Spirit and with much conviction. You know what sort of people we were among you for your sake.\nAnd you became imitators of us and of the Lord, receiving the word in great affliction, with joy from the holy Spirit,\nso that you became a model for all the believers in Macedonia and in Achaia.\nFor from you the word of the Lord has sounded forth not only in Macedonia and (in) Achaia, but in every place your faith in God has gone forth, so that we have no need to say anything.\nFor they themselves openly declare about us what sort of reception we had among you, and how you turned to God from idols to serve the living and true God\nand to await his Son from heaven, whom he raised from (the) dead, Jesus, who delivers us from the coming wrath."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew22,34-40.",
+                "reading": "When the Pharisees heard that Jesus had silenced the Sadducees, they gathered together,\nand one of them, a scholar of the law, tested him by asking,\n“Teacher, which commandment in the law is the greatest?”\nHe said to him, \"You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind.\nThis is the greatest and the first commandment.\nThe second is like it: You shall love your neighbor as yourself.\nThe whole law and the prophets depend on these two commandments.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "Sts. Crispin & Crispinian",
+            "title": "Martyrs († c. 287)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3850b305-b2c6-4b28-abcb-96b966a519b8"
+        }
     }
 }
