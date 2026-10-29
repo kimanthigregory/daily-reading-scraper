@@ -13594,5 +13594,27 @@
             "title": "Apostles - Feast",
             "profile_link": "https://dailygospel.org/AM/display-saint/911aaaad-68ba-4276-95fc-d13385415a00"
         }
+    },
+    "2026-10-29": {
+        "liturgical_week": "Thursday of the Thirtieth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Ephesians6,10-20.",
+                "reading": "Brothers and sisters: Draw your strength from the Lord and from his mighty power.\nPut on the armor of God so that you may be able to stand firm against the tactics of the devil.\nFor our struggle is not with flesh and blood but with the principalities, with the powers, with the world rulers of this present darkness, with the evil spirits in the heavens.\nTherefore, put on the armor of God, that you may be able to resist on the evil day and, having done everything, to hold your ground.\nSo stand fast with your loins girded in truth, clothed with righteousness as a breastplate,\nand your feet shod in readiness for the gospel of peace.\nIn all circumstances, hold faith as a shield, to quench all (the) flaming arrows of the evil one.\nAnd take the helmet of salvation and the sword of the Spirit, which is the word of God.\nWith all prayer and supplication, pray at every opportunity in the Spirit. To that end, be watchful with all perseverance and supplication for all the holy ones\nand also for me, that speech may be given me to open my mouth, to make known with boldness the mystery of the gospel\nfor which I am an ambassador in chains, so that I may have the courage to speak as I must."
+            },
+            "Psalm": {
+                "title": "Psalms144(143),1.2.9-10.",
+                "reading": "Blessed be the LORD, my rock,who trains my hands for battle, my fingers for war.\nMy mercy and my fortress,my stronghold, my deliverer,my shield, in whom I trust,who subdues my people under me.\nO God, I will sing a new song to you;with a ten stringed lyre I will chant your praise,\nYou who give victory to kings,and deliver David, your servant from the evil sword."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke13,31-35.",
+                "reading": "Some Pharisees came to Jesus and said, \"Go away, leave this area because Herod wants to kill you.\"\nHe replied, \"Go and tell that fox, 'Behold, I cast out demons and I perform healings today and tomorrow, and on the third day I accomplish my purpose.\nYet I must continue on my way today, tomorrow, and the following day, for it is impossible that a prophet should die outside of Jerusalem.'\nJerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how many times I yearned to gather your children together as a hen gathers her brood under her wings, but you were unwilling!\nBehold, your house will be abandoned. (But) I tell you, you will not see me until (the time comes when) you say, 'Blessed is he who comes in the name of the Lord.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Narcissus",
+            "title": "Bishop (2nd century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d41c8b40-ca39-4b47-90d0-04beaf197cbf"
+        }
     }
 }
