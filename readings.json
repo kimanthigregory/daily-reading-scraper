@@ -13704,5 +13704,27 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2026-11-03": {
+        "liturgical_week": "Tuesday of the Thirty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Philippians2,5-11.",
+                "reading": "Brothers and sisters: Have among yourselves the same attitude that is also yours in Christ Jesus,\nWho, though he was in the form of God, did not regard equality with God something to be grasped.\nRather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance,\nhe humbled himself, becoming obedient to death, even death on a cross.\nBecause of this, God greatly exalted him and bestowed on him the name that is above every name,\nthat at the name of Jesus every knee should bend, of those in heaven and on earth and under the earth,\nand every tongue confess that Jesus Christ is Lord, to the glory of God the Father."
+            },
+            "Psalm": {
+                "title": "Psalms22(21),26b-27.28-30a.31-32.",
+                "reading": "I will fulfill my vows before those who fear him.\nThe lowly shall eat their fill;They who seek the LORD shall praise him:\"May your hearts be ever merry!\"\nAll the ends of the earthshall remember and turn to the LORD;All the families of the nationsshall bow down before him.\nFor dominion is the LORD's,and he rules the nations.\nTo him alone shall bow downall who sleep in the earth;\nAnd to him my soul shall live;my descendants shall serve him.\nLet the coming generation be told of the LORDthat they may proclaim to a people yet to be bornthe justice he has shown."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke14,15-24.",
+                "reading": "One of those at table with Jesus said to him, \"Blessed is the one who will dine in the kingdom of God.\"\nHe replied to him, \"A man gave a great dinner to which he invited many.\nWhen the time for the dinner came, he dispatched his servant to say to those invited, 'Come, everything is now ready.'\nBut one by one, they all began to excuse themselves. The first said to him, 'I have purchased a field and must go to examine it; I ask you, consider me excused.'\nAnd another said, 'I have purchased five yoke of oxen and am on my way to evaluate them; I ask you, consider me excused.'\nAnd another said, 'I have just married a woman, and therefore I cannot come.'\nThe servant went and reported this to his master. Then the master of the house in a rage commanded his servant, 'Go out quickly into the streets and alleys of the town and bring in here the poor and the crippled, the blind and the lame.'\nThe servant reported, 'Sir, your orders have been carried out and still there is room.'\nThe master then ordered the servant, 'Go out to the highways and hedgerows and make people come in that my home may be filled.\nFor, I tell you, none of those men who were invited will taste my dinner.'\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Martin de Porres",
+            "title": "Religious (1579-1639)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/33369e18-2068-4a5e-b865-b5264d63ae44"
+        }
     }
 }
