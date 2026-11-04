@@ -13726,5 +13726,27 @@
             "title": "Religious (1579-1639)",
             "profile_link": "https://dailygospel.org/AM/display-saint/33369e18-2068-4a5e-b865-b5264d63ae44"
         }
+    },
+    "2026-11-04": {
+        "liturgical_week": "Wednesday of the Thirty-first week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to the Philippians2,12-18.",
+                "reading": "My beloved, obedient as you have always been, not only when I am present but all the more now when I am absent, work out your salvation with fear and trembling.\nFor God is the one who, for his good purpose, works in you both to desire and to work.\nDo everything without grumbling or questioning,\nthat you may be blameless and innocent, children of God without blemish in the midst of a crooked and perverse generation, among whom you shine like lights in the world,\nas you hold on to the word of life, so that my boast for the day of Christ may be that I did not run in vain or labor in vain.\nBut, even if I am poured out as a libation upon the sacrificial service of your faith, I rejoice and share my joy with all of you.\nIn the same way you also should rejoice and share your joy with me."
+            },
+            "Psalm": {
+                "title": "Psalms27(26),1.4.13-14.",
+                "reading": "The LORD is my light and my salvation;whom should I fear?The LORD is my life's refuge;of whom should I be afraid?\nOne thing I ask of the LORDthis I seek:to dwell in the house of the LORDall the days of my life,that I may gaze on the loveliness of the LORDand contemplate his temple.\nI believe that I shall see the bounty of the LORDin the land of the living.\nWait for the LORD with courage;be stouthearted, and wait for the LORD."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke14,25-33.",
+                "reading": "Great crowds were traveling with Jesus, and he turned and addressed them,\n\"If any one comes to me without hating his father and mother, wife and children, brothers and sisters, and even his own life, he cannot be my disciple.\nWhoever does not carry his own cross and come after me cannot be my disciple.\nWhich of you wishing to construct a tower does not first sit down and calculate the cost to see if there is enough for its completion?\nOtherwise, after laying the foundation and finding himself unable to finish the work the onlookers should laugh at him\nand say, 'This one began to build but did not have the resources to finish.'\nOr what king marching into battle would not first sit down and decide whether with ten thousand troops he can successfully oppose another king advancing upon him with twenty thousand troops?\nBut if not, while he is still far away, he will send a delegation to ask for peace terms.\nIn the same way, anyone of you who does not renounce all his possessions cannot be my disciple.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Charles Borromeo",
+            "title": "Archbishop of Milan († 1584)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/4ace96f2-c021-47a7-9091-f771046cddc1"
+        }
     }
 }
