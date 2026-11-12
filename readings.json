@@ -13910,5 +13910,27 @@
             "title": "Bishop († 397) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/25a1c479-e3e3-4a2a-86ef-d4355da00f0e"
         }
+    },
+    "2026-11-12": {
+        "liturgical_week": "Thursday of the Thirty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Letter to Philemon1,7-20.",
+                "reading": "Beloved, I have experienced much joy and encouragement from your love, because the hearts of the holy ones have been refreshed by you, brother.\nTherefore, although I have the full right in Christ to order you to do what is proper,\nI rather urge you out of love, being as I am, Paul, an old man, and now also a prisoner for Christ Jesus.\nI urge you on behalf of my child Onesimus, whose father I have become in my imprisonment,\nwho was once useless to you but is now useful to (both) you and me.\nI am sending him, that is, my own heart, back to you.\nI should have liked to retain him for myself, so that he might serve me on your behalf in my imprisonment for the gospel,\nbut I did not want to do anything without your consent, so that the good you do might not be forced but voluntary.\nPerhaps this is why he was away from you for a while, that you might have him back forever,\nno longer as a slave but more than a slave, a brother, beloved especially to me, but even more so to you, as a man and in the Lord.\nSo if you regard me as a partner, welcome him as you would me.\nAnd if he has done you any injustice or owes you anything, charge it to me.\nI, Paul, write this in my own hand: I will pay. May I not tell you that you owe me your very self.\nYes, brother, may I profit from you in the Lord. Refresh my heart in Christ."
+            },
+            "Psalm": {
+                "title": "Psalms146(145),7.8-9a.9bc-10.",
+                "reading": "The LORD keeps faith forever,secures justice for the oppressed,gives food to the hungry.the LORD sets captives free.\nThe LORD gives sight to the blind.The LORD raises up those who were bowed down;the LORD loves the just.\nThe LORD protects strangers.\nThe fatherless and the widow the LORD sustains,\nbut the way of the wicked he thwarts.\nThe LORD shall reign forever;your God, O Zion, through all generations. Alleluia."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke17,20-25.",
+                "reading": "Asked by the Pharisees when the Kingdom of God would come, Jesus said in reply, “The coming of the Kingdom of God cannot be observed,\nand no one will announce, 'Look, here it is,' or, 'There it is.' For behold, the kingdom of God is among you.\"\nThen he said to his disciples, \"The days will come when you will long to see one of the days of the Son of Man, but you will not see it.\nThere will be those who will say to you, 'Look, there he is,' (or) 'Look, here he is.' Do not go off, do not run in pursuit.\nFor just as lightning flashes and lights up the sky from one side to the other, so will the Son of Man be (in his day).\nBut first he must suffer greatly and be rejected by this generation.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Josaphat",
+            "title": "Bishop and Martyr (c.1580-1623) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/b167695a-b46e-485c-9aeb-147d5beff10e"
+        }
     }
 }
