@@ -13954,5 +13954,27 @@
             "title": "(1850-1917)",
             "profile_link": "https://dailygospel.org/AM/display-saint/4d2a8d2e-bb46-4722-b0a2-d9f8ca5b1b2a"
         }
+    },
+    "2026-11-14": {
+        "liturgical_week": "Saturday of the Thirty-second week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Third Letter of John1,5-8.",
+                "reading": "Beloved, you are faithful in all you do for the brothers, especially for strangers;\nthey have testified to your love before the church. Please help them in a way worthy of God to continue their journey.\nFor they have set out for the sake of the Name and are accepting nothing from the pagans.\nTherefore, we ought to support such persons, so that we may be co-workers in the truth."
+            },
+            "Psalm": {
+                "title": "Psalms112(111),1-2.3-4.5-6.",
+                "reading": "Blessed the man who fears the LORD,who greatly delights in his commands.\nHis posterity shall be mighty upon the earth;the upright generation shall be blessed.\nWealth and riches shall be in his house;his generosity shall endure forever.\nLight shines through the darkness for the upright;he is gracious and merciful and just.\nWell for the man who is gracious and lends,who conducts his affairs with justice;\nHe shall never be moved;the just one shall be in everlasting remembrance."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke18,1-8.",
+                "reading": "Jesus told his disciples a parable about the necessity for them to pray always without becoming weary. He said,\n\"There was a judge in a certain town who neither feared God nor respected any human being.\nAnd a widow in that town used to come to him and say, 'Render a just decision for me against my adversary.'\nFor a long time the judge was unwilling, but eventually he thought, 'While it is true that I neither fear God nor respect any human being,\nbecause this widow keeps bothering me I shall deliver a just decision for her lest she finally come and strike me.'\"\nThe Lord said, \"Pay attention to what the dishonest judge says.\nWill not God then secure the rights of his chosen ones who call out to him day and night? Will he be slow to answer them?\nI tell you, he will see to it that justice is done for them speedily. But when the Son of Man comes, will he find faith on earth?\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Lawrence O'Toole",
+            "title": "Archbishop of Dublin (c. 1125-1180)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/0c537594-ed67-4fa0-9303-edeb834553c3"
+        }
     }
 }
