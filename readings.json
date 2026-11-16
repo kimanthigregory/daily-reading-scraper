@@ -14002,5 +14002,27 @@
             "title": "(c. 1200-1280)",
             "profile_link": "https://dailygospel.org/AM/display-saint/93971f74-383c-4872-a682-8a76d88a69ef"
         }
+    },
+    "2026-11-16": {
+        "liturgical_week": "Monday of the Thirty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation1,1-4.2,1-5a.",
+                "reading": "The revelation of Jesus Christ, which God gave to him, to show his servants what must happen soon. He made it known by sending his angel to his servant John,\nwho gives witness to the word of God and to the testimony of Jesus Christ by reporting what he saw.\nBlessed is the one who reads aloud and blessed are those who listen to this prophetic message and heed what is written in it, for the appointed time is near.\nJohn, to the seven churches in Asia: grace to you and peace from him who is and who was and who is to come, and from the seven spirits before his throne,\n\"To the angel of the church in Ephesus, write this: 'The one who holds the seven stars in his right hand and walks in the midst of the seven gold lampstands says this:\n\"I know your works, your labor, and your endurance, and that you cannot tolerate the wicked; you have tested those who call themselves apostles but are not, and discovered that they are impostors.\nMoreover, you have endurance and have suffered for my name, and you have not grown weary.\nYet I hold this against you: you have lost the love you had at first.\nRealize how far you have fallen. Repent, and do the works you did at first. Otherwise, I will come to you and remove your lampstand from its place, unless you repent.\""
+            },
+            "Psalm": {
+                "title": "Psalms1,1-2.3.4.6.",
+                "reading": "Blessed the man who follows notthe counsel of the wickedNor walks in the way of sinners,nor sits in the company of the insolent,\nBut delights in the law of the LORDand meditates on his law day and night.\nHe is like a treeplanted near running water,that yields its fruit in due season,and whose leaves never fade.Whatever he does, prospers.\nNot so, the wicked, not so;they are like chaff which the wind drives away.\nFor the LORD watches over the way of the just,but the way of the wicked vanishes."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke18,35-43.",
+                "reading": "As Jesus approached Jericho a blind man was sitting by the roadside begging,\nand hearing a crowd going by, he inquired what was happening.\nThey told him, \"Jesus of Nazareth is passing by.\"\nHe shouted, \"Jesus, Son of David, have pity on me!\"\nThe people walking in front rebuked him, telling him to be silent, but he kept calling out all the more, \"Son of David, have pity on me!\"\nThen Jesus stopped and ordered that he be brought to him; and when he came near, Jesus asked him,\nWhat do you want me to do for you? He replied, \"Lord, please let me see.\"\nJesus told him, \"Have sight; your faith has saved you.\"\nHe immediately received his sight and followed him, giving glory to God. When they saw this, all the people gave praise to God."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Margaret of Scotland",
+            "title": "(c. 1046-1093)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/3ecebe15-98ac-45fd-97e0-d335c879e9d8"
+        }
     }
 }
