@@ -14068,5 +14068,27 @@
             "title": "Religious (1769-1852)",
             "profile_link": "https://dailygospel.org/AM/display-saint/524a0a2e-cf3c-436d-be04-6a4956b6df0a"
         }
+    },
+    "2026-11-19": {
+        "liturgical_week": "Thursday of the Thirty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation5,1-10.",
+                "reading": "I John saw a scroll in the right hand of the one who sat on the throne. It had writing on both sides and was sealed with seven seals.\nThen I saw a mighty angel who proclaimed in a loud voice, \"Who is worthy to open the scroll and break its seals?\"\nBut no one in heaven or on earth or under the earth was able to open the scroll or to examine it.\nI shed many tears because no one was found worthy to open the scroll or to examine it.\nOne of the elders said to me, \"Do not weep. The lion of the tribe of Judah, the root of David, has triumphed, enabling him to open the scroll with its seven seals.\"\nThen I saw standing in the midst of the throne and the four living creatures and the elders, a Lamb that seemed to have been slain. He had seven horns and seven eyes; these are the (seven) spirits of God sent out into the whole world.\nHe came and received the scroll from the right hand of the one who sat on the throne.\nWhen he took it, the four living creatures and the twenty-four elders fell down before the Lamb. Each of the elders held a harp and gold bowls filled with incense, which are the prayers of the holy ones.\nThey sang a new hymn: \"Worthy are you to receive the scroll and to break open its seals, for you were slain and with your blood you purchased for God those from every tribe and tongue, people and nation.\nYou made them a kingdom and priests for our God, and they will reign on earth.\""
+            },
+            "Psalm": {
+                "title": "Psalms149(148),1-2.3-4.5-6a.9b.",
+                "reading": "Sing to the LORD a new songof praise in the assembly of the faithful.\nLet Israel be glad in their maker,let the children of Zion rejoice in their king.\nLet them praise his name in the festive dance,let them sing praise to him with timbrel and harp.\nFor the LORD loves his people,and he adorns the lowly with victory.\nLet the faithful exult in glory;let them sing for joy upon their couches;\nLet the high praises of God be in their throats.\nThis is the glory of all his faithful. Alleluia!"
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke19,41-44.",
+                "reading": "As Jesus drew near Jerusalem, he saw the city and wept over it,\nsaying, \"If this day you only knew what makes for peace--but now it is hidden from your eyes.\nFor the days are coming upon you when your enemies will raise a palisade against you; they will encircle you and hem you in on all sides.\nThey will smash you to the ground and your children within you, and they will not leave one stone upon another within you because you did not recognize the time of your visitation.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Mechtildis of Helfta",
+            "title": "(13th century)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/370e07c8-9ce9-4870-9150-082d5dfc5280"
+        }
     }
 }
