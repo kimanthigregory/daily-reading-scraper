@@ -14090,5 +14090,27 @@
             "title": "(13th century)",
             "profile_link": "https://dailygospel.org/AM/display-saint/370e07c8-9ce9-4870-9150-082d5dfc5280"
         }
+    },
+    "2026-11-20": {
+        "liturgical_week": "Friday of the Thirty-third week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation10,8-11.",
+                "reading": "I John heard a voice from heaven speak to me saying, \"Go, take the scroll that lies open in the hand of the angel who is standing on the sea and on the land.\"\nSo I went up to the angel and told him to give me the small scroll. He said to me, \"Take and swallow it. It will turn your stomach sour, but in your mouth it will taste as sweet as honey.\"\nI took the small scroll from the angel's hand and swallowed it. In my mouth it was like sweet honey, but when I had eaten it, my stomach turned sour.\nThen someone said to me, \"You must prophesy again about many peoples, nations, tongues, and kings.\""
+            },
+            "Psalm": {
+                "title": "Psalms119(118),14.24.72.103.111.131.",
+                "reading": "In the way of your decrees I rejoice,as much as in all riches.\nYes, your decrees are my delight;they are my counselors.\nThe law of your mouth is to me more preciousthan thousands of gold and silver pieces.\nHow sweet to my palate are your promises,sweeter than honey to my mouth!\nYour decrees are my inheritance forever;the joy of my heart they are.\nI gasp with open mouth,in my yearning for your commands."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke19,45-48.",
+                "reading": "Jesus entered the temple area and proceeded to drive out those who were selling things,\nsaying to them, \"It is written, 'My house shall be a house of prayer, but you have made it a den of thieves.'\"\nAnd every day he was teaching in the temple area. The chief priests, the scribes, and the leaders of the people, meanwhile, were seeking to put him to death,\nbut they could find no way to accomplish their purpose because all the people were hanging on his words."
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Edmund the Martyr",
+            "title": "(841-870)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/cff3a540-ac60-4af7-9c6b-fd0e683e6b0e"
+        }
     }
 }
