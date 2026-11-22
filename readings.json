@@ -14130,5 +14130,31 @@
             }
         },
         "saint_of_the_day": {}
+    },
+    "2026-11-22": {
+        "liturgical_week": "Christ the King - Solemnity",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Ezekiel34,11-12.15-17.",
+                "reading": "Thus says the Lord GOD: I myself will look after and tend my sheep.\nAs a shepherd tends his flock when he finds himself among his scattered sheep, so will I tend my sheep. I will rescue them from every place where they were scattered when it was cloudy and dark.\nI myself will pasture my sheep; I myself will give them rest, says the Lord GOD.\nThe lost I will seek out, the strayed I will bring back, the injured I will bind up, the sick I will heal but the sleek and the strong I will destroy, shepherding them rightly.\nAs for you, my sheep, says the Lord GOD, I will judge between one sheep and another, between rams and goats."
+            },
+            "Psalm": {
+                "title": "Psalms23(22),1-2a.2b-3.5.6.",
+                "reading": "The LORD is my shepherd; I shall not want.\nIn verdant pastures he gives me repose;\nbeside restful waters he leads me;\nHe refreshes my soul.He guides me in right pathsFor his name's sake.\nYou spread the table before mein the sight of my foes;You anoint my head with oil;my cup overflows.\nOnly goodness and kindness follow meall the days of my life;and I shall dwell in the house of the LORDfor years to come."
+            },
+            "Second_Reading": {
+                "title": "First Letter to the Corinthians15,20-26.28.",
+                "reading": "Brothers and sisters: Christ has been raised from the dead, the firstfruits of those who have fallen asleep.\nFor since death came through a human being, the resurrection of the dead came also through a human being.\nFor just as in Adam all die, so too in Christ shall all be brought to life,\nbut each one in proper order: Christ the firstfruits; then, at his coming, those who belong to Christ;\nthen comes the end, when he hands over the kingdom to his God and Father, when he has destroyed every sovereignty and every authority and power.\nFor he must reign until he has put all his enemies under his feet.\nThe last enemy to be destroyed is death,\nWhen everything is subjected to him, then the Son himself will (also) be subjected to the one who subjected everything to him, so that God may be all in all."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Matthew25,31-46.",
+                "reading": "Jesus said to his disciples: \"When the Son of Man comes in his glory, and all the angels with him, he will sit upon his glorious throne,\nand all the nations will be assembled before him. And he will separate them one from another, as a shepherd separates the sheep from the goats.\nHe will place the sheep on his right and the goats on his left.\nThen the king will say to those on his right, 'Come, you who are blessed by my Father. Inherit the kingdom prepared for you from the foundation of the world.\nFor I was hungry and you gave me food, I was thirsty and you gave me drink, a stranger and you welcomed me,\nnaked and you clothed me, ill and you cared for me, in prison and you visited me.'\nThen the righteous will answer him and say, 'Lord, when did we see you hungry and feed you, or thirsty and give you drink?\nWhen did we see you a stranger and welcome you, or naked and clothe you?\nWhen did we see you ill or in prison, and visit you?'\nAnd the king will say to them in reply, 'Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.'\nThen he will say to those on his left, 'Depart from me, you accursed, into the eternal fire prepared for the devil and his angels.\nFor I was hungry and you gave me no food, I was thirsty and you gave me no drink,\na stranger and you gave me no welcome, naked and you gave me no clothing, ill and in prison, and you did not care for me.'\nThen they will answer and say, 'Lord, when did we see you hungry or thirsty or a stranger or naked or ill or in prison, and not minister to your needs?'\nHe will answer them, 'Amen, I say to you, what you did not do for one of these least ones, you did not do for me.'\nAnd these will go off to eternal punishment, but the righteous to eternal life.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Cecilia",
+            "title": "Virgin and Martyr († 230) - Memorial",
+            "profile_link": "https://dailygospel.org/AM/display-saint/2eb4fcb5-2eff-4ac8-b5f6-ff003698a048"
+        }
     }
 }
