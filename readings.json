@@ -14156,5 +14156,27 @@
             "title": "Virgin and Martyr († 230) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/2eb4fcb5-2eff-4ac8-b5f6-ff003698a048"
         }
+    },
+    "2026-11-23": {
+        "liturgical_week": "Monday of the Thirty-fourth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation14,1-3.4b-5.",
+                "reading": "I, John, looked and there was the Lamb standing on Mount Zion, and with him a hundred and forty-four thousand who had his name and his Father's name written on their foreheads.\nI heard a sound from heaven like the sound of rushing water or a loud peal of thunder. The sound I heard was like that of harpists playing their harps.\nThey were singing (what seemed to be) a new hymn before the throne, before the four living creatures and the elders. No one could learn this hymn except the hundred and forty-four thousand who had been ransomed from the earth.\nThese are they who were not defiled with women; they are virgins and these are the ones who follow the Lamb wherever he goes. They have been ransomed as the firstfruits of the human race for God and the Lamb.\nOn their lips no deceit has been found; they are unblemished."
+            },
+            "Psalm": {
+                "title": "Psalms24(23),1-2.3-4ab.5-6.",
+                "reading": "The LORD's are the earth and its fullness;the world and those who dwell in it.\nFor he founded it upon the seasand established it upon the rivers.\nWho can ascend the mountain of the LORD?or who may stand in his holy place?\nOne whose hands are sinless, whose heart is clean,\nwho desires not what is vain.\nHe shall receive a blessing from the LORD,a reward from God his savior.\nSuch is the race that seeks for him,that seeks the face of the God of Jacob."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke21,1-4.",
+                "reading": "When Jesus looked up he saw some wealthy people putting their offerings into the treasury\nand he noticed a poor widow putting in two small coins.\nHe said, \"I tell you truly, this poor widow put in more than all the rest;\nfor those others have all made offerings from their surplus wealth, but she, from her poverty, has offered her whole livelihood.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Columban",
+            "title": "Abbot († 615)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/851f1872-ab61-4aaf-ae99-e20f4449febe"
+        }
     }
 }
