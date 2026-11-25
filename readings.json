@@ -14200,5 +14200,27 @@
             "title": "Martyrs (1745-1862) - Memorial",
             "profile_link": "https://dailygospel.org/AM/display-saint/79fc1854-4ba2-4c29-8fd4-1f144e22f404"
         }
+    },
+    "2026-11-25": {
+        "liturgical_week": "Wednesday of the Thirty-fourth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation15,1-4.",
+                "reading": "I, John, saw in heaven another sign, great and awe-inspiring: seven angels with the seven last plagues, for through them God's fury is accomplished.\nThen I saw something like a sea of glass mingled with fire. On the sea of glass were standing those who had won the victory over the beast and its image and the number that signified its name. They were holding God's harps,\nand they sang the song of Moses, the servant of God, and the song of the Lamb: \"Great and wonderful are your works, Lord God almighty. Just and true are your ways, O king of the nations.\nWho will not fear you, Lord, or glorify your name? For you alone are holy. All the nations will come and worship before you, for your righteous acts have been revealed.\""
+            },
+            "Psalm": {
+                "title": "Psalms98(97),1.2-3ab.7-8.9.",
+                "reading": "Sing to the LORD a new song,for he has done wondrous deeds;His right hand has won victory for him,his holy arm.\nThe LORD has made his salvation known:in the sight of the nations he has revealed his justice.\nHe has remembered his kindness and his faithfulness\ntoward the house of Israel.\nLet the sea and what fills it resound,the world and those who dwell in it;\nLet the rivers clap their hands,The mountains shout with them for joy before the LORD.\nThe LORD comes,He comes to rule the earth;He will rule the world with justiceAnd the peoples with equity."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke21,12-19.",
+                "reading": "Jesus said to the crowd: “They will seize and persecute you, they will hand you over to the synagogues and to prisons, and they will have you led before kings and governors because of my name.\nIt will lead to your giving testimony.\nRemember, you are not to prepare your defense beforehand,\nfor I myself shall give you a wisdom in speaking that all your adversaries will be powerless to resist or refute.\nYou will even be handed over by parents, brothers, relatives, and friends, and they will put some of you to death.\nYou will be hated by all because of my name,\nbut not a hair on your head will be destroyed.\nBy your perseverance you will secure your lives.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Catherine of Alexandria",
+            "title": "Virgin and Martyr († c. 307)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/eb4a6b0c-20d0-43c9-8eb7-23e36f658b22"
+        }
     }
 }
