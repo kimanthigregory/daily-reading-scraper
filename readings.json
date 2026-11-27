@@ -14244,5 +14244,27 @@
             "title": "Bishop and Martyr († 311)",
             "profile_link": "https://dailygospel.org/AM/display-saint/fe16e99a-7d47-4980-90ed-971ba2ca4930"
         }
+    },
+    "2026-11-27": {
+        "liturgical_week": "Friday of the Thirty-fourth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation20,1-4.11-15.21,1-2.",
+                "reading": "I, John,  saw an angel come down from heaven, holding in his hand the key to the abyss and a heavy chain.\nHe seized the dragon, the ancient serpent, which is the Devil or Satan, and tied it up for a thousand years\nand threw it into the abyss, which he locked over it and sealed, so that it could no longer lead the nations astray until the thousand years are completed. After this, it is to be released for a short time.\nThen I saw thrones; those who sat on them were entrusted with judgment. I also saw the souls of those who had been beheaded for their witness to Jesus and for the word of God, and who had not worshiped the beast or its image nor had accepted its mark on their foreheads or hands. They came to life and they reigned with Christ for a thousand years.\nNext I saw a large white throne and the one who was sitting on it. The earth and the sky fled from his presence and there was no place for them.\nI saw the dead, the great and the lowly, standing before the throne, and scrolls were opened. Then another scroll was opened, the book of life. The dead were judged according to their deeds, by what was written in the scrolls.\nThe sea gave up its dead; then Death and Hades gave up their dead. All the dead were judged according to their deeds.\nThen Death and Hades were thrown into the pool of fire. (This pool of fire is the second death. )\nAnyone whose name was not found written in the book of life was thrown into the pool of fire.\nThen I saw a new heaven and a new earth. The former heaven and the former earth had passed away, and the sea was no more.\nI also saw the holy city, a new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband."
+            },
+            "Psalm": {
+                "title": "Psalms84(83),3.4.5-6a.8a.",
+                "reading": "My soul yearns and pinesfor the courts of the LORD.My heart and my fleshcry out for the living God.\nEven the sparrow finds a home,and the swallow a nestin which she puts her young?Your altars, O LORD of hosts,my king and my God!\nBlessed are they who dwell in your house!Continually they praise you.\nBlessed the men whose strength you are!\nThey go from strength to strength."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke21,29-33.",
+                "reading": "Jesus told his disciples a parable. “Consider the fig tree and all the other trees.\nWhen their buds burst open, you see for yourselves and know that summer is now near;\nin the same way, when you see these things happening, know that the kingdom of God is near.\nAmen, I say to you, this generation will not pass away until all these things have taken place.\nHeaven and earth will pass away, but my words will not pass away.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. Maximus",
+            "title": "Bishop († 460)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/929e2cdd-7969-48e8-bd85-9006358c75e8"
+        }
     }
 }
