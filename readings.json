@@ -14266,5 +14266,27 @@
             "title": "Bishop († 460)",
             "profile_link": "https://dailygospel.org/AM/display-saint/929e2cdd-7969-48e8-bd85-9006358c75e8"
         }
+    },
+    "2026-11-28": {
+        "liturgical_week": "Saturday of the Thirty-fourth week in Ordinary Time",
+        "readings": {
+            "First_Reading": {
+                "title": "Book of Revelation22,1-7.",
+                "reading": "John said: An angel showed me the river of life-giving water, sparkling like crystal, flowing from the throne of God and of the Lamb\ndown the middle of its street. On either side of the river grew the tree of life that produces fruit twelve times a year, once each month; the leaves of the trees serve as medicine for the nations.\nNothing accursed will be found there anymore. The throne of God and of the Lamb will be in it, and his servants will worship him.\nThey will look upon his face, and his name will be on their foreheads.\nNight will be no more, nor will they need light from lamp or sun, for the Lord God shall give them light, and they shall reign forever and ever.\nAnd he said to me, \"These words are trustworthy and true, and the Lord, the God of prophetic spirits, sent his angel to show his servants what must happen soon.\"\n\"Behold, I am coming soon.\" Blessed is the one who keeps the prophetic message of this book."
+            },
+            "Psalm": {
+                "title": "Psalms95(94),1-2.3-5.6-7.",
+                "reading": "Come, let us sing joyfully to the LORD;let us acclaim the Rock of our salvation.\nLet us come into his presence with thanksgiving;let us joyfully sing psalms to him.\nFor the LORD is a great God,And a great king above all gods;\nIn his hands are the depths of the earth,And the tops of the mountains are his.\nHis is the sea, for he has made it,And the dry land, which his hands have formed.\nCome, let us bow down in worship;let us kneel before the LORD who made us.\nFor he is our God,and we are the people he shepherds, the flock he guides."
+            },
+            "Gospel": {
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke21,34-36.",
+                "reading": "Jesus said to his disciples: \"Beware that your hearts do not become drowsy from carousing and drunkenness and the anxieties of daily life, and that day catch you by surprise\nlike a trap. For that day will assault everyone who lives on the face of the earth.\nBe vigilant at all times and pray that you have the strength to escape the tribulations that are imminent and to stand before the Son of Man.\""
+            }
+        },
+        "saint_of_the_day": {
+            "name": "St. James of the Marches",
+            "title": "Franciscan Priest (1394-1476)",
+            "profile_link": "https://dailygospel.org/AM/display-saint/d3a6a3b0-cdea-45b6-839b-5b4ec71d567f"
+        }
     }
 }
